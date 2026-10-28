@@ -8,6 +8,8 @@ A term's src_exclude lists longer words that contain it but are not it (ミス�
 """
 from pathlib import Path
 
+from eoh import textdb
+
 _MASK = "\0"
 
 
@@ -27,6 +29,8 @@ def _allowed(term: dict, scope: str | None) -> list[str]:
 def check(src: str, ko: str, terms: list[dict], scope: str | None = None) -> list[str]:
     if not ko:
         return []
+    for tag in textdb.tags(src):  # ruby readings etc. are not text the player reads as a term
+        src = src.replace(tag, "")
     problems = []
     for term in terms:
         probe = src

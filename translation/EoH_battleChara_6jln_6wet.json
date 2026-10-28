@@ -4,156 +4,156 @@
   {
    "id": "0x822ad68b",
    "src_sha1": "16a13b956642a86db7f42db3f62d9659f19e6f3b",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "간다, 웨더!",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0073"
   },
   {
    "id": "0x8f69f052",
    "src_sha1": "c4980ff09c418dee02086185d9c6f1229bd0fd99",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "…그래",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x8ba8ede5",
    "src_sha1": "fdbb134c3f6b03edc9cc2f5e1b3593f803136dbd",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "하자",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x95efbde0",
    "src_sha1": "73995d28e99e9cbd24f3d123bca11970491c0202",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "어?　뭐어?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x912ea057",
    "src_sha1": "d76756c3a14201091d21520336fd355522e44039",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "스톤 프리이이이!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x9c6d868e",
    "src_sha1": "b7a167350182dfe4d1b3678606923e35d6a7666e",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "바람은 너를 내 쪽으로 다시 불어 보내 주고 있다아아아",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x98ac9b39",
    "src_sha1": "9f58d87dbbe70bdbc1be407fa64ac4d4531b137a",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "오라오라오라오라오라, 오라아!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa0e32684",
    "src_sha1": "c9ddda6ece979fe9b08c40bb84192854eaf580cf",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "웨더 리포트!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa4223b33",
    "src_sha1": "6ccc56df8345363a93290093e47c637e56c82e39",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "다 타 버려라…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x54f20ae0",
    "src_sha1": "baa338846a253d05c81d20672a5285ca29642c9d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "살았어",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x50331757",
    "src_sha1": "16d92d97ce2278652e75495c9356ce3e8f41a445",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "신경 쓰지 마라…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6ec8b3d5",
    "src_sha1": "16a13b956642a86db7f42db3f62d9659f19e6f3b",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "간다, 웨더!",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0073"
   },
   {
    "id": "0x638b950c",
    "src_sha1": "c4980ff09c418dee02086185d9c6f1229bd0fd99",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "…그래",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x674a88bb",
    "src_sha1": "fdbb134c3f6b03edc9cc2f5e1b3593f803136dbd",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "하자",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x790dd8be",
    "src_sha1": "73995d28e99e9cbd24f3d123bca11970491c0202",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "어?　뭐어?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x7dccc509",
    "src_sha1": "d76756c3a14201091d21520336fd355522e44039",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "스톤 프리이이이!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x708fe3d0",
    "src_sha1": "b7a167350182dfe4d1b3678606923e35d6a7666e",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "바람은 너를 내 쪽으로 다시 불어 보내 주고 있다아아아",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x744efe67",
    "src_sha1": "9f58d87dbbe70bdbc1be407fa64ac4d4531b137a",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "오라오라오라오라오라, 오라아!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x4c0143da",
    "src_sha1": "c9ddda6ece979fe9b08c40bb84192854eaf580cf",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "웨더 리포트!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x48c05e6d",
    "src_sha1": "6ccc56df8345363a93290093e47c637e56c82e39",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "다 타 버려라…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb8106fbe",
    "src_sha1": "baa338846a253d05c81d20672a5285ca29642c9d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "살았어",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xbcd17209",
    "src_sha1": "16d92d97ce2278652e75495c9356ce3e8f41a445",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "신경 쓰지 마라…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   }
  ]
 }

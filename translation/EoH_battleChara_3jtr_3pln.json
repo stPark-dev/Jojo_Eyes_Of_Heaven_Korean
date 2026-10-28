@@ -4,79 +4,79 @@
   {
    "id": "0x9110c476",
    "src_sha1": "0f8530540abd0c262cb391c4586c6c29d81de42f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "간다!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x9c53e2af",
    "src_sha1": "607f87dd9a8fd95f1d334522cdb080b9aec5d602",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "맡겨 둬!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x9892ff18",
    "src_sha1": "c321b9a72de2bee6e5f30ab260abf877beb3e711",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "가자~!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x86d5af1d",
    "src_sha1": "4e359451874ed6eddda91fccf9b8684775f59a8d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이거 참…",
+   "state": "needs_human_review",
+   "note": "초안(Claude). やれやれ 말버릇 표기 확인"
   },
   {
    "id": "0x8214b2aa",
    "src_sha1": "ca5f6261a5235e2d81af673dfacc94ddb0552eac",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "스타 플래티나!!\n실버 채리엇!!",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0093, T0089"
   },
   {
    "id": "0x8f579473",
    "src_sha1": "6b81443ed59c14d62d09cdcff954474b7523c4b9",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "실버 채리엇!!",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0093"
   },
   {
    "id": "0x8b9689c4",
    "src_sha1": "7aed9039ce6d79bfd98bbd7a81847ab37eb93bd8",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "간다, 쐐기를 박는다",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb3d93479",
    "src_sha1": "03a74f4639ab93621af67ae9e85f550dedfae02f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "오라오라오라오라오라오라, 오라아!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb71829ce",
    "src_sha1": "03a74f4639ab93621af67ae9e85f550dedfae02f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "오라오라오라오라오라오라, 오라아!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x47c8181d",
    "src_sha1": "5d5cb9001ab299f2ffec995a29b7eef792e3ffd2",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "다시 와라!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x430905aa",
    "src_sha1": "fcb9f5b11b5c1c278450809e35e667608cc92933",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "훗",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   }
  ]
 }

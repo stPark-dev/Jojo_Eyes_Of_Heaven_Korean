@@ -93,7 +93,8 @@ python3 scripts/textdb.py status
   - 반영: `python3 scripts/textdb.py import work/translate/drafts/<파일명>.jsonl` (원문 지문·태그 검사, 초안은 `distribution_eligible`로 올릴 수 없음, 원문 유지 항목 보호)
   - 2026-10-28: `messageInfo_common` 시스템 문구 103개 초안 반영 (needs_review 99, 게임 제목·약칭 4개 needs_human_review).
   - 2026-10-28: `messageInfo_common` 나머지 10,389문장 초안 반영 (서브에이전트 8개 병렬, `work/translate/STYLE.md` 지침). 파일 전체 초안 완료: needs_review 9,188 / needs_human_review 1,304 / 의성어 원문 유지 415. 같은 원문은 같은 번역으로 통일, 묶음 간 표기 차이는 STYLE.md 6절 표기로 통일(용어집 미확정). 빌드 시 한글 1,176자 추가(용량 약 1,700자 안).
-  - 남은 번역: 나머지 87개 파일 15,703문장 (스토리 `messageInfo_adv`, 전투 `messageInfo_btl`, 캐릭터 대사 `EoH_battleChara_*`).
+  - 2026-10-28: 나머지 87개 파일 초안 완료 (중복 제거 12,475문장을 서브에이전트 9개로 병렬 번역, UI 동일 원문 711문장 재사용). 게임 전체: needs_review 23,528 / needs_human_review 2,207 / 의성어 원문 유지 415 / 미번역 460(개발용 임시 문구, 원문 유지 결정). 빌드 시 폰트 추가 1,268자 (실측 용량 2,046자).
+  - 통일 결정은 `translation/STYLE.md` 6·8절 (전투 용어, 시게치 '~다구' 말투, 임시 문구 원문 유지 등). 다음 단계: 사람 검수(needs_human_review 우선), 미승인 용어 161개 검토, 인게임 줄 넘침 확인.
   - 용어집 `src_exclude`: 용어를 포함하지만 그 용어가 아닌 긴 단어(ミスター, サンディエゴ, ジョセフミ, トルネーディオーバードライブ)를 검사에서 제외.
 - 태그 규칙: `<string />`, `<icon …>`, `<color …>…</color>`, `<system …>`, `<progress>`는 **반드시 보존**(순서는 바뀌어도 됨). `<ruby 읽기>글자</ruby>`는 빼거나 바꿔도 되지만 짝은 맞아야 함. 「<１>」 같은 전각 숫자는 태그가 아님.
 - 상태: `untranslated → in_progress → needs_review → (needs_human_review) → distribution_eligible`. 배포 빌드는 전부 `distribution_eligible`일 때만 통과.

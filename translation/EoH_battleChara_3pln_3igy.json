@@ -4,93 +4,93 @@
   {
    "id": "0xffa18679",
    "src_sha1": "210a6d1b464701a1ff912656127e68ac37078bd3",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "간다!　이기!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xf2e2a0a0",
    "src_sha1": "eafdc85bf46d8490403d4e6bc8b01f000faa5e20",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "하아~~…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xf623bd17",
    "src_sha1": "4e359451874ed6eddda91fccf9b8684775f59a8d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이거 참…",
+   "state": "needs_human_review",
+   "note": "초안(Claude). やれやれ 말버릇 표기 확인"
   },
   {
    "id": "0xe864ed12",
    "src_sha1": "94342d2f2854862349117c1d1bb6486f918a84c3",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "기합 넣으라고",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xeca5f0a5",
    "src_sha1": "a5414139509cdc2ce02f2e3ed5aac29183a134fe",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "채리엇!",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0093 (약칭 채리엇)"
   },
   {
    "id": "0xe1e6d67c",
    "src_sha1": "bf250ea5e3800a0b17c22a15e3009b5c08a130ff",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이기는 뒤에서 공격…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe527cbcb",
    "src_sha1": "b9f50a54462f6aff32e43c47411955c5ac007564",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "크아~…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xdd687676",
    "src_sha1": "7860570b91c5d706ec70d252dbb17c03d1c2a23d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "그 자식~~!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xd9a96bc1",
    "src_sha1": "5f6125f70093c8246a57d46130821b505e0aef0f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "우오오오오오오!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x29795a12",
    "src_sha1": "35aa41a5edd77b77e27bd1af42e26d67ca6e704d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "받아라!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x2db847a5",
    "src_sha1": "fe11d3f9a18458ee61797a593fa3004c383a5952",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "라아앗!!\nギャワウッ!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x20fb617c",
    "src_sha1": "493818e8a042a4dc86f80a7c2890d8d08f17ce31",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ギャワウッ!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x243a7ccb",
    "src_sha1": "19be1cc589109119020b8d111574b999be21e8ff",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "너 처음부터 도우라고!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   }
  ]
 }

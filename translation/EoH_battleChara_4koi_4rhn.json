@@ -4,86 +4,86 @@
   {
    "id": "0x31dd7cc9",
    "src_sha1": "3769dc75b14c089ea40fd18ea715f7eba14ae40d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "로한 선생님!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x3c9e5a10",
    "src_sha1": "effaa1d6fcb46d36786063e62904510af8193e21",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "맡겨 주실까",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x385f47a7",
    "src_sha1": "255bff524ab903c1046930ca9f20d0033cb27936",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "선수필승이지!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x261817a2",
    "src_sha1": "80aef4cc85200d59298b82c39059a75ba48892c4",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "에~~!?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x22d90a15",
    "src_sha1": "f7aade7131f8802b7c3aea19b28bb18680d8442c",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "가라!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x2f9a2ccc",
    "src_sha1": "96d83cede6aa6fe23606de255003443cd4581091",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "에코즈 3 FREEZE!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x2b5b317b",
    "src_sha1": "39fc69e1b362c63793745200460f00ba29ae551d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "나이스다 코이치 군",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x13148cc6",
    "src_sha1": "9ee5a7b516867d4223b657a38a0d186fc9409542",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "헤븐즈 도어!",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0103"
   },
   {
    "id": "0x17d59171",
    "src_sha1": "cda33e13a0c4e4c8683bda3a1631904172baaab1",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이걸로…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe705a0a2",
    "src_sha1": "fd8e95b0034fccb97b50c99c7f0995fb46010ed9",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "좋아!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe3c4bd15",
    "src_sha1": "d7821c030647543647dc63ebbd181d1a52a31053",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "우리, 좋은 콤비라고 생각하지 않아?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xee879bcc",
    "src_sha1": "42ff7e0ec2ed659e48e85aa851ee6ab010df5ebd",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "억지스럽네~",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   }
  ]
 }

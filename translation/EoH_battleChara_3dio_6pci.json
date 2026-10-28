@@ -4,86 +4,86 @@
   {
    "id": "0xc496f376",
    "src_sha1": "9f7a48074001dc85474741aa75e9f57f6bb0547d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "가자, DIO",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xc9d5d5af",
    "src_sha1": "43d5711688b857bf1c88908399d76e2d7de27789",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "그래",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0xcd14c818",
    "src_sha1": "ceb7c2e05a10a06d6ea0263fff7e154f2128053d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "가자, 나의 친구여",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xd353981d",
    "src_sha1": "43d5711688b857bf1c88908399d76e2d7de27789",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "그래",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0xd79285aa",
    "src_sha1": "98ab5a7754535d86021f0783136a2ccce9237ffd",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "더 월드!",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0096"
   },
   {
    "id": "0xdad1a373",
    "src_sha1": "2e6c1a0d4fd7531baef00e1f5d4523d30c0670f7",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "1초 전!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe29e1ece",
    "src_sha1": "e6410850616e2da51a22af036cf37efe94a40813",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "시간은 다시 움직인다!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x168f32aa",
    "src_sha1": "364fe25c50728b949428785bd0d8a45f3aac0cc6",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "그렇다면…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x1bcc1473",
    "src_sha1": "b6ddef8e98d476b3b33e3463cc5d12f9ae4c5b3b",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "『시간은 가속』한다",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x1f0d09c4",
    "src_sha1": "2825436b55ff11a8efe3dde0812b2af3332894f8",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "마지막 일격이다",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x014a59c1",
    "src_sha1": "18bb8f49c48da622c5b3be2a86cc29c80908f1e9",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "좋은 취향이었다네, 나의 친구여",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x058b4476",
    "src_sha1": "3c5b82f21bda3adf14d7cef8e85b35087b110810",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "고맙네, DIO",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   }
  ]
 }

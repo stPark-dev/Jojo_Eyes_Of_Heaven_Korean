@@ -4,107 +4,107 @@
   {
    "id": "0xa86cebbd",
    "src_sha1": "0a7a777131c601cd6914491e3d3a41818de1f27a",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "방해하지 마라!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa52fcd64",
    "src_sha1": "3939c11b468d3bc3bac484a6a8a690e9cbf757c2",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "……",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa1eed0d3",
    "src_sha1": "124bd6cd6ca6f5a5a644323e0f713a6ed6da43a0",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "여기서 제가 끝내겠습니다!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xbfa980d6",
    "src_sha1": "06eeca2e91922c6b53474e8f880ececc2d2b43f1",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "흥!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xbb689d61",
    "src_sha1": "98ab5a7754535d86021f0783136a2ccce9237ffd",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "더 월드!",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0096"
   },
   {
    "id": "0xb62bbbb8",
    "src_sha1": "a8594a2b13fb49f19c59f308235b7394a05e38c1",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "무다무다무다무다아!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb2eaa60f",
    "src_sha1": "3301a0d72508dc38d3cc13783581328a3be7b2c0",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "음!?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x8aa51bb2",
    "src_sha1": "a8594a2b13fb49f19c59f308235b7394a05e38c1",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "무다무다무다무다아!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x8e640605",
    "src_sha1": "58d5be397e3e2429c68722c3d4154d9646ffc0ec",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "우오오오ー!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x7eb437d6",
    "src_sha1": "cf5b64161fa49d5f8ba528818e087caf712aa448",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "무다무다무다무다무다무다무다",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x7a752a61",
    "src_sha1": "cf5b64161fa49d5f8ba528818e087caf712aa448",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "무다무다무다무다무다무다무다",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x77360cb8",
    "src_sha1": "d0834769261b4eb3ad40094de2500fdfddb48d4c",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "무다아!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x73f7110f",
    "src_sha1": "d0834769261b4eb3ad40094de2500fdfddb48d4c",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "무다아!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6db0410a",
    "src_sha1": "41bd7f974620b361212656641ed51fe92967070d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "제법이구나 꼬마…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x69715cbd",
    "src_sha1": "3939c11b468d3bc3bac484a6a8a690e9cbf757c2",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "……",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   }
  ]
 }

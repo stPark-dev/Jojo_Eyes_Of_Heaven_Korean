@@ -8,7 +8,7 @@ from eoh import font, message, textdb
 
 MSG_DIR = "data/message/PS3/jpn/"
 # Punctuation common in Korean text but missing from the Japanese font; drawn like Hangul.
-EXTRA_CHARS = "~·"
+EXTRA_CHARS = "~·—"
 
 
 class BuildError(Exception):

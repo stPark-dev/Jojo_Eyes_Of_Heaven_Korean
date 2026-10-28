@@ -4,65 +4,65 @@
   {
    "id": "0xa59b29f5",
    "src_sha1": "0c74c2d8c2b52b476017393f5b1b3801b2a75971",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "따라와라!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa8d80f2c",
    "src_sha1": "892d43530126cc6fbfbd3369af6cd38fd3316a45",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "시시하군",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0xac19129b",
    "src_sha1": "a8594a2b13fb49f19c59f308235b7394a05e38c1",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "무다무다무다무다아!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb25e429e",
    "src_sha1": "a8594a2b13fb49f19c59f308235b7394a05e38c1",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "무다무다무다무다아!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb69f5f29",
    "src_sha1": "a5053d27ee238f37ca131bca6b89fb0904e0dfdc",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이걸로 마지막이다…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xbbdc79f0",
    "src_sha1": "01a939f25d7179501c3f1e58dbeb76f25d41c074",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이것이, 더 월드!",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0096"
   },
   {
    "id": "0xbf1d6447",
    "src_sha1": "6b32685f68455818a5262ba0d581e521d24436a5",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "시간은 움직이기 시작한다…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x8752d9fa",
    "src_sha1": "0b600b33af1f5c44d7fe3968962c1522646fb00a",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "WREYYYYY!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x8393c44d",
    "src_sha1": "0b600b33af1f5c44d7fe3968962c1522646fb00a",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "WREYYYYY!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   }
  ]
 }

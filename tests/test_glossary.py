@@ -63,3 +63,10 @@ def test_src_exclude_skips_longer_words_containing_the_term():
     terms = glossary.approved(_g(mista))
     assert glossary.check("ミスター・プレジデント", "미스터 프레지던트", terms) == []
     assert glossary.check("ミスタとミスター", "미스터와", terms) == ["용어 불일치: ミスタ → '미스타' 없음"]
+
+
+def test_terms_inside_tags_are_ignored():
+    dio3 = {"src": "ＤＩＯ", "ko": "DIO"}
+    dio1 = {"src": "ディオ", "ko": "디오"}
+    terms = glossary.approved(_g(dio3, dio1))
+    assert glossary.check("「<ruby ディオ>ＤＩＯ</ruby>」", "「DIO」", terms) == []

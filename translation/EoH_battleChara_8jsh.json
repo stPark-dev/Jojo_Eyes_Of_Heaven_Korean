@@ -4,324 +4,324 @@
   {
    "id": "0x5994a3cd",
    "src_sha1": "12bd85d9966e54b7734d374840957e8aa3c05694",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "요즘 세상에 양아치도 그런 머리는 안 한다고",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xdbca9478",
    "src_sha1": "12c438c4223a47504830e8c7e44561e850f95528",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이…이건!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xd689b2a1",
    "src_sha1": "f026307b44e0bbbc76f3a3dfd817602fc48da2f6",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이건…내가 하고 있는 거다!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xd248af16",
    "src_sha1": "035f17f8a4e69e0e5998ad0648a7555bb18e8200",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "우헤에~~!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xcc0fff13",
    "src_sha1": "89fbade4e169243de4f27700f811afb7dfedcf75",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "어떠냐아아!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6d86998a",
    "src_sha1": "cf6945880b1361bf8e0660eec249959dccac4e99",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "내가 하는 거냐고오",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6947843d",
    "src_sha1": "455d6bbaebeba7fc88de40f1774d0131bb57d65a",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "까불고 있어…!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6404a2e4",
    "src_sha1": "ae0278bb4e525ad84119d03ff8cee3a92bb606b8",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "왜 내가 네 애보기를 해야 하는 건데~",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x60c5bf53",
    "src_sha1": "dea25e32030ea14fc2ba4b4f9ca8a89fbd7c48d7",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "도와『주는』 거다!　우쭐대지 마, 이 얼간아!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x23fd8960",
    "src_sha1": "ccfa04fd1661045d839eddbfd3a2efbb81693b57",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "오, 내 가짜가 있다",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x785c55aa",
    "src_sha1": "3ad0bccaa94d9fdb99d6d30ce78b1dd28b4af85d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "너, 설마 내 야스호한테 손대고 있는 건 아니겠지?",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0175(康穂→야스호)"
   },
   {
    "id": "0x21947ce9",
    "src_sha1": "402cd72fab1cf5baba54f138fde997b510e5c112",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "야스호는 내 여자다.\n그 녀석은 나한테 키스도 허락해 준다고……딥하고 뜨거운 걸로 말이야",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0175(康穂→야스호)"
   },
   {
    "id": "0x7a35a023",
    "src_sha1": "a2108c9270d7efddcf70b1110798c30524e1fec9",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "내 야스호한테 까부는 짓 하지 마라",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0175(康穂→야스호)"
   },
   {
    "id": "0x96d7c57d",
    "src_sha1": "972d2f2c1fbf30dbd022bda7ea1cefd3477595e0",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이 도둑놈 새끼~~~~~, 너, 언젠가 뭔가 저지를 줄 알았다고",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xcd7619b7",
    "src_sha1": "d553e143cea37f9eccbbbad9d93540ad79da9004",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "너, 휴대폰 같은 걸 들고 대체 누구랑 연락할 셈이야?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xca1efb6f",
    "src_sha1": "5ba5c996ed8bffb0101e3b8e682249a3359ee356",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "너를 『도와주겠다』. OK냐…?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x91bf27a5",
    "src_sha1": "3c45ce6ef71b9238e924a3a48e512e60ab30ace2",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "어떡할 거야…죠스케?　집에 갈래?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe90186be",
    "src_sha1": "c79f458ba12ddb48d2ed59827a47106b14919ccc",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "내가 너를 믿고 같이 싸워 주는 거니까 말이야, 죠스케!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x42319c10",
    "src_sha1": "02f31f54373ce3efff6be80c2e84de0ee64c897f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "풉!　촌스러워~~~!　어이 죠스케, 봐 봐!　저 머리",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe8a3111b",
    "src_sha1": "9a28a72e80401cdf5b2cf8144b46ddaced3f57bb",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "잘 들어!　『야스호』는 내 거다아아아!!",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0175"
   },
   {
    "id": "0x541742b6",
    "src_sha1": "4cc3e243c1391497bc95a1684a7223c65c7ca7aa",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "마음에 안 들어!　두들겨 패 주마!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xff2beb13",
    "src_sha1": "45fe420d04ccf0d1fb8d6c7f9b81b0f392dcb545",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "친한 척하지 마!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xfbeaf6a4",
    "src_sha1": "dd8887191494494889164986fe36d3f152b777aa",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "어이!　말해 두겠는데, 내 덕분에 「이긴」 거, 잊지 마라!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x5bc8e557",
    "src_sha1": "9cc79e71b3e7f5f17c3de53810d4eef7e90f1544",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "역시 말이야~, 진짜 내가 더 잘생기고 멋지지~",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x0069399d",
    "src_sha1": "1f8975ea1d1d69b8cb6f2cbca96f60efab49d02b",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "그 녀석은 나한테 키스까지 허락한다고오……",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x59a110de",
    "src_sha1": "3d3c24b1394d3da70928705f96b8f210d067d884",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "レロレロレロレロレロレロレロ",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x0200cc14",
    "src_sha1": "e6ec51a3c332a3dc6cebd9626df4ddd14c336b64",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "네놈 따위한테 진 게 아니야……언제든지 말이지…!",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0xeee2a94a",
    "src_sha1": "ab6d98a18d2cc89ce36df7a8b92ac3feae297319",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "뭐야, 그 낯짝은?\n도둑놈 주제에 궁지에 몰리니까 적반하장이냐아~?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb5437580",
    "src_sha1": "1ec32b8858792d4601c10aaf7967b8dbfb0dcaae",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "지저인이라도 되냐~~~?　우햐햐햐햐햐햐햐.\n호적이 불분명한 놈은 휴대폰을 못 가진다고, 얼간아",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x490281c5",
    "src_sha1": "b399811017db845e0ebca2c9f9ef1a7517975ee8",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "무슨 소리야…죠스케～～, 물론이지. 넌 가족이잖아아",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x12a35d0f",
    "src_sha1": "bca98ebf1fa034d8f40e7d036c62e367d496e650",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "그렇게 나와야지!　제법 하는 성격이네~~~ 너!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xbd3d026e",
    "src_sha1": "cc67a4e7c1978aedade5baa289d53acaae02bfc4",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "봤냐!　나를 얕보니까 이렇게 되는 거라고!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x2f8e93f4",
    "src_sha1": "d80cd94eb62c18dce257625a32d123a7c34e3fd2",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "난 저런 불량배 같은 놈이 정말 싫다고!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x3ff474ad",
    "src_sha1": "3d3c24b1394d3da70928705f96b8f210d067d884",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "レロレロレロレロレロレロレロ",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x782d806e",
    "src_sha1": "6398112abe4e1b64dfc2b7b371f226ffc1b39d9f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "똑똑히 알았냐, 멍청아",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x32d0eba8",
    "src_sha1": "49aab026d2318c4c966a8c45f30ce837478d1b79",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "손 좀 빌려줘!",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x3611f61f",
    "src_sha1": "5292b2c545d7b7c66dc98a511be0da5fa14e0b22",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "어이, 간다!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x27bf8c6f",
    "src_sha1": "39d5dbc5f35c5cb4bc5df3f79faca24ac3dc2abf",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "흥!",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x237e91d8",
    "src_sha1": "c66811cd473eb88118bafab362b3cdb1a1ec5c46",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "알았다고…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xd5f6b52a",
    "src_sha1": "f34342fbe1c07bd569f7ac7065212f74b5f8eecf",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "어딜 보는 거냐아!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xd137a89d",
    "src_sha1": "309e16268dfbe923c44596890d7c937873162439",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "멍청아!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xf77b8ffa",
    "src_sha1": "fc65c51f26409c05e8499f894e2ec18353c6d96f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "내가 해치웠다고!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xf3ba924d",
    "src_sha1": "256ab38b662e980a7a99458d8a196ce4cf826726",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "뭐, 내가 더 대단하지만~",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xc5561d9d",
    "src_sha1": "bede8e4fd7b9701620e2d70bb1f58ab138e4796b",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "너, 짐짝이라고!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x1bad976a",
    "src_sha1": "1430f701cfb99a3d75427f6269bcff6a2a36d43c",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "내 발목이나 잡고 말이야, 죠스케 녀석!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa8795f7c",
    "src_sha1": "39d5dbc5f35c5cb4bc5df3f79faca24ac3dc2abf",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "흥!",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   }
  ]
 }

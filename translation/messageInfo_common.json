@@ -10730,35 +10730,35 @@
   {
    "id": "0x70dfa3d8",
    "src_sha1": "c5b14b867040460efc978966fe3a7961bf0ef046",
-   "ko": "뭐 하는 거여?　너?　이해 불능!　이해 불능!",
+   "ko": "뭐 하는 거냐구?　너?　이해 불능!　이해 불능!",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
   {
    "id": "0x741ebe6f",
    "src_sha1": "a77df55242812f61ddabe6f839832a48b8138077",
-   "ko": "정체 모를 더러운 느낌이 든당께!",
+   "ko": "정체 모를 더러운 느낌이 든다구!",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
   {
    "id": "0x795d98b6",
    "src_sha1": "b89f34a6767b32c9589b5a5582ce3dd6f40c12fb",
-   "ko": "내가!　……………『아빠』랑 『엄마』를 저 녀석한테서 지킬 거여!",
+   "ko": "내가!　……………『아빠』랑 『엄마』를 저 녀석한테서 지킬 거라구!",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
   {
    "id": "0x7d9c8501",
    "src_sha1": "7ba2dddcb32ad81ec5e44baa18f20ba2fe02208d",
-   "ko": "뭣하면 이거, 만 엔에 팔아 줘도 된당께!　시시시",
+   "ko": "뭣하면 이거, 만 엔에 팔아 줘도 된다구!　시시시",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
   {
    "id": "0x63dbd504",
    "src_sha1": "ca7759ffdcacba3ca0897ef3245317d58ec9f3e9",
-   "ko": "거짓말해도 바로 알 수 있당께!!",
+   "ko": "거짓말해도 바로 알 수 있다구!!",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
@@ -10786,7 +10786,7 @@
   {
    "id": "0x56d74e60",
    "src_sha1": "ca0badc6094a0778c9d0dde5c2bb10e0232acd2d",
-   "ko": "내 『하베스트』는 무적이여!",
+   "ko": "내 『하베스트』는 무적이다구!",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
@@ -10842,7 +10842,7 @@
   {
    "id": "0xb8402fb6",
    "src_sha1": "97225b643414445e873d5c9334e0a337bdcc77c9",
-   "ko": "『살인마』!　너 말하는 거여!　『스기모토 레이미』도 너를 찾고 있당께!",
+   "ko": "『살인마』!　너 말하는 거라구!　『스기모토 레이미』도 너를 찾고 있다구!",
    "state": "needs_human_review",
    "note": "초안(Claude). 미승인 용어: T0136"
   },
@@ -10856,7 +10856,7 @@
   {
    "id": "0x84ce8fbc",
    "src_sha1": "2932171a4bfccebc3c0438a6d96b7b4fe968d7ab",
-   "ko": "스탠드 수를 안 넣으면 불공평하당께!!",
+   "ko": "스탠드 수를 안 넣으면 불공평하다구!!",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
@@ -24058,1556 +24058,1556 @@
   {
    "id": "0x4cb8cca8",
    "src_sha1": "af7e18abedf166dca8786d6dbfc3456fded8c746",
-   "ko": "【미정】사전 용어279",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd3f6018f",
    "src_sha1": "7758665a4c4127ef5f603832cc67ba0804606546",
-   "ko": "【미정】사전 용어280",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd7371c38",
    "src_sha1": "ced251d48e13f1019c7203ccfc189140529097fe",
-   "ko": "【미정】사전 용어281",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xda743ae1",
    "src_sha1": "290bb1aa7817be646add9b95a3fd6c242d60de31",
-   "ko": "【미정】사전 용어282",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xdeb52756",
    "src_sha1": "c6e16349081fa90a90a5f1af2bb51fd27cb23410",
-   "ko": "【미정】사전 용어283",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc0f27753",
    "src_sha1": "b50424d4936ef42a036d09e111d67c416d9cd7df",
-   "ko": "【미정】사전 용어284",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc4336ae4",
    "src_sha1": "012ce7febd90ff7cc66184ce2d45bafde9eb0c29",
-   "ko": "【미정】사전 용어285",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc9704c3d",
    "src_sha1": "f15be9543350da18e0144a36e0c3a61fe66ecbe2",
-   "ko": "【미정】사전 용어286",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xcdb1518a",
    "src_sha1": "5d13c2a176e14f73dce2d53b1f8ce0f28168a68e",
-   "ko": "【미정】사전 용어287",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf5feec37",
    "src_sha1": "c8bcfb6a1d02824cb086194d2ad46c8c9d145c3b",
-   "ko": "【미정】사전 용어288",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf13ff180",
    "src_sha1": "fcdc460e070a5b2af4e8a3920e640401b2c2ee9d",
-   "ko": "【미정】사전 용어289",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x01efc053",
    "src_sha1": "76178cc12b4ae5938b807a1e7a179ab78fb6e657",
-   "ko": "【미정】사전 용어290",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x052edde4",
    "src_sha1": "b3b38f8e55727d4b8b86127747a331a79f9618c4",
-   "ko": "【미정】사전 용어291",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x086dfb3d",
    "src_sha1": "6ab200cce48243837acf8f0f8dbd77afaa3b4b20",
-   "ko": "【미정】사전 용어292",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0cace68a",
    "src_sha1": "56117051df538e2f49e7a267ea58f0fa2ecf73b6",
-   "ko": "【미정】사전 용어293",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x12ebb68f",
    "src_sha1": "3eece09238f85d1e4567b885afde71edb94df311",
-   "ko": "【미정】사전 용어294",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x162aab38",
    "src_sha1": "9dc415102987f0cccc422007dae460a38bf1432a",
-   "ko": "【미정】사전 용어295",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x1b698de1",
    "src_sha1": "06e0bdbba5aa6b320d059f2fcde9ef3b66fff784",
-   "ko": "【미정】사전 용어296",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x1fa89056",
    "src_sha1": "d74fcbe889e892258908296d059a61b4a64e7785",
-   "ko": "【미정】사전 용어297",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x27e72deb",
    "src_sha1": "dfac99f8e7cfce2f4ad904c599998a2f2db9c61f",
-   "ko": "【미정】사전 용어298",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x2326305c",
    "src_sha1": "27ebfdb708e3643cc83c2547811fe1467b1f3ea8",
-   "ko": "【미정】사전 용어299",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x5866ee5a",
    "src_sha1": "fa0240fb676a9405a0083a902ada4d96e1f4b7e7",
-   "ko": "【미정】사전 용어300",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x5ca7f3ed",
    "src_sha1": "55dfe49b541e78739644a148850f0e423b515d79",
-   "ko": "【미정】사전 용어301",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x51e4d534",
    "src_sha1": "5ff7145f028e7cb5b192954e1220221c174bfb58",
-   "ko": "【미정】사전 용어302",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x5525c883",
    "src_sha1": "50a1c264925e95bf66f6a6a5da00e13bbc7f33ad",
-   "ko": "【미정】사전 용어303",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4b629886",
    "src_sha1": "4631622bd44e72dfe5c1fb876f8459e0587d4b11",
-   "ko": "【미정】사전 용어304",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4fa38531",
    "src_sha1": "84c5e4054950722e83676ed515c43ad1d1e73597",
-   "ko": "【미정】사전 용어305",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x42e0a3e8",
    "src_sha1": "3cd80e7016ddb22f8550489828939dc37331854a",
-   "ko": "【미정】사전 용어306",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4621be5f",
    "src_sha1": "46181d8c3e61951ca68a6d1f06eebd712a2422ba",
-   "ko": "【미정】사전 용어307",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7e6e03e2",
    "src_sha1": "f35a7c118b7a04e148a0cba37800e705a1995b20",
-   "ko": "【미정】사전 용어308",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7aaf1e55",
    "src_sha1": "1ff7fc97257a646db59f60d0a8127ff25932f01b",
-   "ko": "【미정】사전 용어309",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x8a7f2f86",
    "src_sha1": "4c76e4dcb5929c58cb3e6b22368eb04ea59b72cf",
-   "ko": "【미정】사전 용어310",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x8ebe3231",
    "src_sha1": "efe23656543a06175ecfbcf3bce1ab7d65f7d6ee",
-   "ko": "【미정】사전 용어311",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x83fd14e8",
    "src_sha1": "d962630ed537df800fd1592b306a9fae527f0032",
-   "ko": "【미정】사전 용어312",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x873c095f",
    "src_sha1": "1fee76b3ce54bc569d93d67c5ccd037a3a78bf75",
-   "ko": "【미정】사전 용어313",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x997b595a",
    "src_sha1": "48a6661d6717163e5d646a08d00d6b997644e309",
-   "ko": "【미정】사전 용어314",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9dba44ed",
    "src_sha1": "b894fbc7f872f98bf4015f0ffd20bfe687570a2a",
-   "ko": "【미정】사전 용어315",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x90f96234",
    "src_sha1": "e24433c39c4f7ada5e86402f14280b473f9b6f8e",
-   "ko": "【미정】사전 용어316",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x94387f83",
    "src_sha1": "512ae9378ed31ef9c8ab128e17a08cdb30acb2cc",
-   "ko": "【미정】사전 용어317",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xac77c23e",
    "src_sha1": "157730f748765f44a0cc63d8fc688909d40f8984",
-   "ko": "【미정】사전 용어318",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa8b6df89",
    "src_sha1": "33c5f63afae0e25938e626ef76869c5c6d94264a",
-   "ko": "【미정】사전 용어319",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf8947055",
    "src_sha1": "e2adfb59734ba0256f40177fc1f613efcd58129e",
-   "ko": "【미정】사전 용어320",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xfc556de2",
    "src_sha1": "1dbcbf02c008076cb51c84650433e63331326abc",
-   "ko": "【미정】사전 용어321",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf1164b3b",
    "src_sha1": "e944e8c04606cf5f360cd9e8200cb006a23a1fc5",
-   "ko": "【미정】사전 용어322",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf5d7568c",
    "src_sha1": "ad9346f8d5a7086caf5d60f6f7c58c1291866e6d",
-   "ko": "【미정】사전 용어323",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xeb900689",
    "src_sha1": "84a8fae73946a25a8d9e08f44846104803d318e2",
-   "ko": "【미정】사전 용어324",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xef511b3e",
    "src_sha1": "a935013d93ad4000fe4200d0f60cc90a06a8964c",
-   "ko": "【미정】사전 용어325",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xe2123de7",
    "src_sha1": "5e78431619595420a5d25e18a41c22b92c9a6a2d",
-   "ko": "【미정】사전 용어326",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xe6d32050",
    "src_sha1": "b78d93d2c69babfd4c4c1e5cd53d12d7f5331f6e",
-   "ko": "【미정】사전 용어327",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xde9c9ded",
    "src_sha1": "b93796e4d48af50107c9e09a7de01ed7adfed514",
-   "ko": "【미정】사전 용어328",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xda5d805a",
    "src_sha1": "4ba08b56a9627e86d1ee5603653f066eb5473d51",
-   "ko": "【미정】사전 용어329",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x2a8db189",
    "src_sha1": "566dfd2704822ec8842f304714b215ef8afaad12",
-   "ko": "【미정】사전 용어330",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x2e4cac3e",
    "src_sha1": "6c7f08c18b74e37deea8ffd5f7fa1114ffc703d7",
-   "ko": "【미정】사전 용어331",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x230f8ae7",
    "src_sha1": "77904a51ee801268c85ba1f065bb1cd960168ff8",
-   "ko": "【미정】사전 용어332",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x27ce9750",
    "src_sha1": "15fa81e96319e7b45727757b1555b572209b4c53",
-   "ko": "【미정】사전 용어333",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3989c755",
    "src_sha1": "cc44d64c1d6c52f62863733ad45498ae52bc6c68",
-   "ko": "【미정】사전 용어334",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3d48dae2",
    "src_sha1": "4604f7266223ed8e6cbd31f46b7baf628ea55a8b",
-   "ko": "【미정】사전 용어335",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x300bfc3b",
    "src_sha1": "8d019b454a8c3ce405dee80cafc12a8d71811d5f",
-   "ko": "【미정】사전 용어336",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x34cae18c",
    "src_sha1": "c906cb0d5324f69c30b3245528626fcaf92152cd",
-   "ko": "【미정】사전 용어337",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0c855c31",
    "src_sha1": "d07d8b394c094f3995dc0f21af9d40865846818e",
-   "ko": "【미정】사전 용어338",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x08444186",
    "src_sha1": "daa342e88b82806ad19a5c2fad2b83c78df99779",
-   "ko": "【미정】사전 용어339",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x1d42cff3",
    "src_sha1": "6eb6f71a9917d64ffd8a7165d500dd56b93626cd",
-   "ko": "【미정】사전 용어340",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x1983d244",
    "src_sha1": "a3a15c23f84fbbb9af8f6697b13edd89984fabd1",
-   "ko": "【미정】사전 용어341",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x14c0f49d",
    "src_sha1": "75c6000ef9e00540b63de0bc56d791bf1a9fed2f",
-   "ko": "【미정】사전 용어342",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x1001e92a",
    "src_sha1": "0a6795ad7dcb9fcb17b1f757406067c3d842a77b",
-   "ko": "【미정】사전 용어343",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0e46b92f",
    "src_sha1": "a8a2f3a9711cb73deeb088bb1ebc14eade5a4f77",
-   "ko": "【미정】사전 용어344",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0a87a498",
    "src_sha1": "b520019ce483eea644f88640d9f225eeb176c601",
-   "ko": "【미정】사전 용어345",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x07c48241",
    "src_sha1": "3ac3025340240ebd73dfe71460ae8e4e69dc60b8",
-   "ko": "【미정】사전 용어346",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x03059ff6",
    "src_sha1": "6a5c6dd3aa6760d0448f7dc2208fc4e5a86ff8bf",
-   "ko": "【미정】사전 용어347",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3b4a224b",
    "src_sha1": "08dc602b85166ee04887a6378d9aec1075377e3a",
-   "ko": "【미정】사전 용어348",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3f8b3ffc",
    "src_sha1": "7e8e422e5b63af0567c821d39eb62b4f22f1ed28",
-   "ko": "【미정】사전 용어349",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xcf5b0e2f",
    "src_sha1": "9384afa7dbe41644a4ad19d2719b2ce8dff98159",
-   "ko": "【미정】사전 용어350",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xcb9a1398",
    "src_sha1": "c53912541ba7cbd6078c0c79c540e3bc5798ec64",
-   "ko": "【미정】사전 용어351",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc6d93541",
    "src_sha1": "c5f4d33d18da3601c06afb4bc3ba5ff864b1562b",
-   "ko": "【미정】사전 용어352",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc21828f6",
    "src_sha1": "35313ee6ad9c0c1dd51d5edcc8b627ac27da33f4",
-   "ko": "【미정】사전 용어353",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xdc5f78f3",
    "src_sha1": "abbb820b3f02a91be81acd3cb33095da8c0e70f8",
-   "ko": "【미정】사전 용어354",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd89e6544",
    "src_sha1": "038170b8db551169a4378e025f4495b85e1ed26f",
-   "ko": "【미정】사전 용어355",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd5dd439d",
    "src_sha1": "40f68de75ccdfb4656b8baeff99f0f1ae14ac8be",
-   "ko": "【미정】사전 용어356",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd11c5e2a",
    "src_sha1": "36803a6e68acf4e8a958334ae932ee8f3b0ac3ea",
-   "ko": "【미정】사전 용어357",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xe953e397",
    "src_sha1": "32947c4e7eaf1487f3180b4950b4d016e4c74e08",
-   "ko": "【미정】사전 용어358",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xed92fe20",
    "src_sha1": "9fba1c86d5ef43263669a3620434721280136a4e",
-   "ko": "【미정】사전 용어359",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xbdb051fc",
    "src_sha1": "717edbfec287fff4415650a47a86c51ed54fda68",
-   "ko": "【미정】사전 용어360",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb9714c4b",
    "src_sha1": "3457142be607dd6d02d8710609270939b41e1d96",
-   "ko": "【미정】사전 용어361",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb4326a92",
    "src_sha1": "db4b5b854edfe2da7c729d9823c7cd04cb280611",
-   "ko": "【미정】사전 용어362",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb0f37725",
    "src_sha1": "b0a45fb64211a887301e1a6d4685bd0ce9cf0364",
-   "ko": "【미정】사전 용어363",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xaeb42720",
    "src_sha1": "7b6d2be79d11fab034af7e764cb17e38a79fab49",
-   "ko": "【미정】사전 용어364",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xaa753a97",
    "src_sha1": "e425d6c9c72b974172d3dc11674d7f09313da964",
-   "ko": "【미정】사전 용어365",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa7361c4e",
    "src_sha1": "c4e38ed57a490aa76a3471a2297ea105f77b7ab3",
-   "ko": "【미정】사전 용어366",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa3f701f9",
    "src_sha1": "bcb4478855b34e9c13953e8277c4696cea45e080",
-   "ko": "【미정】사전 용어367",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9bb8bc44",
    "src_sha1": "8d8a845243721c674a6cf323417cd141bf228358",
-   "ko": "【미정】사전 용어368",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9f79a1f3",
    "src_sha1": "13e61ea247df7c7db4d20c9321cac6dc9ec4e9bb",
-   "ko": "【미정】사전 용어369",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6fa99020",
    "src_sha1": "2f427a3faf465a51e87e7ad8acb0645ae99bc442",
-   "ko": "【미정】사전 용어370",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6b688d97",
    "src_sha1": "fb09e9ea872c33700efcbd2ed18dd2bfeec57a43",
-   "ko": "【미정】사전 용어371",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x662bab4e",
    "src_sha1": "0916c89795d57a1958acf30197b7f34c6d53cd68",
-   "ko": "【미정】사전 용어372",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x62eab6f9",
    "src_sha1": "721a3611c49d9239c06f9c2d03ddc9d167540500",
-   "ko": "【미정】사전 용어373",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7cade6fc",
    "src_sha1": "461972f68ce4b99aba07043c41b5b2b1e12332c0",
-   "ko": "【미정】사전 용어374",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x786cfb4b",
    "src_sha1": "be2c6f3b3cab18f110d34ed1fc07152f9672e18f",
-   "ko": "【미정】사전 용어375",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x752fdd92",
    "src_sha1": "7ff8be81116a5153d7e3aeb64adc39fa13fddf41",
-   "ko": "【미정】사전 용어376",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x71eec025",
    "src_sha1": "b0ff5d90dc991b3fb680c6717acc3006c29b1762",
-   "ko": "【미정】사전 용어377",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x49a17d98",
    "src_sha1": "7f3339581e3c5601736695fba9ae4e75a680ba40",
-   "ko": "【미정】사전 용어378",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4d60602f",
    "src_sha1": "af4ad806abc2859fd621deb785254388a4e495e4",
-   "ko": "【미정】사전 용어379",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd22ead08",
    "src_sha1": "8438ec5fd10c59418e2a7540a9131aae725c496e",
-   "ko": "【미정】사전 용어380",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd6efb0bf",
    "src_sha1": "3d7c523e023b23717fef144f0bc10ec5daddf64f",
-   "ko": "【미정】사전 용어381",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xdbac9666",
    "src_sha1": "95102ab0cef09776c107025a83a9a4f566f377ab",
-   "ko": "【미정】사전 용어382",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xdf6d8bd1",
    "src_sha1": "e192f1a79c558e193ae1b7f8397fe0dccc06e12b",
-   "ko": "【미정】사전 용어383",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc12adbd4",
    "src_sha1": "ff58f6e016aec8dbb27fd09265c1d853e7fa8261",
-   "ko": "【미정】사전 용어384",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc5ebc663",
    "src_sha1": "25be9da9da8bde14f02bbe83560032bf98de7fc0",
-   "ko": "【미정】사전 용어385",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc8a8e0ba",
    "src_sha1": "498f6c4621d9891487c3083c6ef161c22c7390c1",
-   "ko": "【미정】사전 용어386",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xcc69fd0d",
    "src_sha1": "03758411cb7eb8c70a693aacdba8514d3bb154a9",
-   "ko": "【미정】사전 용어387",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf42640b0",
    "src_sha1": "9f0c5e733e8b1b595256f665f68d6203e2f591cf",
-   "ko": "【미정】사전 용어388",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf0e75d07",
    "src_sha1": "b704a1dc2e1414d632c97dd81a690a128e1d0fae",
-   "ko": "【미정】사전 용어389",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x00376cd4",
    "src_sha1": "f2324072c0bb9064214040874dd390499e8a6a96",
-   "ko": "【미정】사전 용어390",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x04f67163",
    "src_sha1": "b7254464d90d284caa90f77050e5ad59ac33f1fa",
-   "ko": "【미정】사전 용어391",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x09b557ba",
    "src_sha1": "c78afee924942300fe6c26cb738f564983e47544",
-   "ko": "【미정】사전 용어392",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0d744a0d",
    "src_sha1": "b462926162d7e8c07a5939795e10f551630828b8",
-   "ko": "【미정】사전 용어393",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x13331a08",
    "src_sha1": "57f955b906d6d90f762251719018e6d755039d3c",
-   "ko": "【미정】사전 용어394",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x17f207bf",
    "src_sha1": "3bc1baadbd828bf9ed27a2af83bfae315744bbd2",
-   "ko": "【미정】사전 용어395",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x1ab12166",
    "src_sha1": "7df32a445018969390112e04ff647fbc537dd16e",
-   "ko": "【미정】사전 용어396",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x1e703cd1",
    "src_sha1": "d1b93e4c99e5bfbf76fe8a01bb0eb6e7bf7da489",
-   "ko": "【미정】사전 용어397",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x263f816c",
    "src_sha1": "16ff2f0d6cf4514c7f57012e8f0de3785282524f",
-   "ko": "【미정】사전 용어398",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x22fe9cdb",
    "src_sha1": "cfded9c5be13a4cc3913c0debc10c7a6d33df988",
-   "ko": "【미정】사전 용어399",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x5d6da9cf",
    "src_sha1": "ccb35b309973bbeada5b73c2fdd8c34052cab2fa",
-   "ko": "【미정】사전 용어400",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x59acb478",
    "src_sha1": "bda8ad884440b3f33ec4906b588ea30d6dd97d66",
-   "ko": "【미정】사전 용어401",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x54ef92a1",
    "src_sha1": "2c817f87f9fe97cdcdbe14e58ea441ed977b9854",
-   "ko": "【미정】사전 용어402",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x502e8f16",
    "src_sha1": "c74eef1f3b90141ff5d4516f855b82337a72a4f4",
-   "ko": "【미정】사전 용어403",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4e69df13",
    "src_sha1": "bffb79238d004864ee0c91814fbbce4e26c34585",
-   "ko": "【미정】사전 용어404",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4aa8c2a4",
    "src_sha1": "8ac60eb75bd2e631660f3298a93ab604937aad76",
-   "ko": "【미정】사전 용어405",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x47ebe47d",
    "src_sha1": "b78302f19e94fb96fca50d0523a2f1b113ed7028",
-   "ko": "【미정】사전 용어406",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x432af9ca",
    "src_sha1": "d8078fc26a14328301cd321d1193ba341838fe47",
-   "ko": "【미정】사전 용어407",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7b654477",
    "src_sha1": "04928327e33fb1ec9432ebed56c4586a200672b8",
-   "ko": "【미정】사전 용어408",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7fa459c0",
    "src_sha1": "13407d6f5b0f0ec41c3043cd80b04d1b084d9383",
-   "ko": "【미정】사전 용어409",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x8f746813",
    "src_sha1": "82be303b8b5463ba9128db1628cc57f785cd654b",
-   "ko": "【미정】사전 용어410",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x8bb575a4",
    "src_sha1": "79d9bd639706ffedcb77b70fb51fdbed692e26b1",
-   "ko": "【미정】사전 용어411",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x86f6537d",
    "src_sha1": "8555148139e8a43fc4f50d8312c963f889128bcc",
-   "ko": "【미정】사전 용어412",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x82374eca",
    "src_sha1": "ad8999896db791061feeeab867fb874c935e48e6",
-   "ko": "【미정】사전 용어413",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9c701ecf",
    "src_sha1": "9e6eb286e79a25b8d408f8b28c9b94cb5e8c23f9",
-   "ko": "【미정】사전 용어414",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x98b10378",
    "src_sha1": "d81850dfd8850c629e4c961bfbb2b19efce220a3",
-   "ko": "【미정】사전 용어415",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x95f225a1",
    "src_sha1": "1d6f1d176ee5790f9208ae8aaf9b37561bc395aa",
-   "ko": "【미정】사전 용어416",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x91333816",
    "src_sha1": "77b3aeff22d634f8679bcf42ff9f52543197af8d",
-   "ko": "【미정】사전 용어417",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa97c85ab",
    "src_sha1": "541cf7d6f9a081a40c91fd309c4831f70238b5a5",
-   "ko": "【미정】사전 용어418",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xadbd981c",
    "src_sha1": "417106bceeb8bb27f233e2fe44ed4e0e9c68a9ff",
-   "ko": "【미정】사전 용어419",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xfd9f37c0",
    "src_sha1": "260a2bbebdb511cc2dae94aa878e5e108fa3a892",
-   "ko": "【미정】사전 용어420",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf95e2a77",
    "src_sha1": "44dbde4cfc8268dbde2c2f6cd5297269800923fb",
-   "ko": "【미정】사전 용어421",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf41d0cae",
    "src_sha1": "9449992c97e20ac00cb02423a8888effd1277d32",
-   "ko": "【미정】사전 용어422",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf0dc1119",
    "src_sha1": "435f1606b361f0958f4110dfd0ee1be2ce83fd81",
-   "ko": "【미정】사전 용어423",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xee9b411c",
    "src_sha1": "a09833270123d5992ac713db8adcdaf88922d47f",
-   "ko": "【미정】사전 용어424",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xea5a5cab",
    "src_sha1": "5c6029c3fc30eefe0f958f412c378667af9a52e1",
-   "ko": "【미정】사전 용어425",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xe7197a72",
    "src_sha1": "0424142051f8b43d2e1a7cb647bee467ead6d01a",
-   "ko": "【미정】사전 용어426",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xe3d867c5",
    "src_sha1": "31e94075d47daadd48d4371fe0e80d1cecde2f7d",
-   "ko": "【미정】사전 용어427",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xdb97da78",
    "src_sha1": "7df73bd3bff374e32b35ec847dabaf270133a7f3",
-   "ko": "【미정】사전 용어428",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xdf56c7cf",
    "src_sha1": "35798dd3dae56d81955a3048d579bceffb55bf59",
-   "ko": "【미정】사전 용어429",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x2f86f61c",
    "src_sha1": "ed78b39ee2dcdd565f95e019bc204dc003b06440",
-   "ko": "【미정】사전 용어430",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x2b47ebab",
    "src_sha1": "321d4e2fb217c254a92927ba77d8af7867cb7e2c",
-   "ko": "【미정】사전 용어431",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x2604cd72",
    "src_sha1": "caf17ad6dc61788c4dfdc4b9e19dbbc297c27b42",
-   "ko": "【미정】사전 용어432",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x22c5d0c5",
    "src_sha1": "187f8885e47ddb6db27fd3897bb702658b5ea523",
-   "ko": "【미정】사전 용어433",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3c8280c0",
    "src_sha1": "57e168d7068cb45dee3feaad61886c95c437ca0f",
-   "ko": "【미정】사전 용어434",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x38439d77",
    "src_sha1": "e584c40e14fe5dde91952570ae06305195e6d073",
-   "ko": "【미정】사전 용어435",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3500bbae",
    "src_sha1": "8f94b4d4b400fb89a699cca124243fc8fab7400a",
-   "ko": "【미정】사전 용어436",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x31c1a619",
    "src_sha1": "879620496242b0bef455dc8a99d22afa5f52035c",
-   "ko": "【미정】사전 용어437",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x098e1ba4",
    "src_sha1": "7fd95977673853fa9d2dede297c737ae3cf054d1",
-   "ko": "【미정】사전 용어438",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0d4f0613",
    "src_sha1": "9387b708356592e2d3b74e2f773d51e5f7e80e0f",
-   "ko": "【미정】사전 용어439",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x18498866",
    "src_sha1": "b4ec1d476eb59c894c0bdc01773afffcee4f404d",
-   "ko": "【미정】사전 용어440",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x1c8895d1",
    "src_sha1": "9ba65db6657aa17592da4bdd2ff17578655e0d2b",
-   "ko": "【미정】사전 용어441",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x11cbb308",
    "src_sha1": "9d6194f276855ae3a71c959c184385a4cfd44e73",
-   "ko": "【미정】사전 용어442",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x150aaebf",
    "src_sha1": "35691fb7d85bfef4fc24bfafde7dbd318065029e",
-   "ko": "【미정】사전 용어443",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0b4dfeba",
    "src_sha1": "36aad31742cfd5541a32b2b52ab283420f6bf0ba",
-   "ko": "【미정】사전 용어444",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0f8ce30d",
    "src_sha1": "155de0fb105cc81007ff4b7d29975ce3513194ac",
-   "ko": "【미정】사전 용어445",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x02cfc5d4",
    "src_sha1": "f75e41c995ab9ffc139ca34f54ec6012f75a09fa",
-   "ko": "【미정】사전 용어446",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x060ed863",
    "src_sha1": "70ec13d01c7c782fa33790f66ee696aedc88772b",
-   "ko": "【미정】사전 용어447",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3e4165de",
    "src_sha1": "1b97605bd5d6ea307dc9fc98473ac8777201e1cc",
-   "ko": "【미정】사전 용어448",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3a807869",
    "src_sha1": "081fee9a0617274d76a77f7a799016dcb8e66d36",
-   "ko": "【미정】사전 용어449",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xca5049ba",
    "src_sha1": "fc06a8a13491529a3e5c5d9452451b4751f6e4fa",
-   "ko": "【미정】사전 용어450",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xce91540d",
    "src_sha1": "1fb1c67b935ca68320b0064a50388401118755e5",
-   "ko": "【미정】사전 용어451",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc3d272d4",
    "src_sha1": "3a22a4291cf221f0cf8d73ea4220e31f3bdc46fc",
-   "ko": "【미정】사전 용어452",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc7136f63",
    "src_sha1": "66c4f47b82ac85dd3c6736f527b8c27b9ecc664e",
-   "ko": "【미정】사전 용어453",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd9543f66",
    "src_sha1": "cff0e78769aa8cf5642919e6421fed8ba27bd48a",
-   "ko": "【미정】사전 용어454",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xdd9522d1",
    "src_sha1": "1093f9751fe1803615f3f3433164c772dd18eb14",
-   "ko": "【미정】사전 용어455",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd0d60408",
    "src_sha1": "59d3fe80f2caf8da333f33d2183bb1eea154b4d4",
-   "ko": "【미정】사전 용어456",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd41719bf",
    "src_sha1": "8bb599dfbb07aba9577e66b311b488d826748024",
-   "ko": "【미정】사전 용어457",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xec58a402",
    "src_sha1": "b08d15b29ce2a1c5b173c897e37dd38b7ab9d8e8",
-   "ko": "【미정】사전 용어458",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xe899b9b5",
    "src_sha1": "7cb1ba8892d672a7d6e060f6250b2aae85244569",
-   "ko": "【미정】사전 용어459",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb8bb1669",
    "src_sha1": "2877e01a0ab7613013c22671335cc51d5386c2ef",
-   "ko": "【미정】사전 용어460",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xbc7a0bde",
    "src_sha1": "8a1243afe401f5f32f05af51cd35565b5a6aea7b",
-   "ko": "【미정】사전 용어461",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb1392d07",
    "src_sha1": "75a4172880896019b6d1ed39421dc90ce890b62e",
-   "ko": "【미정】사전 용어462",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb5f830b0",
    "src_sha1": "8bdd41fd198bbc9f042ecbfabe93e55a08a089de",
-   "ko": "【미정】사전 용어463",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xabbf60b5",
    "src_sha1": "c3e29725681bafcee0f2a14fed9b05f06fe939a9",
-   "ko": "【미정】사전 용어464",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xaf7e7d02",
    "src_sha1": "9bdbe2455227a51525dee33d340bbb4205a53eca",
-   "ko": "【미정】사전 용어465",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa23d5bdb",
    "src_sha1": "dc0cc2d0fcd2d19a0ed76b23bf35076d31404840",
-   "ko": "【미정】사전 용어466",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa6fc466c",
    "src_sha1": "8f8aba3da1e9b00ee2dbe1a5f9f30fa7c5bce630",
-   "ko": "【미정】사전 용어467",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9eb3fbd1",
    "src_sha1": "ae9338941023cd3504fca67125ea934bf60d8f52",
-   "ko": "【미정】사전 용어468",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9a72e666",
    "src_sha1": "82c3d41a5fec07a0885cef8a0e0910aca16c366e",
-   "ko": "【미정】사전 용어469",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6aa2d7b5",
    "src_sha1": "9ad666fe6c8082f455e3775cd310c2c525943dd2",
-   "ko": "【미정】사전 용어470",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6e63ca02",
    "src_sha1": "dbfb0e7c4a9374c15dabd6d9891c2a1bf8b0660d",
-   "ko": "【미정】사전 용어471",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6320ecdb",
    "src_sha1": "581bb915c556e563df738dcbad1ffddf273704a4",
-   "ko": "【미정】사전 용어472",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x67e1f16c",
    "src_sha1": "ecd5c7b6fdaafd170c010f135e3ee4deb4e42381",
-   "ko": "【미정】사전 용어473",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x79a6a169",
    "src_sha1": "65d5db87508695cf20fe24136acd1f96c71120e4",
-   "ko": "【미정】사전 용어474",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7d67bcde",
    "src_sha1": "9ee8ce35699283eb9bafc48378e95c47f545d6d3",
-   "ko": "【미정】사전 용어475",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x70249a07",
    "src_sha1": "64e5447d203fc7da561cd6f4c960ab5a9738b2c1",
-   "ko": "【미정】사전 용어476",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x74e587b0",
    "src_sha1": "d341423f64e0fb4fc3dfe5372493c7b5237161f0",
-   "ko": "【미정】사전 용어477",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4caa3a0d",
    "src_sha1": "42f3d5e75f826de5b9116fc8260b09afbf10e8ea",
-   "ko": "【미정】사전 용어478",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x486b27ba",
    "src_sha1": "3e9040b1912782d282fa7e1ea62ec787988694a3",
-   "ko": "【미정】사전 용어479",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd725ea9d",
    "src_sha1": "8fabc26091e99ac8e2fbeaaf71f3b95e451ef27a",
-   "ko": "【미정】사전 용어480",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd3e4f72a",
    "src_sha1": "46051a4cb92fe40c257190e23c72381776aa3d78",
-   "ko": "【미정】사전 용어481",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xdea7d1f3",
    "src_sha1": "11ba9121d799084132799e6df1460a7963093c16",
-   "ko": "【미정】사전 용어482",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xda66cc44",
    "src_sha1": "a86f4d058d395c42a5d4a7ed321e559bbabdf177",
-   "ko": "【미정】사전 용어483",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc4219c41",
    "src_sha1": "5411a3b68247759532490cb18d924f6ed6a7767f",
-   "ko": "【미정】사전 용어484",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc0e081f6",
    "src_sha1": "3d8998db58e402e5d7e82cf83777a04e63fbaa40",
-   "ko": "【미정】사전 용어485",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xcda3a72f",
    "src_sha1": "9c5ad972ef043be913ed94c9fc4a35137f130373",
-   "ko": "【미정】사전 용어486",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc962ba98",
    "src_sha1": "47f4ab2c5e137c951d1ea2c893df7e2c225bb31e",
-   "ko": "【미정】사전 용어487",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf12d0725",
    "src_sha1": "35c8498fc83a1587a2c4c1c6b791f8bde104ec3c",
-   "ko": "【미정】사전 용어488",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf5ec1a92",
    "src_sha1": "8f4ce6577e9a40fc824aa2f044d02c6f6b137554",
-   "ko": "【미정】사전 용어489",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x053c2b41",
    "src_sha1": "4c55cd196ee037aa6a491fac2425bb856140192d",
-   "ko": "【미정】사전 용어490",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x01fd36f6",
    "src_sha1": "7a3f22bde6e2d58a3292c8704f9e85aeb090cd15",
-   "ko": "【미정】사전 용어491",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0cbe102f",
    "src_sha1": "50531c97eb36dbaec4f6fe4bcecfe889f9b047df",
-   "ko": "【미정】사전 용어492",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x087f0d98",
    "src_sha1": "451dacd5f26a862fb4e75cc1b050f9b445046464",
-   "ko": "【미정】사전 용어493",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x16385d9d",
    "src_sha1": "1532eba7bfe348a11dedd55da5f3457f69bea5db",
-   "ko": "【미정】사전 용어494",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x12f9402a",
    "src_sha1": "bcadb9953802f6c5f0964e7cb1f87d6be772e15f",
-   "ko": "【미정】사전 용어495",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x1fba66f3",
    "src_sha1": "cab5502c5130abbd1416c123f8a76d56a6761ffe",
-   "ko": "【미정】사전 용어496",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x1b7b7b44",
    "src_sha1": "a5915eb3f2fb751d919afae1f9aa5f027100979e",
-   "ko": "【미정】사전 용어497",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x2334c6f9",
    "src_sha1": "3e4128b03f60b85dfb0c9ccf71fbb7c8f4e16565",
-   "ko": "【미정】사전 용어498",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x27f5db4e",
    "src_sha1": "87cf384d30f4f5579cdb403fba3850b883f6c39a",
-   "ko": "【미정】사전 용어499",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x5cb50548",
    "src_sha1": "f3153db2865c9d3108f82dd8c3d2b2a222d32500",
-   "ko": "【미정】사전 용어500",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x2804e27f",
@@ -25773,7 +25773,7 @@
   {
    "id": "0x9bf20aac",
    "src_sha1": "b61bc0e9321180874045d2ead229e3f89fc2f8fc",
-   "ko": "Part2 『전투조류』의 등장인물.\n\n『기둥 속 사내』 중 한 명. 열을 조종하는 모드(유법)를 사용한다.\n직정적인 성격 탓에, 펑펑 울음으로써 감정을 컨트롤한다.\n\n로긴스를 살해하고 죠셉을 궁지에 몰지만 패배했다.\n그러나 육체를 잃고 뇌만 남은 상태에서도\n『에이자의 붉은 돌』을 카즈가 잠복한 스위스로 우송했다.\n",
+   "ko": "Part2 『전투조류』의 등장인물.\n\n『기둥 속 사내』 중 한 명. 열을 조종하는 모드를 사용한다.\n직정적인 성격 탓에, 펑펑 울음으로써 감정을 컨트롤한다.\n\n로긴스를 살해하고 죠셉을 궁지에 몰지만 패배했다.\n그러나 육체를 잃고 뇌만 남은 상태에서도\n『에이자의 붉은 돌』을 카즈가 잠복한 스위스로 우송했다.\n",
    "state": "needs_human_review",
    "note": "초안(Claude). 미승인 용어: T0142 용어집 없음: 柱の男→기둥의 남자, 流法→모드(유법), エイジャの赤石→에이자의 붉은 돌 柱の男→기둥 속 사내(사용자 확정 2026-10-28)."
   },
@@ -25857,7 +25857,7 @@
   {
    "id": "0x44a8eda9",
    "src_sha1": "ecabfe32fc271b1434f64c12341775e4cfd8b032",
-   "ko": "Part2 『전투조류』의 등장인물.\n\n『기둥 속 사내』 중 한 명. 빛의 모드(유법)를 사용한다.\n궁극의 생물이 되기를 바라며 『돌가면』을 만들어 내고\n『에이자의 붉은 돌』을 계속 찾았다.\n\n리사리사를 기습으로 쓰러뜨리지만,\n그 뒤 죠셉과의 싸움에서 작탄암에 휘말려 우주 공간으로 추방된다.\n",
+   "ko": "Part2 『전투조류』의 등장인물.\n\n『기둥 속 사내』 중 한 명. 빛의 모드를 사용한다.\n궁극의 생물이 되기를 바라며 『돌가면』을 만들어 내고\n『에이자의 붉은 돌』을 계속 찾았다.\n\n리사리사를 기습으로 쓰러뜨리지만,\n그 뒤 죠셉과의 싸움에서 작탄암에 휘말려 우주 공간으로 추방된다.\n",
    "state": "needs_human_review",
    "note": "초안(Claude). 용어집 없음: 柱の男→기둥의 남자, 流法→모드(유법), エイジャの赤石→에이자의 붉은 돌, 灼弾岩→작탄암 柱の男→기둥 속 사내(사용자 확정 2026-10-28)."
   },
@@ -27124,7 +27124,7 @@
   {
    "id": "0x9c824e15",
    "src_sha1": "1220c1feb1e8f3bfe3694a3cf2153e22c249c001",
-   "ko": "Part4 『다이아몬드는 부서지지 않는다』의 등장인물.\n『하베스트』의 스탠드 유저.\n\n별명은 『시게치』. 말버릇은 「~이당」 「시싯」.\n욕심이 많으면서도 미워할 수 없는 성격이다.\n\n살인마 키라 요시카게와 마주쳐 폭살당하지만,\n상대의 단추를 『하베스트』에게 옮기게 해 죠스케에게 전달하여\n키라 요시카게 추적의 실마리를 남겼다.\n",
+   "ko": "Part4 『다이아몬드는 부서지지 않는다』의 등장인물.\n『하베스트』의 스탠드 유저.\n\n별명은 『시게치』. 말버릇은 「~다구」 「시싯」.\n욕심이 많으면서도 미워할 수 없는 성격이다.\n\n살인마 키라 요시카게와 마주쳐 폭살당하지만,\n상대의 단추를 『하베스트』에게 옮기게 해 죠스케에게 전달하여\n키라 요시카게 추적의 실마리를 남겼다.\n",
    "state": "needs_human_review",
    "note": "초안(Claude). 말버릇 표기 확인(重ちー, ～だど, ししっ)"
   },
@@ -27236,7 +27236,7 @@
   {
    "id": "0x6713a1b6",
    "src_sha1": "3ca2799e89e454cdd538d6a1e696a82a32e51ec8",
-   "ko": "Part2 『전투조류』의 등장인물.\n\n『기둥 속 사내』 중 하나. 바람의 유법(모드)을 쓴다.\n싸움에서 삶의 보람을 느끼며, 늘 호적수를 찾는 전투의 천재.\n\n기습을 건 시저를 쓰러뜨리지만,\n전사로서 그에게 경의를 표하며 피의 비눗방울을 터뜨리지 않고 놓아주었다.\n그 후 죠셉과의 격렬한 사투에 만족하며 충족감 속에서 소멸했다.\n",
+   "ko": "Part2 『전투조류』의 등장인물.\n\n『기둥 속 사내』 중 하나. 바람의 모드을 쓴다.\n싸움에서 삶의 보람을 느끼며, 늘 호적수를 찾는 전투의 천재.\n\n기습을 건 시저를 쓰러뜨리지만,\n전사로서 그에게 경의를 표하며 피의 비눗방울을 터뜨리지 않고 놓아주었다.\n그 후 죠셉과의 격렬한 사투에 만족하며 충족감 속에서 소멸했다.\n",
    "state": "needs_human_review",
    "note": "초안(Claude). 용어집 없음: 柱の男→기둥의 남자, 流法(モード)→유법(모드) 柱の男→기둥 속 사내(사용자 확정 2026-10-28)."
   },
@@ -27488,1556 +27488,1556 @@
   {
    "id": "0x3eb33504",
    "src_sha1": "4fde173356bf6c9a9384a3835dd0b113faa74919",
-   "ko": "【미정】사전 용어 설명279",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa1fdf823",
    "src_sha1": "fe55522d71c005d8ed2b611da1c44d455387c769",
-   "ko": "【미정】사전 용어 설명280",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa53ce594",
    "src_sha1": "8534c88f831d2952b60064a375a7204c697f7778",
-   "ko": "【미정】사전 용어 설명281",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa87fc34d",
    "src_sha1": "1863506e6ab9e9dacbc0ad39d6ced5f03b6875c4",
-   "ko": "【미정】사전 용어 설명282",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xacbedefa",
    "src_sha1": "050448f4abeabb80b6cb95aadf2d0469a673be16",
-   "ko": "【미정】사전 용어 설명283",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb2f98eff",
    "src_sha1": "3f92e393109b711c8d943ddd3a0796d980709036",
-   "ko": "【미정】사전 용어 설명284",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb6389348",
    "src_sha1": "d977d0158174bdb4cdf8203c7640b096b6421bbe",
-   "ko": "【미정】사전 용어 설명285",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xbb7bb591",
    "src_sha1": "1728e7811c8ad327312a743a14c0dbc67f25c748",
-   "ko": "【미정】사전 용어 설명286",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xbfbaa826",
    "src_sha1": "ab91c013a12acc3c0357a42b2c72c5979552b996",
-   "ko": "【미정】사전 용어 설명287",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x87f5159b",
    "src_sha1": "4b6d0f5cc790cccdb296616574bbd42aea9c6f2f",
-   "ko": "【미정】사전 용어 설명288",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x8334082c",
    "src_sha1": "515cfe44b035f07547db67bf9722f6f3cb062391",
-   "ko": "【미정】사전 용어 설명289",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x73e439ff",
    "src_sha1": "ba1049adf2ec39da8622ebf1c744ee30dda8d0a9",
-   "ko": "【미정】사전 용어 설명290",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x77252448",
    "src_sha1": "83869c704f44a2f94faaf3cde462a87416bd859c",
-   "ko": "【미정】사전 용어 설명291",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7a660291",
    "src_sha1": "c873643ae881343671338d32fefcb5d958401e49",
-   "ko": "【미정】사전 용어 설명292",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7ea71f26",
    "src_sha1": "9a20bdf88985fc348675552cbebbca35d5c3dbe4",
-   "ko": "【미정】사전 용어 설명293",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x60e04f23",
    "src_sha1": "8397f2abf46d6a49cbca5aedfee450c1f0698543",
-   "ko": "【미정】사전 용어 설명294",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x64215294",
    "src_sha1": "5de82aaaffec105fe1e8fed5feac714920769c25",
-   "ko": "【미정】사전 용어 설명295",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6962744d",
    "src_sha1": "3c6764b8dbd9b1817b906d724570f49245f98241",
-   "ko": "【미정】사전 용어 설명296",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6da369fa",
    "src_sha1": "b85cbd7cc105216cce95bc2d1e76b899e1c6ed9d",
-   "ko": "【미정】사전 용어 설명297",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x55ecd447",
    "src_sha1": "d66b2d70690dc832e3ba34888a2dfcab04a94401",
-   "ko": "【미정】사전 용어 설명298",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x512dc9f0",
    "src_sha1": "993561e3b2577f43e749c82410a6caae41885ea8",
-   "ko": "【미정】사전 용어 설명299",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x2a6d17f6",
    "src_sha1": "dd67340e32b5c67cd30f387509d36bd94210c906",
-   "ko": "【미정】사전 용어 설명300",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x2eac0a41",
    "src_sha1": "6820523b053c54b75647faa2d955e4bd2aecd62b",
-   "ko": "【미정】사전 용어 설명301",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x23ef2c98",
    "src_sha1": "0af88e950a925b8f5afa353749eb888a1eed5d58",
-   "ko": "【미정】사전 용어 설명302",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x272e312f",
    "src_sha1": "93cfea5a15868ed7e59c6750636936375904ca0d",
-   "ko": "【미정】사전 용어 설명303",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3969612a",
    "src_sha1": "2556a787b199e9183ff29e9d0cea08a3faa6b78c",
-   "ko": "【미정】사전 용어 설명304",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3da87c9d",
    "src_sha1": "bd0d9b61b9efb99bc3bb10e35206c37c130f48e7",
-   "ko": "【미정】사전 용어 설명305",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x30eb5a44",
    "src_sha1": "d49c074a5108c19e46c1b4cc01c29edfc37dfed7",
-   "ko": "【미정】사전 용어 설명306",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x342a47f3",
    "src_sha1": "05b1503d29e4a718347ba0efc26ef3d29bfa5035",
-   "ko": "【미정】사전 용어 설명307",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0c65fa4e",
    "src_sha1": "eccbe1b5475a6c90fb88a6cb58d0098245a8cb09",
-   "ko": "【미정】사전 용어 설명308",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x08a4e7f9",
    "src_sha1": "13fbf99ea3ed4c984b9c3213937150988c502e7a",
-   "ko": "【미정】사전 용어 설명309",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf874d62a",
    "src_sha1": "c66694d9a9da2feb5c29d4061160f15e086b22a3",
-   "ko": "【미정】사전 용어 설명310",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xfcb5cb9d",
    "src_sha1": "6b83abfecce8bb823e22a1cd489037ee5631ec65",
-   "ko": "【미정】사전 용어 설명311",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf1f6ed44",
    "src_sha1": "6a378e94edd390143669892287e31945d6f94a91",
-   "ko": "【미정】사전 용어 설명312",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf537f0f3",
    "src_sha1": "dd5281aa92414162ba123deba4fb9daff0649fe0",
-   "ko": "【미정】사전 용어 설명313",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xeb70a0f6",
    "src_sha1": "cba75ba5638ebcac6bcc968e4d65778eb1048d5a",
-   "ko": "【미정】사전 용어 설명314",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xefb1bd41",
    "src_sha1": "be3d643d5374a6bd0091f2b5f6feb6530754da74",
-   "ko": "【미정】사전 용어 설명315",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xe2f29b98",
    "src_sha1": "9d626f278ced0fdb733d2c9c7e01cb3b3b7cf1f6",
-   "ko": "【미정】사전 용어 설명316",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xe633862f",
    "src_sha1": "778e5fb2b5f1b1bc8f8d4343b9f03ba3a6e810d8",
-   "ko": "【미정】사전 용어 설명317",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xde7c3b92",
    "src_sha1": "2d7edbfbfe607cff85e90f944479897056d6f57d",
-   "ko": "【미정】사전 용어 설명318",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xdabd2625",
    "src_sha1": "b0f69d941e460031436460475e7dfe27cc0999cb",
-   "ko": "【미정】사전 용어 설명319",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x8a9f89f9",
    "src_sha1": "f159761487b4837dd921fbf4cca7fd9cf64e9e1b",
-   "ko": "【미정】사전 용어 설명320",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x8e5e944e",
    "src_sha1": "5719bb41a850c80d8e03b822ada3c179b4c433c7",
-   "ko": "【미정】사전 용어 설명321",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x831db297",
    "src_sha1": "f39fa87820ddfdc87bfd7b4ff8c9fd03d6fca847",
-   "ko": "【미정】사전 용어 설명322",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x87dcaf20",
    "src_sha1": "08e35b74120632edb5cd1ad27f2ffb9a0484fed5",
-   "ko": "【미정】사전 용어 설명323",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x999bff25",
    "src_sha1": "f930b415aafea4d1393a6d7b2d3a7e0f706de29e",
-   "ko": "【미정】사전 용어 설명324",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9d5ae292",
    "src_sha1": "b2892d1362a1801dc91d148810b9f0293e4fb114",
-   "ko": "【미정】사전 용어 설명325",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9019c44b",
    "src_sha1": "f69e58790e7564eda9fb14d5c1033387113f6c06",
-   "ko": "【미정】사전 용어 설명326",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x94d8d9fc",
    "src_sha1": "4622e56b57a2b87288643c8d728b391fa9dd9f35",
-   "ko": "【미정】사전 용어 설명327",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xac976441",
    "src_sha1": "358805b63c038d890f0f7216f6fd9e0636c2d392",
-   "ko": "【미정】사전 용어 설명328",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa85679f6",
    "src_sha1": "2a17d64540546c275218013736ec9d5d1bad281f",
-   "ko": "【미정】사전 용어 설명329",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x58864825",
    "src_sha1": "84f73b8084ab23d15255c8fca00088a658c97c94",
-   "ko": "【미정】사전 용어 설명330",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x5c475592",
    "src_sha1": "c375fe9596fd400851723c040db4477a1378edd5",
-   "ko": "【미정】사전 용어 설명331",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x5104734b",
    "src_sha1": "946654c838fb150b31bf62f7f26c12da3649639a",
-   "ko": "【미정】사전 용어 설명332",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x55c56efc",
    "src_sha1": "2bfdb6ae3cd349a90b1234ce6d48ddec6782c986",
-   "ko": "【미정】사전 용어 설명333",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4b823ef9",
    "src_sha1": "f52ce43f53406a11fead400813818d4182933937",
-   "ko": "【미정】사전 용어 설명334",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4f43234e",
    "src_sha1": "66556cfc61a4118281da794e6612b5f6ac9efc9b",
-   "ko": "【미정】사전 용어 설명335",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x42000597",
    "src_sha1": "a643489d07a05f18ba37ffc63a3ff12c27cb31f5",
-   "ko": "【미정】사전 용어 설명336",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x46c11820",
    "src_sha1": "b5bef9f6030086ec55758c8352886e26fe1e5850",
-   "ko": "【미정】사전 용어 설명337",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7e8ea59d",
    "src_sha1": "1d738bdc1ad3023820e7e78ef7059f35d1b1263c",
-   "ko": "【미정】사전 용어 설명338",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7a4fb82a",
    "src_sha1": "8fb3b88cd1d3b5a3a1d5dae36f98cc1d3e9a58af",
-   "ko": "【미정】사전 용어 설명339",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6f49365f",
    "src_sha1": "d359ed30b13ea8e413d8b483d72e71f9652e8a46",
-   "ko": "【미정】사전 용어 설명340",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6b882be8",
    "src_sha1": "e610fba2b6261f7f3ec2fca1f8fc57846bfc951f",
-   "ko": "【미정】사전 용어 설명341",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x66cb0d31",
    "src_sha1": "7445e3f87786fba7f171a71f95c02b2fa0a14940",
-   "ko": "【미정】사전 용어 설명342",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x620a1086",
    "src_sha1": "6469c06a755c5a9ec82be0db5274ce5ee6f9264c",
-   "ko": "【미정】사전 용어 설명343",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7c4d4083",
    "src_sha1": "2cb71b8f0e3789c317e942e22b020598e9be22e4",
-   "ko": "【미정】사전 용어 설명344",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x788c5d34",
    "src_sha1": "b4c801cc31864a922fa6a09da9c6d140dc1cb64e",
-   "ko": "【미정】사전 용어 설명345",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x75cf7bed",
    "src_sha1": "10009c3248bbe16fb97b73bb00983780588fbd38",
-   "ko": "【미정】사전 용어 설명346",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x710e665a",
    "src_sha1": "a2304af8e3821ce9ac8f306fa40af3cffb8bd7ad",
-   "ko": "【미정】사전 용어 설명347",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4941dbe7",
    "src_sha1": "1eb94b22393f76a21ad79e50022eb8c41bb873d1",
-   "ko": "【미정】사전 용어 설명348",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4d80c650",
    "src_sha1": "d74907e6ca05dc4e49783d004b9c8101f33f2513",
-   "ko": "【미정】사전 용어 설명349",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xbd50f783",
    "src_sha1": "408004fd31b6a623628965e7590d97635b9a9046",
-   "ko": "【미정】사전 용어 설명350",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb991ea34",
    "src_sha1": "141612ce2b038b4d056549a53fdcaa1af9e04eed",
-   "ko": "【미정】사전 용어 설명351",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb4d2cced",
    "src_sha1": "dab77583581e021791959706fb43e0848c3a9ec9",
-   "ko": "【미정】사전 용어 설명352",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb013d15a",
    "src_sha1": "7a83a210636894cd1608baae25ab07c36d4a65df",
-   "ko": "【미정】사전 용어 설명353",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xae54815f",
    "src_sha1": "e60d3e30822f01f87e12f3ce3e8105a5b26b1624",
-   "ko": "【미정】사전 용어 설명354",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xaa959ce8",
    "src_sha1": "a51c00a5bf07f7f810812ba544bb47c61c55060f",
-   "ko": "【미정】사전 용어 설명355",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa7d6ba31",
    "src_sha1": "6dad9f4cf2d002f240b3c039540519d459c543b3",
-   "ko": "【미정】사전 용어 설명356",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa317a786",
    "src_sha1": "827e2f2b93a6f679b9135e42ee9781fbb602049a",
-   "ko": "【미정】사전 용어 설명357",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9b581a3b",
    "src_sha1": "a3925e3b86915e254c20aacb7dc44002544ee1a8",
-   "ko": "【미정】사전 용어 설명358",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9f99078c",
    "src_sha1": "7d7aa5ebc611bd87cdb588a6b329b6756e93a07a",
-   "ko": "【미정】사전 용어 설명359",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xcfbba850",
    "src_sha1": "4be9fc0a004cde1c8635dab5f60835df8011777a",
-   "ko": "【미정】사전 용어 설명360",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xcb7ab5e7",
    "src_sha1": "42ca640f5004d0c434d1f1612de8d145d820f170",
-   "ko": "【미정】사전 용어 설명361",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc639933e",
    "src_sha1": "c6dc70afdc41c3ec0ba336b65202f070a89aeb0e",
-   "ko": "【미정】사전 용어 설명362",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc2f88e89",
    "src_sha1": "234217b3bbfe4e4036db45a8ea7de8c4ff32e4c0",
-   "ko": "【미정】사전 용어 설명363",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xdcbfde8c",
    "src_sha1": "5126297fcb931023c6ab29c56953b90bd477d8d0",
-   "ko": "【미정】사전 용어 설명364",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd87ec33b",
    "src_sha1": "744791eff916b0875a60920216e46845741ef1ed",
-   "ko": "【미정】사전 용어 설명365",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd53de5e2",
    "src_sha1": "8ce3bc0d3e935a511c1be6e2f1ca506de27f9bac",
-   "ko": "【미정】사전 용어 설명366",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd1fcf855",
    "src_sha1": "5f15e5f8989ed6d5cb6f834e1791cb76098ae907",
-   "ko": "【미정】사전 용어 설명367",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xe9b345e8",
    "src_sha1": "e6ea20063adfd90153040c756b4c94d55e8fd943",
-   "ko": "【미정】사전 용어 설명368",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xed72585f",
    "src_sha1": "15e9c0d0e49349e6e5b945435b1e6f7b10872bc0",
-   "ko": "【미정】사전 용어 설명369",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x1da2698c",
    "src_sha1": "7fba0ea9c232c2debc8c5e2afdf85adb9b305413",
-   "ko": "【미정】사전 용어 설명370",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x1963743b",
    "src_sha1": "36a7e91c8b94d0a80518e5747506ba9e3318c524",
-   "ko": "【미정】사전 용어 설명371",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x142052e2",
    "src_sha1": "53c1f3f85b702b60408a7a4356e268979008a283",
-   "ko": "【미정】사전 용어 설명372",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x10e14f55",
    "src_sha1": "d99c281caf2606067937abccf01c740134860928",
-   "ko": "【미정】사전 용어 설명373",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0ea61f50",
    "src_sha1": "96ca99394afc10b160434c39edb287d13a31a836",
-   "ko": "【미정】사전 용어 설명374",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0a6702e7",
    "src_sha1": "11170aeb420db35b40bae2c537c7313764be504f",
-   "ko": "【미정】사전 용어 설명375",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0724243e",
    "src_sha1": "61cb4d6edfd8be1d5f44a1025f46c94ff6e38d58",
-   "ko": "【미정】사전 용어 설명376",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x03e53989",
    "src_sha1": "778e5b4d8375a824bb44e90db3075a7afea01cf6",
-   "ko": "【미정】사전 용어 설명377",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3baa8434",
    "src_sha1": "31bdd5035736a77389e1ab3b24d846fb8d1dc95e",
-   "ko": "【미정】사전 용어 설명378",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3f6b9983",
    "src_sha1": "6a2a133c940ce033916f161e0be7962aa7e388dd",
-   "ko": "【미정】사전 용어 설명379",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa02554a4",
    "src_sha1": "4b4e69223306248ed31d32bde5b675576e1ebe9c",
-   "ko": "【미정】사전 용어 설명380",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa4e44913",
    "src_sha1": "e7693c9e75ab249f0996d5b65ccf4ec5256e75a7",
-   "ko": "【미정】사전 용어 설명381",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa9a76fca",
    "src_sha1": "35c8e4e06d981a8c4c18a05794581d8c567ab7c3",
-   "ko": "【미정】사전 용어 설명382",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xad66727d",
    "src_sha1": "b04f1c6a1fad1d94e8776e01a614663c68666471",
-   "ko": "【미정】사전 용어 설명383",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb3212278",
    "src_sha1": "e27cab41f53221241229efd4b0c154990e0af95f",
-   "ko": "【미정】사전 용어 설명384",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb7e03fcf",
    "src_sha1": "0f9c512a61af67d3ed40638d140c95e0c89bf292",
-   "ko": "【미정】사전 용어 설명385",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xbaa31916",
    "src_sha1": "94eda185af845ef5afa08cde73870eafba2449f6",
-   "ko": "【미정】사전 용어 설명386",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xbe6204a1",
    "src_sha1": "6d0897a27f7f454a751616248f9c81ffa9cacb92",
-   "ko": "【미정】사전 용어 설명387",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x862db91c",
    "src_sha1": "3d247e482511488561d2929e243c33916068d25f",
-   "ko": "【미정】사전 용어 설명388",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x82eca4ab",
    "src_sha1": "6b50be03b80aa1cdcd1cf46967132b530916423d",
-   "ko": "【미정】사전 용어 설명389",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x723c9578",
    "src_sha1": "7138e535bbd9b1bd85666ad5daf31500d9b47c9a",
-   "ko": "【미정】사전 용어 설명390",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x76fd88cf",
    "src_sha1": "168bb8e25e310a856851a902388cecee53bb9725",
-   "ko": "【미정】사전 용어 설명391",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7bbeae16",
    "src_sha1": "2a2f6be9ced53a31445c4546e587985a645d0af6",
-   "ko": "【미정】사전 용어 설명392",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7f7fb3a1",
    "src_sha1": "017e9944667d435e0f71e0f7a234fe3514cd3d82",
-   "ko": "【미정】사전 용어 설명393",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6138e3a4",
    "src_sha1": "751edfbb8a3d998d8afcee264b20f89e1cee6d28",
-   "ko": "【미정】사전 용어 설명394",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x65f9fe13",
    "src_sha1": "6a45fa848d72f9233127fd1bc7d3502545fe3c5a",
-   "ko": "【미정】사전 용어 설명395",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x68bad8ca",
    "src_sha1": "74acb641e0f837876beb797967be29fb950a6a30",
-   "ko": "【미정】사전 용어 설명396",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6c7bc57d",
    "src_sha1": "589e4d726f02c09a7ef9b270c6e8e76c550a53e4",
-   "ko": "【미정】사전 용어 설명397",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x543478c0",
    "src_sha1": "7d7323402352000d2d86242d7f37c045ace3b0c0",
-   "ko": "【미정】사전 용어 설명398",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x50f56577",
    "src_sha1": "f6128bd501f50425ac408eaf6144cb0ad53c100c",
-   "ko": "【미정】사전 용어 설명399",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x2f665063",
    "src_sha1": "aafc0ffe5851e481d3ba3284872684dad20e0213",
-   "ko": "【미정】사전 용어 설명400",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x2ba74dd4",
    "src_sha1": "1013f747f8417c412b574b396a072c491ee29432",
-   "ko": "【미정】사전 용어 설명401",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x26e46b0d",
    "src_sha1": "6558669f0dff7d3ee3372c6e5db002cf247ae3b6",
-   "ko": "【미정】사전 용어 설명402",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x222576ba",
    "src_sha1": "75e7a03ce96e9c31763186c604adefd50edf707b",
-   "ko": "【미정】사전 용어 설명403",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3c6226bf",
    "src_sha1": "a767ac11304a01b5d83a3c6190b14d2d2528c044",
-   "ko": "【미정】사전 용어 설명404",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x38a33b08",
    "src_sha1": "3ab72c2e73b112d3c391069f13fcb2b509997823",
-   "ko": "【미정】사전 용어 설명405",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x35e01dd1",
    "src_sha1": "e2888256a7e61d46e62f9a4c43f8c0707aef2199",
-   "ko": "【미정】사전 용어 설명406",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x31210066",
    "src_sha1": "518bdd1677cb72bb2246f0518e33bd8f67eb1440",
-   "ko": "【미정】사전 용어 설명407",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x096ebddb",
    "src_sha1": "cd509888df28cf54b22602d80f207aeb841dcb9d",
-   "ko": "【미정】사전 용어 설명408",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0dafa06c",
    "src_sha1": "b04560b82f5f1fd51ac1571973a20f0efd440c8c",
-   "ko": "【미정】사전 용어 설명409",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xfd7f91bf",
    "src_sha1": "5e893cefd4aa01619d17f645f355e6102c197b74",
-   "ko": "【미정】사전 용어 설명410",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf9be8c08",
    "src_sha1": "93c646bf4ec0cb9a860caa9f42bfdcde1498d4e7",
-   "ko": "【미정】사전 용어 설명411",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf4fdaad1",
    "src_sha1": "e6bc9d1bdf53f6864a182de7c3d6a3d2bb38dcdc",
-   "ko": "【미정】사전 용어 설명412",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xf03cb766",
    "src_sha1": "b15668e7a9beda3448504a727c2a6caa2384b072",
-   "ko": "【미정】사전 용어 설명413",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xee7be763",
    "src_sha1": "dc713b219dd17c738c0818a7890f2c6e844d4ae9",
-   "ko": "【미정】사전 용어 설명414",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xeabafad4",
    "src_sha1": "1d10fbcfe0516052e21659e565886449246f113c",
-   "ko": "【미정】사전 용어 설명415",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xe7f9dc0d",
    "src_sha1": "0ed8c9093743c993ae40b8134d6a418fc9de9979",
-   "ko": "【미정】사전 용어 설명416",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xe338c1ba",
    "src_sha1": "3e9870b730356ab42594fa90291a5242b4dcd5f2",
-   "ko": "【미정】사전 용어 설명417",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xdb777c07",
    "src_sha1": "f3f69abf132b9291f7d91b8c5cdbfb93e841a9ad",
-   "ko": "【미정】사전 용어 설명418",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xdfb661b0",
    "src_sha1": "0ebaa2d427ba3cdfc37576d20eb244674d8ee6a1",
-   "ko": "【미정】사전 용어 설명419",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x8f94ce6c",
    "src_sha1": "9a565ca05874bcbdbbc0b7861ac4b0e3615e1098",
-   "ko": "【미정】사전 용어 설명420",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x8b55d3db",
    "src_sha1": "d9f4f0c3db4696748e5a56f1779bac40a89d30eb",
-   "ko": "【미정】사전 용어 설명421",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x8616f502",
    "src_sha1": "0c3c03653ff2c79952dd72879530fc0a357e89c4",
-   "ko": "【미정】사전 용어 설명422",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x82d7e8b5",
    "src_sha1": "fdf3307bb59ed7f4b71dfd0b54b0bd92b84e2213",
-   "ko": "【미정】사전 용어 설명423",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9c90b8b0",
    "src_sha1": "e14e71e5c60114b40e34d075f58d558300b2e2cd",
-   "ko": "【미정】사전 용어 설명424",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9851a507",
    "src_sha1": "61a02b8e452d803f659f018a13b184ba9bbae32d",
-   "ko": "【미정】사전 용어 설명425",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x951283de",
    "src_sha1": "63e6521c92a1af333ea59e365bc473315383e1e6",
-   "ko": "【미정】사전 용어 설명426",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x91d39e69",
    "src_sha1": "f73f7511e3c440e6840305e86d30b5b658c3dbaa",
-   "ko": "【미정】사전 용어 설명427",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa99c23d4",
    "src_sha1": "fe3b73da0ae96b615829ec3ac0f9d2753ace3ce2",
-   "ko": "【미정】사전 용어 설명428",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xad5d3e63",
    "src_sha1": "09d8846fe8da8a5d802c696a3e9f07474e175c42",
-   "ko": "【미정】사전 용어 설명429",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x5d8d0fb0",
    "src_sha1": "8d8269204ad30afaf148096f8ade0f8a314eeaad",
-   "ko": "【미정】사전 용어 설명430",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x594c1207",
    "src_sha1": "2d2ce2ad5835bf574ebf78cfcf4b9ba148010c5a",
-   "ko": "【미정】사전 용어 설명431",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x540f34de",
    "src_sha1": "b039fbd467456b607316cb918e72defab2b69324",
-   "ko": "【미정】사전 용어 설명432",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x50ce2969",
    "src_sha1": "121d9aab5a7847e71ee6b918899cba1e79f447a5",
-   "ko": "【미정】사전 용어 설명433",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4e89796c",
    "src_sha1": "717fed3c1b4a3a4654d0ee3f312b323923fdcb70",
-   "ko": "【미정】사전 용어 설명434",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4a4864db",
    "src_sha1": "9522ae0c105fd6a31958e2374b4f857054bbc75f",
-   "ko": "【미정】사전 용어 설명435",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x470b4202",
    "src_sha1": "7a57a8c9827c2bab3ce05a527a53366a80420b01",
-   "ko": "【미정】사전 용어 설명436",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x43ca5fb5",
    "src_sha1": "dae14df09859709b38a67118ce84a9a647d0e716",
-   "ko": "【미정】사전 용어 설명437",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7b85e208",
    "src_sha1": "2baa26716936774df2855ca57768f04e3bfd278f",
-   "ko": "【미정】사전 용어 설명438",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7f44ffbf",
    "src_sha1": "b50142b4c812a7fb61175ff6fe810908a37c1129",
-   "ko": "【미정】사전 용어 설명439",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6a4271ca",
    "src_sha1": "cc086408580a7466cd36e7978351e075daef6a2b",
-   "ko": "【미정】사전 용어 설명440",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6e836c7d",
    "src_sha1": "bee292e6ed9d0babd68229f9b52c8385437fa9a1",
-   "ko": "【미정】사전 용어 설명441",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x63c04aa4",
    "src_sha1": "40b5ec36f516dd4204b4375aab3c771efeb82f05",
-   "ko": "【미정】사전 용어 설명442",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x67015713",
    "src_sha1": "78abaa04cca0dd1cffc7446657f41ae717518a19",
-   "ko": "【미정】사전 용어 설명443",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x79460716",
    "src_sha1": "2c4342017d901a60ff7c84cd96076d64ffec0bb9",
-   "ko": "【미정】사전 용어 설명444",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7d871aa1",
    "src_sha1": "5f42e713c27322eb3790ec70e2eb6117ab7d9310",
-   "ko": "【미정】사전 용어 설명445",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x70c43c78",
    "src_sha1": "4cc6aefe9a0beec0975209ebb71ec6ab002eb0c5",
-   "ko": "【미정】사전 용어 설명446",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x740521cf",
    "src_sha1": "75884b9da5ad65c19a244496f76909cc85251850",
-   "ko": "【미정】사전 용어 설명447",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x4c4a9c72",
    "src_sha1": "b3c0ef5d13b2ccdaef620c13423c9d2717fcd0dd",
-   "ko": "【미정】사전 용어 설명448",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x488b81c5",
    "src_sha1": "cf920971474bd8ccd084dfaf269991ab75ecfc20",
-   "ko": "【미정】사전 용어 설명449",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb85bb016",
    "src_sha1": "00dd94378e9f1d1e00cf9695824cdd1ff6eb9779",
-   "ko": "【미정】사전 용어 설명450",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xbc9aada1",
    "src_sha1": "ea897151d13d739122db10b3d8a49da2a9cd5095",
-   "ko": "【미정】사전 용어 설명451",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb1d98b78",
    "src_sha1": "a393dc307bb0c4d2bc6df7a9494ff4032f775c78",
-   "ko": "【미정】사전 용어 설명452",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb51896cf",
    "src_sha1": "74b0616e352fdd1e3ce5d0c17b036cea9be83cec",
-   "ko": "【미정】사전 용어 설명453",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xab5fc6ca",
    "src_sha1": "6dacb787ebcbbdf760b84094b3e41a634a338540",
-   "ko": "【미정】사전 용어 설명454",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xaf9edb7d",
    "src_sha1": "2920d4ca3d92f984879996310595aa2c00836395",
-   "ko": "【미정】사전 용어 설명455",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa2ddfda4",
    "src_sha1": "a84af826a43b7ea12aea763ff8bba4474dc31cc3",
-   "ko": "【미정】사전 용어 설명456",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa61ce013",
    "src_sha1": "68cac16ebaffe72edd538e965c88d374aac0cbaf",
-   "ko": "【미정】사전 용어 설명457",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9e535dae",
    "src_sha1": "1ac0101515963fdaa29fd6911aa8b699835a047b",
-   "ko": "【미정】사전 용어 설명458",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9a924019",
    "src_sha1": "4e81d10d43e3352d4ed3c9a977f5f5ea386a7bb8",
-   "ko": "【미정】사전 용어 설명459",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xcab0efc5",
    "src_sha1": "14d4c2f188beb831d84e2b8cc7099852eb2c6cfa",
-   "ko": "【미정】사전 용어 설명460",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xce71f272",
    "src_sha1": "c777494a52e1b28b1f9e07cf9a6d9c3f170bd561",
-   "ko": "【미정】사전 용어 설명461",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc332d4ab",
    "src_sha1": "1f7e293a51de29694f8a545a4788c833d7cac66e",
-   "ko": "【미정】사전 용어 설명462",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xc7f3c91c",
    "src_sha1": "afd630089ebf97af787a8125cb511c346dfd5c58",
-   "ko": "【미정】사전 용어 설명463",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd9b49919",
    "src_sha1": "071e5ed14b079b2341034ae3e8c9d0400b91ba97",
-   "ko": "【미정】사전 용어 설명464",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xdd7584ae",
    "src_sha1": "f621d7c41e5f94c60f5a4725d92fccebd2697883",
-   "ko": "【미정】사전 용어 설명465",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd036a277",
    "src_sha1": "6aa5cb3a8d483594975a34accb999fa282d8eb53",
-   "ko": "【미정】사전 용어 설명466",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xd4f7bfc0",
    "src_sha1": "8729bbba345c118dff45f3ca1f62c83d6e61c881",
-   "ko": "【미정】사전 용어 설명467",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xecb8027d",
    "src_sha1": "ba6a8189fbfb66f0b4545f2769bcf94f62cb9712",
-   "ko": "【미정】사전 용어 설명468",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xe8791fca",
    "src_sha1": "9587c608f06520fc4742cdd6e90acdd333b2d356",
-   "ko": "【미정】사전 용어 설명469",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x18a92e19",
    "src_sha1": "e24ae0c84501e5322b4f48b16a2307c9de29e129",
-   "ko": "【미정】사전 용어 설명470",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x1c6833ae",
    "src_sha1": "f55656ae29d122432afcef15ac58e4c5b90886f4",
-   "ko": "【미정】사전 용어 설명471",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x112b1577",
    "src_sha1": "4f604bbe1c4ebe259ac22ee9573229482e309c25",
-   "ko": "【미정】사전 용어 설명472",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x15ea08c0",
    "src_sha1": "4b74da43b090c6f71c6ac8f8617a3f22691d1119",
-   "ko": "【미정】사전 용어 설명473",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0bad58c5",
    "src_sha1": "8b6dd67a27f44fa036098502a35318f8285bd138",
-   "ko": "【미정】사전 용어 설명474",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x0f6c4572",
    "src_sha1": "f6e11f8bc34d119245d3ad3973a045e2594de652",
-   "ko": "【미정】사전 용어 설명475",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x022f63ab",
    "src_sha1": "4bfb84498a2cb65c4377b11685752a79ce9a8971",
-   "ko": "【미정】사전 용어 설명476",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x06ee7e1c",
    "src_sha1": "ee67a4978c3378682ff4a535e23d3d5a7051a0a9",
-   "ko": "【미정】사전 용어 설명477",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3ea1c3a1",
    "src_sha1": "dcb282381ef44edf1cc26e8de38ef0976fb88a39",
-   "ko": "【미정】사전 용어 설명478",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x3a60de16",
    "src_sha1": "5932e2b6568ad73a9ebc3b5657e2473de8f211b3",
-   "ko": "【미정】사전 용어 설명479",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa52e1331",
    "src_sha1": "4f9aea3ad6eb07300822bbaefc1046667d8efbae",
-   "ko": "【미정】사전 용어 설명480",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa1ef0e86",
    "src_sha1": "2ca3eb306ff2223f1da527f680e0f5f9a8fcc3f8",
-   "ko": "【미정】사전 용어 설명481",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xacac285f",
    "src_sha1": "fd3105f69df33ebffb14936ceac9c0a0a2bfd73f",
-   "ko": "【미정】사전 용어 설명482",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xa86d35e8",
    "src_sha1": "3ba84abdd79e59647de805e23b3b2ff7fadaa042",
-   "ko": "【미정】사전 용어 설명483",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb62a65ed",
    "src_sha1": "84306897fba067fdd4a4b67f8fa0cc38e9103375",
-   "ko": "【미정】사전 용어 설명484",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xb2eb785a",
    "src_sha1": "4f13764c4e8b2ded7cedc0cc09e74bf22fa0c154",
-   "ko": "【미정】사전 용어 설명485",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xbfa85e83",
    "src_sha1": "8efeaa442c36c497036318cec4f792775e95a67c",
-   "ko": "【미정】사전 용어 설명486",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0xbb694334",
    "src_sha1": "a3000e6105de8b9731b19c1aa9e5ce24d606d056",
-   "ko": "【미정】사전 용어 설명487",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x8326fe89",
    "src_sha1": "a551e723c3fd2fde7016d8d08104ceb9250954c3",
-   "ko": "【미정】사전 용어 설명488",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x87e7e33e",
    "src_sha1": "5b3527bd581e9b3080d8f3e515ef0034fd4b15dd",
-   "ko": "【미정】사전 용어 설명489",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7737d2ed",
    "src_sha1": "c003936a00c1418e591aef968789eaae2527fe36",
-   "ko": "【미정】사전 용어 설명490",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x73f6cf5a",
    "src_sha1": "4afec33148e777636701508c1aef517b273a73d2",
-   "ko": "【미정】사전 용어 설명491",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7eb5e983",
    "src_sha1": "3e79f69a9702bbdf26d2b4bb777ddc68a8a3ea35",
-   "ko": "【미정】사전 용어 설명492",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x7a74f434",
    "src_sha1": "b13e42b0ca1e3db55bca321e32775f34b06e9dda",
-   "ko": "【미정】사전 용어 설명493",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6433a431",
    "src_sha1": "0ba91bd60d2e5cb15b05cdcab655b29ffc846426",
-   "ko": "【미정】사전 용어 설명494",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x60f2b986",
    "src_sha1": "bd81e7ca68218a6b4e6278676e368e754d6d4a8c",
-   "ko": "【미정】사전 용어 설명495",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x6db19f5f",
    "src_sha1": "a137be4184c3ef79a8e3289ed9bc26ab786b4214",
-   "ko": "【미정】사전 용어 설명496",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x697082e8",
    "src_sha1": "71d4f23e55abe0cfb6678375744ed0f6e7ada2da",
-   "ko": "【미정】사전 용어 설명497",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x513f3f55",
    "src_sha1": "15f082a6a0558237efc41b3f106c28f80de9ed32",
-   "ko": "【미정】사전 용어 설명498",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x55fe22e2",
    "src_sha1": "efbfbd7a5d7209ef025f9f1949fe431eaac04b49",
-   "ko": "【미정】사전 용어 설명499",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x2ebefce4",
    "src_sha1": "77279ca80f7089704ab52aea4ed5cc7e80933a0e",
-   "ko": "【미정】사전 용어 설명500",
-   "state": "needs_review",
-   "note": "초안(Claude)."
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
   },
   {
    "id": "0x9892b7fd",
@@ -33046,7 +33046,7 @@
   {
    "id": "0x830a5f70",
    "src_sha1": "4f13344dc7b20e75551085055f1c29ab10533918",
-   "ko": "<icon btn_ru>를 짧게 누르면 날려 버리기 공격, 길게 누르면 가드 불가능한 무너뜨리기 공격이 됩니다. 공중에서는 공중 강공격이 됩니다.",
+   "ko": "<icon btn_ru>를 짧게 누르면 날려 버리기 공격, 길게 누르면 가드 불가한 무너뜨리기 공격이 됩니다. 공중에서는 공중 강공격이 됩니다.",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
@@ -34411,7 +34411,7 @@
   {
    "id": "0xfb5f5aae",
    "src_sha1": "19e942d95078706b45b06e98163c2acf9ff9595f",
-   "ko": "스킬 『클래커 부메랑』 쿨타임 감소",
+   "ko": "스킬 『크래커 부메랑』 쿨타임 감소",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
@@ -36497,7 +36497,7 @@
   {
    "id": "0x867d708c",
    "src_sha1": "7bec3841f9c25a5917c75dcdd0a505a955c7a274",
-   "ko": "스킬 『클래커 부메랑』의 재사용 시간을 단축합니다.",
+   "ko": "스킬 『크래커 부메랑』의 재사용 시간을 단축합니다.",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
@@ -42209,35 +42209,35 @@
   {
    "id": "0xcf87c3a0",
    "src_sha1": "c5b14b867040460efc978966fe3a7961bf0ef046",
-   "ko": "뭐 하는 거여?　너?　이해 불능!　이해 불능!",
+   "ko": "뭐 하는 거냐구?　너?　이해 불능!　이해 불능!",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
   {
    "id": "0xcb46de17",
    "src_sha1": "a77df55242812f61ddabe6f839832a48b8138077",
-   "ko": "정체 모를 더러운 느낌이 든당께!",
+   "ko": "정체 모를 더러운 느낌이 든다구!",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
   {
    "id": "0xc605f8ce",
    "src_sha1": "b89f34a6767b32c9589b5a5582ce3dd6f40c12fb",
-   "ko": "내가!　……………『아빠』랑 『엄마』를 저 녀석한테서 지킬 거여!",
+   "ko": "내가!　……………『아빠』랑 『엄마』를 저 녀석한테서 지킬 거라구!",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
   {
    "id": "0xc2c4e579",
    "src_sha1": "7ba2dddcb32ad81ec5e44baa18f20ba2fe02208d",
-   "ko": "뭣하면 이거, 만 엔에 팔아 줘도 된당께!　시시시",
+   "ko": "뭣하면 이거, 만 엔에 팔아 줘도 된다구!　시시시",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
   {
    "id": "0xdc83b57c",
    "src_sha1": "ca7759ffdcacba3ca0897ef3245317d58ec9f3e9",
-   "ko": "거짓말해도 바로 알 수 있당께!!",
+   "ko": "거짓말해도 바로 알 수 있다구!!",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
@@ -42265,7 +42265,7 @@
   {
    "id": "0xe98f2e18",
    "src_sha1": "ca0badc6094a0778c9d0dde5c2bb10e0232acd2d",
-   "ko": "내 『하베스트』는 무적이여!",
+   "ko": "내 『하베스트』는 무적이다구!",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
@@ -42321,7 +42321,7 @@
   {
    "id": "0x07184fce",
    "src_sha1": "97225b643414445e873d5c9334e0a337bdcc77c9",
-   "ko": "『살인마』!　너 말하는 거여!　『스기모토 레이미』도 너를 찾고 있당께!",
+   "ko": "『살인마』!　너 말하는 거라구!　『스기모토 레이미』도 너를 찾고 있다구!",
    "state": "needs_human_review",
    "note": "초안(Claude). 미승인 용어: T0136"
   },
@@ -42335,7 +42335,7 @@
   {
    "id": "0x3b96efc4",
    "src_sha1": "2932171a4bfccebc3c0438a6d96b7b4fe968d7ab",
-   "ko": "스탠드 수를 안 넣으면 불공평하당께!!",
+   "ko": "스탠드 수를 안 넣으면 불공평하다구!!",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
@@ -51855,7 +51855,7 @@
   {
    "id": "0x5a394491",
    "src_sha1": "1709fc4e5f68e77531a4106d1306ec11c15c80c4",
-   "ko": "이 에시디시의 유법(모드)에서 언제까지 도망 다닐 수 있을까",
+   "ko": "이 에시디시의 모드에서 언제까지 도망 다닐 수 있을까",
    "state": "needs_human_review",
    "note": "초안(Claude). 용어집 없음: 流法→유법(모드)"
   },
@@ -57546,7 +57546,7 @@
   {
    "id": "0x9b022c18",
    "src_sha1": "7ba2dddcb32ad81ec5e44baa18f20ba2fe02208d",
-   "ko": "뭣하면 이거, 만 엔에 팔아 줘도 된당께!　시시시",
+   "ko": "뭣하면 이거, 만 엔에 팔아 줘도 된다구!　시시시",
    "state": "needs_review",
    "note": "초안(Claude)."
   },
@@ -64735,14 +64735,14 @@
   {
    "id": "0x56dd739d",
    "src_sha1": "11b63f205c7c1b99bed5af15142c06ff95f32b9d",
-   "ko": "열을 다루는 유법(모드)",
+   "ko": "열을 다루는 모드",
    "state": "needs_human_review",
    "note": "초안(Claude). 용어집 없음: 流法(モード)→유법(모드)"
   },
   {
    "id": "0xbc900823",
    "src_sha1": "c7989d647e3c41271df48d5f7a51ed0847607944",
-   "ko": "바람의 유법(모드)",
+   "ko": "바람의 모드",
    "state": "needs_human_review",
    "note": "초안(Claude). 용어집 없음: 流法(モード)→유법(모드)"
   },

@@ -4,352 +4,352 @@
   {
    "id": "0xe96d70d8",
    "src_sha1": "2346dc376712238fcb9791c56585c582b86e8a57",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ニギギイイイ",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 울음소리·의성어로 보고 원문 유지 UI 파일 동일 원문 재사용."
   },
   {
    "id": "0xedac6d6f",
    "src_sha1": "2346dc376712238fcb9791c56585c582b86e8a57",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ニギギイイイ",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 울음소리·의성어로 보고 원문 유지 UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x69dc83f1",
    "src_sha1": "49d9dd31c5db57869214091b2882bc6cfdecb0ca",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "여기서 처음으로, 이 펫숍은 적의 존재를 눈치챈 듯하다",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6d1d9e46",
    "src_sha1": "bdb1d261a8dc2496d3969b50d3c4367edc92215b",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "キョキョッ!　キョオーーーンッ!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x605eb89f",
    "src_sha1": "6aa9c6c022e86bf9f98b73411cfaaf19aded9dce",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "흥…",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x649fa528",
    "src_sha1": "96ca77d8eb3cedb310d7fe62946acbffe272f506",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ゲゲゲゲッ",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x54f57617",
    "src_sha1": "83d19bdf96fc2396dc0bac638d0b9a6990d5e462",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "グガガッ!?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x0f54aadd",
    "src_sha1": "7bde47faf0bbfc262f65bd431f3c52007e66afcf",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "キョキョッ…!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x53738d35",
    "src_sha1": "f4a239895ad127d78a8b42544915001d439bb5f6",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "キョキョッ、キョーーーン",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x08d251ff",
    "src_sha1": "2c5de10cef4c254233b63750fcb915843305209e",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "キョオオ～～ン",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x5b3fb189",
    "src_sha1": "34f980a25f9e20b59af68cdb7e57a0db65b7f6ad",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "여기서 처음으로, 이 펫숍은\n이기가 자신과 같은 스탠드 유저라는 것을 눈치챈 듯하다",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x009e6d43",
    "src_sha1": "6d56ea2eaac1a40e65e0fc7c31a9442184474d82",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이 새의 이름은―펫숍―",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xd52b18df",
    "src_sha1": "9d1d3288f929da9d613a21e4647f92092914f124",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ニギギギィ…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x8e8ac415",
    "src_sha1": "41852ec803cbc1a8f596a664a28eb9cbfca6dc3f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "キョォオーンッ!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x3f086553",
    "src_sha1": "4a7383e6de8851a19937fe55fdbb4c03e250b4d8",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "グッグッグ!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x64a9b999",
    "src_sha1": "f26b32c21d9a1d6301a8f59595cdc7bd086f5fb0",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "グガガガ…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x82abbb47",
    "src_sha1": "2346dc376712238fcb9791c56585c582b86e8a57",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ニギギイイイ",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 울음소리·의성어로 보고 원문 유지 UI 파일 동일 원문 재사용."
   },
   {
    "id": "0xd90a678d",
    "src_sha1": "3ebae8cdfec23d309ffba1b6e8aa374f454754c5",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ギョオッ!",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x8ae787fb",
    "src_sha1": "ed7341de2fecafe17adecf5b46211c7afec0b870",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "キョキョーーンッ",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xd1465b31",
    "src_sha1": "eed9e084b92f6e4d0c97212c0b254db0a897baa0",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ゲゲゲゲッ!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x75fbba92",
    "src_sha1": "6765d091f0f567e8e623ccc0493f0ac413e69d96",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ニヤリ",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x01a0b1cb",
    "src_sha1": "86bc8b0657137609e9c4ffb28ee49bb68055bc47",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "グギギギィ",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x60ed3aa4",
    "src_sha1": "ae6ccc3857a3648008faa392f412828153ba6c9c",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "カシャ!　カシャ!　カシャ!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6dae1c7d",
    "src_sha1": "0fd6732de729323bb80125e32c10f53cae5a9577",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ギィ…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xeffd04de",
    "src_sha1": "1cc7719f3784ac54cd608342b964be6603161a11",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "キョキョオオ～～ン!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb45cd814",
    "src_sha1": "06eeca2e91922c6b53474e8f880ececc2d2b43f1",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "흥!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe87bfffc",
    "src_sha1": "b77969c809263ab26f8a8aa1a70afd80adee351e",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ググギギ…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb3da2336",
    "src_sha1": "93891e880d8cdbccaa9ef7c2d8754d418544c323",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "グガガガガガッ",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 울음소리·의성어로 보고 원문 유지 UI 파일 동일 원문 재사용."
   },
   {
    "id": "0xe037c340",
    "src_sha1": "aa00aa242508ebafa2dff95985ba0234ef41a4f5",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "グギッ、グギギ",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xbb961f8a",
    "src_sha1": "2346dc376712238fcb9791c56585c582b86e8a57",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ニギギイイイ",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 울음소리·의성어로 보고 원문 유지 UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x6e236a16",
    "src_sha1": "633cfa093b96989843afa65cefc9900c9514ab58",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "キョオーン!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x3582b6dc",
    "src_sha1": "dad62fbea54a8550dd64f83dfbedcaaf30b76e72",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "グギギギッ!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x8400179a",
    "src_sha1": "c974163e60b7ec030cdfa7eb451ea19dafa9547b",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "グガッ、グガガッ!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xdfa1cb50",
    "src_sha1": "a4c5d25568089a1276c35226ae12f9b4a789403e",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "キョキョォーンッ!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x33a94ca5",
    "src_sha1": "95ac282e884a78ae1a92a69248b84d8ca852aff8",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ペロ…",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x6808906f",
    "src_sha1": "43e20ce24ab76008a4d52505131367d7f3c86d3b",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ギギギ…",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x3be57019",
    "src_sha1": "fb97059da24cfe8a731773070220b084ba9c7b35",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "グガガガッ、グガガッ",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6044acd3",
    "src_sha1": "4c2e6c692bce3f85408aabf847c0325bfec8e843",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ニギギギギィ…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6be73e06",
    "src_sha1": "ad5de903f8d6e86f95c029e9cb8243647efae789",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "キョーーーン",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x554be847",
    "src_sha1": "02204ece76c47963e03cd3ca1c7c6d3b025e9aa0",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ギッギッギッ",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x822938bd",
    "src_sha1": "07a3f8c8ad3af1f950c928c2a626584cdd33e603",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ニギィ…!",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x86e8250a",
    "src_sha1": "463eed24111872831464c0f08bdc2e1d7a5f2c6f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "クワッ!",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x92a58e5a",
    "src_sha1": "9d0adc1860a406a068060b607ea682ec79605373",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "グガッ",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x966493ed",
    "src_sha1": "0a58146a1614628007f574a50e6bfa20e1f32570",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "グガガッ",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb1a22092",
    "src_sha1": "3ebae8cdfec23d309ffba1b6e8aa374f454754c5",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ギョオッ!",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0xb5633d25",
    "src_sha1": "445d8c5f6aafda89c433cba5dcd1abd61f01bd65",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ギイッ!",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0xbe658226",
    "src_sha1": "eb1fdabec6e1ed306e0dc669f7df33a75718441c",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "グギギギィ…",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 울음소리·의성어로 보고 원문 유지 UI 파일 동일 원문 재사용."
   },
   {
    "id": "0xbaa49f91",
    "src_sha1": "b77969c809263ab26f8a8aa1a70afd80adee351e",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ググギギ…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xcd1441e5",
    "src_sha1": "19b35463f75764b42aea70d797ee293392ec5f06",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "ニギギイ",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6827b61b",
    "src_sha1": "9d0adc1860a406a068060b607ea682ec79605373",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "グガッ",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   }
  ]
 }

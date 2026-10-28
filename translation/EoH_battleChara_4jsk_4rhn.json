@@ -4,93 +4,93 @@
   {
    "id": "0x3032bb0c",
    "src_sha1": "7292eb5b708fc52cb1dd5896b9c2c4147f869c6a",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "해 볼까요~!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x3d719dd5",
    "src_sha1": "06eeca2e91922c6b53474e8f880ececc2d2b43f1",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "흥!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x39b08062",
    "src_sha1": "c44f9eea62db98c22927c6ed1b20983bb8438653",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "칫!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x27f7d067",
    "src_sha1": "1491a80b419f45e1e5725f5fa0514e1379e1743c",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "크…크흠!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x2336cdd0",
    "src_sha1": "9ee5a7b516867d4223b657a38a0d186fc9409542",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "헤븐즈 도어!",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0103"
   },
   {
    "id": "0x2e75eb09",
    "src_sha1": "7b93b861b740c15fa58ade4718e3f62f6e97c537",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "알겠나, 죠스케",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x2ab4f6be",
    "src_sha1": "626b5005844d7de2416e700cfe49a99cdb6109f5",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "분명히 말하지",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x12fb4b03",
    "src_sha1": "207d94f93b47c548e985668f298de5d1b92823f4",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "나는 전부터 너를…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x163a56b4",
    "src_sha1": "993480d7c8845d5b1c9442de68f16d78c9de5757",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "싫어했다",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe6ea6767",
    "src_sha1": "a4c90d752a285928dec79c65331514da7cc51171",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "잠깐!?　어…어쩔 수 없지!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe22b7ad0",
    "src_sha1": "ac59f6cafe3873ea4a0f7c33a8703c555163cbf6",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "도라라라라라라라라라라, 도라앗!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xef685c09",
    "src_sha1": "4576558d5f3ba14a23481d14275766303c996d71",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "너 뭐 하는 거야!?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xeba941be",
    "src_sha1": "06eeca2e91922c6b53474e8f880ececc2d2b43f1",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "흥!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   }
  ]
 }

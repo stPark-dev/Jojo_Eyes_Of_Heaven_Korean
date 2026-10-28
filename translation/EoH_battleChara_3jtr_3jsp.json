@@ -4,93 +4,93 @@
   {
    "id": "0x7ce65341",
    "src_sha1": "cd1e699887b7b2f9b871f55b28c988d3fa5023c1",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "내 차례로구먼!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x71a57598",
    "src_sha1": "e991109e861ea0a3c931c44c98f8b74e1387f0a5",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "흥!",
+   "state": "needs_review",
+   "note": "초안(Claude). UI 파일 동일 원문 재사용."
   },
   {
    "id": "0x7564682f",
    "src_sha1": "5a94b3b1380abb16d8f938799c6b5bfae6a34e18",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "가자, 영감",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6b23382a",
    "src_sha1": "607f87dd9a8fd95f1d334522cdb080b9aec5d602",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "맡겨 둬!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6fe2259d",
    "src_sha1": "3b66c0a9a40857ed3c67b1506d94cdba442b9781",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "허밋 퍼플!!",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0090"
   },
   {
    "id": "0x62a10344",
    "src_sha1": "8511d829db6cd1165da080f2ffbaab95f47a2033",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "앗…!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x66601ef3",
    "src_sha1": "293c2d949378130c4c774586035b990bf8be900e",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "오 마이 갓!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x5e2fa34e",
    "src_sha1": "4e359451874ed6eddda91fccf9b8684775f59a8d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이거 참…",
+   "state": "needs_human_review",
+   "note": "초안(Claude). やれやれ 말버릇 표기 확인"
   },
   {
    "id": "0x5aeebef9",
    "src_sha1": "154a3cfe1bef5511bd50e6eedae702c7cb76e3fd",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "…라고나 할까!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xaa3e8f2a",
    "src_sha1": "e8bd640377e3cb4c09aacd86bd1249dadb4b6ef3",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "지금이다!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xaeff929d",
    "src_sha1": "03a74f4639ab93621af67ae9e85f550dedfae02f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "오라오라오라오라오라오라, 오라아!!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa3bcb444",
    "src_sha1": "1531592bac41a538f7003f0d7fd5d52b29f65b29",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "능구렁이 같은 영감이군",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa77da9f3",
    "src_sha1": "ce93967583ef279021d4c8ad6b9a8464ae195905",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "니히히히",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   }
  ]
 }

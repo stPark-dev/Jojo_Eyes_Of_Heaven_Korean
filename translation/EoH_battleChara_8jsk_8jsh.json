@@ -4,79 +4,79 @@
   {
    "id": "0x81338fc5",
    "src_sha1": "b69f8ee1124f061817db6403b4d36b7ec194a701",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "동료지…?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x8c70a91c",
    "src_sha1": "9d9d5bbfc90ad912475efc8cabd165e0313d88c9",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "물론이지",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x88b1b4ab",
    "src_sha1": "5bce7acb5897d529d38c07aabf675428a5ff0e9f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "간다~!　죠스케~!",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x96f6e4ae",
    "src_sha1": "d13c288af7eb5da353d0909b7628b8deaacedadc",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "조심해~",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x9237f919",
    "src_sha1": "2c7d635bc2addc251dc31be2ecb33560b0a958c5",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "소프트&웨트!!",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 미승인 용어: T0127"
   },
   {
    "id": "0x9f74dfc0",
    "src_sha1": "c6e86688247d8d4324ed031c26c0728f6ffd5fa4",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "내가 끝장내 주마…\n",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x1c635308",
    "src_sha1": "c459c84dde34cbb52a68f12bff4d775a94ae6bb3",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "내가 끝장내 주마…\n조심해~",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x112075d1",
    "src_sha1": "4a8a95e8a9b739eb55ca31896585df8e366e9429",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "으앗!?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x9bb5c277",
    "src_sha1": "c10b7432865a86d9674d9ca75030cd0a78fde3d0",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "지면의 마찰을 빼앗아 뒀다",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa3fa7fca",
    "src_sha1": "8ebcc246419667c4a9b4a6adf3f90094fb72c9a1",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "우아아아아아~~",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa73b627d",
    "src_sha1": "c4c4e0f361b15da2eb67b1751b91f8daf34d320a",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "아아아프다고오오~",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   }
  ]
 }
