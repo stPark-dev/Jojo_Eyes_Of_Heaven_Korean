@@ -77,13 +77,13 @@ python3 scripts/textdb.py status
 
 ## 4. 진행 중 / 다음 작업
 
-### 4-1. 용어집 표기 조사 (진행 중이었음)
-- 작업 PC에서 조사 에이전트 3개가 돌던 중이었습니다. 결과가 저장소에 없다면 **새로 조사**해야 합니다.
-- 입력: `translation/glossary.json`의 `terms` (277개: 인명·스탠드명·지명·파트 제목). 3묶음(92/92/93개)으로 나눠 병렬 조사했음.
-- 출력 형식(항목별): `ko`, `alt`, `category`(character/stand/place/part_title/other), `confidence`(verified / anime_only / derived / unverified), `evidence`[{edition, url, quote}], `note`.
-- 규칙: **애니북스 정발 근거(URL + 원문 인용)가 있을 때만 verified**. 근거 없으면 unverified로 남기고 사용자 검수. 서울문화사 표기는 `alt`에만.
-- 참고: 나무위키 「스타 플래티나」 문서는 스탠드 표를 "애니북스 6부 스톤 오션 정발본 기준"으로 작성했다고 밝힘. 팬 자료는 '플래티나/플라티나'가 섞여 있으니 주의.
-- 결과를 `translation/glossary.json`에 병합할 때는 `ko/alt/category/evidence/note`만 채우고 `state`는 사용자 승인 전까지 `unresolved` 유지.
+### 4-1. 용어집 (조사 완료, 사용자 승인 대기)
+- `translation/glossary.json` 277개 전부 조사 반영: **verified 125 / derived 45 / unverified 107**. 모든 항목 `state=unresolved`.
+- 분류: 인물 161, 스탠드 64, 지명 21, 파트 제목 16, 기타 15.
+- 3부 스탠드 18개에는 `needs_book_check` 표시 (정책상 단행본 본문 확인 전 확정 금지).
+- `open_questions`에 결정이 필요한 9건 기록 (定助/仗助 구분, 은두루/은두르, D4C 영문 유지 여부, 이집트 9영신 '신' 포함 여부, '스탠드 유저' 띄어쓰기 등).
+- 근거 주의: 일부 인용문은 웹 요약 결과라 원문 글자 대조가 안 됨 → 승인 전 URL 재확인 권장. yes24 일부 페이지는 자동 수집이 막힘.
+- 다음: 사용자가 항목별로 `state`를 `approved`로 바꾸면 `python3 scripts/textdb.py check-glossary`가 번역 전체에 일관성 검사를 적용.
 
 ### 4-2. 번역
 1. 용어집 승인 → 2. `messageInfo_common`(UI) 초안 → 3. 스토리(`messageInfo_adv`), 전투(`messageInfo_btl`), 캐릭터 대사(`EoH_battleChara_*`) 순.

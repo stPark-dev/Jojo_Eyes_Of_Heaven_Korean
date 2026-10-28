@@ -146,7 +146,7 @@
      "quote": "말라붙은 강; 디에고 브란도"
     }
    ],
-   "note": "'디오'는 정발 1권 제목 '침략자 디오'. '디오 브란도' 전체 표기는 애니북스판 리뷰에서 확인, '브란도'는 7부 정발 챕터 제목 '디에고 브란도'와도 일치. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
+   "note": "'디오'는 정발 1권 제목 '침략자 디오'. '디오 브란도' 전체 표기는 애니북스판 리뷰에서 확인, '브란도'는 7부 정발 챕터 제목 '디에고 브란도'와도 일치. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스)) | 정책: 1부 '디오', 3부 이후 'DIO'. 회상·특수 대사는 장면 맥락으로 판단",
    "msg_ids": [
     "0x8fe31c0c"
    ],
@@ -166,7 +166,7 @@
      "quote": "침략자 디오"
     }
    ],
-   "note": "정발 1권 제목 '침략자 디오'. 3부 이후의 ＤＩＯ(T0028)와는 구분해 라틴 문자 DIO로 표기. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
+   "note": "정발 1권 제목 '침략자 디오'. 3부 이후의 ＤＩＯ(T0028)와는 구분해 라틴 문자 DIO로 표기. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스)) | 정책: 1부 '디오', 3부 이후 'DIO'. 회상·특수 대사는 장면 맥락으로 판단",
    "msg_ids": [
     "0x93f0d4e9"
    ],
@@ -690,7 +690,7 @@
      "quote": "DIO의 세계 ①"
     }
    ],
-   "note": "정발판은 원서처럼 라틴 대문자 'DIO'를 그대로 씀(1부 '디오'와 구분). (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
+   "note": "정발판은 원서처럼 라틴 대문자 'DIO'를 그대로 씀(1부 '디오'와 구분). (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스)) | 정책: 1부 '디오', 3부 이후 'DIO'. 회상·특수 대사는 장면 맥락으로 판단",
    "msg_ids": [
     "0xb9b306fc",
     "0xa5a0ce19"
@@ -2064,7 +2064,9 @@
     "0x79a0ab22",
     "0x65b363c7"
    ],
-   "confidence": "verified"
+   "confidence": "verified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0090",
@@ -2079,7 +2081,9 @@
     "0xb21f25a1",
     "0xae0ced44"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0091",
@@ -2096,7 +2100,9 @@
     "0x9da72872",
     "0x81b4e097"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0092",
@@ -2114,1284 +2120,1933 @@
     "0x5374324e",
     "0x4f67faab"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0093",
    "src": "シルバーチャリオッツ",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "실버 채리엇",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/11187846",
+     "quote": "실버 채리엇의 이도류와 스타 플래티나가 격돌한다!!"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "실버 채리엇 ①"
+    }
+   ],
+   "note": "애니북스 3부 21권 책소개 및 챕터 제목.",
    "msg_ids": [
     "0x68bd2372",
     "0x74aeeb97"
-   ]
+   ],
+   "confidence": "verified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0094",
    "src": "ザ・フール",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "더 풀",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "'더 풀' 이기와 '게브' 은두루 ①"
+    }
+   ],
+   "note": "3부 챕터 제목(원제 愚者のイギーとゲブ神のンドゥール). (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간)",
    "msg_ids": [
     "0x8958eadd",
     "0x954b2238"
-   ]
+   ],
+   "confidence": "verified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0095",
    "src": "クリーム",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "크림",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 이름을 직접 확인하지 못함. 3부 챕터 제목은 \"아공간의 독기 바닐라 아이스\"뿐임. 나무위키 문서명 \"크림(죠죠의 기묘한 모험)\"을 근거로 한 추정.",
    "msg_ids": [
     "0x2f687321",
     "0x337bbbc4"
-   ]
+   ],
+   "confidence": "unverified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0096",
    "src": "ザ・ワールド",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "더 월드",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/11559703",
+     "quote": "이것이 DIO의 스탠드 '더 월드'의 능력인가?!"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/33959517",
+     "quote": "격돌하는 '스타 플래티나'와 '더 월드'! 마지막 승자는 과연 누구인가?!"
+    }
+   ],
+   "note": "애니북스 27·28권 책소개. 28권 문구는 3부 세트 페이지에서 확인함.",
    "msg_ids": [
     "0x4d42e764",
     "0x51512f81"
-   ]
+   ],
+   "confidence": "verified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0097",
    "src": "クレイジー・ダイヤモンド",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "크레이지 다이아몬드",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/15111992",
+     "quote": "크레이지 다이아몬드는 부서지지 않는다"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_4_Volumes",
+     "quote": "크레이지 다이아몬드는 부서지지 않는다 ①"
+    }
+   ],
+   "note": "애니북스 46권 책소개 표제 및 챕터 제목.",
    "msg_ids": [
     "0x61ad99f6",
     "0x7dbe5113"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0098",
    "src": "ザ・ハンド",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "더 핸드",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(4부 챕터 제목은 \"니지무라 형제\"). 나무위키 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0x8958cfcb",
     "0x954b072e"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0099",
    "src": "エコーズ",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "에코즈",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/12799456",
+     "quote": "히로세 코이치(에코즈) ①"
+    }
+   ],
+   "note": "애니북스 31권 목차. \"에코스\"는 사용하지 않음.",
    "msg_ids": [
     "0xf81f8f31",
     "0xe40c47d4"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0100",
    "src": "エコーズＡＣＴ１",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "에코즈 ACT1",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/12799456",
+     "quote": "히로세 코이치(에코즈) ①"
+    }
+   ],
+   "note": "기본명 \"에코즈\"(정발 확인)에 ACT1을 붙인 표기. 정발판의 ACT 표기 방식(ACT1/ACT 1/액트)은 확인하지 못함.",
    "msg_ids": [
     "0xe658df34",
     "0xfa4b17d1"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0101",
    "src": "エコーズＡＣＴ２",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "에코즈 ACT2",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/12799456",
+     "quote": "히로세 코이치(에코즈) ①"
+    }
+   ],
+   "note": "기본명 \"에코즈\"(정발 확인)에 ACT2을 붙인 표기. 정발판의 ACT 표기 방식(ACT2/ACT 2/액트)은 확인하지 못함.",
    "msg_ids": [
     "0xe299c283",
     "0xfe8a0a66"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0102",
    "src": "エコーズＡＣＴ３",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "에코즈 ACT3",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/12799456",
+     "quote": "히로세 코이치(에코즈) ①"
+    }
+   ],
+   "note": "기본명 \"에코즈\"(정발 확인)에 ACT3을 붙인 표기. 정발판의 ACT 표기 방식(ACT3/ACT 3/액트)은 확인하지 못함.",
    "msg_ids": [
     "0xefdae45a",
     "0xf3c92cbf"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0103",
    "src": "ヘブンズ・ドアー",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "헤븐즈 도어",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(로한 관련 챕터 제목에 스탠드명이 없음). 나무위키 문서명 \"헤븐즈 도어\"를 근거로 한 추정.",
    "msg_ids": [
     "0xd5f15c7a",
     "0xc9e2949f"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0104",
    "src": "ハーヴェスト",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "하베스트",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/14376284",
+     "quote": "‘시게찌’의 하베스트 ①"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/33960713",
+     "quote": "스탠드의 이름은 하베스트(수확), 스탠드유저의 이름은 얀구 시게키요, '시게찌'였다."
+    }
+   ],
+   "note": "애니북스 36권 목차, 37권 책소개(4부 세트 페이지).",
    "msg_ids": [
     "0x9a2cb212",
     "0x863f7af7"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0105",
    "src": "レッド・ホット・チリ・ペッパー",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "레드 핫 칠리 페퍼",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/12799459",
+     "quote": "레드 핫 칠리 페퍼 ①"
+    }
+   ],
+   "note": "애니북스 33·34권 목차.",
    "msg_ids": [
     "0x1c9d2a92",
     "0x008ee277"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0106",
    "src": "キラークイーン",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "킬러 퀸",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(챕터 제목은 \"시어하트 어택\", \"바이츠 더 더스트\"뿐임). 나무위키 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0xf565996e",
     "0xe976518b",
     "0xf826bfb7",
     "0xe4357752"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0107",
    "src": "ゴールド・エクスペリエンス",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "골드 익스피리언스",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/33961325",
+     "quote": "골드 익스피리언스의 역습 적 스탠드 ‘비치 보이’를 쓰러뜨리고 베네치아로 향하던 부차라티 일행."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/23461709",
+     "quote": "골드 익스피리언스 레퀴엠 ①"
+    }
+   ],
+   "note": "애니북스 5부 54권 책소개, 63권 목차.",
    "msg_ids": [
     "0xa5cada91",
     "0xb9d91274"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0108",
    "src": "ゴールド・Ｅ・レクイエム",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "골드 E 레퀴엠",
+   "alt": [
+    "골드 익스피리언스 레퀴엠"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/23461709",
+     "quote": "골드 익스피리언스 레퀴엠 ①"
+    }
+   ],
+   "note": "게임의 축약형(ゴールド・Ｅ・レクイエム). 정발판의 정식명은 \"골드 익스피리언스 레퀴엠\"(63권 목차)임. 글자 수 제한이 없다면 정식명을 쓰는 것을 권장. 축약형은 이를 바탕으로 만든 표기임.",
    "msg_ids": [
     "0x06d884bc",
     "0x1acb4c59"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0109",
    "src": "スティッキィ・フィンガーズ",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "스티키 핑거즈",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(5부 목차와 책소개에 없음). 나무위키 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0x70df0ead",
     "0x6cccc648"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0110",
    "src": "セックス・ピストルズ",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "섹스 피스톨즈",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/20113584",
+     "quote": "섹스 피스톨즈 등장 ①"
+    }
+   ],
+   "note": "애니북스 49·50권 목차. 50권 yes24 목차에 오기 \"섹스 페스톨즈 ③\"이 1건 있음.",
    "msg_ids": [
     "0xa64f503d",
     "0xba5c98d8"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0111",
    "src": "エアロスミス",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "에어로스미스",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/20113595",
+     "quote": "나란차의 에어로스미스 ①"
+    }
+   ],
+   "note": "애니북스 50·51권 목차.",
    "msg_ids": [
     "0xf01ed471",
     "0xec0d1c94"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0112",
    "src": "パープル・ヘイズ",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "퍼플 헤이즈",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/20113597",
+     "quote": "맨 인 더 미러와 퍼플 헤이즈 ①"
+    }
+   ],
+   "note": "애니북스 51·52권 목차. 애니북스 소설 제목 \"수치심 없는 퍼플 헤이즈\"에서도 같은 표기를 씀.",
    "msg_ids": [
     "0x97fdcce8",
     "0x8bee040d"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0113",
    "src": "キング・クリムゾン",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "킹 크림슨",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/23461655",
+     "quote": "킹 크림슨의 수수께끼 ①"
+    }
+   ],
+   "note": "애니북스 56권 목차.",
    "msg_ids": [
     "0x094c07fe",
     "0x155fcf1b"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0114",
    "src": "ストーン・フリー",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "스톤 프리",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/30694453",
+     "quote": "스톤 프리 1 -187"
+    }
+   ],
+   "note": "애니북스 스톤 오션 1권 목차.",
    "msg_ids": [
     "0x1771b0d8",
     "0x0b62783d"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0115",
    "src": "キッス",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "키스",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/45008509",
+     "quote": "사랑과 복수의 키스 1 - 111"
+    }
+   ],
+   "note": "애니북스 스톤 오션 6권 목차(원제 愛と復讐のキッス. 스탠드명을 건 제목). 본문 스탠드 표기는 따로 확인하지 못함.",
    "msg_ids": [
     "0x601c0c22",
     "0x7c0fc4c7"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0116",
    "src": "ダイバー・ダウン",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "다이버 다운",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(스톤 오션 목차에 없음). 나무위키 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0x8406dc94",
     "0x98151471"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0117",
    "src": "ホワイトスネイク",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "화이트스네이크",
+   "alt": [
+    "화이트 스네이크"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/45008517",
+     "quote": "화이트스네이크-추적자 1 - 149"
+    }
+   ],
+   "note": "애니북스 스톤 오션 10·11권 목차. 정발판은 붙여 씀.",
    "msg_ids": [
     "0x5ebe1c1c",
     "0x42add4f9"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0118",
    "src": "Ｃ－ＭＯＯＮ",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "C-MOON",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/58543961",
+     "quote": "C-MOON 1 - 107"
+    }
+   ],
+   "note": "애니북스 스톤 오션 16·17권 목차. 정발판은 로마자를 그대로 씀.",
    "msg_ids": [
     "0x492d5975",
     "0x553e9190"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0119",
    "src": "メイド・イン・ヘブン",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "메이드 인 헤븐",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/58543971",
+     "quote": "메이드 인 헤븐 1 - 47"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/58544263",
+     "quote": "메이드 인 헤븐 빛에 휩싸여 자취를 감춘 신부는 드디어 ‘천국의 때’를 손에 넣는다!"
+    }
+   ],
+   "note": "애니북스 스톤 오션 17권 목차 및 책소개.",
    "msg_ids": [
     "0xc3d4197a",
     "0xdfc7d19f"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0120",
    "src": "タスク",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "터스크",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/13895604",
+     "quote": "#25 송곳니(터스크) (1)"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "송곳니(터스크) ①"
+    }
+   ],
+   "note": "애니북스 SBR 5권 목차. 챕터 제목은 \"송곳니(터스크)\"이며 \"태스크\"는 쓰지 않음.",
    "msg_ids": [
     "0xe7860fcb",
     "0xfb95c72e"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0121",
    "src": "タスクＡＣＴ１",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "터스크 ACT1",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/13895604",
+     "quote": "#25 송곳니(터스크) (1)"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "송곳니(터스크) ①"
+    }
+   ],
+   "note": "기본명 \"터스크\"(정발 확인)에 ACT1을 붙인 표기. 정발판의 ACT 표기 방식은 확인하지 못함.",
    "msg_ids": [
     "0xe347127c",
     "0xff54da99"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0122",
    "src": "タスクＡＣＴ２",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "터스크 ACT2",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/13895604",
+     "quote": "#25 송곳니(터스크) (1)"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "송곳니(터스크) ①"
+    }
+   ],
+   "note": "기본명 \"터스크\"(정발 확인)에 ACT2을 붙인 표기. 정발판의 ACT 표기 방식은 확인하지 못함.",
    "msg_ids": [
     "0xee0434a5",
     "0xf217fc40"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0123",
    "src": "タスクＡＣＴ３",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "터스크 ACT3",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/13895604",
+     "quote": "#25 송곳니(터스크) (1)"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "송곳니(터스크) ①"
+    }
+   ],
+   "note": "기본명 \"터스크\"(정발 확인)에 ACT3을 붙인 표기. 정발판의 ACT 표기 방식은 확인하지 못함.",
    "msg_ids": [
     "0xeac52912",
     "0xf6d6e1f7"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0124",
    "src": "タスクＡＣＴ４",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "터스크 ACT4",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/13895604",
+     "quote": "#25 송곳니(터스크) (1)"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "송곳니(터스크) ①"
+    }
+   ],
+   "note": "기본명 \"터스크\"(정발 확인)에 ACT4을 붙인 표기. 정발판의 ACT 표기 방식은 확인하지 못함.",
    "msg_ids": [
     "0xf4827917",
     "0xe891b1f2"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0125",
    "src": "Ｄｉｒｔｙ ｄｅｅｄｓ ｄｏｎｅ ｄｉｒｔ ｃｈｅａｐ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "더없이 손쉽게 자행되는 더러운 짓거리",
+   "alt": [
+    "Dirty Deeds Done Dirt Cheap",
+    "아주 간단히 행해지는 지독한 행위(비공식)"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/76649501",
+     "quote": "#62 더없이 손쉽게 자행되는 더러운 짓거리"
+    },
+    {
+     "edition": "기타",
+     "url": "https://namu.wiki/w/D4C",
+     "quote": "상술하였듯 정발 번역명은 『더없이 손쉽게 자행되는 더러운 짓거리』가 되었다."
+    }
+   ],
+   "note": "정발판은 원작의 일본어 번역문(いともたやすく行われるえげつない行為)에 해당하는 부분을 한국어로 옮김(SBR 16권 목차). 게임 원문은 영문이므로, 영문을 그대로 두고 이 한국어를 병기하는 방안도 검토할 것.",
    "msg_ids": [
     "0x39dc8359"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0126",
    "src": "Ｄ４Ｃ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "D4C",
+   "alt": [
+    "D4C(디포시)"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/76649507",
+     "quote": "#66 D4C디포시 ①"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "D4C ①"
+    }
+   ],
+   "note": "애니북스 SBR 17~19권 목차. yes24 목차에는 읽기 \"디포시\"가 붙어 있음(원작의 후리가나 처리로 보임).",
    "msg_ids": [
     "0x25cf4bbc"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0127",
    "src": "ソフト＆ウェット",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "소프트&웨트",
+   "alt": [
+    "소프트 앤 웨트"
+   ],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "8부는 처음부터 문학동네에서 나왔고 애니북스판이 없음. 문학동네판 표기도 확인하지 못함. 나무위키 문서명 \"소프트&웨트\"를 근거로 한 추정.",
    "msg_ids": [
     "0xdf1f6bee",
     "0xc30ca30b"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0128",
    "src": "ゲブ神",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "게브",
+   "alt": [
+    "게브 신",
+    "게브신"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "'더 풀' 이기와 '게브' 은두루 ①"
+    }
+   ],
+   "note": "원제 '愚者のイギーとゲブ神のンドゥール'의 ゲブ神이 정발판 챕터 제목에서 '게브'로 옮겨짐(神 생략). 본문 스탠드 표기에 '신'이 붙는지는 확인하지 못함. 독자들은 흔히 '게브 신'이라고 부름(나무위키). (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간)",
    "msg_ids": [
     "0xefc400c7",
     "0xf3d7c822"
-   ]
+   ],
+   "confidence": "verified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0129",
    "src": "バステト女神",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "바스테트",
+   "alt": [
+    "바스테트 여신"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "'바스테트' 머라이어 ①"
+    }
+   ],
+   "note": "원제 'バステト女神のマライア'가 정발판 챕터 제목에서 '바스테트' 머라이어로 옮겨짐(女神 생략). 본문 표기는 확인하지 못함. (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간)",
    "msg_ids": [
     "0xa89f8ed4",
     "0xb48c4631"
-   ]
+   ],
+   "confidence": "verified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0130",
    "src": "ホルス神",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "호루스",
+   "alt": [
+    "호루스 신",
+    "호루스신"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "'더 풀' 이기와 '게브' 은두루 ①"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "'바스테트' 머라이어 ①"
+    }
+   ],
+   "note": "정발판 챕터 제목이 9영신 이름에서 '신/여신'을 빼는 방식(게브, 바스테트, 크눔, 토트)을 적용함. '호루스' 자체는 정발판에서 확인하지 못함.",
    "msg_ids": [
     "0xa6d970f8",
     "0xbacab81d"
-   ]
+   ],
+   "confidence": "derived",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0131",
    "src": "ラブ・デラックス",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "러브 디럭스",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(4부 챕터 제목은 \"야마기시 유카코는 사랑을 한다\"). 나무위키 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0xf871e2cf",
     "0xe4622a2a"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0132",
    "src": "スパイス・ガール",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "스파이스 걸",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/23461682",
+     "quote": "스파이스 걸 ① 071"
+    }
+   ],
+   "note": "애니북스 58권 목차.",
    "msg_ids": [
     "0x472447d2",
     "0x5b378f37"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0133",
    "src": "ウェザー・リポート（スタンド）",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "웨더 리포트",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/58544263",
+     "quote": "보헤미안 랩소디(자유인의 광상곡)에 의해 농락당하는 웨더 리포트와 안나수이!"
+    }
+   ],
+   "note": "애니북스 스톤 오션 13권 책소개(스톤 오션 세트 페이지). 이 문장은 인물명이지만 스탠드명도 같음.",
    "msg_ids": [
     "0xee3374e5",
     "0xf220bc00"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0134",
    "src": "スケアリー モンスターズ",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "스케어리 몬스터즈",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/14714882",
+     "quote": "#28 스케어리 몬스터즈 ① 007"
+    }
+   ],
+   "note": "애니북스 SBR 6·7권 목차. 원문의 띄어쓰기(スケアリー モンスターズ)와 상관없이 정발 표기를 씀.",
    "msg_ids": [
     "0xeb63ffd9",
     "0xf770373c"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0135",
    "src": "ナット・キング・コール",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "냇 킹 콜",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "8부 스탠드라 애니북스판이 없음. 문학동네판도 확인하지 못함. 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0x2bc54c55",
     "0x37d684b0"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0136",
    "src": "杉本鈴美",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "스기모토 레이미",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/33960713",
+     "quote": "한편 레이미는 로한이 흘린 사진 속에서 우연히 같은 성을 가진 소년과 남자를 찾아낸다."
+    }
+   ],
+   "note": "이름 '레이미'는 애니북스 44권 책소개에서 확인함. 성 '스기모토'는 확인하지 못함(일본어 표기에 따른 표기).",
    "msg_ids": [
     "0xbd8c1648",
     "0xa19fdead"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0137",
    "src": "ドナテロ・ヴェルサス",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "도나텔로 베르사스",
+   "alt": [
+    "돈나텔로 베르사스"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/58544263",
+     "quote": "한편 신부는 베르사스와 함께 ‘구덩이’에 숨어 신월의 때를 기다리고 있었는데."
+    }
+   ],
+   "note": "성 '베르사스'는 애니북스 스톤 오션 14권 책소개에서 확인함. 이름 '도나텔로'는 나무위키 문서명을 따름(정발판 미확인).",
    "msg_ids": [
     "0x4f1999ae",
     "0x530a514b"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0138",
    "src": "スティーブン・スティール",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "스티븐 스틸",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/34421847",
+     "quote": "스틸이 이용당하고 있다는 것을 알게 된 루시는 그 메모를 훔쳐내는데 성공하지만 침입한 빌딩이 봉쇄되면서 달아날 곳을 잃고 만다."
+    }
+   ],
+   "note": "성 '스틸'은 애니북스 SBR 9권 책소개에서 확인함. '스티븐'은 나무위키 문서명을 따름(정발판 미확인).",
    "msg_ids": [
     "0x11d375d0",
     "0x0dc0bd35"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0139",
    "src": "宮本輝之輔",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "미야모토 테루노스케",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(43권 챕터 제목은 \"소년 이니그마\"). 나무위키 문서명을 근거로 한 추정.",
    "msg_ids": [
     "0x0d8de696",
     "0x119e2e73"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0140",
    "src": "リンゴォ・ロードアゲイン",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "링고 로드어게인",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/34421847",
+     "quote": "링고가 대통령에게 보낸 유해의 위치를 알리는 ‘메모’."
+    }
+   ],
+   "note": "이름 '링고'는 애니북스 SBR 9권 책소개에서 확인함(원작의 장음 ォ는 반영하지 않음). '로드어게인'은 나무위키 문서명을 따름(정발판 미확인).",
    "msg_ids": [
     "0xf668ebda",
     "0xea7b233f"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0141",
    "src": "メッシーナ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "메시나",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "2부 파문 전사. 정발판에서 확인하지 못함. 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0x3b4da154",
     "0x275e69b1"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0142",
    "src": "ロギンズ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "로긴스",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "2부 파문 전사. 정발판에서 확인하지 못함. 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0x2d580c66",
     "0x314bc483"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0143",
    "src": "エンポリオ・アルニーニョ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "엠포리오 아르니뇨",
+   "alt": [
+    "엠포리오 알니뇨"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "기타",
+     "url": "https://namu.wiki/w/엠포리오 아르니뇨",
+     "quote": "옳은 번역은 엠포리오 알니뇨지만, 정발판에서 아르니뇨로 번역되었다."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/58544263",
+     "quote": "게다가 엠포리오가 뮤뮤의 흉탄에 쓰러진다!"
+    }
+   ],
+   "note": "나무위키에 정발판 표기가 \"아르니뇨\"라고 명시됨. 애니북스 스톤 오션 12권 책소개에도 \"엠포리오\"가 나옴.",
    "msg_ids": [
     "0x4050c424",
     "0x5c430cc1"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0144",
    "src": "ワンチェン",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "왕 첸",
+   "alt": [
+    "완첸",
+    "왕첸"
+   ],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "1부 인물. 정발판에서 확인하지 못함. 나무위키는 \"왕 첸\" 문서를 씀(\"완첸\"은 동명의 다른 인물로 넘어감). 일본어 발음은 \"완첸\"에 가까움.",
    "msg_ids": [
     "0xc20392d8",
     "0xde105a3d"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0145",
    "src": "テレンス・Ｔ・ダービー",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "테렌스 T. 다비",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "다비 더 갬블러 ①"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "다비 더 플레이어 ①"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/11559701",
+     "quote": "하지만 그곳에서 그들을 맞이한 것은 DIO의 집사이자 갬블러 다비의 동생이었다."
+    }
+   ],
+   "note": "성 '다비'는 애니북스 3부 챕터 제목 '다비 더 플레이어'(テレンス 담당 편)와 25권 책소개에서 확인함. '테렌스'와 'T.'는 확인하지 못함. 미들네임 표기는 'J. 가일'(정발 확인)의 형식을 따름.",
    "msg_ids": [
     "0x98abfa5a",
     "0x84b832bf"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0146",
    "src": "オインゴ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "오잉고",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "'크눔' 오잉고, '토트' 보잉고 ①"
+    }
+   ],
+   "note": "3부 챕터 제목. (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간)",
    "msg_ids": [
     "0x2d88cd55",
     "0x319b05b0"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0147",
    "src": "ボインゴ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "보잉고",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "'크눔' 오잉고, '토트' 보잉고 ①"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "홀 호스와 보잉고 ①"
+    }
+   ],
+   "note": "3부 챕터 제목. (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간)",
    "msg_ids": [
     "0x05982e5d",
     "0x198be6b8"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0148",
    "src": "レオーネ・アバッキオ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "레오네 아바키오",
+   "alt": [
+    "압바키오"
+   ],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(5부 목차와 책소개에 없음). 나무위키 문서명을 근거로 한 추정.",
    "msg_ids": [
     "0x193168ac",
     "0x0522a049"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0149",
    "src": "ギアッチョ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "기아초",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(55권 챕터 제목은 \"화이트 앨범\"). 나무위키 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0x32420e51",
     "0x2e51c6b4"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0150",
    "src": "ダニエル・Ｊ・ダービー",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "다니엘 J. 다비",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "다비 더 갬블러 ①"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "다비 더 플레이어 ①"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/11559701",
+     "quote": "하지만 그곳에서 그들을 맞이한 것은 DIO의 집사이자 갬블러 다비의 동생이었다."
+    }
+   ],
+   "note": "성 '다비'는 애니북스 3부 챕터 제목 '다비 더 갬블러'와 23권 책소개에서 확인함. '다니엘'은 확인하지 못함. 'J.' 형식은 정발 'J. 가일'을 따름.",
    "msg_ids": [
     "0x24fdc78a",
     "0x38ee0f6f"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0151",
    "src": "メローネ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "멜로네",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(54권 챕터 제목은 \"베이비 페이스\"). 나무위키 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0x7b4d2fbb",
     "0x675ee75e"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0152",
    "src": "ジョージ・ジョースター",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "죠지 죠스타",
+   "alt": [
+    "조지 죠스타",
+    "죠스타 경"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "기타",
+     "url": "https://namu.wiki/w/죠죠의 기묘한 모험/애니북스 판",
+     "quote": "쿠죠 죠타로, 죠르노 죠바나 등 ジョ만 '죠'로 적도록 하고"
+    }
+   ],
+   "note": "정발판에서 이름을 직접 확인하지 못함. 애니북스 1권 책소개는 '죠스타 경'이라고만 씀. 애니북스의 'ジョ→죠' 규칙을 적용하면 '죠지'가 되지만, 나무위키 등 통용 표기는 '조지 죠스타'이므로 확인이 필요함.",
    "msg_ids": [
     "0xed3dd6c5",
     "0xf12e1e20"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0153",
    "src": "エリナ・ペンドルトン",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "에리나 펜들턴",
+   "alt": [
+    "에리나 펜들튼"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters",
+     "quote": "사랑스러운 에리나"
+    }
+   ],
+   "note": "이름 '에리나'는 정발 1부 챕터 제목(原題 愛しのエリナ)에서 확인함. 성 '펜들턴'은 확인하지 못함(통용 표기).",
    "msg_ids": [
     "0xa9bfd0c1"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0154",
    "src": "エリナ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "에리나",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters",
+     "quote": "사랑스러운 에리나"
+    }
+   ],
+   "note": "정식 한국어판 1부 1권 챕터 제목. 1부는 애니북스가 2013년에 초판 발행함.",
    "msg_ids": [
     "0xb5ac1824"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0155",
    "src": "ダイアー",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "다이어",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "1부 파문 전사. 정발판에서 확인하지 못함. 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0x85f59326",
     "0x99e65bc3"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0156",
    "src": "エンヤ婆",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "엔야 할멈",
+   "alt": [
+    "엔야 가일"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/11006239",
+     "quote": "엔야 할멈은 J. 가일의 모친이자 DIO에게 ‘스탠드’를 가르쳤다는 수수께끼의 마녀."
+    }
+   ],
+   "note": "애니북스 17권 책소개. 해적판(메가톤맨) 표기는 \"마귀 할멈\"(나무위키). 해외판 이름 Enya Geil의 한국어 표기 \"엔야 가일\"은 나무위키 문서명임.",
    "msg_ids": [
     "0xf565bc78",
     "0xe976749d"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0157",
    "src": "ウィルソン・フィリップス",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "윌슨 필립스",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함. 나무위키 표기를 근거로 한 추정.",
    "msg_ids": [
     "0x55c36881",
     "0x49d0a064"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0158",
    "src": "ヌケサク",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "누케사쿠",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(이름을 음차했는지 \"얼간이\"처럼 의역했는지도 미확인). 나무위키 문서명을 근거로 한 추정.",
    "msg_ids": [
     "0xc277f86d",
     "0xde643088"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0159",
    "src": "デーボ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "데보",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(챕터 제목은 \"데블\"). 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0x202e2c98",
     "0x3c3de47d"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0160",
    "src": "呪いの人形",
-   "category": "",
-   "ko": "",
+   "category": "other",
+   "ko": "저주의 인형",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "데보의 스탠드 에보니 데블이 깃드는 인형을 가리키는 것으로 보임. 정발판의 번역어는 확인하지 못했고, 일본어를 직역함.",
    "msg_ids": [
     "0x780754b3",
     "0x64149c56"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0161",
    "src": "カメオ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "카메오",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/11187843",
+     "quote": "하지만 그 섬에도 적 스탠드유저 카메오가 죠타로 일행의 소원을 들어주기 위해(?) 잠복하고 있었다!"
+    }
+   ],
+   "note": "애니북스 19권 책소개.",
    "msg_ids": [
     "0x7f4c66eb",
     "0x635fae0e"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0162",
    "src": "小林玉美",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "코바야시 타마미",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/12799456",
+     "quote": "죠스케의 친구 코이치에게 시비 거는 건달 타마미."
+    }
+   ],
+   "note": "이름 '타마미'는 애니북스 31권 책소개에서 확인함. 성 '코바야시'는 확인하지 못함(일본어 표기에 따른 표기).",
    "msg_ids": [
     "0x04fd3f93",
     "0x18eef776"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0163",
    "src": "間田敏和",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "하자마다 토시카즈",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/12799456",
+     "quote": "하자마다 토시카즈(서피스) ①"
+    }
+   ],
+   "note": "애니북스 31권 목차.",
    "msg_ids": [
     "0x0da466d2",
     "0x11b7ae37"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0164",
    "src": "トニオ・トラサルディー",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "토니오 트루사르디",
+   "alt": [
+    "토니오 트라사르디"
+   ],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(33권 챕터 제목은 \"이탈리아 요리를 먹으러 가자\"). 나무위키 문서명을 따랐으며 브랜드명 Trussardi 기준 표기임. 일본어 원문(トラサルディー)은 \"트라사르디\"에 가까움.",
    "msg_ids": [
     "0x673bd4f3",
     "0x7b281c16"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0165",
    "src": "パール・ジャム",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "펄 잼",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함. 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0x337eb047",
     "0x2f6d78a2"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0166",
    "src": "大柳賢",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "오야나기 켄",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함. 등장 챕터 제목은 \"가위바위보 꼬마가 온다!\"(40권). 일본어 표기에 따른 추정.",
    "msg_ids": [
     "0xc6a6700e",
     "0xdab5b8eb"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0167",
    "src": "プロシュート",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "프로슈토",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(52·53권 챕터 제목은 \"위대한 죽음(더 그레이트풀 데드)\"). 나무위키 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0x3ac1bdf0",
     "0x26d27515"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0168",
    "src": "ペッシ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "페시",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함. 나무위키 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0xf78a7e86",
     "0xeb99b663"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0169",
    "src": "セッコ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "세코",
+   "alt": [
+    "체코"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/23461693",
+     "quote": "그러나 그곳에는 조직의 마지막 자객, 초콜라타와 세코가 기다리고 있었다."
+    }
+   ],
+   "note": "애니북스 60권 책소개. 61권 책소개에도 \"세코의 오아시스\"로 나옴. \"체코\"는 쓰지 않음.",
    "msg_ids": [
     "0x3276ddf3",
     "0x2e651516"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0170",
    "src": "チョコラータ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "초콜라타",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/23461693",
+     "quote": "그러나 그곳에는 조직의 마지막 자객, 초콜라타와 세코가 기다리고 있었다."
+    }
+   ],
+   "note": "애니북스 60권 책소개.",
    "msg_ids": [
     "0xc97ebdea",
     "0xd56d750f"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0171",
    "src": "Ｆ・Ｆ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "F·F",
+   "alt": [
+    "F.F",
+    "푸 파이터즈"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/45008517",
+     "quote": "F?F-목격자 1 - 27"
+    }
+   ],
+   "note": "애니북스 스톤 오션 10권 목차에 'F?F'로 나옴. 가운데 문자가 yes24에서 '?'로 깨져 있어 실제 구분 기호(·, ., ・)를 확인할 수 없음. 'F'와 'F' 사이에 기호가 있다는 점은 확인됨. 스탠드명 '푸 파이터즈'는 같은 판 4권 목차('푸 파이터즈 1 -069')에서 확인함.",
    "msg_ids": [
     "0x4d07a8bf",
     "0x5114605a"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0172",
    "src": "ドラゴンズ・ドリーム",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "드래곤즈 드림",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/45008514",
+     "quote": "타올라라 드래곤즈 드림(용의 꿈) 1 - 69"
+    }
+   ],
+   "note": "애니북스 스톤 오션 8·9권 목차.",
    "msg_ids": [
     "0xae775d9b",
     "0xb264957e"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0173",
    "src": "ポコロコ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "포코로코",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "포코로코와 샌드맨"
+    }
+   ],
+   "note": "정식 한국어판 SBR 2권 챕터 제목(2014년 4월 발행이므로 애니북스판).",
    "msg_ids": [
     "0xdfda2499",
     "0xc3c9ec7c"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0174",
    "src": "ウェカピポ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "웨카피포",
+   "alt": [
+    "웨커피포"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/76649501",
+     "quote": "한편, 루시를 호위하기 위해 대통령이 있는 청사로 향하는 웨카피포."
+    }
+   ],
+   "note": "애니북스 SBR 16권 책소개. 18권 책소개에도 나옴.",
    "msg_ids": [
     "0xb5929999",
     "0xa981517c"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0175",
    "src": "広瀬康穂",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "히로세 야스호",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "8부 인물이라 애니북스판이 없음. 문학동네판도 확인하지 못함. 성 \"히로세\"는 4부 정발 표기(히로세 코이치)와 같음.",
    "msg_ids": [
     "0x51a64d55",
     "0x4db585b0"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0176",
    "src": "ザ・ワールド・オーバーヘブン",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "더 월드 오버 헤븐",
+   "alt": [
+    "더 월드 오버헤븐"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/11559703",
+     "quote": "이것이 DIO의 스탠드 '더 월드'의 능력인가?!"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/58543971",
+     "quote": "메이드 인 헤븐 1 - 47"
+    }
+   ],
+   "note": "게임 오리지널 스탠드. 정발 '더 월드'와 '헤븐'(메이드 인 헤븐)을 조합한 표기. 정발판에는 존재하지 않음.",
    "msg_ids": [
     "0x30ae3399"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0177",
    "src": "ジャスティス",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "저스티스",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "저스티스 ①"
+    }
+   ],
+   "note": "3부 17권 챕터 제목. (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간)",
    "msg_ids": [
     "0xed75f85c"
-   ]
+   ],
+   "confidence": "verified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0178",
    "src": "オシリス神",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "오시리스",
+   "alt": [
+    "오시리스 신",
+    "오시리스신"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "'더 풀' 이기와 '게브' 은두루 ①"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "'바스테트' 머라이어 ①"
+    }
+   ],
+   "note": "정발판 챕터 제목이 9영신 이름에서 '신'을 빼는 방식을 적용함. '오시리스' 자체는 정발판에서 확인하지 못함(다비 편 챕터 제목은 '다비 더 갬블러').",
    "msg_ids": [
     "0x845c86ce"
-   ]
+   ],
+   "confidence": "derived",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0179",
    "src": "Ｊ・ガイル",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "J. 가일",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://m.yes24.com/goods/detail/11006239",
+     "quote": "엔야 할멈은 J. 가일의 모친이자 DIO에게 ‘스탠드’를 가르쳤다는 수수께끼의 마녀."
+    }
+   ],
+   "note": "애니북스 17권 책소개.",
    "msg_ids": [
     "0x71d8443c"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0180",
    "src": "ハングドマン",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "행드맨",
+   "alt": [
+    "행드 맨"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "엠퍼러 & 행드맨 ①"
+    }
+   ],
+   "note": "3부 15~16권 챕터 제목. 붙여 씀. (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간)",
    "msg_ids": [
     "0x826d95cf"
-   ]
+   ],
+   "confidence": "verified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0181",
    "src": "エンペラー",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "엠퍼러",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "엠퍼러 & 행드맨 ①"
+    }
+   ],
+   "note": "3부 15~16권 챕터 제목. (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간)",
    "msg_ids": [
     "0x9a0fc6a9"
-   ]
+   ],
+   "confidence": "verified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0182",
    "src": "アクセル・ＲＯ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "액셀 RO",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "SBR 인물. 정발판에서 확인하지 못함. 나무위키 문서명을 근거로 한 추정.",
    "msg_ids": [
     "0xfb739248"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0183",
    "src": "イルーゾォ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "일루조",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발판에서 확인하지 못함(51권 챕터 제목은 \"맨 인 더 미러와 퍼플 헤이즈\"). 나무위키 통용 표기를 근거로 한 추정.",
    "msg_ids": [
     "0xbeea1bc8"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0184",
    "src": "刺青",
-   "category": "",
-   "ko": "",
+   "category": "other",
+   "ko": "문신",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "게임 안에서 무엇을 가리키는지(인물 특징, 아이템 등) 문맥을 확인하지 못해 일반어로 직역함. 문맥 확인이 필요함.",
    "msg_ids": [
     "0xe4fdd3cb"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0185",
@@ -3764,7 +4419,9 @@
    "msg_ids": [
     "0xf44b0814"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0202",
@@ -3807,7 +4464,9 @@
    "msg_ids": [
     "0x2881cca7"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0204",
@@ -4254,7 +4913,9 @@
     "0x21e2d284",
     "0x3df11a61"
    ],
-   "confidence": "verified"
+   "confidence": "verified",
+   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
+   "part": 3
   },
   {
    "id": "T0226",
@@ -5313,7 +5974,11 @@
   "定助(8부)와 仗助(4부)가 정발에서 모두 '히가시카타 죠스케' — 게임 내 두 인물 구분 방법 결정 필요 (배치 1)",
   "ンドゥール: jojowiki 정발 챕터 제목 전사 '은두루' vs 나무위키 '은두르' — 실물 단행본 확인 필요 (배치 1)",
   "1·2부는 정발 근거가 주로 챕터 제목뿐 — 실물 단행본 확인 권장 (배치 1)",
-  "넷플릭스 국내판 자막·더빙은 'ナルシソ・アナスイ'를 '나르시소 아나스타샤'로 표기(만화 정발: 안나수이) — 2순위 출처 충돌 사례 (배치 1)"
+  "넷플릭스 국내판 자막·더빙은 'ナルシソ・アナスイ'를 '나르시소 아나스타샤'로 표기(만화 정발: 안나수이) — 2순위 출처 충돌 사례 (배치 1)",
+  "배치 2의 근거 인용문은 WebFetch 요약 모델이 돌려준 문장이라 원문 HTML과 글자 단위 대조를 못 함 — verified라도 승인 전 URL 재확인 권장",
+  "ゲブ神/バステト女神 등 이집트 9영신: 정발 챕터 제목에는 '게브'·'바스테트'만 있음. 본문 스탠드명에 '신/여신' 포함 여부 확인 필요 (배치 2)",
+  "Ｄｉｒｔｙ ｄｅｅｄｓ ｄｏｎｅ ｄｉｒｔ ｃｈｅａｐ: 게임 원문이 영문. 정발 번역명(『더없이 손쉽게 자행되는 더러운 짓거리』)을 쓸지 영문 유지할지 결정 필요 (배치 2)",
+  "スタンド使い: 정발 '스탠드 유저'(책소개에선 '스탠드유저' 붙여 쓰기도) — 띄어쓰기 결정 필요 (배치 2)"
  ],
  "schema": {
   "id": "T번호 (고정 식별자)",
