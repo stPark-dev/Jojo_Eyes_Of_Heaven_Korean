@@ -101,7 +101,11 @@ python3 scripts/textdb.py status
 - 원문 유지 예외는 `keep_source: "사유"` (번역문과 동시 지정 불가).
 
 ### 4-3. 이미지 속 글자
-- 일본어 전용 파일 224개 → 텍스처 432개 (DXT5 335, DXT1 97). 작업 PC에선 `work/images/`에 PNG로 풀어 봤음 (재생성 스크립트는 아직 저장소에 없음 — 필요 시 `font.py`의 NTP3/DXT 처리 참고해 작성).
+- 일본어 전용 파일 224개 → 이미지 434장 (텍스처 432장: DXT5 335, DXT1 97 + 세이브 아이콘 PNG 2).
+- **추출**: `python3 scripts/extract_images.py` → `work/images/` (git 제외)에 PNG, `work/images/_overview/NN.png`에 분류별 한눈에 보기(번호는 `NN.txt`에 PNG 경로). 약 20초.
+- **작업 목록**: `translation/images.json` — 텍스처마다 파일·순번·크기·형식·원본 SHA-1·분류·PNG 경로·state(todo/in_progress/needs_review/done/keep_original)·note. 다시 추출해도 state/note 유지, 원본이 바뀌면 needs_review.
+- 분류 집계 (2026-10-28): 캐릭터 이름 115 / 팁 화면 97 / UI 메뉴 96 / 전투 연출 55 / 스토리 UI 52 / 스토리 연출 14 / 타이틀 로고 3 / 세이브 아이콘 2. 팁 화면 일부는 「仮画像」 DLC 자리표시.
+- 이미지 다시 넣기(DXT 인코딩 + NTP3 교체)는 아직 없음 — `src/eoh/texture.py`(디코딩)와 `dxt5.py`(알파 인코딩)를 바탕으로 작성 예정.
 - 분류:
   - 모드 선택 큰 글자(STORY 등): 영어 장식 → 유지
   - 타이틀 로고: 한글 로고로 교체 후보 (사용자 표지 이미지의 한글 로고 원본 확인 필요)
@@ -109,7 +113,6 @@ python3 scripts/textdb.py status
   - 캐릭터 이름 이미지(손글씨풍, 약 115개): 용어집 확정 후 제작. **글꼴 방식 미정**(손글씨풍 vs 본명조 통일)
   - 팁 화면(게임 캡처 + 작은 일본어 UI, 약 84개): 번역 후 한글판 화면을 다시 캡처해 교체하는 방안
   - 나머지 약 220개(상점, 커맨드 목록, 전투 연출 등): 미분류
-- 이미지 교체 도구(DXT1/DXT5 인코딩 + NTP3 재구성)는 아직 없음.
 
 ### 4-4. 폰트 용량
 - 아틀라스 빈 영역은 y=1380 아래 약 670px → **약 1,700자**만 추가 가능 (한글 2,350자보다 적음).

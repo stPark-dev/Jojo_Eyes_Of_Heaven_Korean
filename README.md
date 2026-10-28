@@ -122,11 +122,13 @@ src/eoh/
 ├── textdb.py      번역 파일 동기화·태그 검사·적용
 ├── paths.py       로컬 게임 데이터 경로 (환경 변수 / eoh.local.toml)
 ├── ps3iso.py      PS3 디스크 이미지 복호화·추출 (Joliet 이름)
-└── build.py       번역 파일 → 바뀐 텍스트 테이블 + 쓰인 한글만 추가한 폰트
+├── build.py       번역 파일 → 바뀐 텍스트 테이블 + 쓰인 한글만 추가한 폰트
+└── texture.py     NTP3 텍스처 찾기, DXT1/DXT5 → RGBA
 scripts/
 ├── extract_disc.py 디스크 이미지 → game/
 ├── build_patch.py 번역 적용·폰트 생성 → patch/5 설치 / 제거
 ├── check_part.py  번역 작업 조각 검사 (누락·태그·줄바꿈·용어)
+├── extract_images.py 일본어 전용 이미지 → PNG + 작업 목록(images.json)
 ├── textdb.py      번역 파일 sync / export / import / status
 ├── poc_marker.py  텍스트 교체 검증용 PoC
 └── poc_hangul.py  한글 폰트 표시 검증용 PoC
