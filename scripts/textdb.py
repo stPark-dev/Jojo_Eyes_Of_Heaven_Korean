@@ -72,6 +72,8 @@ def cmd_export():
 def cmd_status():
     states, files = Counter(), 0
     for path in sorted(STORE_DIR.glob("*.json")):
+        if path.name == "glossary.json":
+            continue
         files += 1
         states.update(e["state"] for e in load(path)["entries"])
     print(f"files {files}, entries {sum(states.values())}")

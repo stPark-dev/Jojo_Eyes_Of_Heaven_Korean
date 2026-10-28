@@ -6,6 +6,8 @@ changed source is detected and the translation is sent back for review.
 
 Entry fields: id ("0x%08x" message hash), src_sha1, ko (Korean text, "" if none),
 state (see STATES), note, and source_changed when the source moved under a translation.
+keep_source (optional) marks an approved exception that ships the original text unchanged;
+its value records the reason and approver, and it excludes a Korean translation.
 """
 import copy
 import hashlib
@@ -93,8 +95,15 @@ def apply(mf: MessageFile, store: dict, policy: str):
             raise TranslationError(f"{id_}: 알 수 없는 상태 {rec['state']!r}")
         if rec["src_sha1"] != _sha1(entry.text):
             raise TranslationError(f"{id_}: 원문 지문 불일치 (원문이 바뀜, sync 필요)")
-        if policy == "release" and (rec["state"] != "distribution_eligible" or not rec["ko"]):
+        keep = "keep_source" in rec
+        if policy == "release" and (rec["state"] != "distribution_eligible"
+                                    or not (rec["ko"] or keep)):
             raise TranslationError(f"{id_}: 배포 가능 상태가 아닌 항목 ({rec['state']})")
+        if keep:
+            if not rec["keep_source"]:
+                raise TranslationError(f"{id_}: 원문 유지 사유가 비어 있음")
+            if rec["ko"]:
+                raise TranslationError(f"{id_}: 원문 유지와 번역문이 함께 있음")
         if not rec["ko"]:
             out.append(entry)
             kept += 1

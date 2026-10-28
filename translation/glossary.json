@@ -1,0 +1,3736 @@
+{
+ "policy": {
+  "proper_nouns": [
+   "애니북스 정식판 (1순위)",
+   "애니메이션 국내판 (2순위: 말투·대사 분위기, 만화판 표기가 불명확한 항목)",
+   "원작 일본어 (3순위: 충돌·오역 의심 시 의미 확인)"
+  ],
+  "onomatopoeia": "일본어 그대로 둔다 (번역하지 않음)",
+  "states": [
+   "unresolved",
+   "approved",
+   "conflicting"
+  ]
+ },
+ "terms": [
+  {
+   "id": "T0001",
+   "src": "ジョナサン・ジョースター",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x7140f039"
+   ]
+  },
+  {
+   "id": "T0002",
+   "src": "ジョナサン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x6d5338dc"
+   ]
+  },
+  {
+   "id": "T0003",
+   "src": "ウィル・Ａ・ツェペリ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x2fcc8308"
+   ]
+  },
+  {
+   "id": "T0004",
+   "src": "ツェペリ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x33df4bed"
+   ]
+  },
+  {
+   "id": "T0005",
+   "src": "ディオ・ブランドー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x8fe31c0c"
+   ]
+  },
+  {
+   "id": "T0006",
+   "src": "ディオ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x93f0d4e9"
+   ]
+  },
+  {
+   "id": "T0007",
+   "src": "ジョセフ・ジョースター",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf53c36b6"
+   ]
+  },
+  {
+   "id": "T0008",
+   "src": "ジョセフ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xe92ffe53"
+   ]
+  },
+  {
+   "id": "T0009",
+   "src": "シーザー・アントニオ・ツェペリ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xfe690f33"
+   ]
+  },
+  {
+   "id": "T0010",
+   "src": "シーザー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xe27ac7d6"
+   ]
+  },
+  {
+   "id": "T0011",
+   "src": "リサリサ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x5b801ed8",
+    "0x4793d63d"
+   ]
+  },
+  {
+   "id": "T0012",
+   "src": "カーズ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x62353e05",
+    "0x7e26f6e0"
+   ]
+  },
+  {
+   "id": "T0013",
+   "src": "カーズ（究極生命体）",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x6f7618dc"
+   ]
+  },
+  {
+   "id": "T0014",
+   "src": "究極生物カーズ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x7365d039"
+   ]
+  },
+  {
+   "id": "T0015",
+   "src": "エシディシ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x55de60c8",
+    "0x49cda82d"
+   ]
+  },
+  {
+   "id": "T0016",
+   "src": "ワムウ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x9655145c",
+    "0x8a46dcb9"
+   ]
+  },
+  {
+   "id": "T0017",
+   "src": "空条承太郎",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf1279cab",
+    "0xed34544e"
+   ]
+  },
+  {
+   "id": "T0018",
+   "src": "老ジョセフ・ジョースター",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xee143bce"
+   ]
+  },
+  {
+   "id": "T0019",
+   "src": "老ジョセフ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf207f32b"
+   ]
+  },
+  {
+   "id": "T0020",
+   "src": "モハメド・アヴドゥル",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x457b5927"
+   ]
+  },
+  {
+   "id": "T0021",
+   "src": "アヴドゥル",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x596891c2"
+   ]
+  },
+  {
+   "id": "T0022",
+   "src": "花京院典明",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xbb70e925",
+    "0xa76321c0"
+   ]
+  },
+  {
+   "id": "T0023",
+   "src": "ジャン・ピエール・ポルナレフ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xbbd5f146"
+   ]
+  },
+  {
+   "id": "T0024",
+   "src": "ポルナレフ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa7c639a3"
+   ]
+  },
+  {
+   "id": "T0025",
+   "src": "イギー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb1ff3a40",
+    "0xadecf2a5"
+   ]
+  },
+  {
+   "id": "T0026",
+   "src": "ホル・ホース",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x10ee069a",
+    "0x0cfdce7f"
+   ]
+  },
+  {
+   "id": "T0027",
+   "src": "ヴァニラ・アイス",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb02ad293",
+    "0xac391a76"
+   ]
+  },
+  {
+   "id": "T0028",
+   "src": "ＤＩＯ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb9b306fc",
+    "0xa5a0ce19"
+   ]
+  },
+  {
+   "id": "T0029",
+   "src": "東方仗助",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xbeea4067",
+    "0xa2f98882"
+   ]
+  },
+  {
+   "id": "T0030",
+   "src": "虹村億泰",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xc7d680be",
+    "0xdbc5485b"
+   ]
+  },
+  {
+   "id": "T0031",
+   "src": "広瀬康一",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x865d8748",
+    "0x9a4e4fad"
+   ]
+  },
+  {
+   "id": "T0032",
+   "src": "岸辺露伴",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x14e25031",
+    "0x08f198d4"
+   ]
+  },
+  {
+   "id": "T0033",
+   "src": "音石明",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xc820030c",
+    "0xd433cbe9"
+   ]
+  },
+  {
+   "id": "T0034",
+   "src": "矢安宮重清",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb0f82b7e",
+    "0xacebe39b"
+   ]
+  },
+  {
+   "id": "T0035",
+   "src": "吉良吉影",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x5794ba55",
+    "0x4b8772b0"
+   ]
+  },
+  {
+   "id": "T0036",
+   "src": "川尻浩作",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x8b126bef",
+    "0x9701a30a"
+   ]
+  },
+  {
+   "id": "T0037",
+   "src": "ジョルノ・ジョバァーナ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x57052a3b"
+   ]
+  },
+  {
+   "id": "T0038",
+   "src": "ジョルノ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x4b16e2de"
+   ]
+  },
+  {
+   "id": "T0039",
+   "src": "ブローノ・ブチャラティ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x057b8c67"
+   ]
+  },
+  {
+   "id": "T0040",
+   "src": "ブチャラティ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x19684482"
+   ]
+  },
+  {
+   "id": "T0041",
+   "src": "グイード・ミスタ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x48658dd6"
+   ]
+  },
+  {
+   "id": "T0042",
+   "src": "ミスタ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x54764533"
+   ]
+  },
+  {
+   "id": "T0043",
+   "src": "ナランチャ・ギルガ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x579e3013"
+   ]
+  },
+  {
+   "id": "T0044",
+   "src": "ナランチャ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x4b8df8f6"
+   ]
+  },
+  {
+   "id": "T0045",
+   "src": "パンナコッタ・フーゴ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x485c1a20"
+   ]
+  },
+  {
+   "id": "T0046",
+   "src": "フーゴ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x544fd2c5"
+   ]
+  },
+  {
+   "id": "T0047",
+   "src": "ディアボロ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf35697a7",
+    "0xef455f42"
+   ]
+  },
+  {
+   "id": "T0048",
+   "src": "空条徐倫",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x9c7c0fce",
+    "0x806fc72b"
+   ]
+  },
+  {
+   "id": "T0049",
+   "src": "エルメェス・コステロ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x241fd655"
+   ]
+  },
+  {
+   "id": "T0050",
+   "src": "エルメェス",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x380c1eb0"
+   ]
+  },
+  {
+   "id": "T0051",
+   "src": "ナルシソ・アナスイ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xaf6d3a55"
+   ]
+  },
+  {
+   "id": "T0052",
+   "src": "アナスイ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb37ef2b0"
+   ]
+  },
+  {
+   "id": "T0053",
+   "src": "エンリコ・プッチ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x2c3ee82a"
+   ]
+  },
+  {
+   "id": "T0054",
+   "src": "プッチ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x302d20cf"
+   ]
+  },
+  {
+   "id": "T0055",
+   "src": "ジョニィ・ジョースター",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x23cfa58a"
+   ]
+  },
+  {
+   "id": "T0056",
+   "src": "ジョニィ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x3fdc6d6f"
+   ]
+  },
+  {
+   "id": "T0057",
+   "src": "ジャイロ・ツェペリ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x33e1ca50"
+   ]
+  },
+  {
+   "id": "T0058",
+   "src": "ジャイロ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x2ff202b5"
+   ]
+  },
+  {
+   "id": "T0059",
+   "src": "ファニー・ヴァレンタイン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x6b653d96"
+   ]
+  },
+  {
+   "id": "T0060",
+   "src": "ヴァレンタイン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x7776f573"
+   ]
+  },
+  {
+   "id": "T0061",
+   "src": "東方定助",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x0b0a1e47",
+    "0x1719d6a2"
+   ]
+  },
+  {
+   "id": "T0062",
+   "src": "ロバート・Ｅ・Ｏ・スピードワゴン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xbdefdbe4"
+   ]
+  },
+  {
+   "id": "T0063",
+   "src": "スピードワゴン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa1fc1301"
+   ]
+  },
+  {
+   "id": "T0064",
+   "src": "ルドル・フォン・シュトロハイム",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x0576ed25"
+   ]
+  },
+  {
+   "id": "T0065",
+   "src": "シュトロハイム",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x196525c0"
+   ]
+  },
+  {
+   "id": "T0066",
+   "src": "ンドゥール",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x3feb9316",
+    "0x23f85bf3"
+   ]
+  },
+  {
+   "id": "T0067",
+   "src": "マライア",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xd5c8ee9a",
+    "0xc9db267f"
+   ]
+  },
+  {
+   "id": "T0068",
+   "src": "ペット・ショップ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xbe35fdde",
+    "0xa226353b"
+   ]
+  },
+  {
+   "id": "T0069",
+   "src": "山岸由花子",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xe8d15355",
+    "0xf4c29bb0"
+   ]
+  },
+  {
+   "id": "T0070",
+   "src": "トリッシュ・ウナ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x1a353e73"
+   ]
+  },
+  {
+   "id": "T0071",
+   "src": "トリッシュ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x0626f696"
+   ]
+  },
+  {
+   "id": "T0072",
+   "src": "ウェザー・リポート",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x02c71531"
+   ]
+  },
+  {
+   "id": "T0073",
+   "src": "ウェザー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x1ed4ddd4"
+   ]
+  },
+  {
+   "id": "T0074",
+   "src": "ディエゴ・ブランドー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xd513331c"
+   ]
+  },
+  {
+   "id": "T0075",
+   "src": "ディエゴ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xc900fbf9"
+   ]
+  },
+  {
+   "id": "T0076",
+   "src": "東方常秀",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x0963ebce",
+    "0x1570232b"
+   ]
+  },
+  {
+   "id": "T0077",
+   "src": "女装ジョセフ・ジョースター",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x10ea8910"
+   ]
+  },
+  {
+   "id": "T0078",
+   "src": "女装ジョセフ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x0cf941f5"
+   ]
+  },
+  {
+   "id": "T0079",
+   "src": "第４部空条承太郎",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb0ffbec3",
+    "0xacec7626"
+   ]
+  },
+  {
+   "id": "T0080",
+   "src": "第６部空条承太郎",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xc6e8e2d1",
+    "0xdafb2a34",
+    "0x9abc6cd6",
+    "0x86afa433"
+   ]
+  },
+  {
+   "id": "T0081",
+   "src": "ウェス・ブルーマリン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xd0ded4ed"
+   ]
+  },
+  {
+   "id": "T0082",
+   "src": "ウェス",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xcccd1c08"
+   ]
+  },
+  {
+   "id": "T0083",
+   "src": "新月の時を待つプッチ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x217dcef3"
+   ]
+  },
+  {
+   "id": "T0084",
+   "src": "新月プッチ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x3d6e0616"
+   ]
+  },
+  {
+   "id": "T0085",
+   "src": "並行世界から来たディエゴ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xd85015c5"
+   ]
+  },
+  {
+   "id": "T0086",
+   "src": "世界ディエゴ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xc443dd20"
+   ]
+  },
+  {
+   "id": "T0087",
+   "src": "天国に到達したＤＩＯ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xc45fd201",
+    "0xc91cf4d8"
+   ]
+  },
+  {
+   "id": "T0088",
+   "src": "天国ＤＩＯ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xd84c1ae4",
+    "0xd50f3c3d"
+   ]
+  },
+  {
+   "id": "T0089",
+   "src": "スタープラチナ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x79a0ab22",
+    "0x65b363c7"
+   ]
+  },
+  {
+   "id": "T0090",
+   "src": "ハーミットパープル",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb21f25a1",
+    "0xae0ced44"
+   ]
+  },
+  {
+   "id": "T0091",
+   "src": "マジシャンズレッド",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x9da72872",
+    "0x81b4e097"
+   ]
+  },
+  {
+   "id": "T0092",
+   "src": "ハイエロファントグリーン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x5374324e",
+    "0x4f67faab"
+   ]
+  },
+  {
+   "id": "T0093",
+   "src": "シルバーチャリオッツ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x68bd2372",
+    "0x74aeeb97"
+   ]
+  },
+  {
+   "id": "T0094",
+   "src": "ザ・フール",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x8958eadd",
+    "0x954b2238"
+   ]
+  },
+  {
+   "id": "T0095",
+   "src": "クリーム",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x2f687321",
+    "0x337bbbc4"
+   ]
+  },
+  {
+   "id": "T0096",
+   "src": "ザ・ワールド",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x4d42e764",
+    "0x51512f81"
+   ]
+  },
+  {
+   "id": "T0097",
+   "src": "クレイジー・ダイヤモンド",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x61ad99f6",
+    "0x7dbe5113"
+   ]
+  },
+  {
+   "id": "T0098",
+   "src": "ザ・ハンド",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x8958cfcb",
+    "0x954b072e"
+   ]
+  },
+  {
+   "id": "T0099",
+   "src": "エコーズ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf81f8f31",
+    "0xe40c47d4"
+   ]
+  },
+  {
+   "id": "T0100",
+   "src": "エコーズＡＣＴ１",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xe658df34",
+    "0xfa4b17d1"
+   ]
+  },
+  {
+   "id": "T0101",
+   "src": "エコーズＡＣＴ２",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xe299c283",
+    "0xfe8a0a66"
+   ]
+  },
+  {
+   "id": "T0102",
+   "src": "エコーズＡＣＴ３",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xefdae45a",
+    "0xf3c92cbf"
+   ]
+  },
+  {
+   "id": "T0103",
+   "src": "ヘブンズ・ドアー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xd5f15c7a",
+    "0xc9e2949f"
+   ]
+  },
+  {
+   "id": "T0104",
+   "src": "ハーヴェスト",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x9a2cb212",
+    "0x863f7af7"
+   ]
+  },
+  {
+   "id": "T0105",
+   "src": "レッド・ホット・チリ・ペッパー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x1c9d2a92",
+    "0x008ee277"
+   ]
+  },
+  {
+   "id": "T0106",
+   "src": "キラークイーン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf565996e",
+    "0xe976518b",
+    "0xf826bfb7",
+    "0xe4357752"
+   ]
+  },
+  {
+   "id": "T0107",
+   "src": "ゴールド・エクスペリエンス",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa5cada91",
+    "0xb9d91274"
+   ]
+  },
+  {
+   "id": "T0108",
+   "src": "ゴールド・Ｅ・レクイエム",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x06d884bc",
+    "0x1acb4c59"
+   ]
+  },
+  {
+   "id": "T0109",
+   "src": "スティッキィ・フィンガーズ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x70df0ead",
+    "0x6cccc648"
+   ]
+  },
+  {
+   "id": "T0110",
+   "src": "セックス・ピストルズ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa64f503d",
+    "0xba5c98d8"
+   ]
+  },
+  {
+   "id": "T0111",
+   "src": "エアロスミス",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf01ed471",
+    "0xec0d1c94"
+   ]
+  },
+  {
+   "id": "T0112",
+   "src": "パープル・ヘイズ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x97fdcce8",
+    "0x8bee040d"
+   ]
+  },
+  {
+   "id": "T0113",
+   "src": "キング・クリムゾン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x094c07fe",
+    "0x155fcf1b"
+   ]
+  },
+  {
+   "id": "T0114",
+   "src": "ストーン・フリー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x1771b0d8",
+    "0x0b62783d"
+   ]
+  },
+  {
+   "id": "T0115",
+   "src": "キッス",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x601c0c22",
+    "0x7c0fc4c7"
+   ]
+  },
+  {
+   "id": "T0116",
+   "src": "ダイバー・ダウン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x8406dc94",
+    "0x98151471"
+   ]
+  },
+  {
+   "id": "T0117",
+   "src": "ホワイトスネイク",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x5ebe1c1c",
+    "0x42add4f9"
+   ]
+  },
+  {
+   "id": "T0118",
+   "src": "Ｃ－ＭＯＯＮ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x492d5975",
+    "0x553e9190"
+   ]
+  },
+  {
+   "id": "T0119",
+   "src": "メイド・イン・ヘブン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xc3d4197a",
+    "0xdfc7d19f"
+   ]
+  },
+  {
+   "id": "T0120",
+   "src": "タスク",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xe7860fcb",
+    "0xfb95c72e"
+   ]
+  },
+  {
+   "id": "T0121",
+   "src": "タスクＡＣＴ１",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xe347127c",
+    "0xff54da99"
+   ]
+  },
+  {
+   "id": "T0122",
+   "src": "タスクＡＣＴ２",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xee0434a5",
+    "0xf217fc40"
+   ]
+  },
+  {
+   "id": "T0123",
+   "src": "タスクＡＣＴ３",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xeac52912",
+    "0xf6d6e1f7"
+   ]
+  },
+  {
+   "id": "T0124",
+   "src": "タスクＡＣＴ４",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf4827917",
+    "0xe891b1f2"
+   ]
+  },
+  {
+   "id": "T0125",
+   "src": "Ｄｉｒｔｙ ｄｅｅｄｓ ｄｏｎｅ ｄｉｒｔ ｃｈｅａｐ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x39dc8359"
+   ]
+  },
+  {
+   "id": "T0126",
+   "src": "Ｄ４Ｃ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x25cf4bbc"
+   ]
+  },
+  {
+   "id": "T0127",
+   "src": "ソフト＆ウェット",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xdf1f6bee",
+    "0xc30ca30b"
+   ]
+  },
+  {
+   "id": "T0128",
+   "src": "ゲブ神",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xefc400c7",
+    "0xf3d7c822"
+   ]
+  },
+  {
+   "id": "T0129",
+   "src": "バステト女神",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa89f8ed4",
+    "0xb48c4631"
+   ]
+  },
+  {
+   "id": "T0130",
+   "src": "ホルス神",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa6d970f8",
+    "0xbacab81d"
+   ]
+  },
+  {
+   "id": "T0131",
+   "src": "ラブ・デラックス",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf871e2cf",
+    "0xe4622a2a"
+   ]
+  },
+  {
+   "id": "T0132",
+   "src": "スパイス・ガール",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x472447d2",
+    "0x5b378f37"
+   ]
+  },
+  {
+   "id": "T0133",
+   "src": "ウェザー・リポート（スタンド）",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xee3374e5",
+    "0xf220bc00"
+   ]
+  },
+  {
+   "id": "T0134",
+   "src": "スケアリー モンスターズ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xeb63ffd9",
+    "0xf770373c"
+   ]
+  },
+  {
+   "id": "T0135",
+   "src": "ナット・キング・コール",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x2bc54c55",
+    "0x37d684b0"
+   ]
+  },
+  {
+   "id": "T0136",
+   "src": "杉本鈴美",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xbd8c1648",
+    "0xa19fdead"
+   ]
+  },
+  {
+   "id": "T0137",
+   "src": "ドナテロ・ヴェルサス",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x4f1999ae",
+    "0x530a514b"
+   ]
+  },
+  {
+   "id": "T0138",
+   "src": "スティーブン・スティール",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x11d375d0",
+    "0x0dc0bd35"
+   ]
+  },
+  {
+   "id": "T0139",
+   "src": "宮本輝之輔",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x0d8de696",
+    "0x119e2e73"
+   ]
+  },
+  {
+   "id": "T0140",
+   "src": "リンゴォ・ロードアゲイン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf668ebda",
+    "0xea7b233f"
+   ]
+  },
+  {
+   "id": "T0141",
+   "src": "メッシーナ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x3b4da154",
+    "0x275e69b1"
+   ]
+  },
+  {
+   "id": "T0142",
+   "src": "ロギンズ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x2d580c66",
+    "0x314bc483"
+   ]
+  },
+  {
+   "id": "T0143",
+   "src": "エンポリオ・アルニーニョ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x4050c424",
+    "0x5c430cc1"
+   ]
+  },
+  {
+   "id": "T0144",
+   "src": "ワンチェン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xc20392d8",
+    "0xde105a3d"
+   ]
+  },
+  {
+   "id": "T0145",
+   "src": "テレンス・Ｔ・ダービー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x98abfa5a",
+    "0x84b832bf"
+   ]
+  },
+  {
+   "id": "T0146",
+   "src": "オインゴ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x2d88cd55",
+    "0x319b05b0"
+   ]
+  },
+  {
+   "id": "T0147",
+   "src": "ボインゴ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x05982e5d",
+    "0x198be6b8"
+   ]
+  },
+  {
+   "id": "T0148",
+   "src": "レオーネ・アバッキオ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x193168ac",
+    "0x0522a049"
+   ]
+  },
+  {
+   "id": "T0149",
+   "src": "ギアッチョ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x32420e51",
+    "0x2e51c6b4"
+   ]
+  },
+  {
+   "id": "T0150",
+   "src": "ダニエル・Ｊ・ダービー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x24fdc78a",
+    "0x38ee0f6f"
+   ]
+  },
+  {
+   "id": "T0151",
+   "src": "メローネ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x7b4d2fbb",
+    "0x675ee75e"
+   ]
+  },
+  {
+   "id": "T0152",
+   "src": "ジョージ・ジョースター",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xed3dd6c5",
+    "0xf12e1e20"
+   ]
+  },
+  {
+   "id": "T0153",
+   "src": "エリナ・ペンドルトン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa9bfd0c1"
+   ]
+  },
+  {
+   "id": "T0154",
+   "src": "エリナ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb5ac1824"
+   ]
+  },
+  {
+   "id": "T0155",
+   "src": "ダイアー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x85f59326",
+    "0x99e65bc3"
+   ]
+  },
+  {
+   "id": "T0156",
+   "src": "エンヤ婆",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf565bc78",
+    "0xe976749d"
+   ]
+  },
+  {
+   "id": "T0157",
+   "src": "ウィルソン・フィリップス",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x55c36881",
+    "0x49d0a064"
+   ]
+  },
+  {
+   "id": "T0158",
+   "src": "ヌケサク",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xc277f86d",
+    "0xde643088"
+   ]
+  },
+  {
+   "id": "T0159",
+   "src": "デーボ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x202e2c98",
+    "0x3c3de47d"
+   ]
+  },
+  {
+   "id": "T0160",
+   "src": "呪いの人形",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x780754b3",
+    "0x64149c56"
+   ]
+  },
+  {
+   "id": "T0161",
+   "src": "カメオ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x7f4c66eb",
+    "0x635fae0e"
+   ]
+  },
+  {
+   "id": "T0162",
+   "src": "小林玉美",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x04fd3f93",
+    "0x18eef776"
+   ]
+  },
+  {
+   "id": "T0163",
+   "src": "間田敏和",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x0da466d2",
+    "0x11b7ae37"
+   ]
+  },
+  {
+   "id": "T0164",
+   "src": "トニオ・トラサルディー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x673bd4f3",
+    "0x7b281c16"
+   ]
+  },
+  {
+   "id": "T0165",
+   "src": "パール・ジャム",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x337eb047",
+    "0x2f6d78a2"
+   ]
+  },
+  {
+   "id": "T0166",
+   "src": "大柳賢",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xc6a6700e",
+    "0xdab5b8eb"
+   ]
+  },
+  {
+   "id": "T0167",
+   "src": "プロシュート",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x3ac1bdf0",
+    "0x26d27515"
+   ]
+  },
+  {
+   "id": "T0168",
+   "src": "ペッシ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf78a7e86",
+    "0xeb99b663"
+   ]
+  },
+  {
+   "id": "T0169",
+   "src": "セッコ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x3276ddf3",
+    "0x2e651516"
+   ]
+  },
+  {
+   "id": "T0170",
+   "src": "チョコラータ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xc97ebdea",
+    "0xd56d750f"
+   ]
+  },
+  {
+   "id": "T0171",
+   "src": "Ｆ・Ｆ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x4d07a8bf",
+    "0x5114605a"
+   ]
+  },
+  {
+   "id": "T0172",
+   "src": "ドラゴンズ・ドリーム",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xae775d9b",
+    "0xb264957e"
+   ]
+  },
+  {
+   "id": "T0173",
+   "src": "ポコロコ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xdfda2499",
+    "0xc3c9ec7c"
+   ]
+  },
+  {
+   "id": "T0174",
+   "src": "ウェカピポ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb5929999",
+    "0xa981517c"
+   ]
+  },
+  {
+   "id": "T0175",
+   "src": "広瀬康穂",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x51a64d55",
+    "0x4db585b0"
+   ]
+  },
+  {
+   "id": "T0176",
+   "src": "ザ・ワールド・オーバーヘブン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x30ae3399"
+   ]
+  },
+  {
+   "id": "T0177",
+   "src": "ジャスティス",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xed75f85c"
+   ]
+  },
+  {
+   "id": "T0178",
+   "src": "オシリス神",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x845c86ce"
+   ]
+  },
+  {
+   "id": "T0179",
+   "src": "Ｊ・ガイル",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x71d8443c"
+   ]
+  },
+  {
+   "id": "T0180",
+   "src": "ハングドマン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x826d95cf"
+   ]
+  },
+  {
+   "id": "T0181",
+   "src": "エンペラー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x9a0fc6a9"
+   ]
+  },
+  {
+   "id": "T0182",
+   "src": "アクセル・ＲＯ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xfb739248"
+   ]
+  },
+  {
+   "id": "T0183",
+   "src": "イルーゾォ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xbeea1bc8"
+   ]
+  },
+  {
+   "id": "T0184",
+   "src": "刺青",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xe4fdd3cb"
+   ]
+  },
+  {
+   "id": "T0185",
+   "src": "ヴィヴィアーノ・ウエストウッド",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa154976f"
+   ]
+  },
+  {
+   "id": "T0186",
+   "src": "ヴィネガー・ドッピオ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x31d006f2"
+   ]
+  },
+  {
+   "id": "T0187",
+   "src": "エリナ・ジョースター",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa4fcf618"
+   ]
+  },
+  {
+   "id": "T0188",
+   "src": "花京院典明（偽）",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb633cffc"
+   ]
+  },
+  {
+   "id": "T0189",
+   "src": "川尻早人",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x897b9e66"
+   ]
+  },
+  {
+   "id": "T0190",
+   "src": "グェス",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x841e5ca8"
+   ]
+  },
+  {
+   "id": "T0191",
+   "src": "警部",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x85fa9115"
+   ]
+  },
+  {
+   "id": "T0192",
+   "src": "サンタナ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x4f3c77a2"
+   ]
+  },
+  {
+   "id": "T0193",
+   "src": "サンドマン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xbd0c79de"
+   ]
+  },
+  {
+   "id": "T0194",
+   "src": "シビル・ウォー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x27f09028"
+   ]
+  },
+  {
+   "id": "T0195",
+   "src": "スクアーロ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x329d96fe"
+   ]
+  },
+  {
+   "id": "T0196",
+   "src": "ストレイ・キャット",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x279bb4b3"
+   ]
+  },
+  {
+   "id": "T0197",
+   "src": "スポーツ・マックス",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x67286d6c"
+   ]
+  },
+  {
+   "id": "T0198",
+   "src": "第５部ジャン・ピエール・ポルナレフ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xe125de56"
+   ]
+  },
+  {
+   "id": "T0199",
+   "src": "第４部老ジョセフ・ジョースター",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xafcc19a6"
+   ]
+  },
+  {
+   "id": "T0200",
+   "src": "第６部ＤＩＯ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xce3b3e64"
+   ]
+  },
+  {
+   "id": "T0201",
+   "src": "タワー・オブ・グレー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf44b0814"
+   ]
+  },
+  {
+   "id": "T0202",
+   "src": "辻彩",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x11d817dc"
+   ]
+  },
+  {
+   "id": "T0203",
+   "src": "デス１３",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x2881cca7"
+   ]
+  },
+  {
+   "id": "T0204",
+   "src": "東洋人",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xfb253fa3"
+   ]
+  },
+  {
+   "id": "T0205",
+   "src": "トンペティ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x442f6891"
+   ]
+  },
+  {
+   "id": "T0206",
+   "src": "東方大弥",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x54d259d6"
+   ]
+  },
+  {
+   "id": "T0207",
+   "src": "東方つるぎ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xae151747"
+   ]
+  },
+  {
+   "id": "T0208",
+   "src": "東方憲助",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x2bfe9dc4"
+   ]
+  },
+  {
+   "id": "T0209",
+   "src": "噴上裕也",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x6faa3687"
+   ]
+  },
+  {
+   "id": "T0210",
+   "src": "ヘビー・ウェザー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x25f43ccd"
+   ]
+  },
+  {
+   "id": "T0211",
+   "src": "ベンジャミン・ブンブーン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x142e2aae"
+   ]
+  },
+  {
+   "id": "T0212",
+   "src": "ホット・パンツ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x65c78a84"
+   ]
+  },
+  {
+   "id": "T0213",
+   "src": "ミュッチャー・ミューラー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x96da5cef"
+   ]
+  },
+  {
+   "id": "T0214",
+   "src": "メタリカ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x42a39860"
+   ]
+  },
+  {
+   "id": "T0215",
+   "src": "八木山夜露",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xc6154804"
+   ]
+  },
+  {
+   "id": "T0216",
+   "src": "ラバーソール",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x053f7059"
+   ]
+  },
+  {
+   "id": "T0217",
+   "src": "リキエル",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x4e69691e"
+   ]
+  },
+  {
+   "id": "T0218",
+   "src": "リゾット・ネエロ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x44c45833"
+   ]
+  },
+  {
+   "id": "T0219",
+   "src": "老ロバート・Ｅ・Ｏ・スピードワゴン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x31b5c7ce"
+   ]
+  },
+  {
+   "id": "T0220",
+   "src": "警官",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa2abb819"
+   ]
+  },
+  {
+   "id": "T0221",
+   "src": "老化した通行人（男）",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb2679db3"
+   ]
+  },
+  {
+   "id": "T0222",
+   "src": "アナウンサー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa9cfff5d"
+   ]
+  },
+  {
+   "id": "T0223",
+   "src": "デッドマンズＱ吉良吉影",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf9f9343c"
+   ]
+  },
+  {
+   "id": "T0224",
+   "src": "デッドマンズＱ吉良",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xe5eafcd9"
+   ]
+  },
+  {
+   "id": "T0225",
+   "src": "ＴＨＥ ＷＯＲＬＤ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x21e2d284",
+    "0x3df11a61"
+   ]
+  },
+  {
+   "id": "T0226",
+   "src": "<ruby ゾンビ>屍生人</ruby>",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x627898e9"
+   ]
+  },
+  {
+   "id": "T0227",
+   "src": "吸血鬼",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xd9e26d4a"
+   ]
+  },
+  {
+   "id": "T0228",
+   "src": "死人",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x54288219"
+   ]
+  },
+  {
+   "id": "T0229",
+   "src": "リンプ・ビズキット",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x71270605"
+   ]
+  },
+  {
+   "id": "T0230",
+   "src": "恐竜",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x8df8807e"
+   ]
+  },
+  {
+   "id": "T0231",
+   "src": "恐竜（小）",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xe2e1c4b7"
+   ]
+  },
+  {
+   "id": "T0232",
+   "src": "シアーハートアタック",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x56211411"
+   ]
+  },
+  {
+   "id": "T0233",
+   "src": "ヴァルキリー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x3f589f89"
+   ]
+  },
+  {
+   "id": "T0234",
+   "src": "スロー・ダンサー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x01165107"
+   ]
+  },
+  {
+   "id": "T0235",
+   "src": "シルバー・バレット",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xd643f0f6"
+   ]
+  },
+  {
+   "id": "T0236",
+   "src": "ボール・ブレイカー",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xeb95e732"
+   ]
+  },
+  {
+   "id": "T0237",
+   "src": "ルドル・フォン・シュトロハイム（重機関砲モード）",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x0835cbfc"
+   ]
+  },
+  {
+   "id": "T0238",
+   "src": "シュトロハイム（重機関砲モード）",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x14260319"
+   ]
+  },
+  {
+   "id": "T0239",
+   "src": "ルドル・フォン・シュトロハイム（紫外線照射装置モード）",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x0cf4d64b"
+   ]
+  },
+  {
+   "id": "T0240",
+   "src": "シュトロハイム（紫外線照射装置モード",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x10e71eae"
+   ]
+  },
+  {
+   "id": "T0241",
+   "src": "ジョースター邸",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x6cb5fd5a"
+   ]
+  },
+  {
+   "id": "T0242",
+   "src": "エア・サプレーナ島",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xf916417b"
+   ]
+  },
+  {
+   "id": "T0243",
+   "src": "カイロ市街屋上",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x8b605475"
+   ]
+  },
+  {
+   "id": "T0244",
+   "src": "<ruby ナイトメアーワールド>悪夢世界</ruby>",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x7d31f2c0"
+   ]
+  },
+  {
+   "id": "T0245",
+   "src": "杜王町",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xbd0f29d2"
+   ]
+  },
+  {
+   "id": "T0246",
+   "src": "ボヨヨン岬",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa6f516fd"
+   ]
+  },
+  {
+   "id": "T0247",
+   "src": "コロッセオ",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x10075739"
+   ]
+  },
+  {
+   "id": "T0248",
+   "src": "ネアポリス駅",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x5dd5d24e"
+   ]
+  },
+  {
+   "id": "T0249",
+   "src": "Ｇ．Ｄ．ｓｔ刑務所",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x29ba4c1c"
+   ]
+  },
+  {
+   "id": "T0250",
+   "src": "ケープ・カナベラル",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa6ad7f47"
+   ]
+  },
+  {
+   "id": "T0251",
+   "src": "ロッキー山脈麓の村",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x52c5ceb8"
+   ]
+  },
+  {
+   "id": "T0252",
+   "src": "東方家",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x6b37b8fa"
+   ]
+  },
+  {
+   "id": "T0253",
+   "src": "カイロ陸橋",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x48d09111"
+   ]
+  },
+  {
+   "id": "T0254",
+   "src": "カイロ市街",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x2fc3621d"
+   ]
+  },
+  {
+   "id": "T0255",
+   "src": "カイロ空港",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x306d5e79"
+   ]
+  },
+  {
+   "id": "T0256",
+   "src": "ディオの館",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x23ef2730"
+   ]
+  },
+  {
+   "id": "T0257",
+   "src": "闘技場",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x9eb710d5"
+   ]
+  },
+  {
+   "id": "T0258",
+   "src": "ＤＩＯの館",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xd477355b"
+   ]
+  },
+  {
+   "id": "T0259",
+   "src": "フィラデルフィアの海岸沿い",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb2979a7b"
+   ]
+  },
+  {
+   "id": "T0260",
+   "src": "オーバーヘブン空間",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x75cd70d7"
+   ]
+  },
+  {
+   "id": "T0261",
+   "src": "カイロ陸橋（オーバーヘブン空間）",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x8e410ce5"
+   ]
+  },
+  {
+   "id": "T0262",
+   "src": "Ｐａｒｔ１　ファントムブラッド",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xbe384f76"
+   ]
+  },
+  {
+   "id": "T0263",
+   "src": "Ｐａｒｔ２　戦闘潮流",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb37b69af"
+   ]
+  },
+  {
+   "id": "T0264",
+   "src": "Ｐａｒｔ３　スターダストクルセイダース",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb7ba7418"
+   ]
+  },
+  {
+   "id": "T0265",
+   "src": "Ｐａｒｔ４　ダイヤモンドは砕けない",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa9fd241d"
+   ]
+  },
+  {
+   "id": "T0266",
+   "src": "Ｐａｒｔｅ５　黄金の風",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xad3c39aa"
+   ]
+  },
+  {
+   "id": "T0267",
+   "src": "Ｐａｒｔ６　ストーンオーシャン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa07f1f73"
+   ]
+  },
+  {
+   "id": "T0268",
+   "src": "Ｐａｒｔ７　スティール・ボール・ラン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xa4be02c4"
+   ]
+  },
+  {
+   "id": "T0269",
+   "src": "Ｐａｒｔ８　ジョジョリオン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x9cf1bf79"
+   ]
+  },
+  {
+   "id": "T0270",
+   "src": "ファントムブラッド",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x963dae9a"
+   ]
+  },
+  {
+   "id": "T0271",
+   "src": "戦闘潮流",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x9b7e8843"
+   ]
+  },
+  {
+   "id": "T0272",
+   "src": "スターダストクルセイダース",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x9fbf95f4"
+   ]
+  },
+  {
+   "id": "T0273",
+   "src": "ダイヤモンドは砕けない",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x81f8c5f1"
+   ]
+  },
+  {
+   "id": "T0274",
+   "src": "黄金の風",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x8539d846"
+   ]
+  },
+  {
+   "id": "T0275",
+   "src": "ストーンオーシャン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x887afe9f"
+   ]
+  },
+  {
+   "id": "T0276",
+   "src": "スティール・ボール・ラン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0x8cbbe328"
+   ]
+  },
+  {
+   "id": "T0277",
+   "src": "ジョジョリオン",
+   "category": "",
+   "ko": "",
+   "alt": [],
+   "state": "unresolved",
+   "evidence": [],
+   "note": "",
+   "msg_ids": [
+    "0xb4f45e95"
+   ]
+  }
+ ]
+}

@@ -121,3 +121,28 @@ def test_apply_rejects_unknown_state():
     store = _translated(state="done")
     with pytest.raises(textdb.TranslationError, match="알 수 없는 상태"):
         textdb.apply(_mf("はい", None, "<string />枚"), store, policy="dev")
+
+
+# --- approved keep-source exceptions ----------------------------------------------------
+
+def _kept(state="distribution_eligible", reason="의성어는 일본어 유지 (사용자 결정 2026-10-28)"):
+    store = textdb.sync(None, FILE, _mf("ドドド"))
+    store["entries"][0].update(keep_source=reason, state=state)
+    return store
+
+
+def test_release_accepts_approved_keep_source_exception():
+    out, report = textdb.apply(_mf("ドドド"), _kept(), policy="release")
+    assert out.entries[0].text == "ドドド" and report["kept_source"] == 1
+
+
+def test_keep_source_requires_reason():
+    with pytest.raises(textdb.TranslationError, match="원문 유지 사유"):
+        textdb.apply(_mf("ドドド"), _kept(reason=""), policy="release")
+
+
+def test_keep_source_conflicts_with_translation():
+    store = _kept()
+    store["entries"][0]["ko"] = "두두두"
+    with pytest.raises(textdb.TranslationError, match="원문 유지와 번역문"):
+        textdb.apply(_mf("ドドド"), store, policy="dev")
