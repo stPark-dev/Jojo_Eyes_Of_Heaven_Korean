@@ -74,12 +74,20 @@ pip install cryptography numpy pillow pytest
 python3 -m pytest
 ```
 
-게임 데이터가 필요한 테스트는 아래 경로에서 파일을 찾고, 없으면 건너뜁니다.
+테스트와 스크립트는 아래 경로에서 게임 데이터를 찾습니다(테스트는 없으면 건너뜀). 환경 변수 → 저장소 루트의 `eoh.local.toml`(git 제외) → 기본값 순으로 정합니다.
 
-| 환경 변수 | 기본값 | 내용 |
-|---|---|---|
-| `EOH_DISC_SIM` | `game/PS3_GAME/USRDIR/data/sim` | 디스크의 `data*.cpk` |
-| `EOH_PATCH_ROOT` | `~/.config/rpcs3/dev_hdd0/game/BLJS10318/USRDIR/data/patch` | 설치된 공식 업데이트 |
+| 환경 변수 | `eoh.local.toml` 키 | 기본값 | 내용 |
+|---|---|---|---|
+| `EOH_DISC_SIM` | `disc_sim` | `game/PS3_GAME/USRDIR/data/sim` | 디스크의 `data*.cpk` |
+| `EOH_RPCS3_USRDIR` | `rpcs3_usrdir` | `~/.config/rpcs3/dev_hdd0/game/BLJS10318/USRDIR` | RPCS3에 설치된 게임(병합 설치 대상) |
+| `EOH_PATCH_ROOT` | `patch_root` | `<rpcs3_usrdir>/data/patch` | 설치된 공식 업데이트 |
+
+RPCS3를 포터블로 쓰는 윈도우 환경 예시:
+
+```toml
+# eoh.local.toml
+rpcs3_usrdir = "C:/rpcs3/dev_hdd0/game/BLJS10318/USRDIR"
+```
 
 ### 구조
 
@@ -94,7 +102,8 @@ src/eoh/
 ├── font.py        NFH 비트맵 폰트 파싱·재구성·글리프 추가
 ├── dxt5.py        DXT5 아틀라스 알파 인코딩/디코딩
 ├── glyph_render.py 아웃라인 폰트 → 글리프 비트맵·메트릭
-└── textdb.py      번역 파일 동기화·태그 검사·적용
+├── textdb.py      번역 파일 동기화·태그 검사·적용
+└── paths.py       로컬 게임 데이터 경로 (환경 변수 / eoh.local.toml)
 scripts/
 ├── textdb.py      번역 파일 sync / export / status
 ├── poc_marker.py  텍스트 교체 검증용 PoC

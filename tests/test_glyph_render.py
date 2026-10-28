@@ -4,23 +4,22 @@ import pytest
 
 from eoh import glyph_render
 
-NOTO = Path("/usr/share/fonts/opentype/noto/NotoSansCJK-Medium.ttc")
+FONT = Path(__file__).resolve().parents[1] / "fonts/SourceHanSerifKR-Heavy.otf"
+SIZE = 24  # size used for in-game Hangul glyphs
 
 
 @pytest.fixture(scope="module")
 def renderer():
-    if not NOTO.exists():
-        pytest.skip("Noto Sans CJK not installed")
-    return glyph_render.Renderer(NOTO, size=26, index=1, advance=26)
+    return glyph_render.Renderer(FONT, size=SIZE, advance=SIZE)
 
 
 def test_hangul_glyph_has_ink_and_fullwidth_metrics(renderer):
     alpha, metrics = renderer.render("한")
     h, w = alpha.shape
-    assert alpha.max() == 255 and 20 <= w <= 26 and 20 <= h <= 27
+    assert alpha.max() == 255 and SIZE - 6 <= w <= SIZE and SIZE - 6 <= h <= SIZE + 2
     bearing_x, bearing_y, advance, vert_x, vert_y, vert_adv = metrics
-    assert advance == 26 * 64 and vert_adv == 26 * 64
-    assert 18 * 64 <= bearing_y <= 24 * 64
+    assert advance == SIZE * 64 and vert_adv == SIZE * 64
+    assert (SIZE - 6) * 64 <= bearing_y <= SIZE * 64
     assert vert_x == -(w // 2) * 64
 
 
@@ -31,4 +30,4 @@ def test_ink_is_cropped_tightly(renderer):
 
 def test_space_like_char_has_empty_bitmap(renderer):
     alpha, metrics = renderer.render(" ")
-    assert alpha.shape == (0, 0) and metrics[2] == 26 * 64
+    assert alpha.shape == (0, 0) and metrics[2] == SIZE * 64

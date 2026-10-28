@@ -15,12 +15,11 @@ sys.path.insert(0, str(ROOT / "src"))
 
 from eoh import glossary, message, textdb  # noqa: E402
 from eoh.layers import GameFs  # noqa: E402
+from eoh.paths import DISC_SIM, PATCH_ROOT  # noqa: E402
 
 MSG_DIR = "data/message/PS3/jpn/"
 STORE_DIR = ROOT / "translation"
 WORK_DIR = ROOT / "work/translate"
-DISC_SIM = ROOT / "game/PS3_GAME/USRDIR/data/sim"
-PATCH_ROOT = Path.home() / ".config/rpcs3/dev_hdd0/game/BLJS10318/USRDIR/data/patch"
 
 
 def official_fs() -> GameFs:

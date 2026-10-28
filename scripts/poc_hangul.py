@@ -18,11 +18,10 @@ from PIL import Image  # noqa: E402
 from eoh import dxt5, font, merge, message  # noqa: E402
 from eoh.glyph_render import Renderer  # noqa: E402
 from eoh.layers import GameFs  # noqa: E402
+from eoh.paths import DISC_SIM, RPCS3_USRDIR  # noqa: E402
 
 COMMON = "data/message/PS3/jpn/messageInfo_common.bin.xfbin"
 KOREAN_FONT = ROOT / "fonts/SourceHanSerifKR-Heavy.otf"  # SIL OFL, see fonts/LICENSE.txt
-DISC_SIM = ROOT / "game/PS3_GAME/USRDIR/data/sim"
-RPCS3_USRDIR = Path.home() / ".config/rpcs3/dev_hdd0/game/BLJS10318/USRDIR"
 OUT = ROOT / "build/poc"
 KOREAN = {
     "はい": "예", "いいえ": "아니요", "決定": "결정", "キャンセル": "취소", "戻る": "돌아가기",

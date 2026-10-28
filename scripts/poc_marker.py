@@ -17,11 +17,10 @@ sys.path.insert(0, str(ROOT / "src"))
 
 from eoh import merge, message  # noqa: E402
 from eoh.layers import GameFs  # noqa: E402
+from eoh.paths import DISC_SIM, RPCS3_USRDIR  # noqa: E402
 
 MARKER = "※"
 TARGET = "data/message/PS3/jpn/messageInfo_common.bin.xfbin"
-DISC_SIM = ROOT / "game/PS3_GAME/USRDIR/data/sim"
-RPCS3_USRDIR = Path.home() / ".config/rpcs3/dev_hdd0/game/BLJS10318/USRDIR"
 OUT = ROOT / "build/poc"
 
 

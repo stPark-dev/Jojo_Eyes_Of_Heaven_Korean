@@ -1,14 +1,9 @@
 """Shared fixtures. Game data is never committed; tests that need it skip when absent."""
-import os
 from pathlib import Path
 
 import pytest
 
-ROOT = Path(__file__).resolve().parents[1]
-DISC_SIM = Path(os.environ.get("EOH_DISC_SIM", ROOT / "game/PS3_GAME/USRDIR/data/sim"))
-PATCH_ROOT = Path(os.environ.get(
-    "EOH_PATCH_ROOT",
-    Path.home() / ".config/rpcs3/dev_hdd0/game/BLJS10318/USRDIR/data/patch"))
+from eoh.paths import DISC_SIM, PATCH_ROOT
 
 BASE_CPKS = ["data0", "data1", "dataRegion0", "dataRegion1"]
 PATCH_LAYERS = [1, 2, 3, 4, 5]
