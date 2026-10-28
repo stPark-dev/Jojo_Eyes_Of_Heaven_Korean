@@ -4,723 +4,723 @@
   {
    "id": "0xe5e8fcaa",
    "src_sha1": "c92b4cda8bdf50d2b2644305a8ebdf9c28cfabea",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "예",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xf20be913",
    "src_sha1": "f901585367d6f4957f75a0341becdde060bfaa78",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "아니요",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xf20c663c",
    "src_sha1": "0f8e5b4de960b3b2fc38c97579a61457acc4b7a9",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "결정",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x673931d3",
    "src_sha1": "269b0f92e460f3dd51ddf582098d0a998d525974",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "취소",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x193710d3",
    "src_sha1": "225550ae6488b6e6110caaa6c7f51ee01bf1928f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "진행",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6be2032b",
    "src_sha1": "e572295bb22472172f5448c293094f23b61385f6",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "다음",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb9d45ee1",
    "src_sha1": "09eab5614e0772947f17ec73542fdfb6216e95f7",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이전",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x75338467",
    "src_sha1": "60a1005be6a88f26b5cd0bdfec9570a5881247eb",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "돌아가기",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x4da3db6b",
    "src_sha1": "3da5c1855151b370ca9064a6d547d92bc9b89ce5",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "닫기",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x7e6d7e05",
    "src_sha1": "286ca7bc0b45b3e0616cb1821f8ddf681abaa8da",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "다음 페이지",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x5eb87782",
    "src_sha1": "e1f305b83fc7d45e1afe94fc05b14dc3a71753f4",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이전 페이지",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xafe8d171",
    "src_sha1": "908e1747c7771e8998fa0c9e26d6d0186899a9d1",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "페이지 전환",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xab35e8f3",
    "src_sha1": "31e41231df1a749f369542bd82d7858f91a61e8f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "OK",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x1edec309",
    "src_sha1": "a91a8a6ac7cee5edec26adc060bb5ce8449c25d7",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "건너뛰기",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xd245c56f",
    "src_sha1": "7df108a1c11ba72407c8bf2be57878bbb9c09e76",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "1P",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa0ae9abc",
    "src_sha1": "ff25b0841f1b806c27d316e0404c08ab9d66e6fc",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "2P",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x65dae2c8",
    "src_sha1": "d79294e2d1b887eb1ee8388ee22fd5080d04c27b",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "건너뛰시겠습니까?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xdbc1dc6f",
    "src_sha1": "1a2e920ba7c651e24be9fb2c70c396440509317e",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "없음",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe12071e3",
    "src_sha1": "48bee05cb654dd0ed4460518cba41ab28995ae1d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "랜덤",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xc944117b",
    "src_sha1": "679fb97216fbfa31c9479de22eeb9645a90544e5",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "랜덤 선택",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe98a2323",
    "src_sha1": "21a6445d84aea8ac69bd582860ef9a095d1c4398",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "랜덤 결정",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xda9183c6",
    "src_sha1": "92b32774833f13aa3a057423c42f87d3d9cf8f9d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "잠시 기다려 주십시오",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xc68a32c2",
    "src_sha1": "b9fa67abcaf9ed785a3ddc735b519548caed9869",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "선택",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x7eaec405",
    "src_sha1": "46aabc6597adcde824e89eabfa2fc95c69f28ce7",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "상세 설명",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x3e2eb3f7",
    "src_sha1": "e64aedc4a5dfe78241f278ce1d45cac6bb5cb29c",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "죠죠의 기묘한 모험 아이즈 오브 헤븐",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 게임 제목 공식 한국어 표기 확인 필요 (PS4 한국어판 표기 대조)"
   },
   {
    "id": "0xa98ad1af",
    "src_sha1": "ca7155ecbd579cc1c196d8e95bd338bf42582c45",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "죠죠의 기묘한 모험 아이즈 오브 헤븐 체험판",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 게임 제목 공식 한국어 표기 확인 필요"
   },
   {
    "id": "0x6d3a3107",
    "src_sha1": "4a77f8cfd6b1d3dd04c428340b3855077964b9c7",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "체험판",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x35701fb4",
    "src_sha1": "2b338dbf60cb07fd5cc17ae9188d37b4734e9a57",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "죠죠의 기묘한 모험 아이즈 오브 헤븐 체험판 2nd",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 게임 제목 공식 한국어 표기 확인 필요"
   },
   {
    "id": "0xcb1e51f1",
    "src_sha1": "636ce9aea0be717ce9cccca1a0a07feb813ba85d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "체험판 2nd",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6efa0ea8",
    "src_sha1": "600fbf7dad8c2dbc9727a6b99130aab708ed8a8a",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "죠죠 EoH",
+   "state": "needs_human_review",
+   "note": "초안(Claude). 약칭 표기 확인 필요"
   },
   {
    "id": "0xffed1677",
    "src_sha1": "143abd078b2aeacf3418dfe4139896043a21bc9f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "타이틀로 돌아갑니다.\n괜찮으십니까?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x35366360",
    "src_sha1": "476faf88b2663d04eaa44171b6b846e3bb80ed70",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "모드 선택으로",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb42fed2f",
    "src_sha1": "b56f89525b4d99198efc364d8966c5cec3246f68",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "모드 선택으로 돌아갑니다. 이때 저장하지 않은 진행 상황은 사라집니다.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb0eef098",
    "src_sha1": "8816a69961cb929fb11570f8028c64ed6dc775fb",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "모드 선택으로 돌아갑니다.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x66bcc231",
    "src_sha1": "ed427559ba4f2d9618c2177f2472ecbe0a01f1b7",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "모드 선택으로 돌아갑니다.\n괜찮으십니까?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x627ddf86",
    "src_sha1": "36ffddb84ef9719475b02782c7469e73fd782fa0",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "모드 선택으로 돌아갑니다.\n괜찮으십니까?\n\n<color 0xc52828ff>주의: 이때 저장하지 않은\n진행 상황은 사라집니다.</color>",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x17828ed7",
    "src_sha1": "b5c33561c1da3c0de21c636e5dc55372043b18f2",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "일시 정지 메뉴",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x23b85e22",
    "src_sha1": "7f9e7dd02d24a6aae40387b3a8cc82e89527927a",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "배틀 시작",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x5accb0e1",
    "src_sha1": "8d70c0d7f21e688a33d175e4411fa043d76071a2",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "재도전",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa55f8026",
    "src_sha1": "5890d4ed09edec044c019c7084de86733dc6b8d0",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "모든 설정을 초기 상태로 되돌립니다.\n괜찮으십니까?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe11eebab",
    "src_sha1": "02fbec8809863656477604603347a387812ecfe4",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "트로피 팩 설치 중…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x69f2628e",
    "src_sha1": "a9bc9be62ecce72c12f2318a7d86e7fc52b89a10",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "트로피 팩 확인 중…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x15f8744f",
    "src_sha1": "aea4a5ffbc73ed7e796acd92b805bb8dc6619b09",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "하드디스크의 여유 공간이 부족합니다.\n이 게임을 플레이하려면\n하드디스크에 <string />MB 이상의 여유 공간이 필요합니다.\nPS 버튼으로 게임을 종료하고 필요한 여유 공간을 확보해 주십시오.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x72e59455",
    "src_sha1": "65899c2d5d6455adc3ceba37ec11f8996bad0833",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "하드디스크의 여유 공간이 부족합니다.\n이 게임을 플레이하려면\n하드디스크에 <string />KB 이상의 여유 공간이 필요합니다.\nPS 버튼으로 게임을 종료하고 필요한 여유 공간을 확보해 주십시오.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x867494b2",
    "src_sha1": "ed8440f729534ace16bd9ca134a638e236161e3f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "게임 데이터가 손상되었습니다.\nPS 버튼으로 게임을 종료하고 게임 데이터를 삭제해 주십시오.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x0ef611cf",
    "src_sha1": "978f421ede7ca15d7de1db84b76b5209c7ad821a",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이 다운로드판 패키지는 권리 정보가 올바르지 않습니다.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe54d3b6c",
    "src_sha1": "e9f241d186dd5cb3f4604586e0b4a44300a1210a",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이 게임은 자동 저장 기능을 지원합니다.\n저장 및 불러오기 중에는 화면에\n이 아이콘이 표시되니,\n그동안 <color 0xff4200ff>본체의 전원을 끄지 마십시오.</color>",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x64f30620",
    "src_sha1": "37ff2bd5d105c3491d44e0d1697cd3f3c6b0e39b",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "세이브 데이터를 찾을 수 없습니다.\n새 「세이브 데이터」를 만듭니다.\n<color 0xff4200ff>「저장 중」이라고 표시되는 동안에는\n본체의 전원을 끄지 마십시오.</color>",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xf688686b",
    "src_sha1": "c60c83211cb6535d9637c4136a6f4db8b0a1f419",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "새 「세이브 데이터」를 만듭니다.\n<color 0xff4200ff>「저장 중」이라고 표시되는 동안에는\n본체의 전원을 끄지 마십시오.</color>",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xdb72c143",
    "src_sha1": "f98b24cf85a59bc34e07e09909c4ff17629f5b59",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "세이브 데이터의 사용자 정보가 다릅니다.\n<color 0xff4200ff>사용자 정보가 다른 세이브 데이터로는\n게임을 진행할 수 없습니다.</color>\n새로 만든 세이브 데이터로 덮어씁니다.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xf0bce12e",
    "src_sha1": "3c24be76971689446b8829edfac7fef4adba11a3",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "세이브 데이터가 손상되었습니다.\n세이브 데이터를 불러오지 못했습니다.\n<color 0xff4200ff>이대로는 게임을 진행할 수 없습니다.</color>\n새로 만든 세이브 데이터로 덮어씁니다.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x65238ca3",
    "src_sha1": "227a6e2354415b6b6f76ff1a285a68d6d69a2431",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "저장 중…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x3fe1fe36",
    "src_sha1": "fcd9bc867100540feb75811e7d3a808e6e28613c",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "불러오는 중…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe2f297cd",
    "src_sha1": "b97f1f51872f2db44139dbff5426de75c3ad18cf",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "리플레이 데이터 저장 중…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x31548d84",
    "src_sha1": "f024438e700cdcc599a4b24a4f06911f56d24125",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "저장 중【<progress>%】",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xbc72f5bd",
    "src_sha1": "fa029d28682b5001d4f7f2790bda039cf928a259",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "세이브 데이터",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xdcbbfb66",
    "src_sha1": "74ab348b291b37be5a1e63ba32f5c9431a8573bd",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "세이브 데이터를 만들었습니다.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x8e4a92b7",
    "src_sha1": "eba8f9f740cbe22078c7727af3dcfecff11a7971",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "저장하시겠습니까?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x1725227e",
    "src_sha1": "dcf537f5d05116afe13424958934763ecac3a25c",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "저장하지 못했습니다.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x9f1e1aa6",
    "src_sha1": "0876e35332d89c8b1f6c83b846a88958f063dac6",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "세이브 데이터를 만들지 못했습니다.\nPS 버튼으로 게임을 종료해 주십시오.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x6f0f3696",
    "src_sha1": "b50b6830986891ea19ca74288f086ae27073e97f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "세이브 데이터를 만들지 못했습니다.\n다시 만듭니다.\n<color 0xff4200ff>「저장 중」이라고 표시되는 동안에는\n본체의 전원을 끄지 마십시오.</color>",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x854db290",
    "src_sha1": "c0de6bf4d7db1ee15fe5c5c3ee6b092aeb1c1005",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "『<string />』의 온라인 배틀에 초대받았습니다.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xeec24cde",
    "src_sha1": "b59096337bb51d2eef2853cba259a8ec4754cc76",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "초대를 받으면 진행 중인 게임이 종료됩니다.\n저장하지 않은 데이터는 사라지는데, 초대를 받으시겠습니까?",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x3174f72c",
    "src_sha1": "928528780de33e6c83d5f6c274bb5c79380a64d2",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "네트워크 연결이 끊어졌습니다.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x757b4e14",
    "src_sha1": "9ddc1e6ccfa225676086b9c04f1474bc079cf0b5",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "회원님의 Sony Entertainment Network 계정은\n보호자 잠금이 설정되어 있어\n온라인 서비스를 이용할 수 없습니다.",
+   "state": "needs_review",
+   "note": "초안(Claude). 보호자 잠금: PS3 한국어 시스템 용어 확인 권장"
   },
   {
    "id": "0x6b3c1e11",
    "src_sha1": "1845d5462e3e59347719a37eb31034fdff409ce8",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "회원님의 Sony Entertainment Network 계정은\n보호자 잠금이 설정되어 있어\n온라인 서비스를 이용할 수 없습니다.",
+   "state": "needs_review",
+   "note": "초안(Claude). 보호자 잠금: PS3 한국어 시스템 용어 확인 권장"
   },
   {
    "id": "0x81b38fe7",
    "src_sha1": "65af33f16b05b0aee531ce05e3136d8e5fdf761b",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "회원님의 Sony Entertainment Network 계정은\n채팅 제한이 설정되어 있어\n채팅 기능을 이용할 수 없습니다.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x8cf0a93e",
    "src_sha1": "a44f83a13f3fbca44676b6cf3146a588ece9e2da",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "회원님의 Sony Entertainment Network 계정은\n보호자 잠금이 설정되어 있어\n플레이어 카드의 커스터마이즈 요소는\n기본 설정이 사용됩니다.",
+   "state": "needs_review",
+   "note": "초안(Claude). 보호자 잠금: PS3 한국어 시스템 용어 확인 권장"
   },
   {
    "id": "0x4cafccca",
    "src_sha1": "5a93910129c0cbfafd4a7d7282b5ea28988083b9",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "이 게임의 온라인 서비스를 이용하려면\n\"PlayStation Network\"에 로그인해야 합니다.",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x5b9e7171",
    "src_sha1": "59d99e3619dde4b2b126984561cbdb1794eb0dfb",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "YES! YES! YES!",
+   "state": "needs_review",
+   "note": "초안(Claude). 죠셉 명대사, 영어 유지"
   },
   {
    "id": "0xa6de0c43",
    "src_sha1": "2f0f81da0aeffffc610e1c29ea36ead65285b946",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "NO! NO! NO!",
+   "state": "needs_review",
+   "note": "초안(Claude). 영어 유지"
   },
   {
    "id": "0x93c89286",
    "src_sha1": "1db3de004bbcfbb1d1a4064e026b75162142801e",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "START 버튼:",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xccb79280",
    "src_sha1": "91e85c42cba221050dcbf9d8093263821d9c05d4",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "SELECT 버튼:",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xe6c23612",
    "src_sha1": "55049479673fb634629be001b817502584f68678",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "OPTIONS 버튼:",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x307f147f",
    "src_sha1": "240db015af48ae96d0453de1efcacd1818d7d14e",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "터치패드 버튼:",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x3aecff79",
    "src_sha1": "00e2674d3beb4c254594e18c26ab48393655e26f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "START 버튼:",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x74323668",
    "src_sha1": "9488d30d0257872d4296e0fac6e1613681b9dd68",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "BACK 버튼:",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xc414bd60",
    "src_sha1": "b7488b6cb7bf31df3d8a49d01296470f0cf61467",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "???",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x04f9603d",
    "src_sha1": "f8a5344b85f7f4862c77e9f0aa3279e676d74806",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "<string 1 /> × <string 2 />",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xc8605539",
    "src_sha1": "67fba2f357af6859de93ea738f33b6a49034f87d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "×",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x206c8689",
    "src_sha1": "0ee43436115cf8c749f9c003147bf19ce2ea544c",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "매우 강함",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x2d2fa050",
    "src_sha1": "ca169f1b09d7b21b1955e93152eaffad543e6d2c",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "강함",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x29eebde7",
    "src_sha1": "7cda072d452bfa8e00409ec2abe889d088522ce8",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "보통",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x37a9ede2",
    "src_sha1": "6cd83d6d8773bced534f89d4d493d27402a26208",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "약함",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x3368f055",
    "src_sha1": "92f77379b58ae36a3431f33696aa316457ce6b0e",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "매우 약함",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xad966ac2",
    "src_sha1": "121ae791f11b999725ccd16d245a59cc8a6f6d67",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "컬러",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa9577775",
    "src_sha1": "d25be29b59dbc27b7ac5d50cf0262c3b9a77646f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "컬러 A",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa41451ac",
    "src_sha1": "24fd09f01ec45571af728b0edec48a5f4e0124a5",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "컬러 B",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xa0d54c1b",
    "src_sha1": "2a8da4c78b4a523dc625d958e76ec44abf79ea38",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "컬러 C",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xbe921c1e",
    "src_sha1": "a853a9158108909baeb7776d4310720afc287c09",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "컬러 D",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xd9d33ea7",
    "src_sha1": "c6a5665f32ecda2f34f7f2522272c1a70db15d9b",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "코스튬",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xdd122310",
    "src_sha1": "4227307ca9de474a38e24f06d4c75235c5bdee6f",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "노멀",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xd05105c9",
    "src_sha1": "e8cac9dcd916792c310ccaae880fe06d26c60000",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "스페셜 A",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xd490187e",
    "src_sha1": "21238815b32ca35f32310a7ce9ef9c8514550f1c",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "스페셜 B",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xcad7487b",
    "src_sha1": "cb989ac746e625bf8690d674adc30dc0fcb84c68",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "스페셜 C",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xce1655cc",
    "src_sha1": "fea85aff6d779d5a6dc998e1478e718bc34f6e1d",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "스페셜 D",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xc3557315",
    "src_sha1": "0d8975af44c086f6af07b0d267a623692c0b8e3e",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "스페셜 E",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xc7946ea2",
    "src_sha1": "26bf0c32f4aebf66f6fe0d4b00a8ab6be8ca9c60",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "스페셜 F",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x36293620",
    "src_sha1": "69977fb15d7e4827ec87e622445464ce8bd7f0e0",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "데이터 설치 중…",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x286e6625",
    "src_sha1": "5a6c0a59e428b8cd8d90bcab1952ac807fa6bf89",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "　게임 데이터",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xce2de6a2",
    "src_sha1": "f8e34e51fe93f86f8ff91844424722ab0c616068",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "Now Loading…",
+   "state": "needs_review",
+   "note": "초안(Claude). 원문도 영어, 유지"
   },
   {
    "id": "0x9eabbe10",
    "src_sha1": "b7488b6cb7bf31df3d8a49d01296470f0cf61467",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "???",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0xb931c93e",
    "src_sha1": "b7488b6cb7bf31df3d8a49d01296470f0cf61467",
-   "ko": "",
-   "state": "untranslated",
-   "note": ""
+   "ko": "???",
+   "state": "needs_review",
+   "note": "초안(Claude)."
   },
   {
    "id": "0x7140f039",

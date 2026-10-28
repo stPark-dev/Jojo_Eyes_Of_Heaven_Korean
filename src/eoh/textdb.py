@@ -115,3 +115,46 @@ def apply(mf: MessageFile, store: dict, policy: str):
     if problems:
         raise TranslationError("\n".join(problems))
     return replace(mf, entries=out), {"applied": applied, "kept_source": kept, "problems": []}
+
+
+def import_rows(store: dict, rows, allow_eligible: bool = False):
+    """Merge work-file rows ({id, src, ko, state, note}) into a copy of store.
+
+    Only ko/state/note change. Each row's src must still match the store's fingerprint, tags
+    must pass `check`, and drafts cannot be promoted to distribution_eligible (human review
+    does that) or override an approved keep_source exception.
+    """
+    out = copy.deepcopy(store)
+    by_id = {e["id"]: e for e in out["entries"]}
+    problems, updated, skipped = [], 0, 0
+    for row in rows:
+        id_ = row["id"]
+        rec = by_id.get(id_)
+        if rec is None:
+            problems.append(f"{id_}: 번역 파일에 없는 항목")
+            continue
+        if not row.get("ko"):
+            skipped += 1
+            continue
+        if rec["src_sha1"] != _sha1(row["src"]):
+            problems.append(f"{id_}: 원문 지문 불일치 (원문이 바뀜, export 다시 필요)")
+            continue
+        if "keep_source" in rec:
+            problems.append(f"{id_}: 원문 유지 승인 항목에는 번역을 넣을 수 없음")
+            continue
+        state = row.get("state", "needs_review")
+        if state not in STATES or state == "untranslated":
+            problems.append(f"{id_}: 번역문이 있는데 상태가 {state!r}")
+            continue
+        if state == "distribution_eligible" and not allow_eligible:
+            problems.append(f"{id_}: 초안은 distribution_eligible로 올릴 수 없음 (사람 검수 필요)")
+            continue
+        issues = check(row["src"], row["ko"])
+        if issues:
+            problems += [f"{id_}: {p}" for p in issues]
+            continue
+        rec.update(ko=row["ko"], state=state, note=row.get("note", rec.get("note", "")))
+        updated += 1
+    if problems:
+        raise TranslationError("\n".join(problems))
+    return out, {"updated": updated, "skipped": skipped}

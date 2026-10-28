@@ -88,6 +88,8 @@ python3 scripts/textdb.py status
 ### 4-2. 번역
 1. 용어집 승인 → 2. `messageInfo_common`(UI) 초안 → 3. 스토리(`messageInfo_adv`), 전투(`messageInfo_btl`), 캐릭터 대사(`EoH_battleChara_*`) 순.
 - 번역은 `work/translate/*.jsonl`에서 작업 후 `translation/*.json`의 `ko`/`state`/`note`에만 반영 (원문·`src_sha1` 수정 금지).
+  - 반영: `python3 scripts/textdb.py import work/translate/drafts/<파일명>.jsonl` (원문 지문·태그 검사, 초안은 `distribution_eligible`로 올릴 수 없음, 원문 유지 항목 보호)
+  - 2026-10-28: `messageInfo_common` 시스템 문구 103개 초안 반영 (needs_review 99, 게임 제목·약칭 4개 needs_human_review). 캐릭터 이름(용어집 미승인)은 아직 미번역.
 - 태그 규칙: `<string />`, `<icon …>`, `<color …>…</color>`, `<system …>`, `<progress>`는 **반드시 보존**(순서는 바뀌어도 됨). `<ruby 읽기>글자</ruby>`는 빼거나 바꿔도 되지만 짝은 맞아야 함. 「<１>」 같은 전각 숫자는 태그가 아님.
 - 상태: `untranslated → in_progress → needs_review → (needs_human_review) → distribution_eligible`. 배포 빌드는 전부 `distribution_eligible`일 때만 통과.
 - 원문 유지 예외는 `keep_source: "사유"` (번역문과 동시 지정 불가).

@@ -3,6 +3,7 @@
     python3 scripts/textdb.py sync     # create/update translation/*.json (no source text)
     python3 scripts/textdb.py export   # work/translate/*.jsonl with source text (git-ignored)
     python3 scripts/textdb.py status   # entry counts per state
+    python3 scripts/textdb.py import work/translate/X.jsonl ...  # ko/state/note back into translation/
     python3 scripts/textdb.py check-glossary  # translated text vs approved glossary terms
 """
 import json
@@ -69,6 +70,25 @@ def cmd_export():
     print("exported to", WORK_DIR)
 
 
+def cmd_import():
+    paths = [Path(a) for a in sys.argv[2:]]
+    if not paths:
+        sys.exit("usage: textdb.py import work/translate/X.jsonl ...")
+    for src in paths:
+        dst = STORE_DIR / (src.stem + ".json")
+        store = load(dst)
+        if store is None:
+            sys.exit(f"{dst}: 번역 파일 없음")
+        rows = [json.loads(line) for line in src.read_text("utf-8").splitlines() if line.strip()]
+        try:
+            store, report = textdb.import_rows(store, rows)
+        except textdb.TranslationError as e:
+            sys.exit(f"{src.name}: 반영 실패\n{e}")
+        dst.write_text(json.dumps(store, ensure_ascii=False, indent=1) + "\n", "utf-8")
+        print(f"{src.name}: 반영 {report['updated']}, 번역 없음 {report['skipped']}")
+    cmd_status()
+
+
 def cmd_status():
     states, files = Counter(), 0
     for path in sorted(STORE_DIR.glob("*.json")):
@@ -95,6 +115,6 @@ def cmd_check_glossary():
 
 
 if __name__ == "__main__":
-    {"sync": cmd_sync, "export": cmd_export, "status": cmd_status,
+    {"sync": cmd_sync, "export": cmd_export, "status": cmd_status, "import": cmd_import,
      "check-glossary": cmd_check_glossary}.get(
         sys.argv[1] if len(sys.argv) > 1 else "", lambda: sys.exit(__doc__))()

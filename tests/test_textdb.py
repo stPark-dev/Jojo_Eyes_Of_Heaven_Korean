@@ -146,3 +146,49 @@ def test_keep_source_conflicts_with_translation():
     store["entries"][0]["ko"] = "두두두"
     with pytest.raises(textdb.TranslationError, match="원문 유지와 번역문"):
         textdb.apply(_mf("ドドド"), store, policy="dev")
+
+
+# --- import from work files -------------------------------------------------------------
+
+def _store(*texts):
+    return textdb.sync(None, FILE, _mf(*texts))
+
+
+def _row(i, src, ko, state="needs_review", note=""):
+    return {"id": f"0x{0x100 + i:08x}", "src": src, "ko": ko, "state": state, "note": note}
+
+
+def test_import_updates_ko_state_note_only():
+    store = _store("決定", "戻る")
+    out, report = textdb.import_rows(store, [_row(0, "決定", "결정", note="초안")])
+    rec = out["entries"][0]
+    assert (rec["ko"], rec["state"], rec["note"]) == ("결정", "needs_review", "초안")
+    assert rec["src_sha1"] == store["entries"][0]["src_sha1"]
+    assert out["entries"][1] == store["entries"][1] and store["entries"][0]["ko"] == ""
+    assert report == {"updated": 1, "skipped": 0}
+
+
+def test_import_skips_rows_without_translation():
+    _, report = textdb.import_rows(_store("決定"), [_row(0, "決定", "", state="untranslated")])
+    assert report == {"updated": 0, "skipped": 1}
+
+
+def test_import_rejects_changed_source():
+    with pytest.raises(textdb.TranslationError, match="원문"):
+        textdb.import_rows(_store("決定"), [_row(0, "決定する", "결정")])
+
+
+def test_import_rejects_unknown_id_and_tag_problems():
+    with pytest.raises(textdb.TranslationError, match="없는 항목"):
+        textdb.import_rows(_store("決定"), [_row(5, "決定", "결정")])
+    with pytest.raises(textdb.TranslationError, match="태그 누락"):
+        textdb.import_rows(_store("<string />枚"), [_row(0, "<string />枚", "장")])
+
+
+def test_import_cannot_mark_distribution_eligible_or_touch_keep_source():
+    with pytest.raises(textdb.TranslationError, match="distribution_eligible"):
+        textdb.import_rows(_store("決定"), [_row(0, "決定", "결정", state="distribution_eligible")])
+    store = _store("ドン")
+    store["entries"][0].update(state="distribution_eligible", keep_source="의성어")
+    with pytest.raises(textdb.TranslationError, match="원문 유지"):
+        textdb.import_rows(store, [_row(0, "ドン", "쿵")])

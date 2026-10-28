@@ -126,7 +126,7 @@ src/eoh/
 scripts/
 ├── extract_disc.py 디스크 이미지 → game/
 ├── build_patch.py 번역 적용·폰트 생성 → patch/5 설치 / 제거
-├── textdb.py      번역 파일 sync / export / status
+├── textdb.py      번역 파일 sync / export / import / status
 ├── poc_marker.py  텍스트 교체 검증용 PoC
 └── poc_hangul.py  한글 폰트 표시 검증용 PoC
 translation/       번역 파일 (원문 대신 원문 SHA-1만 저장)
