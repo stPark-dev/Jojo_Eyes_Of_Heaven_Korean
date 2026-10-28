@@ -18,1234 +18,2103 @@
   {
    "id": "T0001",
    "src": "ジョナサン・ジョースター",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "죠나단 죠스타",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "기타",
+     "url": "https://www.webtoonguide.com/ko/board/totalreview/4398",
+     "quote": "『죠죠의 기묘한 모험』(1987~), 아라키 히로히코 지음, (국내)애니북스 펴냄/ 국내 49권 발간"
+    },
+    {
+     "edition": "기타",
+     "url": "https://www.webtoonguide.com/ko/board/totalreview/4398",
+     "quote": "죠스타가의 외아들인 죠나단 죠스타(일명 죠죠)와 디오는 의붓형제처럼 자라나지만"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "악령이 들렸다고 주장하는 고등학생 쿠죠 죠타로. 그런 외손자를 돕기 위해 죠셉 죠스타가 일본에 왔다."
+    }
+   ],
+   "note": "애니북스판을 대상으로 한 리뷰(webtoonguide)의 표기. 성 '죠스타'는 애니북스 3부 소개문(죠셉 죠스타)으로도 확인.",
    "msg_ids": [
     "0x7140f039"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0002",
    "src": "ジョナサン",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "죠나단",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "기타",
+     "url": "https://www.webtoonguide.com/ko/board/totalreview/4398",
+     "quote": "『죠죠의 기묘한 모험』(1987~), 아라키 히로히코 지음, (국내)애니북스 펴냄/ 국내 49권 발간"
+    },
+    {
+     "edition": "기타",
+     "url": "https://www.webtoonguide.com/ko/board/totalreview/4398",
+     "quote": "죠스타가의 외아들인 죠나단 죠스타(일명 죠죠)와 디오는 의붓형제처럼 자라나지만"
+    }
+   ],
+   "note": "T0001과 동일 근거.",
    "msg_ids": [
     "0x6d5338dc"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0003",
    "src": "ウィル・Ａ・ツェペリ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "윌 A. 체펠리",
+   "alt": [
+    "윌 안토니오 체펠리"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters",
+     "quote": "흉인 잭 & 기인 체펠리"
+    }
+   ],
+   "note": "[부분검증] 성 '체펠리'만 정발 1부 챕터 제목에서 확인. 이름 '윌'과 'A.' 표기는 나무위키 목록 표기(윌 A. 체펠리)를 따른 추정. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x2fcc8308"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0004",
    "src": "ツェペリ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "체펠리",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters",
+     "quote": "흉인 잭 & 기인 체펠리"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "자이로 체펠리"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/107649167",
+     "quote": "불행한 사고로 하반신이 마비된 천재 기수 죠니 죠스타와 회전하는 철구를 무기로 가진 의문의 사나이 자이로 체펠리라는 두 주인공을 앞세워"
+    }
+   ],
+   "note": "정발 1부 챕터 제목 '기인 체펠리'. 7부 '자이로 체펠리'도 동일 표기. 애니북스는 ジョ 외 ㅈ/ㅊ 뒤 이중모음 미사용 방침. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x33df4bed"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0005",
    "src": "ディオ・ブランドー",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "디오 브란도",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters",
+     "quote": "침략자 디오"
+    },
+    {
+     "edition": "기타",
+     "url": "https://www.webtoonguide.com/ko/board/totalreview/4398",
+     "quote": "그의 아들인 디오 브란도를 맡아 키우게 된다."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "말라붙은 강; 디에고 브란도"
+    }
+   ],
+   "note": "'디오'는 정발 1권 제목 '침략자 디오'. '디오 브란도' 전체 표기는 애니북스판 리뷰에서 확인, '브란도'는 7부 정발 챕터 제목 '디에고 브란도'와도 일치. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x8fe31c0c"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0006",
    "src": "ディオ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "디오",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters",
+     "quote": "침략자 디오"
+    }
+   ],
+   "note": "정발 1권 제목 '침략자 디오'. 3부 이후의 ＤＩＯ(T0028)와는 구분해 라틴 문자 DIO로 표기. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x93f0d4e9"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0007",
    "src": "ジョセフ・ジョースター",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "죠셉 죠스타",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "악령이 들렸다고 주장하는 고등학생 쿠죠 죠타로. 그런 외손자를 돕기 위해 죠셉 죠스타가 일본에 왔다."
+    }
+   ],
+   "note": "애니북스 3부 세트 책소개.",
    "msg_ids": [
     "0xf53c36b6"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0008",
    "src": "ジョセフ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "죠셉",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "악령이 들렸다고 주장하는 고등학생 쿠죠 죠타로. 그런 외손자를 돕기 위해 죠셉 죠스타가 일본에 왔다."
+    }
+   ],
+   "note": "T0007과 동일.",
    "msg_ids": [
     "0xe92ffe53"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0009",
    "src": "シーザー・アントニオ・ツェペリ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "시저 안토니오 체펠리",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "시저, 마지막 파문"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters",
+     "quote": "흉인 잭 & 기인 체펠리"
+    }
+   ],
+   "note": "[부분검증] '시저'(2부 챕터 제목), '체펠리' 확인. 중간 이름 '안토니오'는 나무위키 목록 표기를 따른 것으로 정발 근거 미확보. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0xfe690f33"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0010",
    "src": "シーザー",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "시저",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "시저, 마지막 파문"
+    }
+   ],
+   "note": "정발 2부 챕터 제목. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0xe27ac7d6"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0011",
    "src": "リサリサ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "리사리사",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "실크의 춤 리사리사"
+    }
+   ],
+   "note": "정발 2부 챕터 제목. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x5b801ed8",
     "0x4793d63d"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0012",
    "src": "カーズ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "카즈",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "카즈 ‘빛의 모드’"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://namu.wiki/w/와무우",
+     "quote": "이에 대해 애니북스 측에서는, 카즈의 휘채활도나 에시디시의 괴염왕처럼 와무우의 필살기도 한자어로 맞추었다고 대답했다."
+    }
+   ],
+   "note": "정발 2부 챕터 제목 및 나무위키의 애니북스 측 답변 인용. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x62353e05",
     "0x7e26f6e0"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0013",
    "src": "カーズ（究極生命体）",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "카즈(궁극생물)",
+   "alt": [
+    "카즈(궁극 생명체)",
+    "카즈(궁극생명체)"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "카즈 ‘빛의 모드’"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "JOJO vs 궁극생물"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "JOJO VS 궁극생물"
+    }
+   ],
+   "note": "究極生命体의 직역은 '궁극 생명체'지만, 정발판은 究極生物을 '궁극생물'로 번역(2부 챕터 제목 'JOJO vs 궁극생물')하므로 이에 맞춤. 게임 원문의 生命体 뉘앙스를 살리려면 alt 사용.",
    "msg_ids": [
     "0x6f7618dc"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0014",
    "src": "究極生物カーズ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "궁극생물 카즈",
+   "alt": [
+    "궁극 생물 카즈"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "카즈 ‘빛의 모드’"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "JOJO vs 궁극생물"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "JOJO VS 궁극생물"
+    }
+   ],
+   "note": "정발 용어 '궁극생물' + '카즈'.",
    "msg_ids": [
     "0x7365d039"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0015",
    "src": "エシディシ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "에시디시",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "으스스한 에시디시"
+    }
+   ],
+   "note": "정발 2부 챕터 제목. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x55de60c8",
     "0x49cda82d"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0016",
    "src": "ワムウ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "와무우",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "궁극전사 와무우"
+    }
+   ],
+   "note": "정발 2부 챕터 제목. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x9655145c",
     "0x8a46dcb9"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0017",
    "src": "空条承太郎",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "쿠죠 죠타로",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "악령이 들렸다고 주장하는 고등학생 쿠죠 죠타로. 그런 외손자를 돕기 위해 죠셉 죠스타가 일본에 왔다."
+    }
+   ],
+   "note": "애니북스 3부 세트 책소개.",
    "msg_ids": [
     "0xf1279cab",
     "0xed34544e"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0018",
    "src": "老ジョセフ・ジョースター",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "노년 죠셉 죠스타",
+   "alt": [
+    "늙은 죠셉 죠스타",
+    "3부 죠셉 죠스타"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "악령이 들렸다고 주장하는 고등학생 쿠죠 죠타로. 그런 외손자를 돕기 위해 죠셉 죠스타가 일본에 왔다."
+    }
+   ],
+   "note": "3부 이후의 노인 죠셉을 가리키는 게임용 구분명. 정발 근거는 기본명 '죠셉 죠스타'뿐이며 '老'의 번역(노년/늙은/3부)은 번역자 판단.",
    "msg_ids": [
     "0xee143bce"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0019",
    "src": "老ジョセフ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "노년 죠셉",
+   "alt": [
+    "늙은 죠셉",
+    "3부 죠셉"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "악령이 들렸다고 주장하는 고등학생 쿠죠 죠타로. 그런 외손자를 돕기 위해 죠셉 죠스타가 일본에 왔다."
+    }
+   ],
+   "note": "T0018과 동일 방식.",
    "msg_ids": [
     "0xf207f32b"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0020",
    "src": "モハメド・アヴドゥル",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "무함마드 압둘",
+   "alt": [
+    "모하메드 압둘",
+    "모하메드 아브돌"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://namu.wiki/w/무함마드 압둘",
+     "quote": "정발판에서는 무함마드를 채택했다. 일본식 발음은 \"모하메도 아부두루\" 정도."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "압둘을 위해서라도 폴나레프는 죠죠 일행과 함께 DIO를 쓰러뜨릴 것을 결심한다."
+    }
+   ],
+   "note": "나무위키: 정발판은 '무함마드'를 채택. '압둘'은 애니북스 3부 책소개로 확인. 원문 モハメド의 음역 '모하메드'는 정발 표기가 아님.",
    "msg_ids": [
     "0x457b5927"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0021",
    "src": "アヴドゥル",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "압둘",
+   "alt": [
+    "아브돌"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "압둘을 위해서라도 폴나레프는 죠죠 일행과 함께 DIO를 쓰러뜨릴 것을 결심한다."
+    }
+   ],
+   "note": "애니북스 3부 책소개.",
    "msg_ids": [
     "0x596891c2"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0022",
    "src": "花京院典明",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "카쿄인 노리아키",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "카쿄인의 도움으로 적을 쓰러뜨렸다고는 하나 폴나레프의 마음은 무겁기만 하다."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://namu.wiki/w/카쿄인 노리아키",
+     "quote": "참고로 정발판에서는 주간 소년 점프 편집부에 문의하여 이를 오류로 판단하고 자체적으로 noriaki로 수정했다."
+    }
+   ],
+   "note": "'카쿄인'은 애니북스 책소개로 확인. '노리아키'는 나무위키의 정발판 로마자 수정(noriaki) 각주로 뒷받침되며, 한글 '노리아키' 자체를 정발 페이지에서 직접 인용하지는 못함.",
    "msg_ids": [
     "0xbb70e925",
     "0xa76321c0"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0023",
    "src": "ジャン・ピエール・ポルナレフ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "장 피에르 폴나레프",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "압둘을 위해서라도 폴나레프는 죠죠 일행과 함께 DIO를 쓰러뜨릴 것을 결심한다."
+    }
+   ],
+   "note": "[부분검증] '폴나레프'는 애니북스 책소개로 확인. '장 피에르'는 나무위키 표기를 따른 추정.",
    "msg_ids": [
     "0xbbd5f146"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0024",
    "src": "ポルナレフ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "폴나레프",
+   "alt": [
+    "포르나레프"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "압둘을 위해서라도 폴나레프는 죠죠 일행과 함께 DIO를 쓰러뜨릴 것을 결심한다."
+    }
+   ],
+   "note": "애니북스 3부 책소개.",
    "msg_ids": [
     "0xa7c639a3"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0025",
    "src": "イギー",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "이기",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "이 장면을 우연히 목격한 이기!"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "‘더 풀’ 이기와 ‘게브’ 은두루 ①"
+    }
+   ],
+   "note": "애니북스 3부 책소개 및 정발 챕터 제목. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0xb1ff3a40",
     "0xadecf2a5"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0026",
    "src": "ホル・ホース",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "홀 호스",
+   "alt": [
+    "호루 호스"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "한편, 홀 호스의 탈주를 도운 네나는 베나레스까지 죠죠 일행과 동행하기로 하지만,"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "홀 호스와 보잉고 ①"
+    }
+   ],
+   "note": "애니북스 3부 책소개 및 정발 챕터 제목. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x10ee069a",
     "0x0cfdce7f"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0027",
    "src": "ヴァニラ・アイス",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "바닐라 아이스",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "바닐라 아이스를 스러뜨리고 DIO를 찾아낸 것은 폴나레프!"
+    }
+   ],
+   "note": "애니북스 3부 책소개.",
    "msg_ids": [
     "0xb02ad293",
     "0xac391a76"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0028",
    "src": "ＤＩＯ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "DIO",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "4년 전, 바다에서 인양된 관에서 부활한 DIO의 영향으로"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "DIO의 세계 ①"
+    }
+   ],
+   "note": "정발판은 원서처럼 라틴 대문자 'DIO'를 그대로 씀(1부 '디오'와 구분). (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0xb9b306fc",
     "0xa5a0ce19"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0029",
    "src": "東方仗助",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "히가시카타 죠스케",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33960713",
+     "quote": "평범한 고등학교 1학년 히가시카타 죠스케."
+    }
+   ],
+   "note": "애니북스 4부 세트 책소개.",
    "msg_ids": [
     "0xbeea4067",
     "0xa2f98882"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0030",
    "src": "虹村億泰",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "니지무라 오쿠야스",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_4_Volumes",
+     "quote": "니지무라 오쿠야스・케이초"
+    }
+   ],
+   "note": "정발 30권 제목. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0xc7d680be",
     "0xdbc5485b"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0031",
    "src": "広瀬康一",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "히로세 코이치",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_4_Volumes",
+     "quote": "히로세 코이치(에코즈) ①"
+    }
+   ],
+   "note": "정발 4부 챕터 제목. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x865d8748",
     "0x9a4e4fad"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0032",
    "src": "岸辺露伴",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "키시베 로한",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33960713",
+     "quote": "작품을 위해서라면 수단과 방법을 가리지 않는 만화가 키시베 로한에게 호되게 당한 코이치."
+    }
+   ],
+   "note": "애니북스 4부 책소개.",
    "msg_ids": [
     "0x14e25031",
     "0x08f198d4"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0033",
    "src": "音石明",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "오토이시 아키라",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발 근거 미확보. 나무위키 문서 제목 표기 '오토이시 아키라'를 따른 추정.",
    "msg_ids": [
     "0xc820030c",
     "0xd433cbe9"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0034",
    "src": "矢安宮重清",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "얀구 시게키요",
+   "alt": [
+    "시게찌"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33960713",
+     "quote": "스탠드의 이름은 하베스트(수확), 스탠드유저의 이름은 얀구 시게키요, ‘시게찌’였다."
+    }
+   ],
+   "note": "애니북스 4부 책소개. 별명 시게치(重ちー)는 정발판에서 '시게찌'(챕터 제목 '´시게찌´의 하베스트'). 게임에 별명형이 따로 나오면 '시게찌' 사용.",
    "msg_ids": [
     "0xb0f82b7e",
     "0xacebe39b"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0035",
    "src": "吉良吉影",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "키라 요시카게",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33960713",
+     "quote": "천연덕스러운 표정의 평범한 샐러리맨 키라 요시카게."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_4_Volumes",
+     "quote": "키라 요시카게는 조용히 살고 싶다 ①"
+    }
+   ],
+   "note": "애니북스 4부 책소개 및 정발 챕터 제목. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x5794ba55",
     "0x4b8772b0"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0036",
    "src": "川尻浩作",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "카와지리 코사쿠",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33960713",
+     "quote": "키라의 새 거처 카와지리의 집. 그곳 지하실에서 카와지리 시노부는 의도치 않게 고양이를 죽이고 만다."
+    }
+   ],
+   "note": "[부분검증] 성 '카와지리'만 애니북스 책소개로 확인. 이름 '코사쿠'는 나무위키 목록 표기를 따른 추정.",
    "msg_ids": [
     "0x8b126bef",
     "0x9701a30a"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0037",
    "src": "ジョルノ・ジョバァーナ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "죠르노 죠바나",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://namu.wiki/w/죠죠의 기묘한 모험/애니북스 판",
+     "quote": "정발판 표기를 보면 쿠죠 죠타로, 죠르노 죠바나 등 ジョ만 '죠'로 적도록 하고"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33961325",
+     "quote": "갱의 보스가 되어 거리를 정화하겠다는 야망을 가슴 속에 감춘 채 죠르노는 조직의 간부 폴포를 만난다."
+    }
+   ],
+   "note": "나무위키 애니북스판 문서에서 정발판 표기 예로 명시.",
    "msg_ids": [
     "0x57052a3b"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0038",
    "src": "ジョルノ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "죠르노",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33961325",
+     "quote": "갱의 보스가 되어 거리를 정화하겠다는 야망을 가슴 속에 감춘 채 죠르노는 조직의 간부 폴포를 만난다."
+    }
+   ],
+   "note": "애니북스 5부 책소개.",
    "msg_ids": [
     "0x4b16e2de"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0039",
    "src": "ブローノ・ブチャラティ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "브루노 부차라티",
+   "alt": [
+    "부첼라티(출간 전 예고 표기)"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_5_Volumes",
+     "quote": "브루노 부차라티, 그 소년 시절"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://namu.wiki/w/죠죠의 기묘한 모험/애니북스 판",
+     "quote": "결국 5부 출간으로 '부차라티'가 확정되었다."
+    }
+   ],
+   "note": "정발 55권 챕터 제목. 애니북스는 처음에 '부첼라티'로 예고했다가 5부 출간 때 '부차라티'로 확정. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x057b8c67"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0040",
    "src": "ブチャラティ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "부차라티",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_5_Volumes",
+     "quote": "브루노 부차라티, 그 소년 시절"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://namu.wiki/w/죠죠의 기묘한 모험/애니북스 판",
+     "quote": "결국 5부 출간으로 '부차라티'가 확정되었다."
+    }
+   ],
+   "note": "T0039와 동일.",
    "msg_ids": [
     "0x19684482"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0041",
    "src": "グイード・ミスタ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "귀도 미스타",
+   "alt": [
+    "구이도 미스타"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33961325",
+     "quote": "풀포의 유산을 찾기 위해 일행보다 한 발 앞서 카프리 섬에 상륙한 미스타와 죠르노!"
+    }
+   ],
+   "note": "[부분검증] '미스타'만 애니북스 책소개로 확인. '귀도'는 나무위키 표기를 따른 추정.",
    "msg_ids": [
     "0x48658dd6"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0042",
    "src": "ミスタ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "미스타",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33961325",
+     "quote": "풀포의 유산을 찾기 위해 일행보다 한 발 앞서 카프리 섬에 상륙한 미스타와 죠르노!"
+    }
+   ],
+   "note": "애니북스 5부 책소개.",
    "msg_ids": [
     "0x54764533"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0043",
    "src": "ナランチャ・ギルガ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "나란차 길가",
+   "alt": [
+    "나란차 기르가"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://namu.wiki/w/나란차 길가",
+     "quote": "표기대로라면 '나란차 기르가'가 되어야 하지만 정발판에서는 길가가 되었다."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_5_Volumes",
+     "quote": "나란차의 에어로스미스 ①"
+    }
+   ],
+   "note": "나무위키: 원문 표기대로면 '기르가'이나 정발판은 '길가'.",
    "msg_ids": [
     "0x579e3013"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0044",
    "src": "ナランチャ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "나란차",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_5_Volumes",
+     "quote": "나란차의 에어로스미스 ①"
+    }
+   ],
+   "note": "정발 5부 챕터 제목. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x4b8df8f6"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0045",
    "src": "パンナコッタ・フーゴ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "판나코타 푸고",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발 근거 미확보(애니북스 책소개·챕터 제목에 없음). 나무위키 문서 제목 표기를 따른 추정.",
    "msg_ids": [
     "0x485c1a20"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0046",
    "src": "フーゴ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "푸고",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "T0045와 동일.",
    "msg_ids": [
     "0x544fd2c5"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0047",
    "src": "ディアボロ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "디아볼로",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33961325",
+     "quote": "놈의 이름은 디아볼로"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_5_Volumes",
+     "quote": "놈의 이름은 디아볼로 ①"
+    }
+   ],
+   "note": "애니북스 5부 책소개 및 61권 제목.",
    "msg_ids": [
     "0xf35697a7",
     "0xef455f42"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0048",
    "src": "空条徐倫",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "쿠죠 죠린",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/58544263",
+     "quote": "2011년 미국. 쿠죠 죠린과 남자 친구 로메오는 드라이브중 사람을 치는 사고를 내고 만다."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_6_Volumes",
+     "quote": "수감 번호 FE40536 쿠죠 죠린 ①"
+    }
+   ],
+   "note": "애니북스 6부 책소개 및 정발 챕터 제목.",
    "msg_ids": [
     "0x9c7c0fce",
     "0x806fc72b"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0049",
    "src": "エルメェス・コステロ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "에르메스 코스텔로",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/58544263",
+     "quote": "탈옥해 신부를 쫓는 죠린&에르메스. 그리고 안나수이&웨더 리포트도 그 뒤를 쫓는다."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_6_Volumes",
+     "quote": "에르메스의 씰 ①"
+    }
+   ],
+   "note": "[부분검증] '에르메스'만 애니북스 책소개·챕터 제목으로 확인. '코스텔로'는 나무위키 표기를 따른 추정.",
    "msg_ids": [
     "0x241fd655"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0050",
    "src": "エルメェス",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "에르메스",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/58544263",
+     "quote": "탈옥해 신부를 쫓는 죠린&에르메스. 그리고 안나수이&웨더 리포트도 그 뒤를 쫓는다."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_6_Volumes",
+     "quote": "에르메스의 씰 ①"
+    }
+   ],
+   "note": "애니북스 6부 책소개 및 챕터 제목 '에르메스의 씰'. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x380c1eb0"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0051",
    "src": "ナルシソ・アナスイ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "나르시소 안나수이",
+   "alt": [
+    "나르시소 아나스타샤(애니메이션 공식 자막·더빙 현지화명, 나무위키 기재)",
+    "나르치소 아나수이"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://namu.wiki/w/나르시소 안나수이",
+     "quote": "정발판도 안나수이로 번역되었다."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_6_Volumes",
+     "quote": "그 이름은 안나수이"
+    }
+   ],
+   "note": "[부분검증] '안나수이'는 정발판 표기로 확인(아나수이 아님). '나르시소'는 나무위키 표기를 따른 추정. 넷플릭스 애니 공식 자막·더빙은 'Narciso Anastasia(나르시소 아나스타샤)'로 현지화했다고 나무위키에 적혀 있으나(같은 문서), 정발 우선 원칙으로 채택하지 않음.",
    "msg_ids": [
     "0xaf6d3a55"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0052",
    "src": "アナスイ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "안나수이",
+   "alt": [
+    "아나수이"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://namu.wiki/w/나르시소 안나수이",
+     "quote": "정발판도 안나수이로 번역되었다."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_6_Volumes",
+     "quote": "그 이름은 안나수이"
+    }
+   ],
+   "note": "정발판 표기. '아나수이'가 아님에 주의.",
    "msg_ids": [
     "0xb37ef2b0"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0053",
    "src": "エンリコ・プッチ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "엔리코 푸치",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발 근거 미확보. 애니북스 6부 책소개는 '신부'로만 지칭. 나무위키 표기를 따른 추정.",
    "msg_ids": [
     "0x2c3ee82a"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0054",
    "src": "プッチ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "푸치",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "T0053과 동일.",
    "msg_ids": [
     "0x302d20cf"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0055",
    "src": "ジョニィ・ジョースター",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "죠니 죠스타",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "죠니 죠스타"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/107649167",
+     "quote": "8th. STAGE 시작 직후, ‘왼눈’을 빼앗기 위해 Dio를 추적하는 자이로와 죠니."
+    }
+   ],
+   "note": "정발 7부 1권 챕터 제목(2014년 애니북스 발매분). (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스)) (yes24 해당 세트 판매처 표기 출판사는 문학동네. 문학동네는 2020년 애니북스를 흡수한 후속 출판사로, 같은 정발 라인)",
    "msg_ids": [
     "0x23cfa58a"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0056",
    "src": "ジョニィ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "죠니",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "죠니 죠스타"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/107649167",
+     "quote": "8th. STAGE 시작 직후, ‘왼눈’을 빼앗기 위해 Dio를 추적하는 자이로와 죠니."
+    }
+   ],
+   "note": "T0055와 동일.",
    "msg_ids": [
     "0x3fdc6d6f"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0057",
    "src": "ジャイロ・ツェペリ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "자이로 체펠리",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "자이로 체펠리"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/107649167",
+     "quote": "불행한 사고로 하반신이 마비된 천재 기수 죠니 죠스타와 회전하는 철구를 무기로 가진 의문의 사나이 자이로 체펠리라는 두 주인공을 앞세워"
+    }
+   ],
+   "note": "정발 7부 챕터 제목 및 책소개. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스)) (yes24 해당 세트 판매처 표기 출판사는 문학동네. 문학동네는 2020년 애니북스를 흡수한 후속 출판사로, 같은 정발 라인)",
    "msg_ids": [
     "0x33e1ca50"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0058",
    "src": "ジャイロ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "자이로",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "자이로 체펠리"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/107649167",
+     "quote": "불행한 사고로 하반신이 마비된 천재 기수 죠니 죠스타와 회전하는 철구를 무기로 가진 의문의 사나이 자이로 체펠리라는 두 주인공을 앞세워"
+    }
+   ],
+   "note": "T0057과 동일.",
    "msg_ids": [
     "0x2ff202b5"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0059",
    "src": "ファニー・ヴァレンタイン",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "퍼니 밸런타인",
+   "alt": [
+    "퍼니 발렌타인(정발 전 통용)"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://namu.wiki/w/퍼니 밸런타인",
+     "quote": "정발 전에는 퍼니 '발렌타인'으로 통용되었지만, 정발판에서는 '밸런타인'이 됐다."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "더 스토리 오브 퍼니 밸런타인"
+    }
+   ],
+   "note": "나무위키: 정발 전 통용되던 '발렌타인'을 정발판은 '밸런타인'으로 표기.",
    "msg_ids": [
     "0x6b653d96"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0060",
    "src": "ヴァレンタイン",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "밸런타인",
+   "alt": [
+    "발렌타인"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://namu.wiki/w/퍼니 밸런타인",
+     "quote": "정발 전에는 퍼니 '발렌타인'으로 통용되었지만, 정발판에서는 '밸런타인'이 됐다."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "더 스토리 오브 퍼니 밸런타인"
+    }
+   ],
+   "note": "T0059와 동일.",
    "msg_ids": [
     "0x7776f573"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0061",
    "src": "東方定助",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "히가시카타 죠스케",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/172957352",
+     "quote": "기억을 잃은 청년 '히가시카타 죠스케'는 그를 처음 발견한 '히로세 야스호'와 함께 자신의 정체를 밝혀내기로 한다."
+    }
+   ],
+   "note": "8부 죠죠리온 주인공(定助). 정발(문학동네) 표기도 4부 仗助와 같은 '히가시카타 죠스케'. 게임 내에서 둘이 동시에 나오므로 구분이 필요하면 '(8부)' 등 부기 고려. (yes24 해당 세트 판매처 표기 출판사는 문학동네. 문학동네는 2020년 애니북스를 흡수한 후속 출판사로, 같은 정발 라인)",
    "msg_ids": [
     "0x0b0a1e47",
     "0x1719d6a2"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0062",
    "src": "ロバート・Ｅ・Ｏ・スピードワゴン",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "로버트 E.O. 스피드왜건",
+   "alt": [
+    "로버트 E. O. 스피드왜건",
+    "스피드웨건(오기)"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "악전고투하는 그들을 위해 스피드왜건재단에서 원군을 지원한다."
+    }
+   ],
+   "note": "[부분검증] '스피드왜건'은 애니북스 책소개(스피드왜건재단)로 확인. 'Robert E.O.' 부분 표기는 나무위키 표기를 따른 추정.",
    "msg_ids": [
     "0xbdefdbe4"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0063",
    "src": "スピードワゴン",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "스피드왜건",
+   "alt": [
+    "스피드웨건"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "악전고투하는 그들을 위해 스피드왜건재단에서 원군을 지원한다."
+    }
+   ],
+   "note": "애니북스 3부 책소개의 '스피드왜건재단'.",
    "msg_ids": [
     "0xa1fc1301"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0064",
    "src": "ルドル・フォン・シュトロハイム",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "루돌 폰 슈트로하임",
+   "alt": [
+    "루돌프 폰 슈트로하임(오기)"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "슈트로하임의 각오"
+    }
+   ],
+   "note": "[부분검증] '슈트로하임'만 정발 챕터 제목으로 확인. '루돌 폰'은 나무위키 표기를 따른 추정('루돌프'는 게임 잡지발 오기라고 나무위키에 기재). (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x0576ed25"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0065",
    "src": "シュトロハイム",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "슈트로하임",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
+     "quote": "슈트로하임의 각오"
+    }
+   ],
+   "note": "정발 2부 챕터 제목. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0x196525c0"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0066",
    "src": "ンドゥール",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "은두루",
+   "alt": [
+    "은두르(나무위키 표기)",
+    "은도울(해적판 메가톤맨)"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "‘더 풀’ 이기와 ‘게브’ 은두루 ①"
+    }
+   ],
+   "note": "주의: jojowiki에 옮겨진 정발 20권 챕터 제목에서는 '은두루'. 반면 나무위키 등장인물 목록·문서 제목은 '은두르'. 실물 단행본으로 재확인 필요.",
    "msg_ids": [
     "0x3feb9316",
     "0x23f85bf3"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0067",
    "src": "マライア",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "머라이어",
+   "alt": [
+    "마라이어"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "죠스타와 압둘이 머라이어의 공격에 고전하는 사이 죠타로와 폴나레프를 또다른 스탠드유저 알레시가 엄습한다."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "‘바스테트’ 머라이어 ①"
+    }
+   ],
+   "note": "애니북스 책소개 및 정발 챕터 제목.",
    "msg_ids": [
     "0xd5c8ee9a",
     "0xc9db267f"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0068",
    "src": "ペット・ショップ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "펫숍",
+   "alt": [
+    "펫 숍"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "지옥의 문지기 펫숍 ①"
+    }
+   ],
+   "note": "정발 24권 챕터 제목은 붙여쓴 '펫숍'. 나무위키 목록은 '펫 숍'. (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0xbe35fdde",
     "0xa226353b"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0069",
    "src": "山岸由花子",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "야마기시 유카코",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33960713",
+     "quote": "어느날 코이치는 같은 반 야마기시 유카코에게 뜬금없는 고백을 받는다."
+    }
+   ],
+   "note": "애니북스 4부 책소개.",
    "msg_ids": [
     "0xe8d15355",
     "0xf4c29bb0"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0070",
    "src": "トリッシュ・ウナ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "트리시 우나",
+   "alt": [
+    "트리슈 우나(정발 전 통용)"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://namu.wiki/w/트리시 우나",
+     "quote": "정발 전에는 트리슈로 주로 통용되어 있는 상황에서 애니북스가 정발명을 \"트리시 우나\"로 해놓아서 꽤나 논란이 되었는데,"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33961325",
+     "quote": "보스의 딸 트리시를 일주일 간 호위하게 된 부차라티 팀에게"
+    }
+   ],
+   "note": "나무위키: 애니북스가 정발명을 '트리시 우나'로 정함(정발 전 통용명은 '트리슈').",
    "msg_ids": [
     "0x1a353e73"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0071",
    "src": "トリッシュ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "트리시",
+   "alt": [
+    "트리슈"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://namu.wiki/w/트리시 우나",
+     "quote": "정발 전에는 트리슈로 주로 통용되어 있는 상황에서 애니북스가 정발명을 \"트리시 우나\"로 해놓아서 꽤나 논란이 되었는데,"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33961325",
+     "quote": "보스의 딸 트리시를 일주일 간 호위하게 된 부차라티 팀에게"
+    }
+   ],
+   "note": "T0070과 동일.",
    "msg_ids": [
     "0x0626f696"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0072",
    "src": "ウェザー・リポート",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "웨더 리포트",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/58544263",
+     "quote": "그림 속 캐릭터를 실체화시키는 스탠드, 보헤미안 랩소디(자유인의 광상곡)에 의해 농락당하는 웨더 리포트와 안나수이!"
+    }
+   ],
+   "note": "애니북스 6부 책소개.",
    "msg_ids": [
     "0x02c71531"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0073",
    "src": "ウェザー",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "웨더",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/58544263",
+     "quote": "그림 속 캐릭터를 실체화시키는 스탠드, 보헤미안 랩소디(자유인의 광상곡)에 의해 농락당하는 웨더 리포트와 안나수이!"
+    }
+   ],
+   "note": "'웨더 리포트'(정발 확인)의 약칭. 같은 이름의 스탠드명과 혼동 주의.",
    "msg_ids": [
     "0x1ed4ddd4"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0074",
    "src": "ディエゴ・ブランドー",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "디에고 브란도",
+   "alt": [
+    "Dio(작중 애칭)"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "말라붙은 강; 디에고 브란도"
+    }
+   ],
+   "note": "정발 7부 2권 챕터 제목(2014년 애니북스 발매분). 작중 애칭은 Dio(정발 책소개에서도 'Dio'). (jojowiki 한국어판 챕터 제목 목록: 2013~2015년 발매분=애니북스 정발판, 현재 유통사는 문학동네(구 애니북스))",
    "msg_ids": [
     "0xd513331c"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0075",
    "src": "ディエゴ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "디에고",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "말라붙은 강; 디에고 브란도"
+    }
+   ],
+   "note": "T0074와 동일.",
    "msg_ids": [
     "0xc900fbf9"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0076",
    "src": "東方常秀",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "히가시카타 죠슈",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발(문학동네 8부) 근거 미확보. 나무위키 문서 제목 표기를 따른 추정.",
    "msg_ids": [
     "0x0963ebce",
     "0x1570232b"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0077",
    "src": "女装ジョセフ・ジョースター",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "여장 죠셉 죠스타",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "악령이 들렸다고 주장하는 고등학생 쿠죠 죠타로. 그런 외손자를 돕기 위해 죠셉 죠스타가 일본에 왔다."
+    }
+   ],
+   "note": "게임용 변형명. 기본명 '죠셉 죠스타'(정발 확인) + '여장'(女装 직역). 정발판에서 이 상태를 부르는 용어는 미확인.",
    "msg_ids": [
     "0x10ea8910"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0078",
    "src": "女装ジョセフ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "여장 죠셉",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "악령이 들렸다고 주장하는 고등학생 쿠죠 죠타로. 그런 외손자를 돕기 위해 죠셉 죠스타가 일본에 왔다."
+    }
+   ],
+   "note": "T0077과 동일 방식.",
    "msg_ids": [
     "0x0cf941f5"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0079",
    "src": "第４部空条承太郎",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "4부 쿠죠 죠타로",
+   "alt": [
+    "제4부 쿠죠 죠타로"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "악령이 들렸다고 주장하는 고등학생 쿠죠 죠타로. 그런 외손자를 돕기 위해 죠셉 죠스타가 일본에 왔다."
+    }
+   ],
+   "note": "게임용 변형명. '第4部'를 '4부'로 옮기고 기본명은 정발 '쿠죠 죠타로'.",
    "msg_ids": [
     "0xb0ffbec3",
     "0xacec7626"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0080",
    "src": "第６部空条承太郎",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "6부 쿠죠 죠타로",
+   "alt": [
+    "제6부 쿠죠 죠타로"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "악령이 들렸다고 주장하는 고등학생 쿠죠 죠타로. 그런 외손자를 돕기 위해 죠셉 죠스타가 일본에 왔다."
+    }
+   ],
+   "note": "T0079와 동일 방식.",
    "msg_ids": [
     "0xc6e8e2d1",
     "0xdafb2a34",
     "0x9abc6cd6",
     "0x86afa433"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0081",
    "src": "ウェス・ブルーマリン",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "웨스 블루마린",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발 근거 미확보. 나무위키 표기 '웨스 블루마린'을 따른 추정.",
    "msg_ids": [
     "0xd0ded4ed"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0082",
    "src": "ウェス",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "웨스",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "T0081과 동일.",
    "msg_ids": [
     "0xcccd1c08"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0083",
    "src": "新月の時を待つプッチ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "신월의 때를 기다리는 푸치",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/58544263",
+     "quote": "한편 신부는 베르사스와 함께 ‘구덩이’에 숨어 신월의 때를 기다리고 있었는데."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_6_Volumes",
+     "quote": "신월의 때! 뉴 신부"
+    }
+   ],
+   "note": "'新月の時'는 정발판이 '신월의 때'로 번역(책소개·챕터 제목). '푸치'는 정발 근거가 없음(T0053 참조).",
    "msg_ids": [
     "0x217dcef3"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0084",
    "src": "新月プッチ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "신월 푸치",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/58544263",
+     "quote": "한편 신부는 베르사스와 함께 ‘구덩이’에 숨어 신월의 때를 기다리고 있었는데."
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_6_Volumes",
+     "quote": "신월의 때! 뉴 신부"
+    }
+   ],
+   "note": "T0083의 약칭. '신월'은 정발 용어.",
    "msg_ids": [
     "0x3d6e0616"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0085",
    "src": "並行世界から来たディエゴ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "평행 세계에서 온 디에고",
+   "alt": [
+    "평행세계에서 온 디에고",
+    "다른 세계에서 온 디에고"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "말라붙은 강; 디에고 브란도"
+    }
+   ],
+   "note": "기본명 '디에고'는 정발 확인. 並行世界의 정발 번역어는 미확인이라 일반어 '평행 세계' 사용(나무위키는 '평행세계의 디에고').",
    "msg_ids": [
     "0xd85015c5"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0086",
    "src": "世界ディエゴ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "character",
+   "ko": "더 월드 디에고",
+   "alt": [
+    "세계 디에고",
+    "평행 세계 디에고"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_7_Volumes",
+     "quote": "말라붙은 강; 디에고 브란도"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "격돌하는 '스타 플래티나'와 '더 월드'! 마지막 승자는 과연 누구인가?!"
+    }
+   ],
+   "note": "'世界'는 스탠드 THE WORLD(ザ・ワールド)를 가리키며 정발판은 '더 월드'로 표기. 게임이 한자 '世界'를 쓴 의도를 살리려면 '세계 디에고'도 가능. 원문 대조 필요.",
    "msg_ids": [
     "0xc443dd20"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0087",
    "src": "天国に到達したＤＩＯ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "천국에 도달한 DIO",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "4년 전, 바다에서 인양된 관에서 부활한 DIO의 영향으로"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "DIO의 세계 ①"
+    }
+   ],
+   "note": "정발판 DIO 표기(라틴 대문자) + '天国に到達した' 직역.",
    "msg_ids": [
     "0xc45fd201",
     "0xc91cf4d8"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0088",
    "src": "天国ＤＩＯ",
-   "category": "",
-   "ko": "",
+   "category": "character",
+   "ko": "천국 DIO",
    "alt": [],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "4년 전, 바다에서 인양된 관에서 부활한 DIO의 영향으로"
+    },
+    {
+     "edition": "애니북스",
+     "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
+     "quote": "DIO의 세계 ①"
+    }
+   ],
+   "note": "T0087의 약칭.",
    "msg_ids": [
     "0xd84c1ae4",
     "0xd50f3c3d"
-   ]
+   ],
+   "confidence": "derived"
   },
   {
    "id": "T0089",
    "src": "スタープラチナ",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "스타 플래티나",
+   "alt": [
+    "스타 플래티넘"
+   ],
    "state": "unresolved",
-   "evidence": [],
-   "note": "",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "url": "https://www.yes24.com/product/goods/33959517",
+     "quote": "격돌하는 '스타 플래티나'와 '더 월드'! 마지막 승자는 과연 누구인가?!"
+    }
+   ],
+   "note": "애니북스 3부 책소개.",
    "msg_ids": [
     "0x79a0ab22",
     "0x65b363c7"
-   ]
+   ],
+   "confidence": "verified"
   },
   {
    "id": "T0090",
    "src": "ハーミットパープル",
-   "category": "",
-   "ko": "",
+   "category": "stand",
+   "ko": "허밋 퍼플",
    "alt": [],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발 근거 미확보. 나무위키 문서 제목 '허밋 퍼플(은자의 자색)'을 따른 추정. 정발판은 스탠드명을 영문 음역으로 쓰는 경향(예: 스타 플래티나, 더 월드).",
    "msg_ids": [
     "0xb21f25a1",
     "0xae0ced44"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0091",
    "src": "マジシャンズレッド",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "매지션즈 레드",
+   "alt": [
+    "매지션스 레드"
+   ],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발 근거 미확보. 나무위키 문서 제목 '매지션즈 레드'를 따른 추정.",
    "msg_ids": [
     "0x9da72872",
     "0x81b4e097"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0092",
    "src": "ハイエロファントグリーン",
-   "category": "",
-   "ko": "",
-   "alt": [],
+   "category": "stand",
+   "ko": "하이어로팬트 그린",
+   "alt": [
+    "하이어로펀트 그린",
+    "하이에로펀트 그린"
+   ],
    "state": "unresolved",
    "evidence": [],
-   "note": "",
+   "note": "정발 근거 미확보. 나무위키 문서 제목은 '하이어로팬트 그린'이지만 본문에 '하이어로펀트 그린'도 섞여 있음. 어느 쪽이 정발 표기인지 확인 필요.",
    "msg_ids": [
     "0x5374324e",
     "0x4f67faab"
-   ]
+   ],
+   "confidence": "unverified"
   },
   {
    "id": "T0093",
@@ -4440,7 +5309,11 @@
   }
  ],
  "open_questions": [
-  "전각·반각: 파트 제목 'Ｐａｒｔ１' → 'Part1' 반각 변환, 'Ｐａｒｔｅ５'는 'Parte5' 유지 제안 (배치 3)"
+  "전각·반각: 파트 제목 'Ｐａｒｔ１' → 'Part1' 반각 변환, 'Ｐａｒｔｅ５'는 'Parte5' 유지 제안 (배치 3)",
+  "定助(8부)와 仗助(4부)가 정발에서 모두 '히가시카타 죠스케' — 게임 내 두 인물 구분 방법 결정 필요 (배치 1)",
+  "ンドゥール: jojowiki 정발 챕터 제목 전사 '은두루' vs 나무위키 '은두르' — 실물 단행본 확인 필요 (배치 1)",
+  "1·2부는 정발 근거가 주로 챕터 제목뿐 — 실물 단행본 확인 권장 (배치 1)",
+  "넷플릭스 국내판 자막·더빙은 'ナルシソ・アナスイ'를 '나르시소 아나스타샤'로 표기(만화 정발: 안나수이) — 2순위 출처 충돌 사례 (배치 1)"
  ],
  "schema": {
   "id": "T번호 (고정 식별자)",
