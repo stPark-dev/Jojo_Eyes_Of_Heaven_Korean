@@ -1,0 +1,17 @@
+# Copyrighted game data and large local artifacts — never commit
+*.7z
+*.iso
+*.pkg
+*.PUP
+source/
+disc/
+game/
+update/
+build/
+work/
+iso_list.txt
+game_extract.log
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/

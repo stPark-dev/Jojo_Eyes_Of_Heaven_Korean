@@ -1,0 +1,10 @@
+[project]
+name = "eoh-kr"
+version = "0.1.0"
+description = "Korean translation patch tooling for JoJo's Bizarre Adventure: Eyes of Heaven (PS3, BLJS10318 v1.05)"
+requires-python = ">=3.11"
+dependencies = ["cryptography"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
