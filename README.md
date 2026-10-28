@@ -74,6 +74,15 @@ pip install cryptography numpy pillow pytest
 python3 -m pytest
 ```
 
+디스크 이미지는 `scripts/extract_disc.py`로 `game/`에 풉니다. 이미 복호화된 이미지는 자동으로 판별하고, Redump 원본(암호화)은 디스크 키가 필요합니다.
+
+```bash
+python3 scripts/extract_disc.py BLJS10318.iso                  # 복호화된 이미지
+python3 scripts/extract_disc.py BLJS10318.iso --key disc.dkey  # 암호화된 이미지
+```
+
+> 다른 도구로 풀 때는 **Joliet 이름**(`data/sim/data0.cpk`, `grd00.tex.xfbin`)과 **빈 폴더**(`data/disc`, `data/sound/PS3`)가 유지돼야 합니다. ISO9660 기본 이름(`DATA/SIM`, `GRD00_TEX.XFBIN`)으로 풀면 첫 실행의 HDD 설치가 실패해 검은 화면에서 멈춥니다. 이때는 이름을 바로잡은 뒤 `dev_hdd0/game/BLJS10318/USRDIR/installlog.log`(0바이트)를 지우고 다시 실행하세요.
+
 테스트와 스크립트는 아래 경로에서 게임 데이터를 찾습니다(테스트는 없으면 건너뜀). 환경 변수 → 저장소 루트의 `eoh.local.toml`(git 제외) → 기본값 순으로 정합니다.
 
 | 환경 변수 | `eoh.local.toml` 키 | 기본값 | 내용 |
@@ -103,8 +112,10 @@ src/eoh/
 ├── dxt5.py        DXT5 아틀라스 알파 인코딩/디코딩
 ├── glyph_render.py 아웃라인 폰트 → 글리프 비트맵·메트릭
 ├── textdb.py      번역 파일 동기화·태그 검사·적용
-└── paths.py       로컬 게임 데이터 경로 (환경 변수 / eoh.local.toml)
+├── paths.py       로컬 게임 데이터 경로 (환경 변수 / eoh.local.toml)
+└── ps3iso.py      PS3 디스크 이미지 복호화·추출 (Joliet 이름)
 scripts/
+├── extract_disc.py 디스크 이미지 → game/
 ├── textdb.py      번역 파일 sync / export / status
 ├── poc_marker.py  텍스트 교체 검증용 PoC
 └── poc_hangul.py  한글 폰트 표시 검증용 PoC
