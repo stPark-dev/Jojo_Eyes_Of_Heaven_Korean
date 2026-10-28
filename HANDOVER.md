@@ -81,7 +81,8 @@ python3 scripts/textdb.py status
 - `translation/glossary.json` 277개 전부 조사 반영: **verified 125 / derived 45 / unverified 107**. 모든 항목 `state=unresolved`.
 - 분류: 인물 161, 스탠드 64, 지명 21, 파트 제목 16, 기타 15.
 - 3부 스탠드 18개에는 `needs_book_check` 표시 (정책상 단행본 본문 확인 전 확정 금지).
-- `open_questions`에 결정이 필요한 9건 기록 (定助/仗助 구분, 은두루/은두르, D4C 영문 유지 여부, 이집트 9영신 '신' 포함 여부, '스탠드 유저' 띄어쓰기 등).
+- 2026-10-28 미결 질문 7건 결정 → `resolved_questions`에 기록 (8부 죠스케 구분, 은두르, 나르시소 안나수이, 9영신 '신/여신' 붙임, D4C 영문+정발 번역 병기, 스탠드 유저, 부 제목 반각 Part·5부도 Part5). 승인 6개(T0051, T0052, T0066, T0125, T0278, T0279). 남은 `open_questions` 2건은 근거 재확인 작업.
+- (이전) `open_questions`에 결정이 필요한 9건 기록 (定助/仗助 구분, 은두루/은두르, D4C 영문 유지 여부, 이집트 9영신 '신' 포함 여부, '스탠드 유저' 띄어쓰기 등).
 - 근거 주의: 일부 인용문은 웹 요약 결과라 원문 글자 대조가 안 됨 → 승인 전 URL 재확인 권장. yes24 일부 페이지는 자동 수집이 막힘.
 - 다음: 사용자가 항목별로 `state`를 `approved`로 바꾸면 `python3 scripts/textdb.py check-glossary`가 번역 전체에 일관성 검사를 적용.
 
