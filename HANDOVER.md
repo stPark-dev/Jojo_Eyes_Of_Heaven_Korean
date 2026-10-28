@@ -135,6 +135,8 @@ python3 scripts/textdb.py status
 - `pkill -f "<패턴>"`은 그 명령을 실행한 셸 자체도 죽일 수 있음.
 - RPCS3 헤드리스 실행: `rpcs3.AppImage --headless <game/PS3_GAME 경로>` (창 없이 부팅 검증 가능, 단 버튼 입력은 불가).
 - 화면 캡처가 필요하면 바탕화면 전체가 아니라 게임 창만, 그리고 사용자에게 먼저 확인.
+  - 창 캡처는 Vulkan 창이 갱신되지 않아 옛 화면이 찍힘 → RPCS3 자체 스크린샷(F12, `screenshots/BLJS10318/`)을 쓸 것.
+  - 인게임 확인 스크린샷은 프로젝트의 `screenshots/ingame/<날짜>/`에 보관하고 git에 올린다.
 - 커밋·푸시는 사용자가 요청할 때만. 커밋 메시지에 Co-Authored-By 넣지 않음(사용자 설정).
 - 코드 수정 전 테스트 실행, 새 기능은 테스트 먼저(TDD) — 사용자 전역 규칙.
 
