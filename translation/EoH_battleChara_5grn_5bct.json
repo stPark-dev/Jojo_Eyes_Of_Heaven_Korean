@@ -1,0 +1,117 @@
+{
+ "file": "data/message/PS3/jpn/EoH_battleChara_5grn_5bct.bin.xfbin",
+ "entries": [
+  {
+   "id": "0xc8dfa2b3",
+   "src_sha1": "c7dd6bef776febbbc3d5b58066ebbb9f8654397f",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0xc59c846a",
+   "src_sha1": "6bfa39031f249391ab346549de59704c1a9eebd6",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0xc15d99dd",
+   "src_sha1": "e178f2ed32eadc86b113c50c43b9807d7957cb07",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0xdf1ac9d8",
+   "src_sha1": "11e35b8b36f30d82ee57f1e2598ac34e06548df3",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0xdbdbd46f",
+   "src_sha1": "163c3bb47fd9a109f51ce2e4208e86b15eb7e0b8",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0xd698f2b6",
+   "src_sha1": "b96c0a16251485a612dd34918c0c0aa0fb956c2a",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0xd259ef01",
+   "src_sha1": "a84a6380df55607b2841b5acdc6beb94d373c446",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0xea1652bc",
+   "src_sha1": "a84a6380df55607b2841b5acdc6beb94d373c446",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0xeed74f0b",
+   "src_sha1": "b68bc758bcd19a30899c2dd59c246a19ec6d9489",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x1e077ed8",
+   "src_sha1": "b68bc758bcd19a30899c2dd59c246a19ec6d9489",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x1ac6636f",
+   "src_sha1": "67eb1d250ded3aacb1b0e9c909c75e1693910099",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x178545b6",
+   "src_sha1": "5461e5c5874ad6e010e3bd00d0a923807f0b6584",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x13445801",
+   "src_sha1": "f7a644a405808139b2a9c1e806f477f4820d6e70",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x0d030804",
+   "src_sha1": "3e56d1ef3692847cc7f576196c353312dc6c38b3",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x09c215b3",
+   "src_sha1": "10718b2ee18d187ff33da74abb0230db096cfce2",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x0481336a",
+   "src_sha1": "10718b2ee18d187ff33da74abb0230db096cfce2",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  }
+ ]
+}

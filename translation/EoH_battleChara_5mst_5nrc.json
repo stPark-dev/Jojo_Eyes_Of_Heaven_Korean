@@ -1,0 +1,61 @@
+{
+ "file": "data/message/PS3/jpn/EoH_battleChara_5mst_5nrc.bin.xfbin",
+ "entries": [
+  {
+   "id": "0x3f6bba36",
+   "src_sha1": "602deb500441cee91fab5c264fb8790ab9c719ca",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x32289cef",
+   "src_sha1": "f3f180b49ebca9a82cd611cb3140064ca907965b",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x36e98158",
+   "src_sha1": "2b1549acd5a6b26da58f0ea80e11260721e61c44",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x28aed15d",
+   "src_sha1": "6bfa39031f249391ab346549de59704c1a9eebd6",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x2c6fccea",
+   "src_sha1": "962e7e6287a40549995777a20dfdf5e7a65327a5",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x212cea33",
+   "src_sha1": "943da76ec4beaea98008ff55a9cb8ca3fe993383",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x25edf784",
+   "src_sha1": "67f3abc2ea3b6aa4d4ab0c2a4a598a22aa40b27f",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x1da24a39",
+   "src_sha1": "5c5d9cbe77daec3c21ba35d3bc43149aaf8d3b76",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  }
+ ]
+}

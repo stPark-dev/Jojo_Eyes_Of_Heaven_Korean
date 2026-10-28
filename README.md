@@ -33,8 +33,9 @@
 | 디스크·업데이트 구조 분석 | ✅ 완료 |
 | CPK 아카이브 읽기/쓰기 (CRILAYLA, DPK 분할 압축 포함) | ✅ 완료 |
 | 텍스트 추출·재삽입 (1.05 최종 텍스트 88개 파일 바이트 단위 왕복 일치) | ✅ 완료 |
-| 추가 업데이트 레이어(`patch/6`) 방식 인게임 검증 | 🔄 진행 중 |
-| 한글 폰트 삽입 (NFH 비트맵 폰트) | ⏳ 예정 |
+| 패치 적용 방식 인게임 검증 (`patch/5` 병합) | ✅ 완료 |
+| 한글 폰트 삽입 (NFH 비트맵 폰트, DXT5 아틀라스) | ✅ 인게임 표시 확인 |
+| 번역 관리 파일 (88개 파일, 26,610문장, 원문 미포함) | ✅ 완료 |
 | 용어집 확정 (국내 정식판 표기 기준) | ⏳ 예정 |
 | 번역 (초안 → 검수) | ⏳ 예정 |
 | 이미지 한글화 | ⏳ 예정 |
@@ -42,19 +43,20 @@
 
 ## 동작 방식
 
-게임은 `USRDIR/data/system/version.txt`의 숫자 N을 보고 `USRDIR/data/patch/1` ~ `N`의 업데이트 아카이브를 차례로 겹쳐 읽습니다. 공식 업데이트는 5(1.05)에서 끝나므로, 한글 데이터를 **6번째 레이어**로 추가해 **게임 실행 파일(EBOOT)을 건드리지 않는** 패치를 목표로 합니다.
-
-> 이 동작은 현재 인게임으로 검증 중인 가설입니다.
+1.05 실행 파일은 `USRDIR/data/patch/1` ~ `5`의 업데이트 아카이브만 고정으로 읽습니다(`patch/6`을 추가해도 무시됨을 RPCS3 로그로 확인). 그래서 한글 데이터를 **공식 `patch/5/data.cpk`에 병합**합니다. 원본은 `data.cpk.kr-backup`으로 보관하고, **게임 실행 파일(EBOOT)은 건드리지 않습니다.** 5번 레이어가 1~4번보다 우선하므로 텍스트·폰트 모두 교체됩니다.
 
 ```
 dev_hdd0/game/BLJS10318/USRDIR/
-├── EBOOT.BIN                 (1.05 공식, 변경 없음)
-└── data/
-    ├── system/version.txt    5 → 6
-    └── patch/
-        ├── 1 … 5/data.cpk    (공식 업데이트)
-        └── 6/data.cpk        (한글 패치)
+├── EBOOT.BIN                     (1.05 공식, 변경 없음)
+└── data/patch/
+    ├── 1 … 4/data.cpk            (공식 업데이트)
+    └── 5/data.cpk                (공식 5번 내용 + 한글 텍스트·폰트)
+        data.cpk.kr-backup        (공식 원본 백업)
 ```
+
+### 한글 폰트
+
+게임 폰트(`FOT-ModeMinA Std`, 2048×2048 DXT5 아틀라스)의 빈 영역에 한글 글리프를 추가합니다. 글꼴은 **본명조 Heavy (Source Han Serif KR Heavy, SIL OFL 1.1)** 24px입니다. 라이선스는 [`fonts/LICENSE.txt`](fonts/LICENSE.txt)를 참고하세요.
 
 ## 사용 환경 (예정)
 
@@ -68,7 +70,7 @@ dev_hdd0/game/BLJS10318/USRDIR/
 Python 3.11 이상이 필요합니다.
 
 ```bash
-pip install cryptography pytest
+pip install cryptography numpy pillow pytest
 python3 -m pytest
 ```
 
@@ -88,9 +90,17 @@ src/eoh/
 ├── cpk.py         CPK 읽기(분할 압축 포함)·쓰기
 ├── layers.py      디스크 + 업데이트 레이어 겹쳐 읽기
 ├── message.py     텍스트 테이블(.bin.xfbin) 파싱·재구성
-└── install.py     6번째 레이어 빌드·설치·제거
+├── merge.py       공식 patch/5에 병합 설치·제거 (원본 백업)
+├── font.py        NFH 비트맵 폰트 파싱·재구성·글리프 추가
+├── dxt5.py        DXT5 아틀라스 알파 인코딩/디코딩
+├── glyph_render.py 아웃라인 폰트 → 글리프 비트맵·메트릭
+└── textdb.py      번역 파일 동기화·태그 검사·적용
 scripts/
-└── poc_layer6.py  레이어 방식 검증용 PoC
+├── textdb.py      번역 파일 sync / export / status
+├── poc_marker.py  텍스트 교체 검증용 PoC
+└── poc_hangul.py  한글 폰트 표시 검증용 PoC
+translation/       번역 파일 (원문 대신 원문 SHA-1만 저장)
+fonts/             본명조 Heavy + OFL 라이선스
 tests/             pytest
 ```
 

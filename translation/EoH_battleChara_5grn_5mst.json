@@ -1,0 +1,96 @@
+{
+ "file": "data/message/PS3/jpn/EoH_battleChara_5grn_5mst.bin.xfbin",
+ "entries": [
+  {
+   "id": "0x422fd0cc",
+   "src_sha1": "1ec3a4e67d5b89b2737de42ed81d142481f386f6",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x4f6cf615",
+   "src_sha1": "753841c6f0cf40367b438750c6d9113cd6ea317e",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x4badeba2",
+   "src_sha1": "1ec3a4e67d5b89b2737de42ed81d142481f386f6",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x55eabba7",
+   "src_sha1": "753841c6f0cf40367b438750c6d9113cd6ea317e",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x512ba610",
+   "src_sha1": "dfe38ee6701c22bead2c7fa9cc1b4ba45bbfe434",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x893f0d92",
+   "src_sha1": "943da76ec4beaea98008ff55a9cb8ca3fe993383",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x5c6880c9",
+   "src_sha1": "5c5d9cbe77daec3c21ba35d3bc43149aaf8d3b76",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x58a99d7e",
+   "src_sha1": "23711d1593d098caa82f400891b525052ea5628c",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x60e620c3",
+   "src_sha1": "938913a99da9d971edc2de401d8848bce0a7dd5e",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x64273d74",
+   "src_sha1": "76f78cd6be41e18ba22a471bf4fa35d6c6f70fbf",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x94f70ca7",
+   "src_sha1": "b9f5f1d1a3d04e9cad3b22c4f969f7f12754f21a",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x90361110",
+   "src_sha1": "e1364e8447eff7e78579d3f7349118771cc5b1a5",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  },
+  {
+   "id": "0x9d7537c9",
+   "src_sha1": "d5eda66b772faaaaed9d164c63cb47425958a690",
+   "ko": "",
+   "state": "untranslated",
+   "note": ""
+  }
+ ]
+}
