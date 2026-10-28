@@ -4,6 +4,7 @@ Only approved terms are enforced. A term found in the source (longest match firs
 "ジョセフ・ジョースター" is not also counted as "ジョセフ") must appear in the Korean text with
 its approved spelling, unless an exception for the entry's scope allows another spelling.
 Superseded spellings (alt) in the Korean text are reported when the term is in the source.
+A term's src_exclude lists longer words that contain it but are not it (ミスター for ミスタ).
 """
 from pathlib import Path
 
@@ -28,9 +29,12 @@ def check(src: str, ko: str, terms: list[dict], scope: str | None = None) -> lis
         return []
     problems = []
     for term in terms:
-        if term["src"] not in src:
+        probe = src
+        for word in term.get("src_exclude", []):  # longer words that merely contain the term
+            probe = probe.replace(word, _MASK)
+        if term["src"] not in probe:
             continue
-        src = src.replace(term["src"], _MASK)
+        src = probe.replace(term["src"], _MASK)
         allowed = _allowed(term, scope)
         if not any(s in ko for s in allowed):
             problems.append(f"용어 불일치: {term['src']} → '{term['ko']}' 없음")

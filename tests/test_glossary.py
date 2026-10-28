@@ -56,3 +56,10 @@ def test_check_store_reports_entry_ids():
     sources = {"0x00000001": "ジョセフ", "0x00000002": "ジョセフ"}
     out = glossary.check_store(store, sources, glossary.approved(_g(JOSEPH)))
     assert out == [("messageInfo_common:0x00000001", "용어 불일치: ジョセフ → '죠셉' 없음")]
+
+
+def test_src_exclude_skips_longer_words_containing_the_term():
+    mista = {"src": "ミスタ", "ko": "미스타", "src_exclude": ["ミスター"]}
+    terms = glossary.approved(_g(mista))
+    assert glossary.check("ミスター・プレジデント", "미스터 프레지던트", terms) == []
+    assert glossary.check("ミスタとミスター", "미스터와", terms) == ["용어 불일치: ミスタ → '미스타' 없음"]

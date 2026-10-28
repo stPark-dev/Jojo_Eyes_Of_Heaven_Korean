@@ -7,6 +7,8 @@ lacks. Only changed files are returned, ready for `merge.install` into patch/5.
 from eoh import font, message, textdb
 
 MSG_DIR = "data/message/PS3/jpn/"
+# Punctuation common in Korean text but missing from the Japanese font; drawn like Hangul.
+EXTRA_CHARS = "~·"
 
 
 class BuildError(Exception):
@@ -35,7 +37,7 @@ def build(fs, stores: dict, policy: str, renderer):
         fnt = font.parse(fs.read(font.JPN_FONT))
         have = {chr(g.code) for g in fnt.glyphs}
         needed = sorted(c for c in used - have if not c.isspace())
-        unsupported = [c for c in needed if not ("가" <= c <= "힣")]
+        unsupported = [c for c in needed if not ("가" <= c <= "힣" or c in EXTRA_CHARS)]
         if unsupported:
             raise BuildError(f"폰트에 없고 한글도 아닌 글자: {unsupported}")
         if needed:

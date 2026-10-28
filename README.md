@@ -126,10 +126,11 @@ src/eoh/
 scripts/
 ├── extract_disc.py 디스크 이미지 → game/
 ├── build_patch.py 번역 적용·폰트 생성 → patch/5 설치 / 제거
+├── check_part.py  번역 작업 조각 검사 (누락·태그·줄바꿈·용어)
 ├── textdb.py      번역 파일 sync / export / import / status
 ├── poc_marker.py  텍스트 교체 검증용 PoC
 └── poc_hangul.py  한글 폰트 표시 검증용 PoC
-translation/       번역 파일 (원문 대신 원문 SHA-1만 저장)
+translation/       번역 파일 (원문 대신 원문 SHA-1만 저장), 용어집, 번역 지침(STYLE.md)
 fonts/             본명조 Heavy + OFL 라이선스
 tests/             pytest
 ```

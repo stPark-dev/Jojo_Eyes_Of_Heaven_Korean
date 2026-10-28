@@ -67,3 +67,12 @@ def test_missing_store_is_an_error(game_fs, fresh_stores, renderer):
     del stores[COMMON]
     with pytest.raises(build.BuildError, match="messageInfo_common"):
         build.build(game_fs, stores, "dev", renderer)
+
+
+def test_allowed_korean_punctuation_is_added_like_hangul(game_fs, fresh_stores, renderer):
+    stores, _ = _with_ko(game_fs, fresh_stores, "한·글~")
+    files, report = build.build(game_fs, stores, "dev", renderer)
+    after = font.parse(dict(files)[font.JPN_FONT])
+    for ch in "·~":
+        assert font.lookup(after, ord(ch)).code == ord(ch)
+    assert set(report["glyphs"]) == set("한글·~")

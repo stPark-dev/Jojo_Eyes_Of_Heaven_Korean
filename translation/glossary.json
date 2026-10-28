@@ -170,7 +170,10 @@
    "msg_ids": [
     "0x93f0d4e9"
    ],
-   "confidence": "verified"
+   "confidence": "verified",
+   "src_exclude": [
+    "トルネーディオーバードライブ"
+   ]
   },
   {
    "id": "T0007",
@@ -210,7 +213,10 @@
    "msg_ids": [
     "0xe92ffe53"
    ],
-   "confidence": "verified"
+   "confidence": "verified",
+   "src_exclude": [
+    "ジョセフミ"
+   ]
   },
   {
    "id": "T0009",
@@ -1003,7 +1009,10 @@
    "msg_ids": [
     "0x54764533"
    ],
-   "confidence": "verified"
+   "confidence": "verified",
+   "src_exclude": [
+    "ミスター"
+   ]
   },
   {
    "id": "T0043",
@@ -1769,7 +1778,10 @@
    "msg_ids": [
     "0xc900fbf9"
    ],
-   "confidence": "verified"
+   "confidence": "verified",
+   "src_exclude": [
+    "サンディエゴ"
+   ]
   },
   {
    "id": "T0076",
@@ -6016,6 +6028,25 @@
    "evidence": [],
    "note": "[사용자 결정 2026-10-28] 정발 본문 표기, 띄어 씀.",
    "confidence": "verified"
+  },
+  {
+   "id": "T0280",
+   "src": "柱の男",
+   "category": "other",
+   "ko": "기둥 속 사내",
+   "alt": [
+    "기둥의 남자"
+   ],
+   "state": "approved",
+   "part": 2,
+   "confidence": "verified",
+   "evidence": [
+    {
+     "edition": "애니북스",
+     "quote": "국내 정식판 2부 단행본 목차 (사용자 확인)"
+    }
+   ],
+   "note": "[사용자 확정 2026-10-28] 1순위 근거: 국내 정식판 2부 단행본 목차. 기존 표기 '기둥의 남자'는 별칭으로만 유지. 복수형은 문맥에 따라 '기둥 속 사내들'."
   }
  ],
  "open_questions": [
