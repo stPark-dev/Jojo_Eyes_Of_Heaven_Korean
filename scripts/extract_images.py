@@ -4,7 +4,8 @@
     python3 scripts/extract_images.py --out DIR
 
 Writes translation/images.json: one entry per texture (file, index, size, format, SHA-1 of
-the official pixel data, category, PNG path, state, note). Re-running keeps state/note and
+the official pixel data, category, PNG path, state, note, and optionally ko = the Korean text
+and maker = gpt/auto). Re-running keeps state/note/ko/maker and
 flags entries whose source texture changed. Game images themselves are never committed.
 Contact sheets per category go to <out>/_overview/ for a quick look.
 """
@@ -34,6 +35,7 @@ CATEGORIES = {  # path group -> label (rough plan in HANDOVER 4-3)
     "save/PS3": "세이브 아이콘",
 }
 STATES = ("todo", "in_progress", "needs_review", "done", "keep_original")
+KEPT = ("ko", "maker")  # hand-set fields kept across re-extraction (Korean text, who makes it)
 
 
 def official_fs() -> GameFs:
@@ -113,9 +115,11 @@ def main() -> None:
             state, note = prev.get("state", "todo"), prev.get("note", "")
             if prev and prev.get("src_sha1") != sha:
                 state, note, changed = "needs_review", (note + " 원본 텍스처 변경됨.").strip(), changed + 1
-            entries.append({"file": path, "index": index, "name": name, "width": im.width,
-                            "height": im.height, "format": fmt, "src_sha1": sha,
-                            "category": category(path), "png": png, "state": state, "note": note})
+            entry = {"file": path, "index": index, "name": name, "width": im.width,
+                     "height": im.height, "format": fmt, "src_sha1": sha,
+                     "category": category(path), "png": png, "state": state, "note": note}
+            entry.update({k: prev[k] for k in KEPT if k in prev})
+            entries.append(entry)
     MANIFEST.write_text(json.dumps({
         "note": "이미지 한글화 대상 목록. PNG는 scripts/extract_images.py로 work/images/에 생성 (게임 리소스라 git 제외).",
         "states": list(STATES), "images": entries}, ensure_ascii=False, indent=1) + "\n", "utf-8", newline="\n")

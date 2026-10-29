@@ -720,8 +720,10 @@
    "src_sha1": "37917a53e87837725c4b994dec1d82af4d554286",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_chapter_end/00_adv_chapter_end.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "완",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_chapter_end.xfbin",
@@ -746,8 +748,10 @@
    "src_sha1": "6a4cb0b038e61fd4fb6b7d6d74efcd8673d2df64",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title01/00_adv_chapter_title01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "제1장\n스타더스트 크루세이더즈",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_demo_title02.xfbin",
@@ -759,8 +763,10 @@
    "src_sha1": "d701512f8d6f591e5c70b2b2d36038f2a3b5be94",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title02/00_adv_chapter_title02.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "제2장\n황금의 바람",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_demo_title03.xfbin",
@@ -772,8 +778,10 @@
    "src_sha1": "9c547691d125e2457a58dcc3f001fcc538543dee",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title03/00_adv_chapter_title03.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "제3장\n다이아몬드는 부서지지 않는다",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_demo_title04.xfbin",
@@ -785,8 +793,10 @@
    "src_sha1": "46696b8a6b18d81ba90db82ae1b28be4dba16078",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title04/00_adv_chapter_title04.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "제4장\n팬텀 블러드",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_demo_title05.xfbin",
@@ -798,8 +808,10 @@
    "src_sha1": "f5de2c19dfd0ac2be6c66b2ff22b57e1444df17a",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title05/00_adv_chapter_title05.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "제5장\n전투조류",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_demo_title06.xfbin",
@@ -811,8 +823,10 @@
    "src_sha1": "03dce5fbcf72d418a9f1495225d935a918e480e1",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title06/00_adv_chapter_title06.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "제6장\n스톤 오션",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_demo_title07.xfbin",
@@ -824,8 +838,10 @@
    "src_sha1": "289bb44d61378504439e503423dfc662c6521f9f",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title07/00_adv_chapter_title07.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "제7장\n스틸 볼 런",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_demo_title08.xfbin",
@@ -837,8 +853,10 @@
    "src_sha1": "015ccc03b1952dbab16103890512faddce724554",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title08/00_adv_chapter_title08.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "제8장\n죠죠리온",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_demo_title09.xfbin",
@@ -850,8 +868,10 @@
    "src_sha1": "189b88b30178d58844a4ec225cd729467d8cc6fe",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title09/00_adv_chapter_title09.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "제9장\n흉성",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_demo_title10.xfbin",
@@ -863,8 +883,10 @@
    "src_sha1": "ba9ff1023cdea2093c64d8ce0c1bf14547574a6c",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title10/00_adv_chapter_title10.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "제10장\n유해를 건 게임",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_demo_title11.xfbin",
@@ -876,8 +898,10 @@
    "src_sha1": "ed43df8749c526b31d2a72926759c3052a4f9be6",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title11/00_adv_chapter_title11.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "제11장\n천국을 바란 남자",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_demo_title12.xfbin",
@@ -889,8 +913,10 @@
    "src_sha1": "232bd0941b9a93fc5e407435926a7d0e79f89b59",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title12/00_adv_chapter_title12.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "최종장\n더 월드 오버 헤븐",
+   "maker": "auto"
   },
   {
    "file": "data/ui/btl/char/jpn/btl_1sdw01_txt.xfbin",
@@ -1851,8 +1877,10 @@
    "src_sha1": "9a4e97814df1537061b4c490133054ba3599b030",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/04_tex04.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "로드 완료다, 베이비",
+   "maker": "auto"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -1864,8 +1892,10 @@
    "src_sha1": "2e9a8dd6f658cd6d61fb460b7e23a4d7d23f8788",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/05_tex05.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "로드 완료다, 베이비",
+   "maker": "auto"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2527,8 +2557,10 @@
    "src_sha1": "7df1da573002692cfd56fd180e9009d693d06786",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_1dio01/00_btl_name_1dio01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "디오",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_1jnt01.xfbin",
@@ -2540,8 +2572,10 @@
    "src_sha1": "623541749a1296ca25afdd9f6bbb07a5c63b29ae",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_1jnt01/00_btl_name_1jnt01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "죠나단",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_1sdw01.xfbin",
@@ -2553,8 +2587,10 @@
    "src_sha1": "3bf14718ce5b76ed4c0f7f68ff77fa63c2f6f154",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_1sdw01/00_btl_name_1sdw01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "스피드왜건",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_1zpl01.xfbin",
@@ -2566,8 +2602,10 @@
    "src_sha1": "9fd0332a1c9f5efaf3788e8ff28b8b0394e0fdd0",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_1zpl01/00_btl_name_1zpl01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "체펠리",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_2csr01.xfbin",
@@ -2579,8 +2617,10 @@
    "src_sha1": "72f77f9fd484b2c79c068a2c5e8dc9ef7670e093",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2csr01/00_btl_name_2csr01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "시저",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_2esd01.xfbin",
@@ -2592,8 +2632,10 @@
    "src_sha1": "d0c8fc29a6a84a22b534a09d400115422beb0c79",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2esd01/00_btl_name_2esd01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "에시디시",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_2jsp01.xfbin",
@@ -2605,8 +2647,10 @@
    "src_sha1": "3fbd3c054590959bf7a4c439de3df4251c1342c2",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2jsp01/00_btl_name_2jsp01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "죠셉",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_2krs01.xfbin",
@@ -2618,8 +2662,10 @@
    "src_sha1": "a4ff7626e9a7761e0c68b5d905e2b11ccf4cca5e",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2krs01/00_btl_name_2krs01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "카즈",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_2krs01.xfbin",
@@ -2631,8 +2677,10 @@
    "src_sha1": "c163a6871e2e4f244c8625a2d0ab44adeafd5c2f",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2krs01/01_btl_name_2krs02.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "카즈(궁극생물)",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_2lsa01.xfbin",
@@ -2644,8 +2692,10 @@
    "src_sha1": "c168116c0cfa84d4c1977c032b9c7afba91b9607",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2lsa01/00_btl_name_2lsa01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "리사리사",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_2shm01.xfbin",
@@ -2657,8 +2707,10 @@
    "src_sha1": "3ec28a2fcdc247e74d2e2a7239c6e623fe6ed70d",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2shm01/00_btl_name_2shm01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "슈트로하임",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_2wmu01.xfbin",
@@ -2670,8 +2722,10 @@
    "src_sha1": "ca75bf252f49a85d57b2a637a1cf663a84f4be0e",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2wmu01/00_btl_name_2wmu01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "와무우",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_3abd01.xfbin",
@@ -2683,8 +2737,10 @@
    "src_sha1": "163401ccb19b6df8a8b1d2c4bdda98496c6af580",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3abd01/00_btl_name_3abd01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "압둘",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_3dio01.xfbin",
@@ -2696,8 +2752,10 @@
    "src_sha1": "487caea803cd41bbcaeba9cd87446ffff10ffe32",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3dio01/00_btl_name_3dio01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "DIO",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_3hhs01.xfbin",
@@ -2709,8 +2767,10 @@
    "src_sha1": "1a03586bbf94a7f8ac4405ec90113ea533cf915a",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3hhs01/00_btl_name_3hhs01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "홀 호스",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_3igy01.xfbin",
@@ -2722,8 +2782,10 @@
    "src_sha1": "6672a15d7ebc3e5bb2ef07c01dbd5e6f7902df15",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3igy01/00_btl_name_3igy01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "이기",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_3jsp01.xfbin",
@@ -2735,8 +2797,10 @@
    "src_sha1": "6e3baf863151dbf5e70c41348904a0f997302915",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3jsp01/00_btl_name_3jsp01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "노년 죠셉",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_3jtr01.xfbin",
@@ -2748,8 +2812,10 @@
    "src_sha1": "7c3c463a9e0e31ecc87eb34b92dbd3133933fd96",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3jtr01/00_btl_name_3jtr01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "쿠죠 죠타로",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_3kki01.xfbin",
@@ -2761,8 +2827,10 @@
    "src_sha1": "fcc30e36ed97df6cdc8b49b27ab93522fe5ee75a",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3kki01/00_btl_name_3kki01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "카쿄인 노리아키",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_3mra01.xfbin",
@@ -2774,8 +2842,10 @@
    "src_sha1": "d8a30573767b51536add9cefe90819e26ae01249",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3mra01/00_btl_name_3mra01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "머라이어",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_3pln01.xfbin",
@@ -2787,8 +2857,10 @@
    "src_sha1": "31ef8acdfbd35bb630c03f9a98bc42219de017e9",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3pln01/00_btl_name_3pln01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "폴나레프",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_3psp01.xfbin",
@@ -2800,8 +2872,10 @@
    "src_sha1": "d2da4aa1d8e5283bdaf1191ad0154ea09df43654",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3psp01/00_btl_name_3psp01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "펫숍",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_3udr01.xfbin",
@@ -2813,8 +2887,10 @@
    "src_sha1": "f453b75d4f6b24154ce4e3b9e4526c94d37a3a0d",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3udr01/00_btl_name_3udr01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "은두르",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_3vni01.xfbin",
@@ -2826,8 +2902,10 @@
    "src_sha1": "536aaa44e8a97272070345cf663a20b9fb59c749",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3vni01/00_btl_name_3vni01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "바닐라 아이스",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_4jsk01.xfbin",
@@ -2839,8 +2917,10 @@
    "src_sha1": "f489815260cc0ee18c8cc205bf50160dd400c778",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4jsk01/00_btl_name_4jsk01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "히가시카타 죠스케",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_4jtr01.xfbin",
@@ -2852,8 +2932,10 @@
    "src_sha1": "f1e48bf92aa7e67bd405f30e82ea4c40bda7ce4d",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4jtr01/00_btl_name_4jtr01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "4부 쿠죠 죠타로",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_4kir01.xfbin",
@@ -2865,8 +2947,10 @@
    "src_sha1": "2e434d8bafe74987be18fd90e9b8d285869e3c9e",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4kir01/00_btl_name_4kir01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "키라 요시카게",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_4koi01.xfbin",
@@ -2878,8 +2962,10 @@
    "src_sha1": "2cadccf1b7568f46d1348c47ff9d5d9e084a8d26",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4koi01/00_btl_name_4koi01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "히로세 코이치",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_4kwk01.xfbin",
@@ -2891,8 +2977,10 @@
    "src_sha1": "90a77866b22bae56367c16aff664769a6487e526",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4kwk01/00_btl_name_4kwk01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "카와지리 코사쿠",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_4kwk01.xfbin",
@@ -2904,8 +2992,10 @@
    "src_sha1": "beae94af7e493aaa1dc3778b112da986c6863a22",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4kwk01/01_btl_name_4kwk31.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "데드맨즈 Q 키라",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_4oky01.xfbin",
@@ -2917,8 +3007,10 @@
    "src_sha1": "360f38b55e2caddca5b99c3e69216db49eafa403",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4oky01/00_btl_name_4oky01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "니지무라 오쿠야스",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_4oti01.xfbin",
@@ -2930,8 +3022,10 @@
    "src_sha1": "8837caf1b364722cdb779ffeb85297c93e313e9f",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4oti01/00_btl_name_4oti01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "오토이시 아키라",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_4rhn01.xfbin",
@@ -2943,8 +3037,10 @@
    "src_sha1": "82e9dee4cf73f7c97e66df454d61efcc55e74115",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4rhn01/00_btl_name_4rhn01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "키시베 로한",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_4sgc01.xfbin",
@@ -2956,8 +3052,10 @@
    "src_sha1": "063ab73d1642dd0e564782bde3795bdc25992c35",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4sgc01/00_btl_name_4sgc01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "얀구 시게키요",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_4ykk01.xfbin",
@@ -2969,8 +3067,10 @@
    "src_sha1": "1e909aebd69ce576c92a47e37f9bf810a01f17af",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4ykk01/00_btl_name_4ykk01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "야마기시 유카코",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_5bct01.xfbin",
@@ -2982,8 +3082,10 @@
    "src_sha1": "e7faef6463c93e7f30be9922d64d093f1f729343",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5bct01/00_btl_name_5bct01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "부차라티",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_5dvl01.xfbin",
@@ -2995,8 +3097,10 @@
    "src_sha1": "92e362c28c495911c49e1c4868d08d36bb6e74bd",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5dvl01/00_btl_name_5dvl01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "디아볼로",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_5fgo01.xfbin",
@@ -3008,8 +3112,10 @@
    "src_sha1": "513122e71076acdacb5fe446a08ccade4cd422ce",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5fgo01/00_btl_name_5fgo01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "푸고",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_5grn01.xfbin",
@@ -3021,8 +3127,10 @@
    "src_sha1": "1b4cf15859e737568cc471703ad207135e579ec9",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5grn01/00_btl_name_5grn01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "죠르노",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_5mst01.xfbin",
@@ -3034,8 +3142,10 @@
    "src_sha1": "2a80c6db4c574df990f05c6f4c8bbd7f61e2c89e",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5mst01/00_btl_name_5mst01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "미스타",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_5nrc01.xfbin",
@@ -3047,8 +3157,10 @@
    "src_sha1": "2cfff1875b81c616e9baae2b72b5a10e9ccf8751",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5nrc01/00_btl_name_5nrc01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "나란차",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_5trs01.xfbin",
@@ -3060,8 +3172,10 @@
    "src_sha1": "a01806ee6cf3766fee013a4363a36b46edbaa1a4",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5trs01/00_btl_name_5trs01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "트리시",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_6ans01.xfbin",
@@ -3073,8 +3187,10 @@
    "src_sha1": "9e2d20a59a6cda10c0e78ab144905ac50e00e068",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_6ans01/00_btl_name_6ans01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "안나수이",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_6elm01.xfbin",
@@ -3086,8 +3202,10 @@
    "src_sha1": "9108697022fd08905cdea23a3c1193a11188dd3c",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_6elm01/00_btl_name_6elm01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "에르메스",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_6jln01.xfbin",
@@ -3099,8 +3217,10 @@
    "src_sha1": "7d95fc5bdc6c92cdb1cd6ca83cacca4785214c3e",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_6jln01/00_btl_name_6jln01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "쿠죠 죠린",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_6pci01.xfbin",
@@ -3112,8 +3232,10 @@
    "src_sha1": "ffd954c0cfae4d18e1676e93c28283e436b93221",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_6pci01/00_btl_name_6pci01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "푸치",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_6pci02.xfbin",
@@ -3125,8 +3247,10 @@
    "src_sha1": "e96450e72f1e3ffe4d76fd9c50ef3b5464bf98d1",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_6pci02/00_btl_name_6pci02.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "신월 푸치",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_6wet01.xfbin",
@@ -3138,8 +3262,10 @@
    "src_sha1": "c3c72a4697149cde998163bf938d74a72415e7f5",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_6wet01/00_btl_name_6wet01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "웨더 리포트",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_7dio01.xfbin",
@@ -3151,8 +3277,10 @@
    "src_sha1": "d09df4bd040e7cfc4bbf6cb2707436527bf371af",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_7dio01/00_btl_name_7dio01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "디에고",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_7dio02.xfbin",
@@ -3164,8 +3292,10 @@
    "src_sha1": "fd35a1e4c1cf8c0a4612ab14571b42fa71601690",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_7dio02/00_btl_name_7dio02.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "더 월드 디에고",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_7jir01.xfbin",
@@ -3177,8 +3307,10 @@
    "src_sha1": "10d495bb3a7750c3a576dafd33bfe84720841850",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_7jir01/00_btl_name_7jir01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "자이로",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_7jny01.xfbin",
@@ -3190,8 +3322,10 @@
    "src_sha1": "5e19bcbe8269cbcd306e22c80a8f28554782c12b",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_7jny01/00_btl_name_7jny01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "죠니",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_7vtn01.xfbin",
@@ -3203,8 +3337,10 @@
    "src_sha1": "ae1b9778fc290cfebf099a6bc2a56f116bb5b9ae",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_7vtn01/00_btl_name_7vtn01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "밸런타인",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_8jsh01.xfbin",
@@ -3216,8 +3352,10 @@
    "src_sha1": "61a06d547eb2b2fc7e6a3191b087c8f8416628a1",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_8jsh01/00_btl_name_8jsh01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "히가시카타 죠슈",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_8jsk01.xfbin",
@@ -3229,8 +3367,10 @@
    "src_sha1": "d67eb8951333f48de2ad61f104f80cc2f7b42d85",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_8jsk01/00_btl_name_8jsk01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "히가시카타 죠스케(8부)",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_99ran01.xfbin",
@@ -3242,8 +3382,10 @@
    "src_sha1": "d0804b6452e153cf44226594e5ac2bde24d33244",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_99ran01/00_btl_name_99ran01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "???",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_bdio01.xfbin",
@@ -3255,8 +3397,10 @@
    "src_sha1": "236da581dac3f948ee9987ea8d3ba7080eadddd0",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_bdio01/00_btl_name_bdio01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "천국 DIO",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_bdio02.xfbin",
@@ -3268,8 +3412,10 @@
    "src_sha1": "236da581dac3f948ee9987ea8d3ba7080eadddd0",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_bdio02/00_btl_name_bdio02.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "천국 DIO",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_1dio01.xfbin",
@@ -3281,8 +3427,10 @@
    "src_sha1": "fb70ca6404acee2617143a8cf94dca8083a6e94c",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_1dio01/00_full_name_1dio01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "디오 브란도",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_1jnt01.xfbin",
@@ -3294,8 +3442,10 @@
    "src_sha1": "d02068e5ae1728e8d8cc62275a01cd91a56de146",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_1jnt01/00_full_name_1jnt01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "죠나단 죠스타",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_1sdw01.xfbin",
@@ -3307,8 +3457,10 @@
    "src_sha1": "f4632cccdde6672041946f635260c3ff54cf8a3f",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_1sdw01/00_full_name_1sdw01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "로버트 E.O. 스피드왜건",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_1zpl01.xfbin",
@@ -3320,8 +3472,10 @@
    "src_sha1": "64ef5bb3a8632fcc13256d189d5c1ab59f439a57",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_1zpl01/00_full_name_1zpl01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "윌 A. 체펠리",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_2csr01.xfbin",
@@ -3333,8 +3487,10 @@
    "src_sha1": "137afd87a6bfdd2ec1b2a52647663c6c0509df69",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2csr01/00_full_name_2csr01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "시저 안토니오 체펠리",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_2esd01.xfbin",
@@ -3346,8 +3502,10 @@
    "src_sha1": "d73eb5ad382e726102bd62880fe0919b2bbdf076",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2esd01/00_full_name_2esd01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "에시디시",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_2jsp01.xfbin",
@@ -3359,8 +3517,10 @@
    "src_sha1": "3cd0615a71e7600dc3afd5496192dbccc91f5c22",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2jsp01/00_full_name_2jsp01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "죠셉 죠스타",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_2krs01.xfbin",
@@ -3372,8 +3532,10 @@
    "src_sha1": "fa2ab28739b8f57b8899903b301f8fdd8d1fdf03",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2krs01/00_full_name_2krs01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "카즈",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_2lsa01.xfbin",
@@ -3385,8 +3547,10 @@
    "src_sha1": "10815fa5ef1fd5716ac7459b52b30ebffb74efdc",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2lsa01/00_full_name_2lsa01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "리사리사",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_2shm01.xfbin",
@@ -3398,8 +3562,10 @@
    "src_sha1": "a21f90446c0c827838b4a1d1dea28ddd39560074",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2shm01/00_full_name_2shm01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "슈트로하임",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_2wmu01.xfbin",
@@ -3411,8 +3577,10 @@
    "src_sha1": "01b5a584571f4e2a37f09d8a9758a2b2e1d3ad7c",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2wmu01/00_full_name_2wmu01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "와무우",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_3abd01.xfbin",
@@ -3424,8 +3592,10 @@
    "src_sha1": "25bad607463740873034d7128fe0bc05f1b08b2f",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3abd01/00_full_name_3abd01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "무함마드 압둘",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_3dio01.xfbin",
@@ -3437,8 +3607,10 @@
    "src_sha1": "4127eb98d7559bc42a631fd90401c6f2aedb758c",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3dio01/00_full_name_3dio01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "DIO",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_3hhs01.xfbin",
@@ -3450,8 +3622,10 @@
    "src_sha1": "c61a3e8fd90c6b0bb1c44fd19d3bdd1946f05ed3",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3hhs01/00_full_name_3hhs01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "홀 호스",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_3igy01.xfbin",
@@ -3463,8 +3637,10 @@
    "src_sha1": "b6408d14acfbd3490e7cd67eb22cd5fa82d5153b",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3igy01/00_full_name_3igy01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "이기",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_3jsp01.xfbin",
@@ -3476,8 +3652,10 @@
    "src_sha1": "fe4b0411b26ecd43561260c622d496cf68f11a91",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3jsp01/00_full_name_3jsp01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "노년 죠셉 죠스타",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_3jtr01.xfbin",
@@ -3489,8 +3667,10 @@
    "src_sha1": "02bb4d63130ac2cda973597656117217bbe931d4",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3jtr01/00_full_name_3jtr01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "쿠죠 죠타로",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_3kki01.xfbin",
@@ -3502,8 +3682,10 @@
    "src_sha1": "3e0c9a0e932472607525199c8b7e5dc884d70d1f",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3kki01/00_full_name_3kki01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "카쿄인 노리아키",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_3mra01.xfbin",
@@ -3515,8 +3697,10 @@
    "src_sha1": "007d0d99bf5122cd26812d5fcf79f14632a39cac",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3mra01/00_full_name_3mra01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "머라이어",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_3pln01.xfbin",
@@ -3528,8 +3712,10 @@
    "src_sha1": "20fad6fbdcfc4e38bfae316189305573f7fd6f57",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3pln01/00_full_name_3pln01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "장 피에르 폴나레프",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_3psp01.xfbin",
@@ -3541,8 +3727,10 @@
    "src_sha1": "a5f207a9fe99b5de40ce689588881ac9cea87b7a",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3psp01/00_full_name_3psp01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "펫숍",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_3udr01.xfbin",
@@ -3554,8 +3742,10 @@
    "src_sha1": "5659367e65bcd1453357ca46393f0dddc8327e78",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3udr01/00_full_name_3udr01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "은두르",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_3vni01.xfbin",
@@ -3567,8 +3757,10 @@
    "src_sha1": "76f17a85a0e7574b15f99a236475ee638b79cabb",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3vni01/00_full_name_3vni01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "바닐라 아이스",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_4jsk01.xfbin",
@@ -3580,8 +3772,10 @@
    "src_sha1": "1f7ef7bae0fe17201e45d2494fcba29b933d5796",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4jsk01/00_full_name_4jsk01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "히가시카타 죠스케",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_4jtr01.xfbin",
@@ -3593,8 +3787,10 @@
    "src_sha1": "d0f16e9bcdfc1dd5458f544eed8c585c99723ba6",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4jtr01/00_full_name_4jtr01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "4부 쿠죠 죠타로",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_4kir01.xfbin",
@@ -3606,8 +3802,10 @@
    "src_sha1": "9b97691231693641d5b9466b4130e9ac8f33ea0c",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4kir01/00_full_name_4kir01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "키라 요시카게",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_4koi01.xfbin",
@@ -3619,8 +3817,10 @@
    "src_sha1": "f9b055b8bc3612de4f4cebb94ec8e0d6d51c42f6",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4koi01/00_full_name_4koi01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "히로세 코이치",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_4kwk01.xfbin",
@@ -3632,8 +3832,10 @@
    "src_sha1": "5970f36ecf133ab21f6453b0d298bf3d0bc9004c",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4kwk01/00_full_name_4kwk01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "카와지리 코사쿠",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_4kwk01.xfbin",
@@ -3645,8 +3847,10 @@
    "src_sha1": "f02452a2c760113d259eb59c30c48a562a69130b",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4kwk01/01_full_name_4kwk31.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "데드맨즈 Q 키라 요시카게",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_4oky01.xfbin",
@@ -3658,8 +3862,10 @@
    "src_sha1": "6a83527ca81338aa6408ec6584c5116d431d5c38",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4oky01/00_full_name_4oky01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "니지무라 오쿠야스",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_4oti01.xfbin",
@@ -3671,8 +3877,10 @@
    "src_sha1": "1ce1984a19264fa7aee9bf1b949f6b0782bd9bc6",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4oti01/00_full_name_4oti01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "오토이시 아키라",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_4rhn01.xfbin",
@@ -3684,8 +3892,10 @@
    "src_sha1": "a60aba9438f92a63790c29a25de1e0c3829d8b80",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4rhn01/00_full_name_4rhn01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "키시베 로한",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_4sgc01.xfbin",
@@ -3697,8 +3907,10 @@
    "src_sha1": "2b0ee0e49e4fbea6673d676317bd01c01d839913",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4sgc01/00_full_name_4sgc01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "얀구 시게키요",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_4ykk01.xfbin",
@@ -3710,8 +3922,10 @@
    "src_sha1": "771d24265fa45123a34d9d323f0c3e0ecfa350c1",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4ykk01/00_full_name_4ykk01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "야마기시 유카코",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_5bct01.xfbin",
@@ -3723,8 +3937,10 @@
    "src_sha1": "66801acbb3c743aa50224db577cd08e386bdb16b",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5bct01/00_full_name_5bct01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "브루노 부차라티",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_5dvl01.xfbin",
@@ -3736,8 +3952,10 @@
    "src_sha1": "1a71ec21c0332bfeb3aa49cf54ecdb08cc567dae",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5dvl01/00_full_name_5dvl01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "디아볼로",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_5fgo01.xfbin",
@@ -3749,8 +3967,10 @@
    "src_sha1": "bbbf97602a079b27c4ac65b65b2b172abb8f3df3",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5fgo01/00_full_name_5fgo01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "판나코타 푸고",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_5grn01.xfbin",
@@ -3762,8 +3982,10 @@
    "src_sha1": "139cec82ce06e311f0af3fdf53a84159bb6bc4e3",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5grn01/00_full_name_5grn01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "죠르노 죠바나",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_5mst01.xfbin",
@@ -3775,8 +3997,10 @@
    "src_sha1": "c5fd06968fd4965c12ef80626a2b97f3f3d3dadb",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5mst01/00_full_name_5mst01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "귀도 미스타",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_5nrc01.xfbin",
@@ -3788,8 +4012,10 @@
    "src_sha1": "a2f24de94996f45cf0a17d774190feb894fda061",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5nrc01/00_full_name_5nrc01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "나란차 길가",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_5trs01.xfbin",
@@ -3801,8 +4027,10 @@
    "src_sha1": "01dd2983e606845fbc1475bb9e2ddd9a70b01a63",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5trs01/00_full_name_5trs01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "트리시 우나",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_6ans01.xfbin",
@@ -3814,8 +4042,10 @@
    "src_sha1": "94fed6320ed8eb3bbe9f527c2c534550f099445a",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_6ans01/00_full_name_6ans01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "나르시소 안나수이",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_6elm01.xfbin",
@@ -3827,8 +4057,10 @@
    "src_sha1": "5a03c5ebb864845bab54006712f3dcfd7261a084",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_6elm01/00_full_name_6elm01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "에르메스 코스텔로",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_6jln01.xfbin",
@@ -3840,8 +4072,10 @@
    "src_sha1": "e6b14f84e88b6f4268380faf2767c110d7344684",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_6jln01/00_full_name_6jln01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "쿠죠 죠린",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_6pci01.xfbin",
@@ -3853,8 +4087,10 @@
    "src_sha1": "28a50adae5f804fd3a75312b76d8ccc8e5b0a616",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_6pci01/00_full_name_6pci01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "엔리코 푸치",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_6pci02.xfbin",
@@ -3866,8 +4102,10 @@
    "src_sha1": "14ec30cd079253d31cb4b8dd8ba77f0f9da189ee",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_6pci02/00_full_name_6pci02.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "신월의 때를 기다리는 푸치",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_6wet01.xfbin",
@@ -3879,8 +4117,10 @@
    "src_sha1": "655d7e47ab9b0e9caee0c418918509d3167492d9",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_6wet01/00_full_name_6wet01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "웨더 리포트",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_7dio01.xfbin",
@@ -3892,8 +4132,10 @@
    "src_sha1": "ba0595fa978a7913a5941d98cd3f04a3494c7d82",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_7dio01/00_full_name_7dio01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "디에고 브란도",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_7dio02.xfbin",
@@ -3905,8 +4147,10 @@
    "src_sha1": "0b6079ebcb403c9527314a94470e9d180891ee5d",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_7dio02/00_full_name_7dio02.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "평행 세계에서 온 디에고",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_7jir01.xfbin",
@@ -3918,8 +4162,10 @@
    "src_sha1": "8bdf880ec0ad7f707c0986b4d64d26db8f8ad016",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_7jir01/00_full_name_7jir01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "자이로 체펠리",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_7jny01.xfbin",
@@ -3931,8 +4177,10 @@
    "src_sha1": "7664960e1e35ee6c29fd3f76973f9018189709cb",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_7jny01/00_full_name_7jny01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "죠니 죠스타",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_7vtn01.xfbin",
@@ -3944,8 +4192,10 @@
    "src_sha1": "862473fe4f783cad6550e639778f09d8d163b9c2",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_7vtn01/00_full_name_7vtn01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "퍼니 밸런타인",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_8jsh01.xfbin",
@@ -3957,8 +4207,10 @@
    "src_sha1": "c24208909346f1bc7d3c68c814283a33cb5c932d",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_8jsh01/00_full_name_8jsh01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "히가시카타 죠슈",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_8jsk01.xfbin",
@@ -3970,8 +4222,10 @@
    "src_sha1": "2bf400f9e08ef816b3569095639d6e6f97dd1207",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_8jsk01/00_full_name_8jsk01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "히가시카타 죠스케(8부)",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_99ran01.xfbin",
@@ -3983,8 +4237,10 @@
    "src_sha1": "b58ed676e080f76de2d32c1de8f12d03c0fa6585",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_99ran01/00_full_name_99ran01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "???",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_bdio01.xfbin",
@@ -3996,8 +4252,10 @@
    "src_sha1": "40bc0c13bb3b71185cd9f620b77aa8964a431700",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_bdio01/00_full_name_bdio01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "천국에 도달한 DIO",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/name/full_name/jpn/full_name_bdio02.xfbin",
@@ -4009,8 +4267,10 @@
    "src_sha1": "40bc0c13bb3b71185cd9f620b77aa8964a431700",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_bdio02/00_full_name_bdio02.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "천국에 도달한 DIO",
+   "maker": "gpt"
   },
   {
    "file": "data/ui/online/jpn/online_txt.xfbin",
