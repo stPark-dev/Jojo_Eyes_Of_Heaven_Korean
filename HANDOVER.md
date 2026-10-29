@@ -113,6 +113,9 @@ python3 scripts/textdb.py status
 - 2026-10-29 완료(인게임 확인): 캐릭터 이름 115장(ChatGPT, 고유 표기 83개), 타이틀 "아무 버튼이나 누르세요".
 - 부팅 화면(`data/ui/boot/boot_logo.xfbin`, /jpn/ 밖이라 `extract_images.py`의 `EXTRA_FILES`로 추가): 「ご注意」(cesa, 나눔스퀘어라운드 B)·보잉고 만화 건강 주의(cautions, 본명조)는 `auto_images.py`의 `OVERLAYS`(지울 영역 + 줄별 상자)로 원본 위에 다시 씀. 결과에 게임 그림이 섞이므로 **git 제외 `work/images_ko/`**에 생성 — 새 PC에서는 `extract_images.py` → `auto_images.py` 순서로 다시 만들어야 빌드에 들어감. 로고 등 7장은 keep_original.
 - 타이틀 로고(인게임 확인): ChatGPT 결과를 `gpt_images.py place <결과> <png> --glow 16`으로 반영(원본 비율 동일, 바깥 빛 번짐은 원본 측정값으로 보정). 자동 생성(설치, 인게임 확인 대기): 챕터 제목 12장, 「完」, 로드 완료 문구 2장. 새 번역 검수 필요: 흉성 / 유해를 건 게임 / 천국을 바란 남자 / 로드 완료다, 베이비.
+- 스토리 UI(2026-10-29): 원본 유지 16 / 자동 5(선공·후공, 저지해라!, 포커 족보, 칩 라벨, 플레이 내용 평가 — 설치됨) / ChatGPT 31(`gpt_group`: 메뉴 제목 8, 관중 함성 2, 단독 21 — 작업 묶음 `work/gpt/스토리_UI/`, 결과 대기). 「グッド!」→「굿!」.
+- `gpt_group`: 같은 스타일 줄을 시트로 묶음(`STYLES[group]`), `단독`은 이미지별 폴더(`원본_2배.png`, `프롬프트.txt` → `결과.png`). `ko` 줄 = 조각(위→아래); 조각이 여럿이면 원본 조각 상자(`artfit.row_boxes`)에 하나씩 맞춤.
+- 자동 생성 추가 기능: `STYLES`의 `"sample"`(원본 색 측정 `textart.sample_style`, 흰 테두리+진한 외곽선 이중 테두리 인식), `LINE_STYLES`(줄별 색 지정), OVERLAYS의 `"above"`(위 행 복사로 글자 지우기)·투명 지우기·영어 줄 유지(None)·오른쪽 정렬.
 - 분류:
   - 모드 선택 큰 글자(STORY 등): 영어 장식 → 유지
   - 타이틀 로고: 한글 로고로 교체 후보 (사용자 표지 이미지의 한글 로고 원본 확인 필요)

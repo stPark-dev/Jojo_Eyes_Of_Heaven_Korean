@@ -30,10 +30,20 @@ STYLES = {  # PNG path fragment -> render options (sizes are font px before fitt
     "adv_chapter_end/00_": dict(fill=WHITE, stroke=BLACK, stroke_ratio=0.05),
     "cmn/jpn/cmn_txt/04_": dict(fill=((255, 255, 255), (255, 240, 40)), stroke=(230, 40, 220),
                                 stroke_ratio=0.09, shadow=(18, 27, (20, 10, 20))),
+    "adv_poker_txt/03_": "sample",
 }
+_RIM = dict(stroke=(70, 48, 22), stroke_ratio=0.09, outer=(255, 255, 255), outer_ratio=0.05)
+_SILVER = dict(_RIM, fill=((255, 255, 255), (140, 140, 150)))
+_BLUE = dict(_RIM, fill=((255, 255, 240), (80, 200, 230)))
+_GOLD = dict(_RIM, fill=((255, 250, 200), (225, 150, 40)))
+# Lists whose lines each have their own colours (read off the original), one style per line.
+LINE_STYLES = {"ui/adv/jpn/adv_poker_txt/18_tex18.png": [_SILVER] + [_BLUE] * 5 + [_GOLD] * 5}
 INK, PAPER = (8, 8, 8), (255, 255, 255)
 CESA_BG, CESA_RED, CESA_GREY = (239, 239, 239), (209, 79, 50), (123, 123, 123)
-OVERLAYS = {  # png -> font, erase [(rect, rgb)], one box per `ko` line (box, fill, align)
+LABEL = (30, 30, 30)  # dark outline of the white UI labels
+CLEAR = (0, 0, 0, 0)
+OVERLAYS = {  # png -> font, erase [(rect, colour)], per `ko` line (box, fill, align[, stroke]) or
+    # None for a line kept as in the original (English)
     "ui/boot/boot_logo/02_cautions.png": dict(font=FONT, erase=[
         ((176, 131, 309, 163), PAPER), ((455, 82, 1012, 118), PAPER), ((529, 115, 988, 151), PAPER),
         ((145, 490, 605, 527), PAPER), ((211, 521, 713, 559), PAPER), ((946, 464, 1144, 496), PAPER)],
@@ -43,16 +53,35 @@ OVERLAYS = {  # png -> font, erase [(rect, rgb)], one box per `ko` line (box, fi
     "ui/boot/boot_logo/04_cesa.png": dict(font=ROUND, erase=[((270, 105, 1015, 580), CESA_BG)],
         boxes=[((568, 115, 712, 164), CESA_RED, "center")]
               + [((288, y, 1000, y + 38), CESA_GREY, "left") for y in (199, 253, 306, 359, 480, 535)]),
+    "ui/adv/jpn/adv_poker_txt/00_tex00.png": dict(font=FONT, erase=[
+        ((27, 11, 64, 31), "above"), ((26, 51, 64, 71), "above"),
+        ((129, 90, 166, 110), "above"), ((129, 130, 166, 150), "above")],
+        boxes=[((28, 11, 110, 30), WHITE, "left", LABEL), ((27, 51, 110, 70), WHITE, "left", LABEL),
+               ((80, 90, 165, 109), WHITE, "right", LABEL), ((80, 130, 165, 149), WHITE, "right", LABEL)]),
+    "ui/adv/jpn/adv_poker_txt/23_tex23.png": dict(font=FONT, erase=[
+        ((0, 39, 100, 68), CLEAR), ((0, 76, 100, 104), CLEAR), ((0, 112, 124, 139), CLEAR),
+        ((123, 183, 224, 211), CLEAR), ((123, 219, 224, 248), CLEAR)],
+        boxes=[None, ((1, 41, 160, 66), WHITE, "left", LABEL), ((2, 78, 160, 102), WHITE, "left", LABEL),
+               ((2, 114, 200, 137), WHITE, "left", LABEL), None,
+               ((50, 185, 222, 209), WHITE, "right", LABEL), ((50, 221, 222, 246), WHITE, "right", LABEL)]),
+    "ui/adv/jpn/adv_poker_txt/24_tex24.png": dict(font=FONT, erase=[((6, 97, 300, 146), CLEAR)],
+        boxes=[None, ((10, 100, 340, 142), WHITE, "left", LABEL), None]),
 }
 # Layers drawn as the black silhouette of another layer's text, at that layer's placement.
 SILHOUETTES = {"ui/cmn/jpn/cmn_txt/05_tex05.png": "ui/cmn/jpn/cmn_txt/04_tex04.png"}
 
 
-def style(png: str) -> dict:
+def style(png: str, orig: np.ndarray | None = None) -> dict:
     for key, opts in STYLES.items():
         if key in png:
-            return opts
+            return textart.sample_style(orig) if opts == "sample" else opts
     raise SystemExit(f"{png}: 스타일 없음 (STYLES에 추가)")
+
+
+def styled_lines(orig: np.ndarray, lines: list[str], styles: list[dict]) -> np.ndarray:
+    boxes = artfit.row_boxes(orig, count=len(lines))
+    arts = [textart.render(t, FONT, 160, **st) for t, st in zip(lines, styles)]
+    return textart.compose(arts, orig.shape[1], orig.shape[0], boxes)
 
 
 def silhouette(entry: dict, ref_png: str) -> np.ndarray:
@@ -67,8 +96,9 @@ def silhouette(entry: dict, ref_png: str) -> np.ndarray:
 def repaint(orig: np.ndarray, lines: list[str], recipe: dict) -> np.ndarray:
     if len(lines) != len(recipe["boxes"]):
         raise SystemExit(f"줄 수 불일치: 한글 {len(lines)}줄, 상자 {len(recipe['boxes'])}개")
-    texts = [dict(text=t, font=recipe["font"], box=box, fill=fill, align=align)
-             for t, (box, fill, align) in zip(lines, recipe["boxes"])]
+    texts = [dict(text=t, font=recipe["font"], box=b[0], fill=b[1], align=b[2],
+                  stroke=b[3] if len(b) > 3 else None)
+             for t, b in zip(lines, recipe["boxes"]) if b is not None]
     return textart.overlay(orig, recipe["erase"], texts)
 
 
@@ -84,8 +114,10 @@ def main() -> None:
             img, dst = repaint(orig, e["ko"].split("\n"), OVERLAYS[e["png"]]), OVERLAY_DIR / e["png"]
         elif e["png"] in SILHOUETTES:
             img = silhouette(e, SILHOUETTES[e["png"]])
+        elif e["png"] in LINE_STYLES:
+            img = styled_lines(orig, e["ko"].split("\n"), LINE_STYLES[e["png"]])
         else:
-            lines = [textart.render(t, FONT, 160, **style(e["png"])) for t in e["ko"].split("\n")]
+            lines = [textart.render(t, FONT, 160, **style(e["png"], orig)) for t in e["ko"].split("\n")]
             img = textart.compose(lines, e["width"], e["height"], textart.line_boxes(orig))
         dst.parent.mkdir(parents=True, exist_ok=True)
         Image.fromarray(img, "RGBA").save(dst)

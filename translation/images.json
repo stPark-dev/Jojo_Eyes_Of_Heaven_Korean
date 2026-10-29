@@ -45,7 +45,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_btlmemory_txt/00_adv_mission_title_txt.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "시련을 기다리는 빛",
+   "maker": "gpt",
+   "gpt_group": "메뉴 제목"
   },
   {
    "file": "data/ui/adv/jpn/adv_cmn_txt.xfbin",
@@ -57,8 +60,8 @@
    "src_sha1": "3a132a38905cba6bbda91d22e8395473c4997f0c",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_cmn_txt/00_adv_cmn_heart_max_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어(MAX)"
   },
   {
    "file": "data/ui/adv/jpn/adv_cmn_txt.xfbin",
@@ -71,7 +74,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_cmn_txt/01_adv_cmn_lvup_txt.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "LEVEL UP!\n신뢰도 UP!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_cmn_txt.xfbin",
@@ -83,8 +89,8 @@
    "src_sha1": "24df0159408975f7e339f17796d9e31adef3cbde",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_cmn_txt/02_adv_cmn_player00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어"
   },
   {
    "file": "data/ui/adv/jpn/adv_cmn_txt.xfbin",
@@ -96,8 +102,8 @@
    "src_sha1": "d801743cddefe7c6e71c22a8cf3503e0336eacb9",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_cmn_txt/03_adv_cmn_player01_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어"
   },
   {
    "file": "data/ui/adv/jpn/adv_crowd_txt.xfbin",
@@ -110,7 +116,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_crowd_txt/00_adv_crowd_crushing.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "격파",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_crowd_txt.xfbin",
@@ -123,7 +132,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_crowd_txt/01_btl_combo_txt.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "굿!\n그레이트!\n벨리시모\n디 몰토\n맘마미아!",
+   "maker": "gpt",
+   "gpt_group": "관중 함성"
   },
   {
    "file": "data/ui/adv/jpn/adv_csel_txt.xfbin",
@@ -136,7 +148,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_csel_txt/00_adv_csel_title_change_txt.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "캐릭터 체인지",
+   "maker": "gpt",
+   "gpt_group": "메뉴 제목"
   },
   {
    "file": "data/ui/adv/jpn/adv_csel_txt.xfbin",
@@ -148,8 +163,8 @@
    "src_sha1": "16055249743f1eccdf4cba64941c4df8e61e6cec",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_csel_txt/01_adv_csel_title_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어"
   },
   {
    "file": "data/ui/adv/jpn/adv_encounter_txt.xfbin",
@@ -162,7 +177,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_encounter_txt/00_adv_encount_txt.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "강적 출현!!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_free_txt.xfbin",
@@ -175,7 +193,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_free_txt/00_btl_combo_txt.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "굿!\n그레이트!\n벨리시모\n디 몰토\n맘마미아!",
+   "maker": "gpt",
+   "gpt_group": "관중 함성"
   },
   {
    "file": "data/ui/adv/jpn/adv_free_txt.xfbin",
@@ -187,8 +208,8 @@
    "src_sha1": "8d4256fff64ea171301bceb1e9d303f8fa70b924",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_free_txt/01_btl_situation_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "글자 없음(반짝임)"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -200,8 +221,10 @@
    "src_sha1": "e9696924e253eba98a1c07347c24df17f893a300",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/00_tex00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "선공\n후공\n선공\n후공",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -214,7 +237,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/01_tex01.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "죠타로 블러프 발동!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -227,7 +253,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/02_tex02.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "다비 블러프 발동!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -239,8 +268,10 @@
    "src_sha1": "401085b05d7dbcbc4ed3effd8f999328b2d47332",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/03_tex03.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "저지해라!",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -253,7 +284,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/04_tex04.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "블러프 효과 발동 중!\n속임수 효과 발동 중!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -266,7 +300,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/05_tex05.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "굿!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -278,8 +315,8 @@
    "src_sha1": "b941e8e1c3fe154dd38dfb27fddcb3fddb8dd65d",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/06_tex06.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -292,7 +329,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/07_tex07.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "블러프",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -305,7 +345,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/08_tex08.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "실패……",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -318,7 +361,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/09_tex09.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "저지 실패……",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -331,7 +377,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/10_tex10.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "속임수",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -344,7 +393,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/11_tex11.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "성공!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -357,7 +409,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/12_tex12.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "저지 성공!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -370,7 +425,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/13_tex13.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "레이즈\n콜\n드롭",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -382,8 +440,8 @@
    "src_sha1": "2945ed389b4abaa005a585b250a83b631de78c5a",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/14_tex14.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "글자 없음(종이)"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -395,8 +453,8 @@
    "src_sha1": "2a50cc9cd08db28e0a9d98213d4351bda6d4e123",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/15_tex15.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "숫자·영어"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -408,8 +466,8 @@
    "src_sha1": "e2840ef735ad1895d7e5065b6a021635223a7841",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/16_tex16.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -421,8 +479,8 @@
    "src_sha1": "43dfe2c0d6d2cba44cfefeb21ced462f9bff1d5e",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/17_tex17.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -434,8 +492,10 @@
    "src_sha1": "ef199b4621c89d96e09e0845c00f4ddccfa30f68",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/18_tex18.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "노 페어\n원 페어\n투 페어\n스리 카드\n스트레이트\n플러시\n풀하우스\n포카드\n파이브 카드\n스트레이트 플러시\n로열 스트레이트 플러시",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -448,7 +508,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/19_tex19.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "죠타로 속임수 발동!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -461,7 +524,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/20_tex20.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "다비 속임수 발동!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -474,7 +540,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/21_tex21.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "블러프 「가」능!\n속임수 「가」능!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -486,8 +555,8 @@
    "src_sha1": "2a82d16eb80b64246e82f28c72f6de3a29ffcf9d",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/22_tex22.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "글자 없음"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -499,8 +568,10 @@
    "src_sha1": "4a7896e08acf5f8b8a5581dc30d87e968d1f1c43",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/23_tex23.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "PLAYER\n소지 칩\n베팅 칩\n속임수 난이도\nDARBY\n소지 칩\n베팅 칩",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -512,8 +583,10 @@
    "src_sha1": "2892fa43242c799059cff894be3dc8c3800563d5",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/24_tex24.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "MENTAL GAUGE\n플레이 내용 평가\nTOTAL SCORE",
+   "maker": "auto"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -525,8 +598,8 @@
    "src_sha1": "55d360dffa69b633ca8faefc8432e0b174ccd046",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/25_tex25.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어"
   },
   {
    "file": "data/ui/adv/jpn/adv_poker_txt.xfbin",
@@ -538,8 +611,8 @@
    "src_sha1": "f97054264bbea4f8066bd0d543f4b4d8bd328f33",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/26_tex26.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어"
   },
   {
    "file": "data/ui/adv/jpn/adv_skill_txt.xfbin",
@@ -552,7 +625,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_skill_txt/00_adv_skill_txt.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "어빌리티 트리",
+   "maker": "gpt",
+   "gpt_group": "메뉴 제목"
   },
   {
    "file": "data/ui/adv/jpn/adv_stagechange_txt.xfbin",
@@ -565,7 +641,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_stagechange_txt/00_adv_stagechange_title_txt.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "스테이지 이동",
+   "maker": "gpt",
+   "gpt_group": "메뉴 제목"
   },
   {
    "file": "data/ui/adv/jpn/adv_stand_cmn_txt.xfbin",
@@ -578,7 +657,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_stand_cmn_txt/00_adv_stand_cmntxt.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "OH!MY!GOD!\n굿!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_stand_cmn_txt.xfbin",
@@ -590,8 +672,8 @@
    "src_sha1": "fa401bc1d38a36ff142583108e6ff6eff8c854a9",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_stand_cmn_txt/01_adv_stand_count00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "숫자·영어"
   },
   {
    "file": "data/ui/adv/jpn/adv_stand_cmn_txt.xfbin",
@@ -604,7 +686,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_stand_cmn_txt/02_adv_stand_winlose00.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "포획 완료! (오른쪽 위 작은 장식 글자 「굿!」)\n포획 실패…… (오른쪽 위 작은 장식 글자 OH!MY!GOD! 는 영어 그대로)",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_stand_harvest_txt.xfbin",
@@ -617,7 +702,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_stand_harvest_txt/00_adv_harvestget_txt00.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "남은 4마리\n남은 3마리\n남은 2마리\n남은 1마리",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_stand_harvest_txt.xfbin",
@@ -630,7 +718,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_stand_harvest_txt/01_adv_stand_harvest_txt00.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "하베스트를 잡았다!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/adv/jpn/adv_storymenu_txt.xfbin",
@@ -643,7 +734,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_storymenu_txt/00_adv_storymenu_itemlist_txt.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "아이템 리스트",
+   "maker": "gpt",
+   "gpt_group": "메뉴 제목"
   },
   {
    "file": "data/ui/adv/jpn/adv_storymenu_txt.xfbin",
@@ -656,7 +750,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_storymenu_txt/01_adv_storymenu_synopsis_txt.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "줄거리",
+   "maker": "gpt",
+   "gpt_group": "메뉴 제목"
   },
   {
    "file": "data/ui/adv/jpn/adv_storymenu_txt.xfbin",
@@ -668,8 +765,8 @@
    "src_sha1": "d74108cc4941395164ce96918798a0685d191615",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_storymenu_txt/02_adv_storymenu_title_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어"
   },
   {
    "file": "data/ui/adv/jpn/adv_storymenu_txt.xfbin",
@@ -682,7 +779,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_storymenu_txt/03_adv_storymenu_trust_txt.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "신뢰도",
+   "maker": "gpt",
+   "gpt_group": "메뉴 제목"
   },
   {
    "file": "data/ui/adv/jpn/adv_storymenu_txt.xfbin",
@@ -695,7 +795,10 @@
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_storymenu_txt/04_adv_storymenu_tutorial_txt.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "튜토리얼",
+   "maker": "gpt",
+   "gpt_group": "메뉴 제목"
   },
   {
    "file": "data/ui/adv/jpn/adv_top_txt.xfbin",
@@ -707,8 +810,8 @@
    "src_sha1": "ab43e4ed2f2c57cfaeba0fd600a05b1e98068433",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_top_txt/00_adv_top_title.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어 장식 글자"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_chapter_end.xfbin",

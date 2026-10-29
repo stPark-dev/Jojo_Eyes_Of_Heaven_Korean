@@ -114,3 +114,25 @@ def test_fit_align_left_starts_at_box_left():
     out = artfit.fit(art, 200, 50, box=(30, 10, 190, 30), align="left")
     xs = np.nonzero(out[..., 3].any(0))[0]
     assert xs.min() == 30 and xs.max() == 69  # 20 * 20/10 = 40 wide
+
+
+def test_fit_contain_stays_inside_box():
+    art = _rgba(10, 100, (255, 255, 255, 255))
+    out = artfit.fit(art, 200, 60, box=(50, 10, 150, 50), align="contain")
+    ys, xs = np.nonzero(out[..., 3] > 127)
+    assert xs.min() >= 50 and xs.max() < 150 and ys.min() >= 10 and ys.max() < 50
+    assert xs.max() - xs.min() + 1 >= 98  # width-limited: fills the box width
+
+
+def test_row_boxes_match_split_rows():
+    img = _sheet(3)
+    img[40:42] = 0
+    boxes = artfit.row_boxes(img, count=3)
+    assert boxes == [(10, 30, 70, 50), (10, 80, 70, 100), (10, 130, 70, 150)]
+
+
+def test_fit_align_right_ends_at_box_right():
+    art = _rgba(10, 20, (255, 255, 255, 255))
+    out = artfit.fit(art, 200, 50, box=(30, 10, 190, 30), align="right")
+    xs = np.nonzero(out[..., 3].any(0))[0]
+    assert xs.max() == 189 and xs.min() == 150

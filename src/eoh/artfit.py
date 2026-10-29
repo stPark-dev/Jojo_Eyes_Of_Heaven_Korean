@@ -52,8 +52,8 @@ def content_box(img: np.ndarray) -> tuple[int, int, int, int]:
     return int(xs.min()), int(ys.min()), int(xs.max()) + 1, int(ys.max()) + 1
 
 
-def split_rows(img: np.ndarray, max_gap: int = 8, count: int | None = None) -> list[np.ndarray]:
-    """Cut a sheet into its text lines, each cropped to its content; specks are dropped.
+def row_boxes(img: np.ndarray, max_gap: int = 8, count: int | None = None):
+    """(left, top, right, bottom) of each text line of a sheet, top to bottom; specks dropped.
 
     Without count, rows closer than max_gap belong to one line. With count, the smallest
     gaps are joined until exactly count lines remain (lines may sit almost touching).
@@ -69,12 +69,16 @@ def split_rows(img: np.ndarray, max_gap: int = 8, count: int | None = None) -> l
     else:
         heights = [b - a for a, b in rows]
         rows = [r for r, h in zip(rows, heights) if h >= 0.25 * max(heights)] if rows else []
-    parts = []
+    boxes = []
     for y0, y1 in rows:
-        band = img[y0:y1]
-        x0, t, x1, b = content_box(band)
-        parts.append(band[t:b, x0:x1])
-    return parts
+        x0, t, x1, b = content_box(img[y0:y1])
+        boxes.append((x0, int(y0) + t, x1, int(y0) + b))
+    return boxes
+
+
+def split_rows(img: np.ndarray, max_gap: int = 8, count: int | None = None) -> list[np.ndarray]:
+    """Cut a sheet into its text lines (see row_boxes), each cropped to its content."""
+    return [img[t:b, x0:x1] for x0, t, x1, b in row_boxes(img, max_gap, count)]
 
 
 def _crop(art: np.ndarray) -> np.ndarray:
@@ -85,16 +89,21 @@ def _crop(art: np.ndarray) -> np.ndarray:
 def _placement(art: np.ndarray, width: int, height: int, box, margin: int, align: str = "center"):
     """(scale, x, y) that fit cropped art to the box height within width - 2*margin.
 
-    align "left" starts the art at the box's left edge and keeps it inside the box.
+    align "left"/"right" puts the art against that edge of the box and keeps it inside;
+    "contain" scales it to fit entirely inside the box, centred.
     """
     h, w = art.shape[:2]
     left, top, right, bottom = box
-    room = right - left if align == "left" else width - 2 * margin
+    room = right - left if align in ("left", "right", "contain") else width - 2 * margin
     scale = min((bottom - top) / h, room / w)
     nw, nh = max(1, round(w * scale)), max(1, round(h * scale))
     x, y = round((left + right) / 2 - nw / 2), round((top + bottom) / 2 - nh / 2)
     if align == "left":
         return scale, left, y
+    if align == "right":
+        return scale, right - nw, y
+    if align == "contain":
+        return scale, x, y
     return scale, min(max(x, margin), width - margin - nw), min(max(y, 0), height - nh)
 
 
