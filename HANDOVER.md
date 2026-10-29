@@ -110,7 +110,9 @@ python3 scripts/textdb.py status
 - `images.json` 항목에 `ko`(한글 문구, 여러 줄은 `\n`)와 `maker`(gpt/auto)를 기록 — `extract_images.py`를 다시 돌려도 유지.
 - **ChatGPT 작업** (`scripts/gpt_images.py`): `pack <분류>` → `work/gpt/<분류>/`에 6줄씩 시트 프롬프트(`sheet_NN.txt`)와 `참고_원본스타일.png`. ChatGPT 웹 결과를 `out/sheet_NN.png`로 저장 후 `apply <분류>` → 줄 단위로 잘라(줄 수 지정, 투명 또는 #FF00FF 배경) 원본 글자 상자에 맞춰 `translation/images_ko/`에 저장, `needs_review`.
 - **자동 생성** (`scripts/auto_images.py`): 명조체 계열 글자를 본명조 Heavy로 그려 원본 줄 상자에 맞춤. 스타일은 스크립트의 `STYLES`, 그림자 레이어는 `SILHOUETTES`.
-- 2026-10-29 완료(인게임 확인): 캐릭터 이름 115장(ChatGPT, 고유 표기 83개), 타이틀 "아무 버튼이나 누르세요". 자동 생성(설치, 인게임 확인 대기): 챕터 제목 12장, 「完」, 로드 완료 문구 2장. 새 번역 검수 필요: 흉성 / 유해를 건 게임 / 천국을 바란 남자 / 로드 완료다, 베이비.
+- 2026-10-29 완료(인게임 확인): 캐릭터 이름 115장(ChatGPT, 고유 표기 83개), 타이틀 "아무 버튼이나 누르세요".
+- 부팅 화면(`data/ui/boot/boot_logo.xfbin`, /jpn/ 밖이라 `extract_images.py`의 `EXTRA_FILES`로 추가): 「ご注意」(cesa, 나눔스퀘어라운드 B)·보잉고 만화 건강 주의(cautions, 본명조)는 `auto_images.py`의 `OVERLAYS`(지울 영역 + 줄별 상자)로 원본 위에 다시 씀. 결과에 게임 그림이 섞이므로 **git 제외 `work/images_ko/`**에 생성 — 새 PC에서는 `extract_images.py` → `auto_images.py` 순서로 다시 만들어야 빌드에 들어감. 로고 등 7장은 keep_original.
+- 타이틀 로고(인게임 확인): ChatGPT 결과를 `gpt_images.py place <결과> <png> --glow 16`으로 반영(원본 비율 동일, 바깥 빛 번짐은 원본 측정값으로 보정). 자동 생성(설치, 인게임 확인 대기): 챕터 제목 12장, 「完」, 로드 완료 문구 2장. 새 번역 검수 필요: 흉성 / 유해를 건 게임 / 천국을 바란 남자 / 로드 완료다, 베이비.
 - 분류:
   - 모드 선택 큰 글자(STORY 등): 영어 장식 → 유지
   - 타이틀 로고: 한글 로고로 교체 후보 (사용자 표지 이미지의 한글 로고 원본 확인 필요)

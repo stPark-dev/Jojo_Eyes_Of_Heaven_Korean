@@ -32,8 +32,9 @@ SKIP = ("/message/", "/sound/", "/param/")
 CATEGORIES = {  # path group -> label (rough plan in HANDOVER 4-3)
     "ui/name": "캐릭터 이름", "ui/tips_cmn": "팁 화면", "ui/title": "타이틀 로고",
     "ui/adv": "스토리 UI", "ui/adv_demo": "스토리 연출", "ui/btl": "전투 연출",
-    "save/PS3": "세이브 아이콘",
+    "save/PS3": "세이브 아이콘", "ui/boot": "부팅 화면",
 }
+EXTRA_FILES = ("data/ui/boot/boot_logo.xfbin",)  # Japanese text outside the /jpn/ folders
 STATES = ("todo", "in_progress", "needs_review", "done", "keep_original")
 KEPT = ("ko", "maker")  # hand-set fields kept across re-extraction (Korean text, who makes it)
 
@@ -49,7 +50,8 @@ def official_fs() -> GameFs:
 
 def image_files(fs) -> list[str]:
     return [p for p in fs.paths()
-            if ("/jpn/" in p or "/JP/" in p) and not any(s in p for s in SKIP) and p != font.JPN_FONT]
+            if p in EXTRA_FILES or
+            ("/jpn/" in p or "/JP/" in p) and not any(s in p for s in SKIP) and p != font.JPN_FONT]
 
 
 def category(path: str) -> str:

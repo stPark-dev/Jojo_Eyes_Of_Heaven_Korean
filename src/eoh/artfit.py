@@ -82,20 +82,27 @@ def _crop(art: np.ndarray) -> np.ndarray:
     return art[t:b, x0:x1]
 
 
-def _placement(art: np.ndarray, width: int, height: int, box, margin: int):
-    """(scale, x, y) that fit cropped art to the box height within width - 2*margin."""
+def _placement(art: np.ndarray, width: int, height: int, box, margin: int, align: str = "center"):
+    """(scale, x, y) that fit cropped art to the box height within width - 2*margin.
+
+    align "left" starts the art at the box's left edge and keeps it inside the box.
+    """
     h, w = art.shape[:2]
     left, top, right, bottom = box
-    scale = min((bottom - top) / h, (width - 2 * margin) / w)
+    room = right - left if align == "left" else width - 2 * margin
+    scale = min((bottom - top) / h, room / w)
     nw, nh = max(1, round(w * scale)), max(1, round(h * scale))
     x, y = round((left + right) / 2 - nw / 2), round((top + bottom) / 2 - nh / 2)
+    if align == "left":
+        return scale, left, y
     return scale, min(max(x, margin), width - margin - nw), min(max(y, 0), height - nh)
 
 
-def fit(art: np.ndarray, width: int, height: int, box, margin: int = 4) -> np.ndarray:
+def fit(art: np.ndarray, width: int, height: int, box, margin: int = 4,
+        align: str = "center") -> np.ndarray:
     """Scale art (cropped RGBA) to the box height, within width - 2*margin, centred in box."""
     art = _crop(art)
-    return _paste(art, width, height, *_placement(art, width, height, box, margin))
+    return _paste(art, width, height, *_placement(art, width, height, box, margin, align))
 
 
 def fit_like(art: np.ndarray, ref: np.ndarray, width: int, height: int, box,

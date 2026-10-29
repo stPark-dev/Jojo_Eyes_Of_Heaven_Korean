@@ -5,7 +5,8 @@
     python3 scripts/build_patch.py uninstall  # restore the official patch/5
     add --release to require every entry to be distribution_eligible (images: done/keep_original)
 
-Korean image art goes in translation/images_ko/<png path from translation/images.json>.
+Korean image art goes in translation/images_ko/<png path from translation/images.json>;
+art repainted over game pictures (scripts/auto_images.py) goes in the git-ignored work/images_ko/.
 
 The default (dev) policy applies any Korean text present and keeps the original elsewhere.
 Install always mirrors the current translations: with nothing to apply it restores the
@@ -27,7 +28,7 @@ from eoh.paths import DISC_SIM, PATCH_ROOT, RPCS3_USRDIR  # noqa: E402
 STORE_DIR = ROOT / "translation"
 KOREAN_FONT = ROOT / "fonts/SourceHanSerifKR-Heavy.otf"  # SIL OFL, see fonts/LICENSE.txt
 IMAGE_MANIFEST = STORE_DIR / "images.json"
-IMAGE_DIR = STORE_DIR / "images_ko"
+IMAGE_DIRS = [STORE_DIR / "images_ko", ROOT / "work/images_ko"]  # 2nd: art derived from game pictures
 OUT = ROOT / "build/patch"
 
 
@@ -55,7 +56,7 @@ def run_build(policy: str):
     try:
         files, report = build.build(fs, load_stores(), policy, Renderer(KOREAN_FONT, size=24))
         manifest = json.loads(IMAGE_MANIFEST.read_text("utf-8"))["images"]
-        image_files, image_report = images.build(fs, manifest, IMAGE_DIR, policy)
+        image_files, image_report = images.build(fs, manifest, IMAGE_DIRS, policy)
     except (build.BuildError, textdb.TranslationError, images.ImageError) as e:
         raise SystemExit(f"빌드 실패 ({policy}):\n{e}")
     overlap = {p for p, _ in files} & {p for p, _ in image_files}

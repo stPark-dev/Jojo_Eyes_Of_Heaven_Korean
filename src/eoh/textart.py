@@ -2,7 +2,8 @@
 
 render draws one line (solid or top-to-bottom gradient fill, optional outline) cropped to
 its pixels; line_boxes finds the text lines of an original texture; compose fits each
-rendered line into the matching line box of the original.
+rendered line into the matching line box of the original; overlay repaints parts of a
+picture (erase rectangles, then text fitted into boxes) for art that keeps its background.
 """
 from pathlib import Path
 
@@ -66,8 +67,27 @@ def compose(lines: list[np.ndarray], width: int, height: int, boxes) -> np.ndarr
         raise ValueError(f"줄 수 불일치: 글자 {len(lines)}줄, 원본 {len(boxes)}줄")
     out = np.zeros((height, width, 4), np.uint8)
     for art, box in zip(lines, boxes):
-        layer = artfit.fit(art, width, height, box)
-        a = layer[..., 3:] / 255
-        out[..., :3] = np.rint(layer[..., :3] * a + out[..., :3] * (1 - a))
-        out[..., 3] = np.maximum(out[..., 3], layer[..., 3])
+        _over(out, artfit.fit(art, width, height, box))
+    return out
+
+
+def _over(out: np.ndarray, layer: np.ndarray) -> None:
+    a = layer[..., 3:] / 255
+    out[..., :3] = np.rint(layer[..., :3] * a + out[..., :3] * (1 - a))
+    out[..., 3] = np.maximum(out[..., 3], layer[..., 3])
+
+
+def overlay(base: np.ndarray, erase=(), texts=()) -> np.ndarray:
+    """Copy of base with each (rect, rgb) erase filled, then each text drawn into its box.
+
+    A text is dict(text, font, box, fill, stroke=None, stroke_ratio, align="center").
+    """
+    out = base.copy()
+    for (x0, y0, x1, y1), rgb in erase:
+        out[y0:y1, x0:x1, :3] = rgb
+    h, w = out.shape[:2]
+    for t in texts:
+        art = render(t["text"], t["font"], 160, t["fill"], t.get("stroke"),
+                     t.get("stroke_ratio", 0.08))
+        _over(out, artfit.fit(art, w, h, t["box"], align=t.get("align", "center")))
     return out

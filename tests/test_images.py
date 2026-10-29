@@ -102,3 +102,10 @@ def test_png_file_entry_is_copied_as_is(tmp_path):
     Image.new("RGBA", (4, 4), (1, 2, 3, 255)).save(tmp_path / entry["png"])
     files, _ = images.build(fs, [entry], tmp_path, "dev")
     assert files == [(entry["file"], (tmp_path / entry["png"]).read_bytes())]
+
+
+def test_png_is_looked_up_in_several_dirs_first_wins(tmp_path):
+    fs, entry = _setup(tmp_path / "a", ko=False)
+    _setup(tmp_path / "b")  # PNG only in the second dir
+    files, report = images.build(fs, [entry], [tmp_path / "a", tmp_path / "b"], "dev")
+    assert report["applied"] == 1

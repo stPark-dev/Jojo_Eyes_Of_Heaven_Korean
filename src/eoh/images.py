@@ -1,7 +1,8 @@
 """Put Korean image art into the game's texture files.
 
 Each translation/images.json entry names one texture (file, index, size, format, SHA-1 of
-the official pixel data) and its PNG path. A Korean PNG at <ko_dir>/<png> with exactly the
+the official pixel data) and its PNG path. A Korean PNG at <ko_dir>/<png> (the first of
+several dirs that has it; derived art of game pictures lives outside git) with exactly the
 texture's size replaces that texture; textures without one keep the original. The dev
 policy applies whatever exists; the release policy requires every entry to be `done` (with
 its PNG) or `keep_original`.
@@ -45,12 +46,18 @@ def _official_sha1(buf: bytes, entry: dict) -> str:
     return hashlib.sha1(raw).hexdigest()
 
 
-def build(fs, entries: list[dict], ko_dir: Path, policy: str):
+def _find(ko_dirs, rel: str) -> Path:
+    dirs = [ko_dirs] if isinstance(ko_dirs, (str, Path)) else list(ko_dirs)
+    paths = [Path(d) / rel for d in dirs]
+    return next((p for p in paths if p.exists()), paths[0])
+
+
+def build(fs, entries: list[dict], ko_dirs, policy: str):
     """Return ([(path, bytes)], report) for the files whose textures changed."""
     out: dict[str, bytes] = {}
     applied = missing = 0
     for entry in entries:
-        png = Path(ko_dir) / entry["png"]
+        png = _find(ko_dirs, entry["png"])
         _check_policy(entry, png.exists(), policy)
         if not png.exists() or entry["state"] == "keep_original":
             missing += entry["state"] != "keep_original"

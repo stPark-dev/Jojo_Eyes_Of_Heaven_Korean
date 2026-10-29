@@ -44,3 +44,18 @@ def test_compose_requires_matching_line_count():
     import pytest
     with pytest.raises(ValueError, match="줄"):
         textart.compose([np.full((4, 4, 4), 255, np.uint8)], 10, 10, [(0, 0, 5, 5), (0, 5, 5, 10)])
+
+
+def test_overlay_erases_and_writes_text_on_a_copy():
+    base = np.zeros((60, 200, 4), np.uint8)
+    base[..., :3], base[..., 3] = 100, 255
+    out = textart.overlay(base, erase=[((10, 10, 190, 50), (239, 239, 239))],
+                          texts=[dict(text="가나", font=FONT, box=(20, 20, 180, 40), fill=(255, 0, 0),
+                                      align="left")])
+    assert (base[..., 0] == 100).all()                   # input untouched
+    assert tuple(out[5, 5, :3]) == (100, 100, 100)        # outside the erased rect
+    assert tuple(out[12, 100, :3]) == (239, 239, 239)     # erased, no text there
+    red = (out[..., 0] > 200) & (out[..., 1] < 80)
+    ys, xs = np.nonzero(red)
+    assert ys.min() >= 20 and ys.max() < 40 and xs.min() <= 22
+    assert (out[..., 3] == 255).all()

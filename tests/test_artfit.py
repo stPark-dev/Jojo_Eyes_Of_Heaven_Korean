@@ -107,3 +107,10 @@ def test_fit_like_uses_reference_scale_and_top_left():
     yb, xb = np.nonzero(b[..., 3] > 127)
     assert (ya.min(), xa.min()) == (yb.min(), xb.min())
     assert abs((xb.max() - xb.min() + 1) - 90 * 28 / 50) <= 1
+
+
+def test_fit_align_left_starts_at_box_left():
+    art = _rgba(10, 20, (255, 255, 255, 255))
+    out = artfit.fit(art, 200, 50, box=(30, 10, 190, 30), align="left")
+    xs = np.nonzero(out[..., 3].any(0))[0]
+    assert xs.min() == 30 and xs.max() == 69  # 20 * 20/10 = 40 wide

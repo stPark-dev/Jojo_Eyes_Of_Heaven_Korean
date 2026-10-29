@@ -2,6 +2,8 @@
 
     python3 scripts/gpt_images.py pack  캐릭터_이름   # work/gpt/<category>/: prompts + reference
     python3 scripts/gpt_images.py apply 캐릭터_이름   # out/sheet_NN.png -> translation/images_ko/
+    python3 scripts/gpt_images.py place <result.png> <images.json png> [--glow 16]
+        # one whole image; --glow adds the soft outer halo the title logo has (radius px)
 
 pack groups the distinct Korean texts (images.json `ko`, maker "gpt") of a category into
 sheets of SHEET_SIZE lines. For each sheet ChatGPT draws the lines stacked vertically on a
@@ -19,7 +21,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
 
 import numpy as np  # noqa: E402
-from PIL import Image  # noqa: E402
+from PIL import Image, ImageFilter  # noqa: E402
 
 from eoh import artfit  # noqa: E402
 
@@ -131,11 +133,53 @@ def _preview(pairs) -> Image.Image:
     return sheet
 
 
+GLOW_RGB, GLOW_GAIN, GLOW_MAX = (254, 254, 218), 1.8, 200  # measured on the original logo halo
+
+
+def add_glow(img: np.ndarray, radius: int) -> np.ndarray:
+    solid = Image.fromarray(((img[..., 3] > 128) * 255).astype(np.uint8))
+    glow = np.clip(np.asarray(solid.filter(ImageFilter.GaussianBlur(radius))) * GLOW_GAIN, 0, GLOW_MAX) / 255
+    a = img[..., 3:] / 255
+    out_a = a[..., 0] + glow * (1 - a[..., 0])
+    rgb = (img[..., :3] * a + np.array(GLOW_RGB) * (glow * (1 - a[..., 0]))[..., None]) \
+        / np.maximum(out_a[..., None], 1e-9)
+    out = np.zeros_like(img)
+    out[..., :3] = np.clip(np.rint(rgb), 0, 255)
+    out[..., 3] = np.rint(out_a * 255)
+    return out
+
+
+def cmd_place(result: Path, png: str, glow: int = 0) -> None:
+    """A whole generated image (same aspect as the texture) scaled to the texture size."""
+    data = load()
+    entry = next((e for e in data["images"] if e["png"] == png), None)
+    if entry is None:
+        raise SystemExit(f"{png}: images.json에 없음")
+    art = artfit.remove_background(np.asarray(Image.open(result).convert("RGBA")))
+    w, h = entry["width"], entry["height"]
+    if abs(art.shape[1] / art.shape[0] - w / h) > 0.01 * w / h:
+        raise SystemExit(f"비율이 다름: {art.shape[1]}x{art.shape[0]}, 필요 {w}x{h}")
+    img = artfit._paste(art, w, h, w / art.shape[1], 0, 0)
+    if glow:
+        img = add_glow(img, glow)
+    dst = KO_DIR / png
+    dst.parent.mkdir(parents=True, exist_ok=True)
+    Image.fromarray(img, "RGBA").save(dst)
+    entry.update(state="needs_review", maker="gpt")
+    save(data)
+    print(f"저장: {dst}")
+
+
 def main() -> None:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("command", choices=["pack", "apply"])
-    ap.add_argument("category", help="images.json 분류 (공백은 _ 로)")
+    ap.add_argument("command", choices=["pack", "apply", "place"])
+    ap.add_argument("category", help="images.json 분류 (공백은 _ 로), place는 결과 PNG")
+    ap.add_argument("png", nargs="?", help="place: images.json의 png 경로")
+    ap.add_argument("--glow", type=int, default=0, help="place: 바깥 빛 번짐 반경(px)")
     args = ap.parse_args()
+    if args.command == "place":
+        cmd_place(Path(args.category), args.png, args.glow)
+        return
     category = args.category.replace("_", " ")
     out = GPT_DIR / args.category
     {"pack": cmd_pack, "apply": cmd_apply}[args.command](category, out)
