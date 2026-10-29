@@ -92,7 +92,7 @@ def cmd_import():
 def cmd_status():
     states, files = Counter(), 0
     for path in sorted(STORE_DIR.glob("*.json")):
-        if path.name == "glossary.json":
+        if path.name in ("glossary.json", "images.json"):
             continue
         files += 1
         states.update(e["state"] for e in load(path)["entries"])

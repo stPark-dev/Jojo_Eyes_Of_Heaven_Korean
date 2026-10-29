@@ -105,7 +105,8 @@ python3 scripts/textdb.py status
 - **추출**: `python3 scripts/extract_images.py` → `work/images/` (git 제외)에 PNG, `work/images/_overview/NN.png`에 분류별 한눈에 보기(번호는 `NN.txt`에 PNG 경로). 약 20초.
 - **작업 목록**: `translation/images.json` — 텍스처마다 파일·순번·크기·형식·원본 SHA-1·분류·PNG 경로·state(todo/in_progress/needs_review/done/keep_original)·note. 다시 추출해도 state/note 유지, 원본이 바뀌면 needs_review.
 - 분류 집계 (2026-10-28): 캐릭터 이름 115 / 팁 화면 97 / UI 메뉴 96 / 전투 연출 55 / 스토리 UI 52 / 스토리 연출 14 / 타이틀 로고 3 / 세이브 아이콘 2. 팁 화면 일부는 「仮画像」 DLC 자리표시.
-- 이미지 다시 넣기(DXT 인코딩 + NTP3 교체)는 아직 없음 — `src/eoh/texture.py`(디코딩)와 `dxt5.py`(알파 인코딩)를 바탕으로 작성 예정.
+- **넣기 (2026-10-29)**: 한글 PNG를 `translation/images_ko/<images.json의 png 경로>`에 원본과 같은 크기로 두면 `build_patch.py`가 DXT1/DXT5로 인코딩해 텍스처를 교체(`src/eoh/images.py`, `texture.encode/replace`). 게임 텍스처 432장 재인코딩 오차 평균 1 미만. 밉맵 텍스처 2장은 미지원(오류). 크기 불일치·원본 변경은 빌드 실패, release는 `done`/`keep_original`만 통과.
+- 제작 분담(사용자 결정 2026-10-29): 중요·큰 이미지(캐릭터 이름 포함)는 ChatGPT로 제작, 중요도 낮은 이미지는 Claude 자동 생성.
 - 분류:
   - 모드 선택 큰 글자(STORY 등): 영어 장식 → 유지
   - 타이틀 로고: 한글 로고로 교체 후보 (사용자 표지 이미지의 한글 로고 원본 확인 필요)
