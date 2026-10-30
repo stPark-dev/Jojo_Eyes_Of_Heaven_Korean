@@ -136,3 +136,34 @@ def test_fit_align_right_ends_at_box_right():
     out = artfit.fit(art, 200, 50, box=(30, 10, 190, 30), align="right")
     xs = np.nonzero(out[..., 3].any(0))[0]
     assert xs.max() == 189 and xs.min() == 150
+
+
+def test_split_components_separates_lines_whose_strokes_overlap_vertically():
+    img = np.zeros((60, 90, 4), np.uint8)
+    img[0:10, 0:50] = (255, 0, 0, 255)      # line 1
+    img[20:40, 0:30] = (0, 255, 0, 255)     # line 2 ...
+    img[35:55, 40:80] = (0, 0, 255, 255)    # ... and line 3 reach into the same rows
+    img[41:43, 30:40, 3] = 20               # faint glow touching both
+    assert len(artfit.split_rows(img, count=3)) != 3
+    parts = artfit.split_components(img, 3)
+    assert [p.shape[:2] for p in parts] == [(10, 50), (20, 30), (20, 40)]
+    assert [tuple(p[p.shape[0] // 2, p.shape[1] // 2, :3]) for p in parts] == \
+        [(255, 0, 0), (0, 255, 0), (0, 0, 255)]
+
+
+def test_split_components_ignores_specks_when_grouping():
+    img = np.zeros((80, 90, 4), np.uint8)
+    img[0:10, 0:50] = 255
+    img[20:40, 0:30] = 255
+    img[35:55, 40:80] = 255
+    img[78, 88] = 255                       # speck far below
+    assert [p.shape[:2] for p in artfit.split_components(img, 3)][:2] == [(10, 50), (20, 30)]
+
+
+def test_split_components_handles_a_speck_labelled_before_the_strokes():
+    img = np.zeros((60, 90, 4), np.uint8)
+    img[0, 60] = 255                        # speck near line 1, labelled before lines 2 and 3
+    img[0:10, 0:50] = 255
+    img[20:40, 0:30] = 255
+    img[35:55, 40:80] = 255
+    assert [p.shape[:2] for p in artfit.split_components(img, 3)][1:] == [(20, 30), (20, 40)]

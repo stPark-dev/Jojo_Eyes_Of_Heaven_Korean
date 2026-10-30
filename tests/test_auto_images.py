@@ -19,3 +19,17 @@ def test_font_follows_path_fragment():
 def test_align_defaults_to_center_and_follows_path_fragment():
     assert auto_images.align_for("ui/adv/jpn/adv_demo_title/00_a.png") == "center"
     assert auto_images.align_for("ui/customize/jpn/customize_txt/02_a.png") == "left"
+
+
+def test_repaint_box_can_set_the_outline_width():
+    import numpy as np
+    base = np.zeros((40, 160, 4), np.uint8)
+
+    def dark(ratio):
+        recipe = dict(font=auto_images.ROUND, erase=[],
+                      boxes=[((4, 4, 156, 36), (255, 255, 255), "contain", (0, 0, 0),
+                              dict(stroke_ratio=ratio))])
+        out = auto_images.repaint(base, ["가나다"], recipe)
+        return ((out[..., 3] > 128) & (out[..., :3].max(2) < 60)).sum()
+
+    assert dark(0.2) > dark(0.05)

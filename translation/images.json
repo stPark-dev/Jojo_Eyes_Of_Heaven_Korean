@@ -1867,8 +1867,8 @@
    "src_sha1": "490935e41ac5d18770209b91c0ff5f555f5c8812",
    "category": "UI 메뉴",
    "png": "ui/btlsel/csel/jpn/csel_txt/00_csel_player_num.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btlsel/csel/jpn/csel_txt.xfbin",
@@ -1880,8 +1880,8 @@
    "src_sha1": "2e985bebdd45f813fb1f58474cfe4ad0b9753593",
    "category": "UI 메뉴",
    "png": "ui/btlsel/csel/jpn/csel_txt/01_csel_support.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btlsel/csel/jpn/csel_txt.xfbin",
@@ -1893,8 +1893,8 @@
    "src_sha1": "ef1eae5b01fd315eaf06ed4e0f21c7feef2fb35f",
    "category": "UI 메뉴",
    "png": "ui/btlsel/csel/jpn/csel_txt/02_csel_title00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btlsel/ssel/jpn/ssel_txt.xfbin",
@@ -1906,8 +1906,8 @@
    "src_sha1": "156ccbbb4568026863e48b4c1c36e9feec397ead",
    "category": "UI 메뉴",
    "png": "ui/btlsel/ssel/jpn/ssel_txt/00_ssel_title.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btlsel/vscmn/jpn/vscmn_txt.xfbin",
@@ -1919,8 +1919,11 @@
    "src_sha1": "6e9f7c85c1b99d85a1a9a690f403a11e7c836a71",
    "category": "UI 메뉴",
    "png": "ui/btlsel/vscmn/jpn/vscmn_txt/00_btlcmn_txt_chapter00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "각 줄 왼쪽의 작은 Part 번호와 스틸 볼 런의 영어 로고(STEEL BALL RUN)는 그대로",
+   "ko": "팬텀 블러드\n전투조류\n스타더스트 크루세이더즈\n다이아몬드는 부서지지 않는다\n황금의 바람\n스톤 오션\n스틸 볼 런\n죠죠리온",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btlsel/vscmn/jpn/vscmn_txt.xfbin",
@@ -1932,8 +1935,8 @@
    "src_sha1": "e9fc1e53d23521203b69fafde6dcaae995dea0f0",
    "category": "UI 메뉴",
    "png": "ui/btlsel/vscmn/jpn/vscmn_txt/01_csel_support.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btlsel/vscmn/jpn/vscmn_txt.xfbin",
@@ -1945,8 +1948,8 @@
    "src_sha1": "313307feca270b1f201ed3f20192e9d9ba73e1d2",
    "category": "UI 메뉴",
    "png": "ui/btlsel/vscmn/jpn/vscmn_txt/02_vscmn_txt_boss.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btlsel/vscmn/jpn/vscmn_txt.xfbin",
@@ -1958,8 +1961,10 @@
    "src_sha1": "1f1e21f47f07569777b473b8f18749af90676011",
    "category": "UI 메뉴",
    "png": "ui/btlsel/vscmn/jpn/vscmn_txt/03_vscmn_txt_dha_title.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "2번째 줄은 빨간 「특수」+흰 「듀얼 히트 어택」 두 조각",
+   "ko": "듀얼 히트 어택\n특수\n듀얼 히트 어택\n그레이트 히트 어택",
+   "maker": "auto"
   },
   {
    "file": "data/ui/btlsel/vscmn/jpn/vscmn_txt.xfbin",
@@ -1971,8 +1976,8 @@
    "src_sha1": "64a87f6d5a526ff38032bef8a1da78237928b0b8",
    "category": "UI 메뉴",
    "png": "ui/btlsel/vscmn/jpn/vscmn_txt/04_vscmn_txt_player.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btlsel/vscmn/jpn/vscmn_txt.xfbin",
@@ -1984,8 +1989,8 @@
    "src_sha1": "cc30808835bf67e670f24d686b8157adef86f01d",
    "category": "UI 메뉴",
    "png": "ui/btlsel/vscmn/jpn/vscmn_txt/05_vscmn_txt_player_num.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btlsel/vsload/jpn/vsload_txt.xfbin",
@@ -1997,8 +2002,8 @@
    "src_sha1": "ed523a28b8e6136faa194067dbf500a8a76caa50",
    "category": "UI 메뉴",
    "png": "ui/btlsel/vsload/jpn/vsload_txt/00_vsload_battle_count.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btlsel/vsload/jpn/vsload_txt.xfbin",
@@ -2010,8 +2015,11 @@
    "src_sha1": "3c488e0ec475fd372d299b62b6a5722710819627",
    "category": "UI 메뉴",
    "png": "ui/btlsel/vsload/jpn/vsload_txt/01_vsload_boss_txt_boss.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "스토리 UI adv_encounter_txt 결과 재사용 검토",
+   "ko": "강적 출현!!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_button_txt.xfbin",
@@ -2023,8 +2031,8 @@
    "src_sha1": "76a24a085812f8463781eacffbec8501fce24160",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_button_txt/00_cmn_button_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "글자 아님(버튼 기호용 한자 2자로 추정)"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_menu_txt.xfbin",
@@ -2036,8 +2044,8 @@
    "src_sha1": "b2165729b73edc41314228472e549622cc6ad3c4",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_menu_txt/00_cmn_menu_line_txt00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2049,8 +2057,8 @@
    "src_sha1": "30444d013abd5f51a98d4a765488146a4013392e",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/00_tex00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2062,8 +2070,8 @@
    "src_sha1": "684ae448707e19484e11deade8d43f42bfa6dee3",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/01_tex01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2075,8 +2083,8 @@
    "src_sha1": "9ed7634b303c4abd93eb8045d811b1d85525929a",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/02_tex02.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2088,8 +2096,8 @@
    "src_sha1": "a2ccece3ce13447b073faf190df7568682de94eb",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/03_tex03.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2131,8 +2139,10 @@
    "src_sha1": "97bcb30b59961988c80c5b257f07b3047223a016",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/06_tex06.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "준비 OK!\n준비 중",
+   "maker": "auto"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2144,8 +2154,8 @@
    "src_sha1": "8155118a35f401a2c49336318b77dbac7bd30325",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/07_tex07.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2157,8 +2167,8 @@
    "src_sha1": "e13c423543ca3103865e26efbd28e5b234913f7c",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/08_tex08.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2170,8 +2180,8 @@
    "src_sha1": "de02a3decf4f7dcd0f870f92a978d5f856773179",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/09_tex09.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2183,8 +2193,8 @@
    "src_sha1": "05566c7b9423990c1d5baa1b60120eec29fc221c",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/10_tex10.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2196,8 +2206,8 @@
    "src_sha1": "7846c51341452bdfb20537b5fc04918047cdd491",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/11_tex11.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2209,8 +2219,8 @@
    "src_sha1": "7954df4bfe170b65bbf785f4c341e9074ce7ce02",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/12_tex12.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2222,8 +2232,8 @@
    "src_sha1": "2efa42c66cbf150cf30c28b680c87a74ba5d3f75",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/13_tex13.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2235,8 +2245,8 @@
    "src_sha1": "29c5a2704f58ecb14241364a39a773f3456441f1",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/14_tex14.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/cmn/jpn/cmn_txt.xfbin",
@@ -2248,8 +2258,8 @@
    "src_sha1": "a278730b3d7fce35beee4411cec1edcc3be54146",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/15_tex15.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2261,8 +2271,10 @@
    "src_sha1": "e0cafbde9175da7ce48d54a44c02310436ff9410",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/00_commandlist_txt_icon00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "스탠드",
+   "maker": "auto"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2274,8 +2286,10 @@
    "src_sha1": "a3fa3c2bc15b2e8feebef7e14e4313e790d51051",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/01_commandlist_txt_icon01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "본체",
+   "maker": "auto"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2287,8 +2301,10 @@
    "src_sha1": "f0c8dfcd63e8752227f992bae40e294a5f3d9fe4",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/02_commandlist_txt_icon02.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "기마",
+   "maker": "auto"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2300,8 +2316,10 @@
    "src_sha1": "1fc9afbb89b159cca2edc4f1e04a08381e1fa513",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/03_commandlist_txt_icon03.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "지상",
+   "maker": "auto"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2313,8 +2331,10 @@
    "src_sha1": "b0cad4121c7273345585ff41248fcc350fd1b074",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/04_commandlist_txt_icon04.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "공중 가능",
+   "maker": "auto"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2326,8 +2346,10 @@
    "src_sha1": "3b79afe423560a18e379ec147fd9e7b0d6f49915",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/05_commandlist_txt_icon05.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "연타 가능",
+   "maker": "auto"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2339,8 +2361,10 @@
    "src_sha1": "d567f88ab74ee19cf7b51dc18a42cdef3e5e22df",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/06_commandlist_txt_icon06.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "タメ可: 「모으기 가능」은 칸이 좁아 글자가 너무 작아져 「차지 가능」으로 (2026-10-30 사용자 결정)",
+   "ko": "차지 가능",
+   "maker": "auto"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2352,8 +2376,10 @@
    "src_sha1": "6d9ab9d938860ce1f390fecf01301f812e6b56df",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/07_commandlist_txt_icon07.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "다운 추가타 가능",
+   "maker": "auto"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2365,8 +2391,10 @@
    "src_sha1": "8dcbcb5b026cc03ef8e8d0e70376d48a010cafbd",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/08_commandlist_txt_icon08.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "투사체",
+   "maker": "auto"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2378,8 +2406,10 @@
    "src_sha1": "d372277a85e6ee4b82108e3af424cf91f8ab7704",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/09_commandlist_txt_icon09.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "트랩",
+   "maker": "auto"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2391,8 +2421,10 @@
    "src_sha1": "c8554f11e95ced3211f5bed1a9b344786f445a06",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/10_commandlist_txt_icon10.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "직접 공격",
+   "maker": "auto"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2404,8 +2436,10 @@
    "src_sha1": "f7853136c4bb6c7e4dd5d6fa794911320ba8627a",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/11_commandlist_txt_icon11.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "모드 전환",
+   "maker": "auto"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2417,8 +2451,10 @@
    "src_sha1": "0849d849282428a2854f12beb82b0f492ee2d1fb",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/12_commandlist_txt_icon12.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "기타",
+   "maker": "auto"
   },
   {
    "file": "data/ui/commandlist/jpn/commandlist_text.xfbin",
@@ -2430,8 +2466,10 @@
    "src_sha1": "4a329968d420bb78ed71b51eb1eab03a754900e8",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/13_commandlist_txt_icon13.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "EX 스킬",
+   "maker": "auto"
   },
   {
    "file": "data/ui/customize/jpn/customize_txt.xfbin",
@@ -2443,8 +2481,10 @@
    "src_sha1": "69d1111dc16708b2ef68fdc545dc0e1d60df4fd3",
    "category": "UI 메뉴",
    "png": "ui/customize/jpn/customize_txt/00_customize_edit_subtitle_char.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "프리셋 편집",
+   "maker": "auto"
   },
   {
    "file": "data/ui/customize/jpn/customize_txt.xfbin",
@@ -2456,8 +2496,10 @@
    "src_sha1": "7a5edaa8af79a32c97a8d007c01b282f18273b16",
    "category": "UI 메뉴",
    "png": "ui/customize/jpn/customize_txt/01_customize_edit_subtitle_dual.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "듀얼 콤보·승리 세트 편집",
+   "maker": "auto"
   },
   {
    "file": "data/ui/customize/jpn/customize_txt.xfbin",
@@ -2484,8 +2526,10 @@
    "src_sha1": "d0b7a0aea49fa8f1aedb22d626aab2e3dc0b5d6c",
    "category": "UI 메뉴",
    "png": "ui/customize/jpn/customize_txt/03_customize_edit_subtitle_trade.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "트레이드 카드 리스트",
+   "maker": "auto"
   },
   {
    "file": "data/ui/customize/jpn/customize_txt.xfbin",
@@ -2497,8 +2541,8 @@
    "src_sha1": "4c27555587b8d94c676f0cede8b05c42ca74d93b",
    "category": "UI 메뉴",
    "png": "ui/customize/jpn/customize_txt/04_customize_top_title.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/freebtl/jpn/freebtl_txt.xfbin",
@@ -2510,8 +2554,10 @@
    "src_sha1": "05c04c31104f8784b4363074a9e7e406d59741a1",
    "category": "UI 메뉴",
    "png": "ui/freebtl/jpn/freebtl_txt/00_freebtl_dlmission_title.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "다운로드 미션",
+   "maker": "auto"
   },
   {
    "file": "data/ui/freebtl/jpn/freebtl_txt.xfbin",
@@ -2523,8 +2569,8 @@
    "src_sha1": "208c4783a550ac4b952bd5d9b0fbf9d2fe145e19",
    "category": "UI 메뉴",
    "png": "ui/freebtl/jpn/freebtl_txt/01_freebtl_top_title.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/gallery/jpn/gallery_txt.xfbin",
@@ -2536,8 +2582,10 @@
    "src_sha1": "e8b726465d30bc5c4d56869cd889b416013bfcb6",
    "category": "UI 메뉴",
    "png": "ui/gallery/jpn/gallery_txt/00_gallery_subtitle_art.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "아트 뷰어",
+   "maker": "auto"
   },
   {
    "file": "data/ui/gallery/jpn/gallery_txt.xfbin",
@@ -2549,8 +2597,10 @@
    "src_sha1": "21ac388b7090a988f50bc0c6dafde0b14ff83e2c",
    "category": "UI 메뉴",
    "png": "ui/gallery/jpn/gallery_txt/01_gallery_subtitle_demo.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "데모 뷰어",
+   "maker": "auto"
   },
   {
    "file": "data/ui/gallery/jpn/gallery_txt.xfbin",
@@ -2562,8 +2612,10 @@
    "src_sha1": "1957a70f88dcb89f14d2aab13e38d5acb0065b8a",
    "category": "UI 메뉴",
    "png": "ui/gallery/jpn/gallery_txt/02_gallery_subtitle_mdl.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "모델 뷰어",
+   "maker": "auto"
   },
   {
    "file": "data/ui/gallery/jpn/gallery_txt.xfbin",
@@ -2575,8 +2627,10 @@
    "src_sha1": "2cab08ef43c467c5a40d994b2500dc103f4b5dd6",
    "category": "UI 메뉴",
    "png": "ui/gallery/jpn/gallery_txt/03_gallery_subtitle_sound.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "사운드 테스트",
+   "maker": "auto"
   },
   {
    "file": "data/ui/gallery/jpn/gallery_txt.xfbin",
@@ -2588,8 +2642,8 @@
    "src_sha1": "e78d600fa4c329f25c5534a9bf739f6ca1967d1a",
    "category": "UI 메뉴",
    "png": "ui/gallery/jpn/gallery_txt/04_gallery_top_title.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/gauge/jpn/gauge_text.xfbin",
@@ -2601,8 +2655,11 @@
    "src_sha1": "958e01b707dff9b2105b6952b56eb32ac656d974",
    "category": "UI 메뉴",
    "png": "ui/gauge/jpn/gauge_text/00_asb_gauge_dh_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "듀얼 히트 어택\n듀얼 콤보\n이어지는 의지",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/gauge/jpn/gauge_text.xfbin",
@@ -2614,8 +2671,8 @@
    "src_sha1": "c93c6951bf54c43d0693432ce22cf225e834bc7e",
    "category": "UI 메뉴",
    "png": "ui/gauge/jpn/gauge_text/01_asb_gauge_statusicon00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "아이콘·1P~6P 표시"
   },
   {
    "file": "data/ui/gauge/jpn/gauge_text.xfbin",
@@ -2627,8 +2684,10 @@
    "src_sha1": "1bb880a072debde854085f09eec2cde798e17ee8",
    "category": "UI 메뉴",
    "png": "ui/gauge/jpn/gauge_text/02_gauge_support_retire.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "재기 불능!",
+   "maker": "auto"
   },
   {
    "file": "data/ui/gauge/jpn/gauge_text.xfbin",
@@ -2640,8 +2699,8 @@
    "src_sha1": "253934eab959818b250ffca1d3b1b8d93d8fa437",
    "category": "UI 메뉴",
    "png": "ui/gauge/jpn/gauge_text/03_gauge_txt_ko.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/glossary/jpn/glossary_txt.xfbin",
@@ -2653,8 +2712,8 @@
    "src_sha1": "6987fe59aaedeccaf1e6b49ad6c7c5f178eab386",
    "category": "UI 메뉴",
    "png": "ui/glossary/jpn/glossary_txt/00_glossary_top_title.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/modeselect/jpn/msel_txt.xfbin",
@@ -2666,8 +2725,8 @@
    "src_sha1": "096903ce9778319039c375511d26fac12bb5f210",
    "category": "UI 메뉴",
    "png": "ui/modeselect/jpn/msel_txt/00_msel_customize_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/modeselect/jpn/msel_txt.xfbin",
@@ -2679,8 +2738,8 @@
    "src_sha1": "1eef2dc7f864ecb657ec34d9a46105a4e861b3ce",
    "category": "UI 메뉴",
    "png": "ui/modeselect/jpn/msel_txt/01_msel_freebtl_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/modeselect/jpn/msel_txt.xfbin",
@@ -2692,8 +2751,8 @@
    "src_sha1": "c1b8b0cdece4bd596e2997eb4f5082b125974dbd",
    "category": "UI 메뉴",
    "png": "ui/modeselect/jpn/msel_txt/02_msel_gallery_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/modeselect/jpn/msel_txt.xfbin",
@@ -2705,8 +2764,8 @@
    "src_sha1": "99d5847dcd3b78e9367ba1659e18402a1623eb51",
    "category": "UI 메뉴",
    "png": "ui/modeselect/jpn/msel_txt/03_msel_glossary_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/modeselect/jpn/msel_txt.xfbin",
@@ -2718,8 +2777,8 @@
    "src_sha1": "7127d486a0568efcf68827dcd21806a6d42182f9",
    "category": "UI 메뉴",
    "png": "ui/modeselect/jpn/msel_txt/04_msel_network_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/modeselect/jpn/msel_txt.xfbin",
@@ -2731,8 +2790,8 @@
    "src_sha1": "04c3ab839f4a495bd0c9598c216df73bf76fcd20",
    "category": "UI 메뉴",
    "png": "ui/modeselect/jpn/msel_txt/05_msel_options_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/modeselect/jpn/msel_txt.xfbin",
@@ -2744,8 +2803,8 @@
    "src_sha1": "da1456706ed4d80aba7fff0695767e916ffaa559",
    "category": "UI 메뉴",
    "png": "ui/modeselect/jpn/msel_txt/06_msel_shop_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/modeselect/jpn/msel_txt.xfbin",
@@ -2757,8 +2816,8 @@
    "src_sha1": "c32a14226e3d001e4481b7d2842c6227e7ce3aa0",
    "category": "UI 메뉴",
    "png": "ui/modeselect/jpn/msel_txt/07_msel_story_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/modeselect/jpn/msel_txt.xfbin",
@@ -2770,8 +2829,8 @@
    "src_sha1": "9d6e50a46607499845fbf9449d890f7f4b79d4d4",
    "category": "UI 메뉴",
    "png": "ui/modeselect/jpn/msel_txt/08_msel_top_title.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/name/btl_name/jpn/btl_name_1dio01.xfbin",
@@ -4508,8 +4567,10 @@
    "src_sha1": "251c384d6703c82cba22d3395643de5d1f274af4",
    "category": "UI 메뉴",
    "png": "ui/online/jpn/online_txt/00_tex00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "준비 중\n준비 OK!",
+   "maker": "auto"
   },
   {
    "file": "data/ui/online/jpn/online_txt.xfbin",
@@ -4521,8 +4582,8 @@
    "src_sha1": "930853bc53f69e593974b096ed49c6ae54e92605",
    "category": "UI 메뉴",
    "png": "ui/online/jpn/online_txt/01_tex01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/online/jpn/online_txt.xfbin",
@@ -4534,8 +4595,8 @@
    "src_sha1": "74d7b83e64e8b3a7d555c9407e5c6b274d5e02ae",
    "category": "UI 메뉴",
    "png": "ui/online/jpn/online_txt/02_tex02.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/online/jpn/online_txt.xfbin",
@@ -4547,8 +4608,8 @@
    "src_sha1": "4cead3627ebfb11f7692191aa15782d30a3b4232",
    "category": "UI 메뉴",
    "png": "ui/online/jpn/online_txt/03_tex03.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/online/jpn/online_txt.xfbin",
@@ -4560,8 +4621,8 @@
    "src_sha1": "86a768b8714bc207af5133fdc4ce94b5ea462d62",
    "category": "UI 메뉴",
    "png": "ui/online/jpn/online_txt/04_tex04.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/online/jpn/online_txt.xfbin",
@@ -4573,8 +4634,8 @@
    "src_sha1": "163eb1a4cb9209b5b737955fbca08fad70042704",
    "category": "UI 메뉴",
    "png": "ui/online/jpn/online_txt/05_tex05.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/options/jpn/options_txt.xfbin",
@@ -4586,8 +4647,8 @@
    "src_sha1": "74b24f923bdac249f7f9cc01b0e1c59ac971861b",
    "category": "UI 메뉴",
    "png": "ui/options/jpn/options_txt/00_opt_top_title.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4599,8 +4660,8 @@
    "src_sha1": "ed59eac36f2a71bb82edccaa40d7f63de00e6c49",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/00_shop_item_soldout.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4612,8 +4673,10 @@
    "src_sha1": "e776c2c91f86a718bb47ef4ab4b45c91a9c13e2a",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/01_shop_item_sub_art.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "아트 소재",
+   "maker": "auto"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4625,8 +4688,8 @@
    "src_sha1": "e091228eaeaf590f62d964e51bb1686849e943d6",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/02_shop_item_sub_bgm.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4638,8 +4701,10 @@
    "src_sha1": "ed40bcfc39512cd48d96f3d20b51299e3a479596",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/03_shop_item_sub_card_appeal.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "플레이어 카드　명언",
+   "maker": "auto"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4651,8 +4716,10 @@
    "src_sha1": "0dcbeac15280f7c53d42f968be7ed4fbf7346ead",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/04_shop_item_sub_card_base.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "플레이어 카드　카드 배경",
+   "maker": "auto"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4664,8 +4731,10 @@
    "src_sha1": "160f4a2d6cabe1ef6035f1cfeb53ce4853a20afc",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/05_shop_item_sub_charamodel.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "캐릭터 모델",
+   "maker": "auto"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4677,8 +4746,10 @@
    "src_sha1": "d08014ff7150c0179922eaa4e32b955c8c6f1891",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/06_shop_item_sub_color.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "추가 컬러",
+   "maker": "auto"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4690,8 +4761,10 @@
    "src_sha1": "36e4271d2d5707291686846e22e1e643da1af628",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/07_shop_item_sub_dualcombo.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "듀얼 콤보 포즈",
+   "maker": "auto"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4703,8 +4776,10 @@
    "src_sha1": "544f037a8ad0709eb65b2a7cb06f89d0ee286a75",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/08_shop_item_sub_gion.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "추가 의성어",
+   "maker": "auto"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4716,8 +4791,10 @@
    "src_sha1": "153e051b3f057fbfb46118e6c6e6a9189bb4970f",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/09_shop_item_sub_serif.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "추가 대사",
+   "maker": "auto"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4729,8 +4806,10 @@
    "src_sha1": "9cceb722813e8f8544e76e5c21d78fad3f67120b",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/10_shop_item_sub_singlecombo.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "싱글 콤보 포즈",
+   "maker": "auto"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4742,8 +4821,10 @@
    "src_sha1": "851491e719b40e75ea4c4850934cd6c7ee713115",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/11_shop_item_sub_special.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "스페셜 코스튬",
+   "maker": "auto"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4755,8 +4836,10 @@
    "src_sha1": "147bdd79571f524fe309752b334dd46fd476e05a",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/12_shop_item_sub_supportitem.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "배틀 서포트 아이템",
+   "maker": "auto"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4768,8 +4851,8 @@
    "src_sha1": "d8b21c59610f043dca92980bf16dbb77fc981c08",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/13_shop_item_sub_voice.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4781,8 +4864,10 @@
    "src_sha1": "a8b48e429dee55b17b0f835cbd4a1e92ee46736c",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/14_shop_item_sub_win.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "승리 포즈",
+   "maker": "auto"
   },
   {
    "file": "data/ui/shop/jpn/shop_txt.xfbin",
@@ -4794,8 +4879,8 @@
    "src_sha1": "43057901df78705f440c7400b2e7986880236a25",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/15_shop_top_title.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/supportitem_menu/jpn/supportitem_menu_txt.xfbin",
@@ -4807,8 +4892,10 @@
    "src_sha1": "7e9e6881f99a8cd36b83dc91f62cca3b91bad40e",
    "category": "UI 메뉴",
    "png": "ui/supportitem_menu/jpn/supportitem_menu_txt/00_supportitem_menu_status_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "사용 중\n사용 불가",
+   "maker": "auto"
   },
   {
    "file": "data/ui/supportitem_menu/jpn/supportitem_menu_txt.xfbin",
@@ -4820,8 +4907,10 @@
    "src_sha1": "dc5ac52100055842f462c92cad501044671c12d1",
    "category": "UI 메뉴",
    "png": "ui/supportitem_menu/jpn/supportitem_menu_txt/01_supportitem_menu_target_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "아군 전체\n적 전체",
+   "maker": "auto"
   },
   {
    "file": "data/ui/supportitem_menu/jpn/supportitem_menu_txt.xfbin",
@@ -4833,8 +4922,11 @@
    "src_sha1": "30fce3b89ab7b41c1cc8801be81408def19dfbba",
    "category": "UI 메뉴",
    "png": "ui/supportitem_menu/jpn/supportitem_menu_txt/02_supportitem_menu_title_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "서포트 아이템 사용",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_customize_00.xfbin",

@@ -161,7 +161,10 @@ def _sheet_cuts(out: Path, problems: list) -> dict:
 
 def _cut(path: Path, count: int) -> list[np.ndarray]:
     sheet = artfit.remove_background(np.asarray(Image.open(path).convert("RGBA")))
-    return artfit.split_rows(sheet, count=count)
+    parts = artfit.split_rows(sheet, count=count)
+    if len(parts) != count:  # brush strokes of neighbouring lines overlap in height
+        parts = artfit.split_components(sheet, count) or parts
+    return parts
 
 
 def _render(entry: dict, pieces: list[np.ndarray], orig: np.ndarray) -> np.ndarray:

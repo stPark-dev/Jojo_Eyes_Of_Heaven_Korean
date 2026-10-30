@@ -145,17 +145,22 @@ def _over(out: np.ndarray, layer: np.ndarray) -> None:
 def overlay(base: np.ndarray, erase=(), texts=()) -> np.ndarray:
     """Copy of base with each (rect, rgb) erase filled, then each text drawn into its box.
 
-    A text is dict(text, font, box, fill, stroke=None, stroke_ratio, align="center").
+    A text is dict(text, font, box, fill, stroke=None, stroke_ratio, outer=None, outer_ratio,
+    align="center").
     """
     out = base.copy()
-    for (x0, y0, x1, y1), colour in erase:  # rgb, rgba (sets transparency) or "above"
+    for (x0, y0, x1, y1), colour in erase:  # rgb, rgba (sets transparency), "above" or tile
         if colour == "above":  # repeat the row above: hides text on horizontal gradients
             out[y0:y1, x0:x1] = out[y0 - 1, x0:x1]
+        elif colour[0] == "tile":  # ("tile", x, period): repeat the clean strip x..x+period, in phase
+            _, sx, period = colour
+            out[y0:y1, x0:x1] = out[y0:y1, sx + (np.arange(x0, x1) - sx) % period]
         else:
             out[y0:y1, x0:x1, :len(colour)] = colour
     h, w = out.shape[:2]
     for t in texts:
         art = render(t["text"], t["font"], 160, t["fill"], t.get("stroke"),
-                     t.get("stroke_ratio", 0.08))
+                     t.get("stroke_ratio", 0.08), outer=t.get("outer"),
+                     outer_ratio=t.get("outer_ratio", 0.04))
         _over(out, artfit.fit(art, w, h, t["box"], align=t.get("align", "center")))
     return out

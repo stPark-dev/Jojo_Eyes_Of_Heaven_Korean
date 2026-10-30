@@ -31,22 +31,29 @@ STYLES = {  # PNG path fragment -> render options (sizes are font px before fitt
     "cmn/jpn/cmn_txt/04_": dict(fill=((255, 255, 255), (255, 240, 40)), stroke=(230, 40, 220),
                                 stroke_ratio=0.09, shadow=(18, 27, (20, 10, 20))),
     "adv_poker_txt/03_": "sample",
-    "customize_txt/02_": dict(fill=WHITE, stroke=(150, 30, 180), stroke_ratio=0.1,
-                              shadow=(10, 10, BLACK)),
 }
-FONTS = {"customize_txt/": ROUND}  # PNG path fragment -> font (gothic originals); else FONT
-ALIGNS = {"customize_txt/": "left"}  # PNG path fragment -> line alignment; else center
+_SUBTITLE = dict(fill=WHITE, stroke=(150, 30, 180), stroke_ratio=0.1, shadow=(10, 10, BLACK))
+_MENU = ("customize_txt/", "gallery_txt/", "freebtl_txt/", "shop_txt/")  # purple subtitles
+STYLES.update({key: _SUBTITLE for key in _MENU})
+# PNG path fragment -> font (gothic originals) / line alignment; else FONT / center
+FONTS = {key: ROUND for key in _MENU + ("supportitem_menu_txt/",)}
+ALIGNS = {key: "left" for key in _MENU}
 _RIM = dict(stroke=(70, 48, 22), stroke_ratio=0.09, outer=(255, 255, 255), outer_ratio=0.05)
 _SILVER = dict(_RIM, fill=((255, 255, 255), (140, 140, 150)))
 _BLUE = dict(_RIM, fill=((255, 255, 240), (80, 200, 230)))
 _GOLD = dict(_RIM, fill=((255, 250, 200), (225, 150, 40)))
 # Lists whose lines each have their own colours (read off the original), one style per line.
-LINE_STYLES = {"ui/adv/jpn/adv_poker_txt/18_tex18.png": [_SILVER] + [_BLUE] * 5 + [_GOLD] * 5}
+LINE_STYLES = {
+    "ui/adv/jpn/adv_poker_txt/18_tex18.png": [_SILVER] + [_BLUE] * 5 + [_GOLD] * 5,
+    "ui/supportitem_menu/jpn/supportitem_menu_txt/01_supportitem_menu_target_txt.png": [
+        dict(fill=((235, 250, 255), (150, 220, 255)), stroke=(1, 32, 132), stroke_ratio=0.1),
+        dict(fill=((255, 235, 235), (255, 170, 175)), stroke=(140, 4, 8), stroke_ratio=0.1)],
+}
 INK, PAPER = (8, 8, 8), (255, 255, 255)
 CESA_BG, CESA_RED, CESA_GREY = (239, 239, 239), (209, 79, 50), (123, 123, 123)
 LABEL = (30, 30, 30)  # dark outline of the white UI labels
 CLEAR = (0, 0, 0, 0)
-OVERLAYS = {  # png -> font, erase [(rect, colour)], per `ko` line (box, fill, align[, stroke]) or
+OVERLAYS = {  # png -> font, erase [(rect, colour)], per `ko` line (box, fill, align[, stroke[, render options]]) or
     # None for a line kept as in the original (English)
     "ui/boot/boot_logo/02_cautions.png": dict(font=FONT, erase=[
         ((176, 131, 309, 163), PAPER), ((455, 82, 1012, 118), PAPER), ((529, 115, 988, 151), PAPER),
@@ -71,6 +78,38 @@ OVERLAYS = {  # png -> font, erase [(rect, colour)], per `ko` line (box, fill, a
     "ui/adv/jpn/adv_poker_txt/24_tex24.png": dict(font=FONT, erase=[((6, 97, 300, 146), CLEAR)],
         boxes=[None, ((10, 100, 340, 142), WHITE, "left", LABEL), None]),
 }
+_CMDLIST = "ui/commandlist/jpn/commandlist_text/{:02d}_commandlist_txt_icon{:02d}.png"
+_TAGS = {0: (64, (247, 255, 123)), 1: (44, (208, 121, 255)), 2: (44, (123, 255, 156)),  # n: (width,
+         3: (44, (255, 190, 132)), 4: (60, (123, 223, 255)), 5: (60, (255, 130, 132)),  # colour)
+         6: (60, (148, 130, 255)), 7: (128, (255, 134, 222)), 8: (64, (239, 255, 123)),
+         9: (64, (214, 127, 255)), 10: (64, (231, 251, 115)), 11: (112, (255, 190, 123)),
+         12: (60, (123, 223, 255)), 13: (80, (255, 130, 132))}
+for n, (w, rgb) in _TAGS.items():  # move-list tags: keep the glowing frame, rewrite the label
+    OVERLAYS[_CMDLIST.format(n, n)] = dict(font=ROUND, erase=[((7, 8, w - 7, 23), rgb + (22,))],
+                                           boxes=[((8, 9, w - 8, 22), rgb, "contain")])
+_RED, _CYAN, _DARK = (255, 0, 57), (0, 170, 220), (8, 8, 8)
+_HEAVY = dict(stroke_ratio=0.04, outer=BLACK, outer_ratio=0.09)  # fill-coloured stroke fattens the font
+OVERLAYS.update({
+    "ui/cmn/jpn/cmn_txt/06_tex06.png": dict(font=ROUND, erase=[
+        ((46, 0, 170, 43), CLEAR), ((46, 46, 140, 82), CLEAR)],
+        boxes=[((50, 4, 200, 38), _RED, "left", _DARK), ((50, 49, 170, 80), _CYAN, "left", _DARK)]),
+    "ui/online/jpn/online_txt/00_tex00.png": dict(font=ROUND, erase=[
+        ((43, 8, 135, 44), CLEAR), ((44, 50, 170, 96), CLEAR)],
+        boxes=[((45, 12, 160, 40), _CYAN, "left", _DARK), ((46, 55, 220, 91), (255, 0, 0), "left", _DARK)]),
+    "ui/gauge/jpn/gauge_text/02_gauge_support_retire.png": dict(font=ROUND, erase=[
+        ((48, 12, 146, 37), (0, 0, 0, 44))], boxes=[((51, 14, 143, 35), WHITE, "contain", _DARK)]),
+    "ui/supportitem_menu/jpn/supportitem_menu_txt/00_supportitem_menu_status_txt.png": dict(
+        font=ROUND, erase=[((30, 0, 180, 80), ("tile", 0, 30))],
+        boxes=[((20, 6, 160, 35), WHITE, "contain", (8, 113, 198)),
+               ((20, 46, 160, 75), WHITE, "contain", (178, 24, 24))]),
+    # 「特殊」 is red in the original line 2, so that line is two pieces
+    "ui/btlsel/vscmn/jpn/vscmn_txt/03_vscmn_txt_dha_title.png": dict(font=ROUND, erase=[
+        ((0, 0, 648, 144), CLEAR)],
+        boxes=[((150, 6, 498, 42), WHITE, "contain", WHITE, _HEAVY),
+               ((148, 54, 222, 91), (255, 0, 0), "right", (255, 0, 0), _HEAVY),
+               ((228, 54, 500, 91), WHITE, "left", WHITE, _HEAVY),
+               ((150, 102, 498, 138), WHITE, "contain", WHITE, _HEAVY)]),
+})
 # Layers drawn as the black silhouette of another layer's text, at that layer's placement.
 SILHOUETTES = {"ui/cmn/jpn/cmn_txt/05_tex05.png": "ui/cmn/jpn/cmn_txt/04_tex04.png"}
 
@@ -90,9 +129,9 @@ def align_for(png: str) -> str:
     return next((a for key, a in ALIGNS.items() if key in png), "center")
 
 
-def styled_lines(orig: np.ndarray, lines: list[str], styles: list[dict]) -> np.ndarray:
+def styled_lines(orig: np.ndarray, lines: list[str], styles: list[dict], font: Path) -> np.ndarray:
     boxes = artfit.row_boxes(orig, count=len(lines))
-    arts = [textart.render(t, FONT, 160, **st) for t, st in zip(lines, styles)]
+    arts = [textart.render(t, font, 160, **st) for t, st in zip(lines, styles)]
     return textart.compose(arts, orig.shape[1], orig.shape[0], boxes)
 
 
@@ -109,7 +148,7 @@ def repaint(orig: np.ndarray, lines: list[str], recipe: dict) -> np.ndarray:
     if len(lines) != len(recipe["boxes"]):
         raise SystemExit(f"줄 수 불일치: 한글 {len(lines)}줄, 상자 {len(recipe['boxes'])}개")
     texts = [dict(text=t, font=recipe["font"], box=b[0], fill=b[1], align=b[2],
-                  stroke=b[3] if len(b) > 3 else None)
+                  stroke=b[3] if len(b) > 3 else None, **(b[4] if len(b) > 4 else {}))
              for t, b in zip(lines, recipe["boxes"]) if b is not None]
     return textart.overlay(orig, recipe["erase"], texts)
 
@@ -127,7 +166,7 @@ def main() -> None:
         elif e["png"] in SILHOUETTES:
             img = silhouette(e, SILHOUETTES[e["png"]])
         elif e["png"] in LINE_STYLES:
-            img = styled_lines(orig, e["ko"].split("\n"), LINE_STYLES[e["png"]])
+            img = styled_lines(orig, e["ko"].split("\n"), LINE_STYLES[e["png"]], font_for(e["png"]))
         else:
             lines = [textart.render(t, font_for(e["png"]), 160, **style(e["png"], orig))
                      for t in e["ko"].split("\n")]

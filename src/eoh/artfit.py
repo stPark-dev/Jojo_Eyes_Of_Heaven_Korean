@@ -81,6 +81,32 @@ def split_rows(img: np.ndarray, max_gap: int = 8, count: int | None = None) -> l
     return [img[t:b, x0:x1] for x0, t, x1, b in row_boxes(img, max_gap, count)]
 
 
+def split_components(img: np.ndarray, count: int) -> list[np.ndarray]:
+    """Cut art into count lines by its connected strokes, for lines whose strokes overlap in
+    height so no empty row separates them. Strokes are grouped by the count - 1 largest gaps
+    between their centres (top to bottom); faint pixels go with the nearest stroke."""
+    from scipy import ndimage
+
+    solid = img[..., 3] > ALPHA_MIN
+    labels, n = ndimage.label(solid, structure=np.ones((3, 3)))
+    sizes = ndimage.sum(solid, labels, range(1, n + 1))
+    keep = [k for k in range(1, n + 1) if sizes[k - 1] >= 0.005 * sizes.max()] if n else []
+    labels = np.where(np.isin(labels, keep), labels, 0)  # specks go with the nearest stroke
+    if len(keep) < count:
+        return []
+    centres = sorted((ndimage.center_of_mass(solid, labels, k)[0], k) for k in keep)
+    n = len(centres)
+    gaps = sorted(range(n - 1), key=lambda i: centres[i + 1][0] - centres[i][0])[n - count:]
+    line_of = np.zeros(labels.max() + 1, np.int32)
+    line = 0
+    for i, (_, k) in enumerate(centres):
+        line_of[k] = line
+        line += i in gaps
+    nearest = ndimage.distance_transform_edt(labels == 0, return_distances=False, return_indices=True)
+    owner = line_of[labels[nearest[0], nearest[1]]]
+    return [_crop(np.where((owner == i)[..., None], img, 0).astype(img.dtype)) for i in range(count)]
+
+
 def _crop(art: np.ndarray) -> np.ndarray:
     x0, t, x1, b = content_box(art)
     return art[t:b, x0:x1]

@@ -123,3 +123,22 @@ def test_render_outer_rim_surrounds_stroke():
     assert tuple(row[solid[0], :3]) == (0, 255, 0)  # outermost pixel is the rim colour
     colours = {tuple(c) for c in art[art[..., 3] == 255][:, :3]}
     assert (0, 0, 255) in colours and (255, 0, 0) in colours
+
+
+def test_overlay_erase_tile_repeats_a_clean_strip_in_phase():
+    base = np.zeros((4, 40, 4), np.uint8)
+    base[..., 3] = 255
+    base[..., 0] = (np.arange(40) % 5) * 40   # pattern with period 5
+    base[1:3, 12:30, :3] = 255               # "text" over the pattern
+    out = textart.overlay(base, erase=[((10, 0, 35, 4), ("tile", 0, 10))])
+    assert (out[..., 0] == (np.arange(40) % 5) * 40).all() and (out[..., 1] == 0).all()
+
+
+def test_overlay_text_can_have_an_outer_rim():
+    base = np.zeros((40, 160, 4), np.uint8)
+    text = dict(text="가나", font=FONT, box=(4, 4, 156, 36), fill=(255, 255, 255),
+                stroke=(255, 255, 255), stroke_ratio=0.05, align="contain")
+    plain = textart.overlay(base, texts=[text])
+    rimmed = textart.overlay(base, texts=[dict(text, outer=(0, 0, 0), outer_ratio=0.1)])
+    dark = lambda img: ((img[..., 3] > 128) & (img[..., :3].max(2) < 60)).sum()
+    assert dark(plain) == 0 and dark(rimmed) > 0
