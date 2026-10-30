@@ -1152,8 +1152,8 @@
    "src_sha1": "c011482328ca7c09e81e9cea855be6e20684019a",
    "category": "전투 연출",
    "png": "ui/btl/char/jpn/btl_1sdw01_txt/00_gauge_1sdw01_text.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/char/jpn/btl_5mst01_txt.xfbin",
@@ -1165,8 +1165,8 @@
    "src_sha1": "a7512d3957e5577fa5134e8aad71fcb6844f74fb",
    "category": "전투 연출",
    "png": "ui/btl/char/jpn/btl_5mst01_txt/00_gauge_5mst01_text.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/char/jpn/btl_bdio.xfbin",
@@ -1178,8 +1178,8 @@
    "src_sha1": "21a414c3db81cc759236ed6fa9f3a9aa07ef5503",
    "category": "전투 연출",
    "png": "ui/btl/char/jpn/btl_bdio/00_tex00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/char/jpn/btl_bdio.xfbin",
@@ -1191,8 +1191,8 @@
    "src_sha1": "550e3b32c7435c6fe894d8976576e20bd34f3518",
    "category": "전투 연출",
    "png": "ui/btl/char/jpn/btl_bdio/01_tex01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "글자 없음"
   },
   {
    "file": "data/ui/btl/char/jpn/gauge_act.xfbin",
@@ -1204,8 +1204,8 @@
    "src_sha1": "bbfcec141cca366c574d46a533a6f7c80c6de413",
    "category": "전투 연출",
    "png": "ui/btl/char/jpn/gauge_act/00_gauge_act_level.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/char/jpn/gauge_act.xfbin",
@@ -1217,8 +1217,8 @@
    "src_sha1": "0574193a56d018e50d12f86baf3bc5b7996bae8d",
    "category": "전투 연출",
    "png": "ui/btl/char/jpn/gauge_act/01_gauge_act_number.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/char/jpn/gauge_hamon_all.xfbin",
@@ -1230,8 +1230,8 @@
    "src_sha1": "e67f9ce0511fe78e3d8b779bccfee21719528fb2",
    "category": "전투 연출",
    "png": "ui/btl/char/jpn/gauge_hamon_all/00_gauge_hamon_level.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/char/jpn/gauge_hamon_all.xfbin",
@@ -1243,8 +1243,8 @@
    "src_sha1": "db306018d96439af74e2c8f22ff11a335265b052",
    "category": "전투 연출",
    "png": "ui/btl/char/jpn/gauge_hamon_all/01_gauge_hamon_number.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/char/jpn/gauge_level.xfbin",
@@ -1256,8 +1256,8 @@
    "src_sha1": "9e2d9bf0c724b0332998a51f63b9f3465c2cfef2",
    "category": "전투 연출",
    "png": "ui/btl/char/jpn/gauge_level/00_gauge_level.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/char/jpn/gauge_level.xfbin",
@@ -1269,8 +1269,8 @@
    "src_sha1": "235ec4856e563c08475696ca10e5c6bed53acea0",
    "category": "전투 연출",
    "png": "ui/btl/char/jpn/gauge_level/01_gauge_number.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1283,7 +1283,10 @@
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/00_tex00.png",
    "state": "todo",
-   "note": ""
+   "note": "두 줄은 색만 다른 같은 글자",
+   "ko": "백어택!\n백어택!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1296,7 +1299,10 @@
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/01_tex01.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "콤보 브레이크!!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1309,7 +1315,10 @@
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/02_tex02.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "콤보 브레이크!!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1321,8 +1330,10 @@
    "src_sha1": "f5e1d2be6a30a9ce2c53b39bd2b73139da0cddcd",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/03_tex03.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "원본 동일(ui/adv/jpn/adv_crowd_txt/01_btl_combo_txt.png) 결과 복사",
+   "ko": "굿!\n그레이트!\n벨리시모\n디 몰토\n맘마미아!",
+   "maker": "reuse"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1335,7 +1346,10 @@
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/04_tex04.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "듀얼 콤보 모드",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1348,7 +1362,10 @@
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/05_tex05.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "듀얼 콤보 입력 가능!!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1361,7 +1378,10 @@
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/06_tex06.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "듀얼 도발!!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1374,7 +1394,10 @@
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/07_tex07.png",
    "state": "todo",
-   "note": ""
+   "note": "OH!MY!GOD! 는 영어 그대로, 아래 두 조각만 한글",
+   "ko": "OH!MY!GOD!\n굿!\n그레이트!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1387,7 +1410,10 @@
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/08_tex08.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "퍼스트 어택!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1399,8 +1425,11 @@
    "src_sha1": "4051bdbea4f1e7e95cd0e06be1b04e47f02fc06e",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/09_tex09.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "UI 메뉴 gauge_text/00 결과의 「이어지는 의지」 조각 재사용",
+   "ko": "이어지는 의지",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1413,7 +1442,10 @@
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/10_tex10.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "럭키",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1425,8 +1457,10 @@
    "src_sha1": "b5bcb857e10bd74faf773a77f1bbd84a62ae02a4",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/11_tex11.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "ko": "죠죠리티 달성!",
+   "maker": "auto"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1438,8 +1472,8 @@
    "src_sha1": "ac53289b2c791637f997ca136c43809e5c407de5",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/12_tex12.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "(仮) 임시 그림 — 텍스트 쪽 「(シングル挑発)この文書は仮のものです(翻訳不要)」"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1451,8 +1485,8 @@
    "src_sha1": "1e63a64649a51b0ed37c9ce19b7f89056d2f6ea2",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/13_tex13.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1465,7 +1499,10 @@
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/14_tex14.png",
    "state": "todo",
-   "note": ""
+   "note": "",
+   "ko": "콤보 피니시",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1477,8 +1514,8 @@
    "src_sha1": "fcb4847583c10fe301a8f07bf6ef5ca34c5cab77",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/15_tex15.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1490,8 +1527,8 @@
    "src_sha1": "21a414c3db81cc759236ed6fa9f3a9aa07ef5503",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/16_tex16.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1503,8 +1540,8 @@
    "src_sha1": "41b2251132527bb938e795ad9725dbe2ee0cff8c",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/17_tex17.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1516,8 +1553,8 @@
    "src_sha1": "00691d6720f0179bff92e16dc9ce538951b52da7",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/18_tex18.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1529,8 +1566,8 @@
    "src_sha1": "8995b5dd9c509213d1955bf0f24580e60999064d",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/19_tex19.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1543,7 +1580,10 @@
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/20_tex20.png",
    "state": "todo",
-   "note": ""
+   "note": "SITUATION FINISH!! 영어는 그대로, 초록 띠의 「可」能よ! 만 「가」능해!",
+   "ko": "SITUATION FINISH!! 「가」능해!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1555,8 +1595,8 @@
    "src_sha1": "1a8cf551b2621a9f54052d4f00c4aac5a67bf21f",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/21_tex21.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1568,8 +1608,8 @@
    "src_sha1": "44049d988cced9ad7505d4e8e5465a92a289e76f",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/22_tex22.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1582,7 +1622,10 @@
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/23_tex23.png",
    "state": "todo",
-   "note": ""
+   "note": "위의 작은 루비 リタイア → 리타이어",
+   "ko": "재기 불능!",
+   "maker": "gpt",
+   "gpt_group": "단독"
   },
   {
    "file": "data/ui/btl/jpn/btl_cmn_txt.xfbin",
@@ -1594,8 +1637,8 @@
    "src_sha1": "f03b2a242cca088dc2cc3615b5ea27783f418a55",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/24_tex24.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/jpn/btl_stand_txt.xfbin",
@@ -1607,8 +1650,10 @@
    "src_sha1": "f5e1d2be6a30a9ce2c53b39bd2b73139da0cddcd",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_stand_txt/00_btl_combo_txt.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "원본 동일(ui/adv/jpn/adv_crowd_txt/01_btl_combo_txt.png) 결과 복사",
+   "ko": "굿!\n그레이트!\n벨리시모\n디 몰토\n맘마미아!",
+   "maker": "reuse"
   },
   {
    "file": "data/ui/btl/jpn/btl_stand_txt.xfbin",
@@ -1620,8 +1665,8 @@
    "src_sha1": "8d4256fff64ea171301bceb1e9d303f8fa70b924",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_stand_txt/01_btl_situation_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "글자 없음(반짝임)"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1633,8 +1678,8 @@
    "src_sha1": "2e5ec56e284ae5770a66c7bdacaff465d59e1f0a",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/00_btl_startdemo_cardback.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "카드 그림"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1646,8 +1691,8 @@
    "src_sha1": "46f11faed38702ba5565cb33f63c28553b7bb4f9",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/01_btl_startdemo_cardeff.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "글자 없음"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1659,8 +1704,8 @@
    "src_sha1": "9dec397d4ab1159ddf4597641daa1b30d0b1b339",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/02_btl_startdemo_player00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1672,8 +1717,8 @@
    "src_sha1": "1171a071e4d73785617f48e8fda0fee09eba7c60",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/03_btl_startdemo_txt_a.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "카드 그림(영문자)"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1685,8 +1730,10 @@
    "src_sha1": "6e9f7c85c1b99d85a1a9a690f403a11e7c836a71",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/04_btl_startdemo_txt_chapter00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "원본 동일(ui/btlsel/vscmn/jpn/vscmn_txt/00_btlcmn_txt_chapter00.png) 결과 복사",
+   "ko": "팬텀 블러드\n전투조류\n스타더스트 크루세이더즈\n다이아몬드는 부서지지 않는다\n황금의 바람\n스톤 오션\n스틸 볼 런\n죠죠리온",
+   "maker": "reuse"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1698,8 +1745,8 @@
    "src_sha1": "b565f2e995ab3f2cc6765f06ee1243af921c074f",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/05_btl_startdemo_txt_e.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "카드 그림(영문자)"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1711,8 +1758,8 @@
    "src_sha1": "672ed831f87186cec6bebc6c30dfe4344844390c",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/06_btl_startdemo_txt_g.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "카드 그림(영문자)"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1724,8 +1771,8 @@
    "src_sha1": "83a949cb93b4e10fc9517abc358bf9ab9356c4c1",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/07_btl_startdemo_txt_h.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "카드 그림(영문자)"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1737,8 +1784,8 @@
    "src_sha1": "cb08b4e44676d2568675088298e8946068bec700",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/08_btl_startdemo_txt_m.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "카드 그림(영문자)"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1750,8 +1797,8 @@
    "src_sha1": "1c7ced96c6c3f175037224a4d5ec36b5037b4a24",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/09_btl_startdemo_txt_n.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "카드 그림(영문자)"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1763,8 +1810,8 @@
    "src_sha1": "56596b1bf064c3df79421a6fdefbf76473f2c976",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/10_btl_startdemo_txt_o.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "카드 그림(영문자)"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1776,8 +1823,8 @@
    "src_sha1": "978d0efb65e28cf01dce6f030c07b1f9ef9fad93",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/11_btl_startdemo_txt_p.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "카드 그림(영문자)"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1789,8 +1836,8 @@
    "src_sha1": "3daaa2445ce8efde36eb12d7d46b6c501ae4dc53",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/12_btl_startdemo_txt_t.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "카드 그림(영문자)"
   },
   {
    "file": "data/ui/btl/result/jpn/result_txt.xfbin",
@@ -1802,8 +1849,8 @@
    "src_sha1": "7e4006d857b0f842e314e9820f3e966e580c4fe0",
    "category": "전투 연출",
    "png": "ui/btl/result/jpn/result_txt/00_result_draw.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/result/jpn/result_txt.xfbin",
@@ -1815,8 +1862,8 @@
    "src_sha1": "048f962280a29ae6740e0491f808388a52598f18",
    "category": "전투 연출",
    "png": "ui/btl/result/jpn/result_txt/01_result_rank_score_char.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/result/jpn/result_txt.xfbin",
@@ -1828,8 +1875,8 @@
    "src_sha1": "c7794145c92432f6ade4abb8243abe7d4b7d367a",
    "category": "전투 연출",
    "png": "ui/btl/result/jpn/result_txt/02_result_rank_title.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/result/jpn/result_txt.xfbin",
@@ -1841,8 +1888,8 @@
    "src_sha1": "e393ee5013b0138be9e0965927a0d56f581d3bb9",
    "category": "전투 연출",
    "png": "ui/btl/result/jpn/result_txt/03_result_youlose.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btl/result/jpn/result_txt.xfbin",
@@ -1854,8 +1901,8 @@
    "src_sha1": "e30ff3a26f5ee7326dc014358b67e79b447029e7",
    "category": "전투 연출",
    "png": "ui/btl/result/jpn/result_txt/04_result_youwin.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "영어·숫자"
   },
   {
    "file": "data/ui/btlsel/csel/jpn/csel_txt.xfbin",

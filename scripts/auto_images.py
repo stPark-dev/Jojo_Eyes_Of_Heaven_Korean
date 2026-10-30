@@ -31,12 +31,13 @@ STYLES = {  # PNG path fragment -> render options (sizes are font px before fitt
     "cmn/jpn/cmn_txt/04_": dict(fill=((255, 255, 255), (255, 240, 40)), stroke=(230, 40, 220),
                                 stroke_ratio=0.09, shadow=(18, 27, (20, 10, 20))),
     "adv_poker_txt/03_": "sample",
+    "btl_cmn_txt/11_": "sample",
 }
 _SUBTITLE = dict(fill=WHITE, stroke=(150, 30, 180), stroke_ratio=0.1, shadow=(10, 10, BLACK))
 _MENU = ("customize_txt/", "gallery_txt/", "freebtl_txt/", "shop_txt/")  # purple subtitles
 STYLES.update({key: _SUBTITLE for key in _MENU})
 # PNG path fragment -> font (gothic originals) / line alignment; else FONT / center
-FONTS = {key: ROUND for key in _MENU + ("supportitem_menu_txt/",)}
+FONTS = {key: ROUND for key in _MENU + ("supportitem_menu_txt/", "btl_cmn_txt/11_")}
 ALIGNS = {key: "left" for key in _MENU}
 _RIM = dict(stroke=(70, 48, 22), stroke_ratio=0.09, outer=(255, 255, 255), outer_ratio=0.05)
 _SILVER = dict(_RIM, fill=((255, 255, 255), (140, 140, 150)))
