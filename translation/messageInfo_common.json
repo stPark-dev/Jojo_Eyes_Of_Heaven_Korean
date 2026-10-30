@@ -71441,9 +71441,9 @@
   {
    "id": "0x3e561d63",
    "src_sha1": "8f721a914e4e2e0e50fef9b3be07a7d3a143fd5c",
-   "ko": "플레이어 카드 대지",
+   "ko": "플레이어 카드 배경",
    "state": "needs_review",
-   "note": "초안(Claude)."
+   "note": "초안(Claude). / 台紙→배경 (2026-10-30 사용자 결정)"
   },
   {
    "id": "0x3a9700d4",
@@ -71987,9 +71987,9 @@
   {
    "id": "0x598bade6",
    "src_sha1": "f7d90146c5147acce63d62792104dcf9837a9048",
-   "ko": "카드 대지 선택",
+   "ko": "카드 배경 선택",
    "state": "needs_review",
-   "note": "초안(Claude)."
+   "note": "초안(Claude). / 台紙→배경 (2026-10-30 사용자 결정)"
   },
   {
    "id": "0x54c88b3f",
@@ -72267,9 +72267,9 @@
   {
    "id": "0x004b0939",
    "src_sha1": "78109686bedfa829e27baa7899f18d52a13c5bee",
-   "ko": "카드 대지",
+   "ko": "카드 배경",
    "state": "needs_review",
-   "note": "초안(Claude)."
+   "note": "초안(Claude). / 台紙→배경 (2026-10-30 사용자 결정)"
   },
   {
    "id": "0x0d082fe0",
@@ -72407,9 +72407,9 @@
   {
    "id": "0x723fc5b5",
    "src_sha1": "20069668b404c7b8b0297766f0b4f22961882d2a",
-   "ko": "플레이어 카드의 대지를 변경할 수 있습니다.",
+   "ko": "플레이어 카드의 배경을 변경할 수 있습니다.",
    "state": "needs_review",
-   "note": "초안(Claude)."
+   "note": "초안(Claude). / 台紙→배경 (2026-10-30 사용자 결정)"
   },
   {
    "id": "0x7f7ce36c",
@@ -72666,9 +72666,9 @@
   {
    "id": "0xb4fbcab0",
    "src_sha1": "78109686bedfa829e27baa7899f18d52a13c5bee",
-   "ko": "카드 대지",
+   "ko": "카드 배경",
    "state": "needs_review",
-   "note": "초안(Claude)."
+   "note": "초안(Claude). / 台紙→배경 (2026-10-30 사용자 결정)"
   },
   {
    "id": "0x4d4fe3db",
@@ -73555,9 +73555,9 @@
   {
    "id": "0x1806c988",
    "src_sha1": "80b0e70cb4540ccb4b9010959c65052468e906ae",
-   "ko": "플레이어 카드　대지 구입",
+   "ko": "플레이어 카드　배경 구입",
    "state": "needs_review",
-   "note": "초안(Claude)."
+   "note": "초안(Claude). / 台紙→배경 (2026-10-30 사용자 결정)"
   },
   {
    "id": "0xe8d6f85b",
@@ -73632,9 +73632,9 @@
   {
    "id": "0xac60c46e",
    "src_sha1": "b3f38b89b1bcdd75461895114928d1220914aa96",
-   "ko": "플레이어 카드에 설정할 수 있는 대지를 구입합니다.",
+   "ko": "플레이어 카드에 설정할 수 있는 배경을 구입합니다.",
    "state": "needs_review",
-   "note": "초안(Claude)."
+   "note": "초안(Claude). / 台紙→배경 (2026-10-30 사용자 결정)"
   },
   {
    "id": "0x5cb0f5bd",
@@ -73975,9 +73975,9 @@
   {
    "id": "0x7cb0aa27",
    "src_sha1": "a9e13b17eee1dbc56bb64c2cc8c65f3dae5ab380",
-   "ko": "대지",
+   "ko": "배경",
    "state": "needs_review",
-   "note": "초안(Claude)."
+   "note": "초안(Claude). / 台紙→배경 (2026-10-30 사용자 결정)"
   },
   {
    "id": "0x8c609bf4",
@@ -74101,9 +74101,9 @@
   {
    "id": "0xa5a2db25",
    "src_sha1": "662046411bb6b8dfecd89cae91bc9d3afd6b63c5",
-   "ko": "플레이어 카드에 설정할 수 있는 대지를 구입합니다.",
+   "ko": "플레이어 카드에 설정할 수 있는 배경을 구입합니다.",
    "state": "needs_review",
-   "note": "초안(Claude)."
+   "note": "초안(Claude). / 台紙→배경 (2026-10-30 사용자 결정)"
   },
   {
    "id": "0x5572eaf6",

@@ -31,7 +31,11 @@ STYLES = {  # PNG path fragment -> render options (sizes are font px before fitt
     "cmn/jpn/cmn_txt/04_": dict(fill=((255, 255, 255), (255, 240, 40)), stroke=(230, 40, 220),
                                 stroke_ratio=0.09, shadow=(18, 27, (20, 10, 20))),
     "adv_poker_txt/03_": "sample",
+    "customize_txt/02_": dict(fill=WHITE, stroke=(150, 30, 180), stroke_ratio=0.1,
+                              shadow=(10, 10, BLACK)),
 }
+FONTS = {"customize_txt/": ROUND}  # PNG path fragment -> font (gothic originals); else FONT
+ALIGNS = {"customize_txt/": "left"}  # PNG path fragment -> line alignment; else center
 _RIM = dict(stroke=(70, 48, 22), stroke_ratio=0.09, outer=(255, 255, 255), outer_ratio=0.05)
 _SILVER = dict(_RIM, fill=((255, 255, 255), (140, 140, 150)))
 _BLUE = dict(_RIM, fill=((255, 255, 240), (80, 200, 230)))
@@ -78,6 +82,14 @@ def style(png: str, orig: np.ndarray | None = None) -> dict:
     raise SystemExit(f"{png}: 스타일 없음 (STYLES에 추가)")
 
 
+def font_for(png: str) -> Path:
+    return next((f for key, f in FONTS.items() if key in png), FONT)
+
+
+def align_for(png: str) -> str:
+    return next((a for key, a in ALIGNS.items() if key in png), "center")
+
+
 def styled_lines(orig: np.ndarray, lines: list[str], styles: list[dict]) -> np.ndarray:
     boxes = artfit.row_boxes(orig, count=len(lines))
     arts = [textart.render(t, FONT, 160, **st) for t, st in zip(lines, styles)]
@@ -117,8 +129,10 @@ def main() -> None:
         elif e["png"] in LINE_STYLES:
             img = styled_lines(orig, e["ko"].split("\n"), LINE_STYLES[e["png"]])
         else:
-            lines = [textart.render(t, FONT, 160, **style(e["png"], orig)) for t in e["ko"].split("\n")]
-            img = textart.compose(lines, e["width"], e["height"], textart.line_boxes(orig))
+            lines = [textart.render(t, font_for(e["png"]), 160, **style(e["png"], orig))
+                     for t in e["ko"].split("\n")]
+            img = textart.compose(lines, e["width"], e["height"], textart.line_boxes(orig),
+                                  align=align_for(e["png"]))
         dst.parent.mkdir(parents=True, exist_ok=True)
         Image.fromarray(img, "RGBA").save(dst)
         e["state"] = "needs_review"
