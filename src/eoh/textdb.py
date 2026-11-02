@@ -158,3 +158,21 @@ def import_rows(store: dict, rows, allow_eligible: bool = False):
     if problems:
         raise TranslationError("\n".join(problems))
     return out, {"updated": updated, "skipped": skipped}
+
+
+def promote(store: dict, reviewed_by: str, keep_reason: str) -> dict:
+    """Release decision on a copy of store: reviewed lines become distribution_eligible, lines
+    left untranslated ship their source (keep_source=keep_reason). Lines still waiting for a
+    person (needs_human_review, in_progress) stop it."""
+    out = copy.deepcopy(store)
+    waiting = [f"{e['id']}: 아직 검수 대기 ({e['state']})" for e in out["entries"]
+               if e["state"] in ("needs_human_review", "in_progress")]
+    if waiting:
+        raise TranslationError("\n".join(waiting))
+    for e in out["entries"]:
+        if e["state"] == "needs_review":
+            e.update(state="distribution_eligible",
+                     note=f"{e.get('note', '')} 배포 승인: {reviewed_by}.".strip())
+        elif e["state"] == "untranslated" and not e["ko"]:
+            e.update(state="distribution_eligible", keep_source=keep_reason)
+    return out

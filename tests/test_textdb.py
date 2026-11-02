@@ -192,3 +192,28 @@ def test_import_cannot_mark_distribution_eligible_or_touch_keep_source():
     store["entries"][0].update(state="distribution_eligible", keep_source="의성어")
     with pytest.raises(textdb.TranslationError, match="원문 유지"):
         textdb.import_rows(store, [_row(0, "ドン", "쿵")])
+
+
+# --- release promotion ------------------------------------------------------------------
+
+def _promo_store(*entries):
+    return {"file": FILE, "entries": [dict(id=f"0x{i}", src_sha1="s", note="", **e)
+                                      for i, e in enumerate(entries)]}
+
+
+def test_promote_marks_reviewed_lines_eligible_and_keeps_placeholders_as_source():
+    store = _promo_store(dict(ko="가", state="needs_review"), dict(ko="", state="untranslated"),
+                   dict(ko="", state="distribution_eligible", keep_source="의성어"))
+    out = textdb.promote(store, reviewed_by="GPT 검수", keep_reason="개발용 자리 문구")
+    a, b, c = out["entries"]
+    assert a["state"] == "distribution_eligible" and a["ko"] == "가"
+    assert b["state"] == "distribution_eligible" and b["keep_source"] == "개발용 자리 문구"
+    assert c == store["entries"][2]
+    assert store["entries"][0]["state"] == "needs_review"  # input untouched
+    assert "배포 승인: GPT 검수" in a["note"]
+
+
+def test_promote_refuses_lines_still_waiting_for_a_person():
+    store = _promo_store(dict(ko="가", state="needs_human_review"), dict(ko="", state="in_progress"))
+    with pytest.raises(textdb.TranslationError, match="0x0.*\n.*0x1"):
+        textdb.promote(store, reviewed_by="x", keep_reason="y")

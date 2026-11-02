@@ -1,0 +1,23 @@
+죠죠의 기묘한 모험 아이즈 오브 헤븐 한글 패치 v{{VERSION}}
+
+지원: 일본판 BLJS10318 / 공식 업데이트 1.05 / RPCS3 (Windows, Linux)
+
+[Windows]
+1. ZIP을 완전히 풉니다.
+2. 게임을 저장하고 RPCS3를 완전히 종료합니다.
+3. install.bat을 실행합니다.
+4. 1(설치)을 입력하고 dev_hdd0가 들어 있는 RPCS3 폴더를 고릅니다.
+5. "설치 완료"가 나오면 게임을 실행합니다.
+
+[Linux]  xdelta3가 필요합니다 (sudo apt install xdelta3)
+  sh install.sh install ~/.config/rpcs3
+
+[되돌리기]
+  Windows: install.bat 실행 후 3(복원)
+  Linux:   sh install.sh restore ~/.config/rpcs3
+
+patch/5 폴더의 data.cpk.before-eoh-ko 와 eoh-ko-state.txt 는
+복원에 필요하니 지우지 마세요.
+
+자세한 내용과 문제 해결은 README.md를 보세요.
+게임 파일과 함께 배포하지 마세요. 제작: {{AUTHOR}}

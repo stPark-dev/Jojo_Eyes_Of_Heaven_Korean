@@ -90,7 +90,12 @@
    "msg_ids": [
     "0x2fcc8308"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "윌 A. 체펠리",
+    "reason": "애니북스 1부 챕터 제목 「흉인 잭 & 기인 체펠리」에서 성만 확인되며 이름과 중간 이니셜의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0004",
@@ -241,7 +246,12 @@
    "msg_ids": [
     "0xfe690f33"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "시저 안토니오 체펠리",
+    "reason": "애니북스 2부 「시저, 마지막 파문」과 1부 「기인 체펠리」에서 일부 표기가 확인되지만 안토니오의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0010",
@@ -341,7 +351,12 @@
    "msg_ids": [
     "0x6f7618dc"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "카즈(궁극생물)",
+    "reason": "애니북스 2부 챕터 제목 「JOJO vs 궁극생물」과 「카즈 ‘빛의 모드’」에서 각 구성 요소는 확인되지만 게임 원문의 究極生命体를 궁극생물로 옮긴 정확한 복합 표기는 미확인."
+   }
   },
   {
    "id": "T0014",
@@ -351,7 +366,7 @@
    "alt": [
     "궁극 생물 카즈"
    ],
-   "state": "unresolved",
+   "state": "approved",
    "evidence": [
     {
      "edition": "애니북스",
@@ -367,13 +382,23 @@
      "edition": "애니북스",
      "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_2_Volumes",
      "quote": "JOJO VS 궁극생물"
+    },
+    {
+     "edition": "GPT 검수",
+     "url": "",
+     "quote": "애니북스 2부 챕터 제목 「JOJO vs 궁극생물」과 「카즈 ‘빛의 모드’」에서 두 구성 요소의 정발 표기가 확인되며 원문의 의미와 일치한다."
     }
    ],
-   "note": "정발 용어 '궁극생물' + '카즈'.",
+   "note": "정발 용어 '궁극생물' + '카즈'. [사용자 승인 2026-11-02: GPT 검수 근거(책 소개·목차·챕터 제목), 본문 미확인]",
    "msg_ids": [
     "0x7365d039"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "승인",
+    "ko": "궁극생물 카즈",
+    "reason": "애니북스 2부 챕터 제목 「JOJO vs 궁극생물」과 「카즈 ‘빛의 모드’」에서 두 구성 요소의 정발 표기가 확인되며 원문의 의미와 일치한다."
+   }
   },
   {
    "id": "T0015",
@@ -459,7 +484,12 @@
    "msg_ids": [
     "0xee143bce"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "노년 죠셉 죠스타",
+    "reason": "애니북스 3부 책소개에서 「죠셉 죠스타」는 확인되지만 老를 노년으로 표기하는 공식 캐릭터 구분명은 미확인."
+   }
   },
   {
    "id": "T0019",
@@ -482,7 +512,12 @@
    "msg_ids": [
     "0xf207f32b"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "노년 죠셉",
+    "reason": "애니북스 3부 책소개에서 죠셉은 확인되지만 「노년 죠셉」이라는 게임용 구분명의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0020",
@@ -578,7 +613,12 @@
    "msg_ids": [
     "0xbbd5f146"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "장 피에르 폴나레프",
+    "reason": "애니북스 3부 책소개에서 폴나레프는 확인되지만 장 피에르를 포함한 전체 인명의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0024",
@@ -800,7 +840,12 @@
     "0xc820030c",
     "0xd433cbe9"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "오토이시 아키라",
+    "reason": "제공된 근거는 나무위키의 통용 표기뿐이며 애니북스 4부 단행본 본문에 실린 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0034",
@@ -870,7 +915,12 @@
     "0x8b126bef",
     "0x9701a30a"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "카와지리 코사쿠",
+    "reason": "애니북스 4부 책소개에서 카와지리라는 성은 확인되지만 코사쿠를 포함한 전체 인명의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0037",
@@ -989,7 +1039,12 @@
    "msg_ids": [
     "0x48658dd6"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "귀도 미스타",
+    "reason": "애니북스 5부 책소개에서 미스타는 확인되지만 귀도와 구이도 중 어느 표기가 정발판에 쓰였는지는 미확인."
+   }
   },
   {
    "id": "T0042",
@@ -1073,7 +1128,12 @@
    "msg_ids": [
     "0x485c1a20"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "판나코타 푸고",
+    "reason": "제공된 근거에는 애니북스 5부 단행본의 전체 인명 표기가 없어 정발 미확인."
+   }
   },
   {
    "id": "T0046",
@@ -1087,7 +1147,12 @@
    "msg_ids": [
     "0x544fd2c5"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "푸고",
+    "reason": "T0045와 마찬가지로 애니북스 5부 단행본에서 푸고라는 표기를 확인할 직접 근거가 없어 보류한다."
+   }
   },
   {
    "id": "T0047",
@@ -1164,7 +1229,12 @@
    "msg_ids": [
     "0x241fd655"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "에르메스 코스텔로",
+    "reason": "애니북스 6부 책소개와 「에르메스의 씰 ①」에서 에르메스는 확인되지만 코스텔로의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0050",
@@ -1258,7 +1328,12 @@
    "msg_ids": [
     "0x2c3ee82a"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "엔리코 푸치",
+    "reason": "제공된 애니북스 6부 책소개는 해당 인물을 신부로 지칭할 뿐 전체 인명을 제시하지 않아 정발 미확인."
+   }
   },
   {
    "id": "T0054",
@@ -1272,7 +1347,12 @@
    "msg_ids": [
     "0x302d20cf"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "푸치",
+    "reason": "애니북스 6부 책소개에서 이름 대신 신부라는 호칭만 확인되어 푸치의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0055",
@@ -1482,7 +1562,12 @@
    "msg_ids": [
     "0xbdefdbe4"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "로버트 E.O. 스피드왜건",
+    "reason": "애니북스 책소개에서 스피드왜건재단이라는 표기는 확인되지만 로버트 E.O.를 포함한 전체 이름의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0063",
@@ -1526,7 +1611,12 @@
    "msg_ids": [
     "0x0576ed25"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "루돌 폰 슈트로하임",
+    "reason": "애니북스 2부 챕터 제목 「슈트로하임의 각오」에서 성은 확인되지만 루돌 폰의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0065",
@@ -1736,7 +1826,12 @@
    "msg_ids": [
     "0x1ed4ddd4"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "웨더",
+    "reason": "애니북스 6부 책소개에서 「웨더 리포트」는 확인되지만 인물의 독립적인 약칭 「웨더」가 정발 본문에 쓰였는지는 미확인."
+   }
   },
   {
    "id": "T0074",
@@ -1796,7 +1891,12 @@
     "0x0963ebce",
     "0x1570232b"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "히가시카타 죠슈",
+    "reason": "문학동네 8부 『죠죠리온』의 단행본 본문에서 해당 전체 인명 표기를 확인하지 못해 보류한다."
+   }
   },
   {
    "id": "T0077",
@@ -1816,7 +1916,12 @@
    "msg_ids": [
     "0x10ea8910"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "여장 죠셉 죠스타",
+    "reason": "애니북스에서 기본 인명 죠셉 죠스타는 확인되지만 여장 상태를 포함한 게임용 복합 명칭은 정발 미확인."
+   }
   },
   {
    "id": "T0078",
@@ -1836,7 +1941,12 @@
    "msg_ids": [
     "0x0cf941f5"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "여장 죠셉",
+    "reason": "여장은 원문의 직접적인 번역이지만 애니북스 단행본에서 이 캐릭터 변형을 부르는 공식 명칭은 미확인."
+   }
   },
   {
    "id": "T0079",
@@ -1859,7 +1969,12 @@
     "0xb0ffbec3",
     "0xacec7626"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "4부 쿠죠 죠타로",
+    "reason": "애니북스 책소개에서 쿠죠 죠타로는 확인되지만 4부를 앞에 붙인 게임용 캐릭터 구분명의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0080",
@@ -1884,7 +1999,12 @@
     "0x9abc6cd6",
     "0x86afa433"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "6부 쿠죠 죠타로",
+    "reason": "기본 인명은 애니북스 책소개에서 확인되지만 6부를 붙인 게임용 구분명의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0081",
@@ -1898,7 +2018,12 @@
    "msg_ids": [
     "0xd0ded4ed"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "웨스 블루마린",
+    "reason": "제공된 근거는 나무위키의 통용 표기이며 애니북스 6부 단행본에 실린 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0082",
@@ -1912,7 +2037,12 @@
    "msg_ids": [
     "0xcccd1c08"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "웨스",
+    "reason": "웨스 블루마린의 이름 약칭이 애니북스 6부 본문에 어떻게 표기되었는지 미확인."
+   }
   },
   {
    "id": "T0083",
@@ -1937,7 +2067,12 @@
    "msg_ids": [
     "0x217dcef3"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "신월의 때를 기다리는 푸치",
+    "reason": "애니북스 6부 책소개와 챕터 제목 「신월의 때! 뉴 신부」에서 신월의 때는 확인되지만 푸치라는 이름과 전체 게임용 명칭은 정발 미확인."
+   }
   },
   {
    "id": "T0084",
@@ -1962,7 +2097,12 @@
    "msg_ids": [
     "0x3d6e0616"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "신월 푸치",
+    "reason": "애니북스의 「신월의 때! 뉴 신부」는 신월이라는 표현의 근거지만 「신월 푸치」라는 축약형은 정발 미확인."
+   }
   },
   {
    "id": "T0085",
@@ -1985,7 +2125,12 @@
    "msg_ids": [
     "0xd85015c5"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "평행 세계에서 온 디에고",
+    "reason": "애니북스 7부의 「말라붙은 강; 디에고 브란도」에서 디에고는 확인되지만 並行世界의 정발 번역과 전체 캐릭터 구분명은 미확인."
+   }
   },
   {
    "id": "T0086",
@@ -2013,7 +2158,12 @@
    "msg_ids": [
     "0xc443dd20"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "더 월드 디에고",
+    "reason": "애니북스 3부 책소개에서 「더 월드」와 7부에서 「디에고 브란도」는 각각 확인되지만 게임의 世界ディエゴ라는 합성 표기는 정발 미확인."
+   }
   },
   {
    "id": "T0087",
@@ -2039,7 +2189,12 @@
     "0xc45fd201",
     "0xc91cf4d8"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "천국에 도달한 DIO",
+    "reason": "애니북스 3부의 「DIO의 세계 ①」에서 DIO는 확인되지만 天国に到達した를 포함한 게임 고유의 캐릭터 명칭은 정발 미확인."
+   }
   },
   {
    "id": "T0088",
@@ -2065,7 +2220,12 @@
     "0xd84c1ae4",
     "0xd50f3c3d"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "천국 DIO",
+    "reason": "애니북스에서 DIO의 표기는 확인되지만 천국 DIO라는 게임용 축약 명칭은 정발 미확인."
+   }
   },
   {
    "id": "T0089",
@@ -2075,22 +2235,31 @@
    "alt": [
     "스타 플래티넘"
    ],
-   "state": "unresolved",
+   "state": "approved",
    "evidence": [
     {
      "edition": "애니북스",
      "url": "https://www.yes24.com/product/goods/33959517",
      "quote": "격돌하는 '스타 플래티나'와 '더 월드'! 마지막 승자는 과연 누구인가?!"
+    },
+    {
+     "edition": "GPT 검수",
+     "url": "",
+     "quote": "애니북스 3부 책소개에 「격돌하는 '스타 플래티나'와 '더 월드'!」라고 명시되어 있어 현재 표기와 정확히 일치한다."
     }
    ],
-   "note": "애니북스 3부 책소개.",
+   "note": "애니북스 3부 책소개. [사용자 승인 2026-11-02: GPT 검수 근거(책 소개·목차·챕터 제목), 본문 미확인]",
    "msg_ids": [
     "0x79a0ab22",
     "0x65b363c7"
    ],
    "confidence": "verified",
-   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "승인",
+    "ko": "스타 플래티나",
+    "reason": "애니북스 3부 책소개에 「격돌하는 '스타 플래티나'와 '더 월드'!」라고 명시되어 있어 현재 표기와 정확히 일치한다."
+   }
   },
   {
    "id": "T0090",
@@ -2107,7 +2276,12 @@
    ],
    "confidence": "unverified",
    "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "허밋 퍼플",
+    "reason": "제공된 정발 근거가 없고 나무위키의 통용 표기만 확보된 상태이므로 애니북스 3부 본문 확인 전에는 보류한다."
+   }
   },
   {
    "id": "T0091",
@@ -2126,7 +2300,12 @@
    ],
    "confidence": "unverified",
    "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "매지션즈 레드",
+    "reason": "애니북스 3부 단행본에서 매지션즈와 매지션스 중 어느 표기를 사용했는지 직접 확인되지 않아 보류한다."
+   }
   },
   {
    "id": "T0092",
@@ -2146,7 +2325,12 @@
    ],
    "confidence": "unverified",
    "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "하이어로팬트 그린",
+    "reason": "통용 표기에는 하이어로팬트와 하이어로펀트가 혼재하며 애니북스 3부 본문의 정확한 표기가 미확인."
+   }
   },
   {
    "id": "T0093",
@@ -2154,7 +2338,7 @@
    "category": "stand",
    "ko": "실버 채리엇",
    "alt": [],
-   "state": "unresolved",
+   "state": "approved",
    "evidence": [
     {
      "edition": "애니북스",
@@ -2165,16 +2349,25 @@
      "edition": "애니북스",
      "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
      "quote": "실버 채리엇 ①"
+    },
+    {
+     "edition": "GPT 검수",
+     "url": "",
+     "quote": "애니북스 3부 21권 책소개 「실버 채리엇의 이도류」와 챕터 제목 「실버 채리엇 ①」에서 정확히 확인된다."
     }
    ],
-   "note": "애니북스 3부 21권 책소개 및 챕터 제목.",
+   "note": "애니북스 3부 21권 책소개 및 챕터 제목. [사용자 승인 2026-11-02: GPT 검수 근거(책 소개·목차·챕터 제목), 본문 미확인]",
    "msg_ids": [
     "0x68bd2372",
     "0x74aeeb97"
    ],
    "confidence": "verified",
-   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "승인",
+    "ko": "실버 채리엇",
+    "reason": "애니북스 3부 21권 책소개 「실버 채리엇의 이도류」와 챕터 제목 「실버 채리엇 ①」에서 정확히 확인된다."
+   }
   },
   {
    "id": "T0094",
@@ -2182,22 +2375,31 @@
    "category": "stand",
    "ko": "더 풀",
    "alt": [],
-   "state": "unresolved",
+   "state": "approved",
    "evidence": [
     {
      "edition": "애니북스",
      "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
      "quote": "'더 풀' 이기와 '게브' 은두루 ①"
+    },
+    {
+     "edition": "GPT 검수",
+     "url": "",
+     "quote": "애니북스 3부 챕터 제목 「'더 풀' 이기와 '게브' 은두루 ①」에서 현재 스탠드명 표기를 직접 확인할 수 있다."
     }
    ],
-   "note": "3부 챕터 제목(원제 愚者のイギーとゲブ神のンドゥール). (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간)",
+   "note": "3부 챕터 제목(원제 愚者のイギーとゲブ神のンドゥール). (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간) [사용자 승인 2026-11-02: GPT 검수 근거(책 소개·목차·챕터 제목), 본문 미확인]",
    "msg_ids": [
     "0x8958eadd",
     "0x954b2238"
    ],
    "confidence": "verified",
-   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "승인",
+    "ko": "더 풀",
+    "reason": "애니북스 3부 챕터 제목 「'더 풀' 이기와 '게브' 은두루 ①」에서 현재 스탠드명 표기를 직접 확인할 수 있다."
+   }
   },
   {
    "id": "T0095",
@@ -2214,7 +2416,12 @@
    ],
    "confidence": "unverified",
    "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "크림",
+    "reason": "애니북스 3부의 바닐라 아이스 관련 챕터 제목만으로는 스탠드명 크림을 확인할 수 없어 정발 미확인."
+   }
   },
   {
    "id": "T0096",
@@ -2222,7 +2429,7 @@
    "category": "stand",
    "ko": "더 월드",
    "alt": [],
-   "state": "unresolved",
+   "state": "approved",
    "evidence": [
     {
      "edition": "애니북스",
@@ -2233,16 +2440,25 @@
      "edition": "애니북스",
      "url": "https://m.yes24.com/goods/detail/33959517",
      "quote": "격돌하는 '스타 플래티나'와 '더 월드'! 마지막 승자는 과연 누구인가?!"
+    },
+    {
+     "edition": "GPT 검수",
+     "url": "",
+     "quote": "애니북스 3부 27·28권 책소개에서 DIO의 스탠드명 「더 월드」가 직접 확인된다."
     }
    ],
-   "note": "애니북스 27·28권 책소개. 28권 문구는 3부 세트 페이지에서 확인함.",
+   "note": "애니북스 27·28권 책소개. 28권 문구는 3부 세트 페이지에서 확인함. [사용자 승인 2026-11-02: GPT 검수 근거(책 소개·목차·챕터 제목), 본문 미확인]",
    "msg_ids": [
     "0x4d42e764",
     "0x51512f81"
    ],
    "confidence": "verified",
-   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "승인",
+    "ko": "더 월드",
+    "reason": "애니북스 3부 27·28권 책소개에서 DIO의 스탠드명 「더 월드」가 직접 확인된다."
+   }
   },
   {
    "id": "T0097",
@@ -2283,7 +2499,12 @@
     "0x8958cfcb",
     "0x954b072e"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "더 핸드",
+    "reason": "애니북스 4부의 니지무라 형제 관련 챕터 제목에서는 스탠드명이 확인되지 않으므로 정발 미확인."
+   }
   },
   {
    "id": "T0099",
@@ -2325,7 +2546,12 @@
     "0xe658df34",
     "0xfa4b17d1"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "에코즈 ACT1",
+    "reason": "애니북스 4부 「히로세 코이치(에코즈) ①」에서 기본명은 확인되지만 ACT1이라는 단계 표기 방식은 정발 미확인."
+   }
   },
   {
    "id": "T0101",
@@ -2346,7 +2572,12 @@
     "0xe299c283",
     "0xfe8a0a66"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "에코즈 ACT2",
+    "reason": "에코즈라는 기본명은 애니북스 4부에서 확인되지만 ACT2와 ACT 2 중 정발 본문에 쓰인 표기가 미확인."
+   }
   },
   {
    "id": "T0102",
@@ -2367,7 +2598,12 @@
     "0xefdae45a",
     "0xf3c92cbf"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "에코즈 ACT3",
+    "reason": "애니북스 4부에서 에코즈라는 표기는 확인되지만 ACT3의 정확한 표기 방식은 정발 미확인."
+   }
   },
   {
    "id": "T0103",
@@ -2382,7 +2618,12 @@
     "0xd5f15c7a",
     "0xc9e2949f"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "헤븐즈 도어",
+    "reason": "제공된 자료에는 애니북스 4부의 해당 스탠드명 직접 인용이 없어 정발 미확인."
+   }
   },
   {
    "id": "T0104",
@@ -2446,7 +2687,12 @@
     "0xf826bfb7",
     "0xe4357752"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "킬러 퀸",
+    "reason": "애니북스 4부의 시어하트 어택 및 바이츠 더 더스트 챕터 제목은 킬러 퀸의 정확한 표기를 확인하는 근거가 되지 못하므로 보류한다."
+   }
   },
   {
    "id": "T0107",
@@ -2495,7 +2741,12 @@
     "0x06d884bc",
     "0x1acb4c59"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "골드 E 레퀴엠",
+    "reason": "애니북스 5부 63권 챕터 제목 「골드 익스피리언스 레퀴엠 ①」에서 정식명은 확인되지만 게임 원문의 축약형 골드 E 레퀴엠이 정발 본문에 쓰였는지는 미확인."
+   }
   },
   {
    "id": "T0109",
@@ -2510,7 +2761,12 @@
     "0x70df0ead",
     "0x6cccc648"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "스티키 핑거즈",
+    "reason": "애니북스 5부 단행본에 실린 정확한 스탠드명 표기를 확인하지 못했으므로 통용 표기를 임의 승인하지 않는다."
+   }
   },
   {
    "id": "T0110",
@@ -2651,7 +2907,12 @@
     "0x8406dc94",
     "0x98151471"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "다이버 다운",
+    "reason": "애니북스 6부 단행본에서 다이버 다운의 직접적인 표기 근거가 확보되지 않아 보류한다."
+   }
   },
   {
    "id": "T0117",
@@ -2773,7 +3034,12 @@
     "0xe347127c",
     "0xff54da99"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "터스크 ACT1",
+    "reason": "애니북스 7부 「송곳니(터스크) ①」에서 기본명은 확인되지만 ACT1이라는 단계 표기는 정발 미확인."
+   }
   },
   {
    "id": "T0122",
@@ -2799,7 +3065,12 @@
     "0xee0434a5",
     "0xf217fc40"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "터스크 ACT2",
+    "reason": "애니북스 7부에서 터스크라는 이름은 확인되지만 ACT2의 띄어쓰기 및 표기 방식은 정발 미확인."
+   }
   },
   {
    "id": "T0123",
@@ -2825,7 +3096,12 @@
     "0xeac52912",
     "0xf6d6e1f7"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "터스크 ACT3",
+    "reason": "애니북스 7부에서 기본명 터스크는 확인되지만 ACT3이라는 복합 표기는 정발 미확인."
+   }
   },
   {
    "id": "T0124",
@@ -2851,7 +3127,12 @@
     "0xf4827917",
     "0xe891b1f2"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "터스크 ACT4",
+    "reason": "애니북스 7부 챕터 제목은 터스크만 확인하므로 ACT4의 정발 표기를 확정할 수 없다."
+   }
   },
   {
    "id": "T0125",
@@ -2922,7 +3203,12 @@
     "0xdf1f6bee",
     "0xc30ca30b"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "소프트&웨트",
+    "reason": "문학동네 8부 『죠죠리온』 본문에서 소프트&웨트와 소프트 앤 웨트 중 어떤 표기를 사용했는지 미확인."
+   }
   },
   {
    "id": "T0128",
@@ -2948,7 +3234,12 @@
    ],
    "confidence": "verified",
    "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "게브 신",
+    "reason": "애니북스 3부 챕터 제목에는 「게브」만 확인되며 본문의 「게브 신」은 정발 미확인으로, 신을 붙이는 사용자 결정에 따라 현행 후보를 유지한다."
+   }
   },
   {
    "id": "T0129",
@@ -2973,7 +3264,12 @@
    ],
    "confidence": "verified",
    "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "바스테트 여신",
+    "reason": "애니북스 3부 챕터 제목에는 「바스테트」만 확인되며 「바스테트 여신」이라는 본문 표기는 정발 미확인으로, 사용자 결정에 따라 현행 후보를 유지한다."
+   }
   },
   {
    "id": "T0130",
@@ -3004,7 +3300,12 @@
    ],
    "confidence": "derived",
    "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "호루스 신",
+    "reason": "제공된 챕터 제목에서 호루스 자체의 표기를 확인할 수 없으며 신을 붙이는 표기는 사용자 결정이므로 정발 근거 확보 전까지 보류한다."
+   }
   },
   {
    "id": "T0131",
@@ -3019,7 +3320,12 @@
     "0xf871e2cf",
     "0xe4622a2a"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "러브 디럭스",
+    "reason": "애니북스 4부 「야마기시 유카코는 사랑을 한다」에서는 스탠드명이 확인되지 않으므로 정발 미확인."
+   }
   },
   {
    "id": "T0132",
@@ -3097,7 +3403,12 @@
     "0x2bc54c55",
     "0x37d684b0"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "냇 킹 콜",
+    "reason": "문학동네 8부 『죠죠리온』의 단행본 본문에서 해당 스탠드명의 정확한 한국어 표기를 확인하지 못했다."
+   }
   },
   {
    "id": "T0136",
@@ -3118,7 +3429,12 @@
     "0xbd8c1648",
     "0xa19fdead"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "스기모토 레이미",
+    "reason": "애니북스 4부 44권 책소개에서 레이미라는 이름은 확인되지만 스기모토라는 성의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0137",
@@ -3141,7 +3457,12 @@
     "0x4f1999ae",
     "0x530a514b"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "도나텔로 베르사스",
+    "reason": "애니북스 6부 14권 책소개에서 베르사스라는 성은 확인되지만 도나텔로와 돈나텔로 중 이름의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0138",
@@ -3162,7 +3483,12 @@
     "0x11d375d0",
     "0x0dc0bd35"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "스티븐 스틸",
+    "reason": "애니북스 『스틸 볼 런』 9권 책소개에서 「스틸」은 확인되지만 「스티븐」을 포함한 전체 이름의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0139",
@@ -3177,7 +3503,12 @@
     "0x0d8de696",
     "0x119e2e73"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "미야모토 테루노스케",
+    "reason": "애니북스 4부 43권의 「소년 이니그마」라는 챕터 제목만으로는 전체 인명을 확인할 수 없어 정발 미확인."
+   }
   },
   {
    "id": "T0140",
@@ -3198,7 +3529,12 @@
     "0xf668ebda",
     "0xea7b233f"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "링고 로드어게인",
+    "reason": "애니북스 『스틸 볼 런』 9권 책소개에서 「링고」는 확인되지만 「로드어게인」을 포함한 전체 이름은 정발 미확인."
+   }
   },
   {
    "id": "T0141",
@@ -3213,7 +3549,12 @@
     "0x3b4da154",
     "0x275e69b1"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "메시나",
+    "reason": "애니북스 2부 단행본의 본문이나 목차에서 해당 파문 사범의 이름을 확인할 근거가 없어 정발 미확인."
+   }
   },
   {
    "id": "T0142",
@@ -3228,7 +3569,12 @@
     "0x2d580c66",
     "0x314bc483"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "로긴스",
+    "reason": "애니북스 2부 단행본에서 해당 파문 사범의 이름을 직접 확인하지 못해 정발 미확인."
+   }
   },
   {
    "id": "T0143",
@@ -3274,7 +3620,12 @@
     "0xc20392d8",
     "0xde105a3d"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "왕 첸",
+    "reason": "원문 ワンチェン의 음역 후보로 적절하지만 애니북스 1부 본문에서 왕 첸과 완첸 중 어느 표기가 사용되었는지 미확인."
+   }
   },
   {
    "id": "T0145",
@@ -3305,7 +3656,12 @@
     "0x98abfa5a",
     "0x84b832bf"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "테렌스 T. 다비",
+    "reason": "애니북스 3부 「다비 더 플레이어」와 25권 책소개에서 성은 확인되지만 테렌스와 중간 이니셜을 포함한 전체 이름은 정발 미확인."
+   }
   },
   {
    "id": "T0146",
@@ -3369,7 +3725,12 @@
     "0x193168ac",
     "0x0522a049"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "레오네 아바키오",
+    "reason": "애니북스 5부 단행본의 책소개 및 목차에서 직접적인 인명 표기가 확인되지 않아 정발 미확인."
+   }
   },
   {
    "id": "T0149",
@@ -3384,7 +3745,12 @@
     "0x32420e51",
     "0x2e51c6b4"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "기아초",
+    "reason": "애니북스 5부 55권의 「화이트 앨범」이라는 챕터 제목은 스탠드명만 확인하므로 기아초의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0150",
@@ -3415,7 +3781,12 @@
     "0x24fdc78a",
     "0x38ee0f6f"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "다니엘 J. 다비",
+    "reason": "애니북스 3부 「다비 더 갬블러」에서 성은 확인되지만 다니엘과 J.의 정확한 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0151",
@@ -3430,7 +3801,12 @@
     "0x7b4d2fbb",
     "0x675ee75e"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "멜로네",
+    "reason": "애니북스 5부 54권의 「베이비 페이스」라는 챕터 제목만으로는 사용자 멜로네의 인명 표기를 확인할 수 없다."
+   }
   },
   {
    "id": "T0152",
@@ -3454,7 +3830,12 @@
     "0xed3dd6c5",
     "0xf12e1e20"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "죠지 죠스타",
+    "reason": "애니북스 1부 책소개에서는 「죠스타 경」만 확인되며 죠지와 조지 중 어떤 이름 표기가 정발판에 사용되었는지 미확인."
+   }
   },
   {
    "id": "T0153",
@@ -3476,7 +3857,12 @@
    "msg_ids": [
     "0xa9bfd0c1"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "에리나 펜들턴",
+    "reason": "애니북스 1부 「사랑스러운 에리나」에서 이름은 확인되지만 펜들턴과 펜들튼 중 성의 정확한 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0154",
@@ -3511,7 +3897,12 @@
     "0x85f59326",
     "0x99e65bc3"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "다이어",
+    "reason": "일본어 ダイアー의 자연스러운 음역이지만 애니북스 1부의 직접적인 정발 표기 근거가 없다."
+   }
   },
   {
    "id": "T0156",
@@ -3549,7 +3940,12 @@
     "0x55c36881",
     "0x49d0a064"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "윌슨 필립스",
+    "reason": "애니북스 3부 단행본에서 해당 인물의 전체 이름을 확인할 직접적인 근거가 없어 정발 미확인."
+   }
   },
   {
    "id": "T0158",
@@ -3564,7 +3960,12 @@
     "0xc277f86d",
     "0xde643088"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "누케사쿠",
+    "reason": "일본어 ヌケサク는 얼간이라는 의미도 지니므로 애니북스 3부에서 음역했는지 의역했는지 확인이 필요하다."
+   }
   },
   {
    "id": "T0159",
@@ -3579,7 +3980,12 @@
     "0x202e2c98",
     "0x3c3de47d"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "데보",
+    "reason": "애니북스 3부 「데블」이라는 챕터 제목만으로는 스탠드 사용자 デーボ의 정발 인명 표기를 확인할 수 없다."
+   }
   },
   {
    "id": "T0160",
@@ -3594,7 +4000,12 @@
     "0x780754b3",
     "0x64149c56"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "저주의 인형",
+    "reason": "呪いの人形의 의미상 정확한 직역이지만 애니북스 3부에서 고유한 명칭으로 사용하는지는 확인되지 않았다."
+   }
   },
   {
    "id": "T0161",
@@ -3636,7 +4047,12 @@
     "0x04fd3f93",
     "0x18eef776"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "코바야시 타마미",
+    "reason": "애니북스 4부 31권 책소개에서 타마미는 확인되지만 코바야시라는 성을 포함한 전체 이름은 정발 미확인."
+   }
   },
   {
    "id": "T0163",
@@ -3674,7 +4090,12 @@
     "0x673bd4f3",
     "0x7b281c16"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "토니오 트루사르디",
+    "reason": "애니북스 4부의 「이탈리아 요리를 먹으러 가자」라는 챕터 제목에서는 인명이 확인되지 않으며 트루사르디와 트라사르디 중 본문 표기가 미확인."
+   }
   },
   {
    "id": "T0165",
@@ -3689,7 +4110,12 @@
     "0x337eb047",
     "0x2f6d78a2"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "펄 잼",
+    "reason": "일본어 パール・ジャム의 통용 음역이지만 애니북스 4부 단행본의 정확한 스탠드명 표기는 미확인."
+   }
   },
   {
    "id": "T0166",
@@ -3704,7 +4130,12 @@
     "0xc6a6700e",
     "0xdab5b8eb"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "오야나기 켄",
+    "reason": "애니북스 4부 40권의 「가위바위보 꼬마가 온다!」라는 챕터 제목에서는 등장인물의 이름을 확인할 수 없다."
+   }
   },
   {
    "id": "T0167",
@@ -3719,7 +4150,12 @@
     "0x3ac1bdf0",
     "0x26d27515"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "프로슈토",
+    "reason": "애니북스 5부의 「위대한 죽음(더 그레이트풀 데드)」에서는 스탠드명만 확인되므로 프로슈토의 인명 표기는 미확인."
+   }
   },
   {
    "id": "T0168",
@@ -3734,7 +4170,12 @@
     "0xf78a7e86",
     "0xeb99b663"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "페시",
+    "reason": "애니북스 5부 단행본에서 ペッシ의 이름을 직접 확인할 근거가 없어 정발 미확인."
+   }
   },
   {
    "id": "T0169",
@@ -3802,7 +4243,12 @@
     "0x4d07a8bf",
     "0x5114605a"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "F·F",
+    "reason": "애니북스 『스톤 오션』 10권 목차의 「F?F-목격자」는 구분 기호가 깨져 있어 실제로 F·F인지 F.F인지 확인되지 않는다."
+   }
   },
   {
    "id": "T0172",
@@ -3882,7 +4328,12 @@
     "0x51a64d55",
     "0x4db585b0"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "히로세 야스호",
+    "reason": "4부에서 히로세라는 성을 사용하는 것은 확인되지만 문학동네 『죠죠리온』 본문에 실린 야스호의 전체 이름은 미확인."
+   }
   },
   {
    "id": "T0176",
@@ -3909,7 +4360,12 @@
    "msg_ids": [
     "0x30ae3399"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "더 월드 오버 헤븐",
+    "reason": "게임 오리지널 스탠드이므로 만화 정발판의 완전한 대응 명칭이 없으며 더 월드라는 구성 요소만 문학동네 3부 책소개에서 확인된다: https://www.yes24.com/product/goods/113417928"
+   }
   },
   {
    "id": "T0177",
@@ -3917,21 +4373,30 @@
    "category": "stand",
    "ko": "저스티스",
    "alt": [],
-   "state": "unresolved",
+   "state": "approved",
    "evidence": [
     {
      "edition": "애니북스",
      "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
      "quote": "저스티스 ①"
+    },
+    {
+     "edition": "GPT 검수",
+     "url": "",
+     "quote": "애니북스 3부 17권의 챕터 제목 「저스티스 ①」에서 해당 스탠드명의 표기가 확인된다."
     }
    ],
-   "note": "3부 17권 챕터 제목. (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간)",
+   "note": "3부 17권 챕터 제목. (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간) [사용자 승인 2026-11-02: GPT 검수 근거(책 소개·목차·챕터 제목), 본문 미확인]",
    "msg_ids": [
     "0xed75f85c"
    ],
    "confidence": "verified",
-   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "승인",
+    "ko": "저스티스",
+    "reason": "애니북스 3부 17권의 챕터 제목 「저스티스 ①」에서 해당 스탠드명의 표기가 확인된다."
+   }
   },
   {
    "id": "T0178",
@@ -3961,7 +4426,12 @@
    ],
    "confidence": "derived",
    "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "오시리스 신",
+    "reason": "이집트 9영신에 신 또는 여신을 붙이는 프로젝트 규칙에는 부합하지만 애니북스 3부 본문에서 오시리스 신이라는 표기를 직접 확인하지 못했다."
+   }
   },
   {
    "id": "T0179",
@@ -3991,21 +4461,30 @@
    "alt": [
     "행드 맨"
    ],
-   "state": "unresolved",
+   "state": "approved",
    "evidence": [
     {
      "edition": "애니북스",
      "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
      "quote": "엠퍼러 & 행드맨 ①"
+    },
+    {
+     "edition": "GPT 검수",
+     "url": "https://www.yes24.com/product/goods/113417923",
+     "quote": "문학동네 개정판 『죠죠의 기묘한 모험』 16권 목차에 「엠퍼러 & 행드맨 ④」라고 명시되어 있어 붙여 쓰는 현재 표기를 확인했다: https://www.yes24.com/product/goods/113417923"
     }
    ],
-   "note": "3부 15~16권 챕터 제목. 붙여 씀. (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간)",
+   "note": "3부 15~16권 챕터 제목. 붙여 씀. (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간) [사용자 승인 2026-11-02: GPT 검수 근거(책 소개·목차·챕터 제목), 본문 미확인]",
    "msg_ids": [
     "0x826d95cf"
    ],
    "confidence": "verified",
-   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "승인",
+    "ko": "행드맨",
+    "reason": "문학동네 개정판 『죠죠의 기묘한 모험』 16권 목차에 「엠퍼러 & 행드맨 ④」라고 명시되어 있어 붙여 쓰는 현재 표기를 확인했다: https://www.yes24.com/product/goods/113417923"
+   }
   },
   {
    "id": "T0181",
@@ -4013,21 +4492,30 @@
    "category": "stand",
    "ko": "엠퍼러",
    "alt": [],
-   "state": "unresolved",
+   "state": "approved",
    "evidence": [
     {
      "edition": "애니북스",
      "url": "https://jojowiki.com/List_of_Korean_JoJo%27s_Bizarre_Adventure_Chapters/Part_3_Volumes",
      "quote": "엠퍼러 & 행드맨 ①"
+    },
+    {
+     "edition": "GPT 검수",
+     "url": "https://www.yes24.com/product/goods/113417923",
+     "quote": "문학동네 개정판 『죠죠의 기묘한 모험』 16권 목차 「엠퍼러 & 행드맨 ④」에서 현재 표기를 직접 확인했다: https://www.yes24.com/product/goods/113417923"
     }
    ],
-   "note": "3부 15~16권 챕터 제목. (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간)",
+   "note": "3부 15~16권 챕터 제목. (jojowiki 한국어 정식판 챕터 목록. 3·4부는 애니북스가 2013~2014년 초판 발행, 현재는 애니북스를 흡수한 문학동네가 재간) [사용자 승인 2026-11-02: GPT 검수 근거(책 소개·목차·챕터 제목), 본문 미확인]",
    "msg_ids": [
     "0x9a0fc6a9"
    ],
    "confidence": "verified",
-   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "승인",
+    "ko": "엠퍼러",
+    "reason": "문학동네 개정판 『죠죠의 기묘한 모험』 16권 목차 「엠퍼러 & 행드맨 ④」에서 현재 표기를 직접 확인했다: https://www.yes24.com/product/goods/113417923"
+   }
   },
   {
    "id": "T0182",
@@ -4041,7 +4529,12 @@
    "msg_ids": [
     "0xfb739248"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "액셀 RO",
+    "reason": "애니북스 『스틸 볼 런』 단행본에서 액셀이라는 이름과 RO의 표기 방식을 확인하지 못했다."
+   }
   },
   {
    "id": "T0183",
@@ -4055,7 +4548,12 @@
    "msg_ids": [
     "0xbeea1bc8"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "일루조",
+    "reason": "애니북스 5부의 「맨 인 더 미러와 퍼플 헤이즈」에서는 스탠드명만 확인되므로 일루조라는 인명은 정발 미확인."
+   }
   },
   {
    "id": "T0184",
@@ -4069,7 +4567,12 @@
    "msg_ids": [
     "0xe4fdd3cb"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "문신",
+    "reason": "刺青의 일반적인 한국어 번역은 문신이지만 게임 내에서 인물명인지 일반 명사인지 확인되지 않아 고유명사 표기를 확정할 수 없다."
+   }
   },
   {
    "id": "T0185",
@@ -4116,7 +4619,12 @@
    "msg_ids": [
     "0x31d006f2"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "비네거 도피오",
+    "reason": "애니북스 5부 「내 이름은 도피오」에서 이름은 확인되지만 비네거라는 성을 포함한 전체 인명은 정발 미확인."
+   }
   },
   {
    "id": "T0187",
@@ -4148,7 +4656,12 @@
    "msg_ids": [
     "0xa4fcf618"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "에리나 죠스타",
+    "reason": "애니북스 1부에서 에리나, 3·4부에서 죠스타라는 성이 각각 확인되지만 두 단어를 결합한 전체 인명 표기는 본문 확인이 필요하다."
+   }
   },
   {
    "id": "T0188",
@@ -4173,7 +4686,12 @@
    "msg_ids": [
     "0xb633cffc"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "카쿄인 노리아키(가짜)",
+    "reason": "애니북스 3부에서 카쿄인은 확인되지만 노리아키의 전체 표기와 게임용 접미사 가짜를 결합한 명칭은 정발 미확인."
+   }
   },
   {
    "id": "T0189",
@@ -4241,7 +4759,12 @@
    "msg_ids": [
     "0x85fa9115"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "경감",
+    "reason": "일본 경찰 계급 警部는 한국의 경감에 대체로 대응하지만 원작 정발 번역에서 직역 경부를 사용하는지 확인되지 않았다."
+   }
   },
   {
    "id": "T0192",
@@ -4261,7 +4784,12 @@
    "msg_ids": [
     "0x4f3c77a2"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "산타나",
+    "reason": "제공된 자료는 나무위키 통용 표기뿐이며 애니북스 2부 단행본에서의 직접적인 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0193",
@@ -4295,7 +4823,12 @@
    "msg_ids": [
     "0x27f09028"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "시빌 워",
+    "reason": "일본어 シビル・ウォー의 자연스러운 음역이지만 애니북스 『스틸 볼 런』 단행본의 해당 스탠드명 표기는 미확인."
+   }
   },
   {
    "id": "T0195",
@@ -4315,7 +4848,12 @@
    "msg_ids": [
     "0x329d96fe"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "스쿠알로",
+    "reason": "제공된 자료는 나무위키 인물 일람이며 애니북스 5부 본문에서의 정발 표기를 확인하지 못했다."
+   }
   },
   {
    "id": "T0196",
@@ -4329,7 +4867,12 @@
    "msg_ids": [
     "0x279bb4b3"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "스트레이 캣",
+    "reason": "일본어 ストレイ・キャット의 일반적인 음역이지만 애니북스 4부 본문에서 동일한 표기를 사용하는지는 미확인."
+   }
   },
   {
    "id": "T0197",
@@ -4349,7 +4892,12 @@
    "msg_ids": [
     "0x67286d6c"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "스포츠 맥스",
+    "reason": "나무위키 등장인물 일람의 표기 외에 애니북스 6부 단행본에서 직접 확인된 근거가 없다."
+   }
   },
   {
    "id": "T0198",
@@ -4379,7 +4927,12 @@
    "msg_ids": [
     "0xe125de56"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "5부 장 피에르 폴나레프",
+    "reason": "애니북스 3부에서 폴나레프, 5부 세트 제목에서 부 번호는 확인되지만 장 피에르를 포함한 게임용 전체 명칭은 정발 미확인."
+   }
   },
   {
    "id": "T0199",
@@ -4401,7 +4954,12 @@
    "msg_ids": [
     "0xafcc19a6"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "4부 노년 죠셉 죠스타",
+    "reason": "애니북스 4부 책소개에서 죠셉 죠스타는 확인되지만 4부 노년이라는 상태 구분 표현은 게임 번역자가 붙인 명칭이다."
+   }
   },
   {
    "id": "T0200",
@@ -4428,7 +4986,12 @@
    "msg_ids": [
     "0xce3b3e64"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "6부 DIO",
+    "reason": "문학동네 3부 13권 책소개에서 DIO 표기는 확인되지만 6부에서 제6부를 붙인 복합 명칭은 본문에서 미확인: https://www.yes24.com/product/goods/105880308"
+   }
   },
   {
    "id": "T0201",
@@ -4444,7 +5007,12 @@
    ],
    "confidence": "unverified",
    "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "타워 오브 그레이",
+    "reason": "애니북스 3부 단행본에 실린 스탠드명 タワー・オブ・グレー의 직접적인 한국어 표기를 확보하지 못했다."
+   }
   },
   {
    "id": "T0202",
@@ -4464,32 +5032,46 @@
    "msg_ids": [
     "0x11d817dc"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "츠지 아야",
+    "reason": "나무위키 통용 표기를 제외하면 애니북스 4부 단행본에서 해당 전체 인명이 확인되지 않는다."
+   }
   },
   {
    "id": "T0203",
    "src": "デス１３",
    "category": "stand",
-   "ko": "데스 13",
+   "ko": "데스13",
    "alt": [
     "DEATH13",
-    "데스13"
+    "데스 13"
    ],
-   "state": "unresolved",
+   "state": "approved",
    "evidence": [
     {
      "edition": "애니북스",
      "url": "https://www.yes24.com/product/goods/33959517",
      "quote": "악몽과도 같은 DEATH13의 마수로부터 벗어난 죠타로 일행은 홍해를 건너 곧장 카이로를 향해 출발한다."
+    },
+    {
+     "edition": "GPT 검수",
+     "url": "https://www.yes24.com/Product/Goods/113417928",
+     "quote": "문학동네 개정판 『죠죠의 기묘한 모험』 19권 책소개에는 DEATH13으로 적혔지만 목차에는 「데스13 ⑤」와 「데스13 ⑥」로 표기되어 있어 한글 목차 기준으로 공백 없는 「데스13」을 채택한다: https://www.yes24.com/Product/Goods/113417928"
     }
    ],
-   "note": "주의: 애니북스 3부 책소개는 'DEATH13'(영문)으로 표기함. 본문도 영문인지 확인하지 못함. 나무위키는 '데스 13'. 'DEATH13'을 채택할지는 프로젝트 오너 판단 필요.",
+   "note": "주의: 애니북스 3부 책소개는 'DEATH13'(영문)으로 표기함. 본문도 영문인지 확인하지 못함. 나무위키는 '데스 13'. 'DEATH13'을 채택할지는 프로젝트 오너 판단 필요. [사용자 승인 2026-11-02: GPT 검수 근거(책 소개·목차·챕터 제목), 본문 미확인]",
    "msg_ids": [
     "0x2881cca7"
    ],
    "confidence": "unverified",
-   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "수정",
+    "ko": "데스13",
+    "reason": "문학동네 개정판 『죠죠의 기묘한 모험』 19권 책소개에는 DEATH13으로 적혔지만 목차에는 「데스13 ⑤」와 「데스13 ⑥」로 표기되어 있어 한글 목차 기준으로 공백 없는 「데스13」을 채택한다: https://www.yes24.com/Product/Goods/113417928"
+   }
   },
   {
    "id": "T0204",
@@ -4509,7 +5091,12 @@
    "msg_ids": [
     "0xfb253fa3"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "동양인",
+    "reason": "東洋人의 뜻은 동양인이 맞지만 해당 표현이 애니북스 1부에서 인물의 호칭으로 어떻게 처리되었는지는 미확인."
+   }
   },
   {
    "id": "T0205",
@@ -4531,7 +5118,12 @@
    "msg_ids": [
     "0x442f6891"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "톰페티",
+    "reason": "나무위키에서 톰페티를 사용하지만 일본어 トンペティ를 톤페티로 옮겼을 가능성도 있어 애니북스 1부 본문 확인이 필요하다."
+   }
   },
   {
    "id": "T0206",
@@ -4551,7 +5143,12 @@
    "msg_ids": [
     "0x54d259d6"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "히가시카타 다이야",
+    "reason": "문학동네 『죠죠리온』 단행본 본문에서 해당 인명의 정발 표기를 직접 확인하지 못했다."
+   }
   },
   {
    "id": "T0207",
@@ -4571,7 +5168,12 @@
    "msg_ids": [
     "0xae151747"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "히가시카타 츠루기",
+    "reason": "문학동네 『죠죠리온』 단행본 본문에서 히가시카타 츠루기라는 정확한 표기가 미확인."
+   }
   },
   {
    "id": "T0208",
@@ -4591,7 +5193,12 @@
    "msg_ids": [
     "0x2bfe9dc4"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "히가시카타 노리스케",
+    "reason": "문학동네 『죠죠리온』에서 4대째 노리스케의 전체 인명 표기를 확인할 근거가 부족하다."
+   }
   },
   {
    "id": "T0209",
@@ -4616,7 +5223,12 @@
    "msg_ids": [
     "0x6faa3687"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "훈가미 유야",
+    "reason": "애니북스 4부 책소개에서 「유야」는 확인되지만 훈가미라는 성의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0210",
@@ -4663,7 +5275,12 @@
    "msg_ids": [
     "0x142e2aae"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "벤저민 붐붐",
+    "reason": "애니북스 『스틸 볼 런』에서 붐붐 일가는 확인되지만 벤저민과 벤자민 중 이름 표기는 정발 미확인."
+   }
   },
   {
    "id": "T0212",
@@ -4707,7 +5324,12 @@
    "msg_ids": [
     "0x96da5cef"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "뮤차 뮬러",
+    "reason": "애니북스 6부 단행본에서 ミュッチャー・ミューラー의 전체 이름을 확인하지 못해 정발 미확인."
+   }
   },
   {
    "id": "T0214",
@@ -4721,7 +5343,12 @@
    "msg_ids": [
     "0x42a39860"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "메탈리카",
+    "reason": "밴드명과 일치하는 통용 표기지만 애니북스 5부 단행본에서 해당 스탠드명의 정확한 표기는 미확인."
+   }
   },
   {
    "id": "T0215",
@@ -4741,7 +5368,12 @@
    "msg_ids": [
     "0xc6154804"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "야기야마 요츠유",
+    "reason": "夜露의 읽기가 요츠유인 점은 적절하지만 문학동네 『죠죠리온』 본문의 실제 한국어 인명 표기는 미확인."
+   }
   },
   {
    "id": "T0216",
@@ -4761,7 +5393,12 @@
    "msg_ids": [
     "0x053f7059"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "러버 소울",
+    "reason": "나무위키 통용 표기 외에 애니북스 3부 단행본에서 해당 인명의 정확한 한국어 표기를 확인하지 못했다."
+   }
   },
   {
    "id": "T0217",
@@ -4781,7 +5418,12 @@
    "msg_ids": [
     "0x4e69691e"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "리키엘",
+    "reason": "나무위키 통용 표기 외에 애니북스·문학동네 『스톤 오션』 본문에서 リキエル의 표기를 확인하지 못해 정발 미확인."
+   }
   },
   {
    "id": "T0218",
@@ -4801,7 +5443,12 @@
    "msg_ids": [
     "0x44c45833"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "리조토 네로",
+    "reason": "나무위키 통용 표기는 확보됐지만 애니북스·문학동네 5부 『황금의 바람』 단행본에서 전체 인명을 확인할 직접 근거가 없어 정발 미확인."
+   }
   },
   {
    "id": "T0219",
@@ -4823,7 +5470,12 @@
    "msg_ids": [
     "0x31b5c7ce"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "노년 로버트 E.O. 스피드왜건",
+    "reason": "기본 이름의 E.O. 표기와 게임용 연령 구분명 「노년」 모두 정발 본문에서 확인되지 않아 보류한다."
+   }
   },
   {
    "id": "T0220",
@@ -4839,7 +5491,12 @@
    "msg_ids": [
     "0xa2abb819"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "경찰관",
+    "reason": "警官의 일반적인 번역으로 정확하지만 게임에 대응하는 정발 만화의 실제 호칭을 확인하지 못해 정발 표기로는 미확인."
+   }
   },
   {
    "id": "T0221",
@@ -4855,7 +5512,12 @@
    "msg_ids": [
     "0xb2679db3"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "노화한 행인(남)",
+    "reason": "老化した通行人（男）의 의미를 충실히 전달하지만 게임용 NPC 구분명으로서 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0222",
@@ -4869,7 +5531,12 @@
    "msg_ids": [
     "0xa9cfff5d"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "아나운서",
+    "reason": "アナウンサー의 표준적인 한국어 표현이지만 해당 NPC 명칭을 정발 본문에서 확인하지 못해 보류한다."
+   }
   },
   {
    "id": "T0223",
@@ -4891,7 +5558,12 @@
    "msg_ids": [
     "0xf9f9343c"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "데드맨즈 Q 키라 요시카게",
+    "reason": "애니북스·문학동네 4부 책소개에서 「키라 요시카게」는 확인되지만 『데드맨즈 Q』의 공식 한국어 제목과 게임용 복합 명칭은 미확인."
+   }
   },
   {
    "id": "T0224",
@@ -4913,7 +5585,12 @@
    "msg_ids": [
     "0xe5eafcd9"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "데드맨즈 Q 키라",
+    "reason": "키라라는 약칭은 의미상 적절하지만 데드맨즈 Q의 정발 제목과 결합 방식이 확인되지 않아 보류한다."
+   }
   },
   {
    "id": "T0225",
@@ -4923,22 +5600,31 @@
    "alt": [
     "THE WORLD"
    ],
-   "state": "unresolved",
+   "state": "approved",
    "evidence": [
     {
      "edition": "애니북스",
      "url": "https://www.yes24.com/product/goods/33959517",
      "quote": "'더 월드'의 비밀을 알았다지만 싸움의 향방은 여전히 오리무중!"
+    },
+    {
+     "edition": "GPT 검수",
+     "url": "",
+     "quote": "문학동네 『죠죠의 기묘한 모험』 3부의 책소개에서 DIO의 스탠드명을 「더 월드」로 명시하므로 현재 한국어 표기를 승인한다; 원문의 영문 대문자를 유지하는 예외 처리는 별도 결정 사항이다."
     }
    ],
-   "note": "애니북스 3부 책소개에서 '더 월드'로 확인. 게임 원문은 영문 대문자이므로 'THE WORLD'를 그대로 둘지는 표기 방침에 따라 정할 것.",
+   "note": "애니북스 3부 책소개에서 '더 월드'로 확인. 게임 원문은 영문 대문자이므로 'THE WORLD'를 그대로 둘지는 표기 방침에 따라 정할 것. [사용자 승인 2026-11-02: GPT 검수 근거(책 소개·목차·챕터 제목), 본문 미확인]",
    "msg_ids": [
     "0x21e2d284",
     "0x3df11a61"
    ],
    "confidence": "verified",
-   "needs_book_check": "3부 스탠드명 — 단행본 본문 표기 확인 후 확정 (정책). 책 소개 영문 표기만으로 확정 금지",
-   "part": 3
+   "part": 3,
+   "gpt_review": {
+    "verdict": "승인",
+    "ko": "더 월드",
+    "reason": "문학동네 『죠죠의 기묘한 모험』 3부의 책소개에서 DIO의 스탠드명을 「더 월드」로 명시하므로 현재 한국어 표기를 승인한다; 원문의 영문 대문자를 유지하는 예외 처리는 별도 결정 사항이다."
+   }
   },
   {
    "id": "T0226",
@@ -4961,7 +5647,12 @@
    "msg_ids": [
     "0x627898e9"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "<ruby 좀비>시생인</ruby>",
+    "reason": "나무위키에는 시생인(좀비)으로 설명되지만 애니북스·문학동네 1부 본문의 한자 표기와 읽기 병기 방식은 확인되지 않아 정발 미확인."
+   }
   },
   {
    "id": "T0227",
@@ -4975,7 +5666,12 @@
    "msg_ids": [
     "0xd9e26d4a"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "흡혈귀",
+    "reason": "吸血鬼의 표준적인 한국어 번역이며 게임 내 설정에도 적합하지만 정발 만화 본문에서 동일 표현을 사용한 직접적인 근거는 확보하지 못했다."
+   }
   },
   {
    "id": "T0228",
@@ -4992,7 +5688,12 @@
    "msg_ids": [
     "0x54288219"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "죽은 자",
+    "reason": "死人의 문자적 의미는 죽은 자이지만 인물·시체·망자를 가리키는 문맥에 따라 번역이 달라질 수 있어 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0229",
@@ -5006,7 +5707,12 @@
    "msg_ids": [
     "0x71270605"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "림프 비즈킷",
+    "reason": "나무위키의 통용 스탠드명 외에 애니북스·문학동네 『스톤 오션』의 정확한 정발 표기를 확인하지 못했다."
+   }
   },
   {
    "id": "T0230",
@@ -5020,7 +5726,12 @@
    "msg_ids": [
     "0x8df8807e"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "공룡",
+    "reason": "恐竜의 올바른 일반 명사 번역이지만 게임에서 적 유형 명칭으로 사용된 표기가 정발 본문과 일치하는지는 확인되지 않았다."
+   }
   },
   {
    "id": "T0231",
@@ -5036,21 +5747,39 @@
    "msg_ids": [
     "0xe2e1c4b7"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "공룡(소)",
+    "reason": "작은 공룡을 구분하는 게임 내부 명칭으로 적절하지만 괄호 안의 小를 정발판에서 소로 표기한 근거는 없다."
+   }
   },
   {
    "id": "T0232",
    "src": "シアーハートアタック",
    "category": "stand",
-   "ko": "시어 하트 어택",
-   "alt": [],
-   "state": "unresolved",
-   "evidence": [],
-   "note": "정발 근거를 찾지 못함. 나무위키 고유명사 번역 문서의 표기를 따름.",
+   "ko": "시어하트 어택",
+   "alt": [
+    "시어 하트 어택"
+   ],
+   "state": "approved",
+   "evidence": [
+    {
+     "edition": "GPT 검수",
+     "url": "https://www.yes24.com/product/goods/119106317",
+     "quote": "문학동네 『죠죠의 기묘한 모험』 38권과 39권 목차에 「시어하트 어택」으로 명시되어 있어 기존 표기의 불필요한 공백을 제거한다: https://www.yes24.com/product/goods/119106317"
+    }
+   ],
+   "note": "정발 근거를 찾지 못함. 나무위키 고유명사 번역 문서의 표기를 따름. [사용자 승인 2026-11-02: GPT 검수 근거(책 소개·목차·챕터 제목), 본문 미확인]",
    "msg_ids": [
     "0x56211411"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "수정",
+    "ko": "시어하트 어택",
+    "reason": "문학동네 『죠죠의 기묘한 모험』 38권과 39권 목차에 「시어하트 어택」으로 명시되어 있어 기존 표기의 불필요한 공백을 제거한다: https://www.yes24.com/product/goods/119106317"
+   }
   },
   {
    "id": "T0233",
@@ -5064,7 +5793,12 @@
    "msg_ids": [
     "0x3f589f89"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "발키리",
+    "reason": "자이로의 말 ヴァルキリー의 일반적인 음역으로 적절하지만 애니북스·문학동네 『스틸 볼 런』 본문의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0234",
@@ -5080,7 +5814,12 @@
    "msg_ids": [
     "0x01165107"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "슬로 댄서",
+    "reason": "죠니의 말 スロー・ダンサー를 음역한 후보지만 슬로와 슬로우 중 정발 표기를 확인하지 못했다."
+   }
   },
   {
    "id": "T0235",
@@ -5096,7 +5835,12 @@
    "msg_ids": [
     "0xd643f0f6"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "실버 불릿",
+    "reason": "디에고의 말 シルバー・バレット의 음역으로 자연스럽지만 불릿과 블릿 중 정발판의 실제 표기는 미확인."
+   }
   },
   {
    "id": "T0236",
@@ -5110,7 +5854,12 @@
    "msg_ids": [
     "0xeb95e732"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "볼 브레이커",
+    "reason": "통용 스탠드명과 일치하지만 애니북스·문학동네 『스틸 볼 런』 본문에서 확인한 정발 표기 근거가 없다."
+   }
   },
   {
    "id": "T0237",
@@ -5137,7 +5886,12 @@
    "msg_ids": [
     "0x0835cbfc"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "루돌 폰 슈트로하임(중기관포 모드)",
+    "reason": "애니북스 2부에서 슈트로하임이라는 성은 확인되지만 전체 인명과 중기관포 모드라는 게임용 상태 명칭은 정발 미확인."
+   }
   },
   {
    "id": "T0238",
@@ -5157,7 +5911,12 @@
    "msg_ids": [
     "0x14260319"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "슈트로하임(중기관포 모드)",
+    "reason": "기본 인명의 성은 정발에서 확인되지만 중기관포 모드라는 상태 구분명의 공식 표기는 확인되지 않았다."
+   }
   },
   {
    "id": "T0239",
@@ -5177,7 +5936,12 @@
    "msg_ids": [
     "0x0cf4d64b"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "루돌 폰 슈트로하임(자외선 조사 장치 모드)",
+    "reason": "紫外線照射装置의 번역은 적절하지만 전체 인명과 장비 모드를 결합한 게임용 명칭은 정발 미확인."
+   }
   },
   {
    "id": "T0240",
@@ -5197,7 +5961,12 @@
    "msg_ids": [
     "0x10e71eae"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "슈트로하임(자외선 조사 장치 모드",
+    "reason": "원문에 닫는 괄호가 누락되어 있어 현행 후보는 이를 그대로 반영했으며 정발 표기와 별개로 원본 데이터 오류인지 확인해야 한다."
+   }
   },
   {
    "id": "T0241",
@@ -5224,7 +5993,12 @@
    "msg_ids": [
     "0x6cb5fd5a"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "죠스타 저택",
+    "reason": "정발 책소개에서 죠스타라는 성과 DIO의 저택이라는 표현은 확인되지만 ジョースター邸 전체의 정확한 정발 장소명은 미확인."
+   }
   },
   {
    "id": "T0242",
@@ -5244,7 +6018,12 @@
    "msg_ids": [
     "0xf916417b"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "에어 서플레나 섬",
+    "reason": "나무위키의 장소명 음역은 확보됐으나 애니북스·문학동네 2부 본문에서 에어 서플레나 섬이라는 표기를 직접 확인하지 못했다."
+   }
   },
   {
    "id": "T0243",
@@ -5264,7 +6043,12 @@
    "msg_ids": [
     "0x8b605475"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "카이로 시가지 옥상",
+    "reason": "문학동네 3부 책소개에서 카이로는 확인되지만 市街屋上을 포함한 게임용 전체 장소명은 정발 미확인."
+   }
   },
   {
    "id": "T0244",
@@ -5280,7 +6064,12 @@
    "msg_ids": [
     "0x7d31f2c0"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "<ruby 나이트메어 월드>악몽 세계</ruby>",
+    "reason": "게임의 고유 스테이지 명칭으로 원문의 루비 구조와 의미를 보존하지만 정발 만화에서 나이트메어 월드라는 이름을 사용한 근거가 없다."
+   }
   },
   {
    "id": "T0245",
@@ -5321,7 +6110,12 @@
    "msg_ids": [
     "0xa6f516fd"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "보요용 곶",
+    "reason": "ボヨヨン岬의 의태어 느낌을 살린 자연스러운 음역이지만 애니북스·문학동네 4부 본문에서의 정발 표기는 미확인."
+   }
   },
   {
    "id": "T0247",
@@ -5357,7 +6151,12 @@
    "msg_ids": [
     "0x5dd5d24e"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "네아폴리스 역",
+    "reason": "ネアポリス駅의 의미를 충실히 전달하지만 애니북스·문학동네 5부 본문의 네아폴리스 표기와 역 명칭을 직접 확인하지 못했다."
+   }
   },
   {
    "id": "T0249",
@@ -5379,7 +6178,12 @@
    "msg_ids": [
     "0x29ba4c1c"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "G.D.st 교도소",
+    "reason": "문학동네 『스톤 오션』 2권 목차에 「그린 돌핀 스트리트 교도소」가 확인되지만 게임 약칭 G.D.st의 공식 표기 방식은 미확인: https://m.yes24.com/goods/detail/119860462"
+   }
   },
   {
    "id": "T0250",
@@ -5417,7 +6221,12 @@
    "msg_ids": [
     "0x52c5ceb8"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "로키 산맥 기슭의 마을",
+    "reason": "ロッキー山脈麓の村의 자연스러운 번역이지만 애니북스·문학동네 『스틸 볼 런』 본문에 사용된 정확한 지명 표기는 미확인."
+   }
   },
   {
    "id": "T0252",
@@ -5433,7 +6242,12 @@
    "msg_ids": [
     "0x6b37b8fa"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "히가시카타 가",
+    "reason": "8부 히가시카타 집안을 나타내는 의미는 적절하지만 문학동네 『죠죠리온』 본문의 가문·저택 구분 표기는 미확인."
+   }
   },
   {
    "id": "T0253",
@@ -5453,7 +6267,12 @@
    "msg_ids": [
     "0x48d09111"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "카이로 육교",
+    "reason": "카이로라는 지명은 정발에서 확인되지만 육교를 포함한 게임의 전체 스테이지 명칭은 미확인."
+   }
   },
   {
    "id": "T0254",
@@ -5473,7 +6292,12 @@
    "msg_ids": [
     "0x2fc3621d"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "카이로 시가지",
+    "reason": "카이로라는 기본 지명과 市街의 번역은 적절하지만 해당 복합 장소명이 정발에서 사용되었는지 미확인."
+   }
   },
   {
    "id": "T0255",
@@ -5493,7 +6317,12 @@
    "msg_ids": [
     "0x306d5e79"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "카이로 공항",
+    "reason": "カイロ空港의 정확한 일반 지명 번역이지만 게임 내 장소명의 공식 정발 표기를 확인할 직접 근거는 없다."
+   }
   },
   {
    "id": "T0256",
@@ -5520,7 +6349,12 @@
    "msg_ids": [
     "0x23ef2730"
    ],
-   "confidence": "derived"
+   "confidence": "derived",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "디오의 저택",
+    "reason": "애니북스 1부의 디오 표기와 3부의 「DIO의 저택」이라는 표현은 각각 확인되지만 1부 장소명 「디오의 저택」 자체는 정발 미확인."
+   }
   },
   {
    "id": "T0257",
@@ -5534,7 +6368,12 @@
    "msg_ids": [
     "0x9eb710d5"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "투기장",
+    "reason": "闘技場의 일반적인 번역으로 의미는 정확하지만 2부의 해당 장소를 정발판에서 무엇이라 불렀는지는 미확인."
+   }
   },
   {
    "id": "T0258",
@@ -5572,7 +6411,12 @@
    "msg_ids": [
     "0xb2979a7b"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "필라델피아 해안가",
+    "reason": "フィラデルフィアの海岸沿い의 자연스러운 한국어 번역이지만 『스틸 볼 런』 본문에서 이 장소를 지칭한 정확한 표현은 미확인."
+   }
   },
   {
    "id": "T0260",
@@ -5588,7 +6432,12 @@
    "msg_ids": [
     "0x75cd70d7"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "오버헤븐 공간",
+    "reason": "게임 오리지널 명칭이므로 정발 만화에 직접 대응하는 항목이 없으며 오버헤븐과 오버 헤븐 중 공식 한국어 표기를 확인하지 못했다."
+   }
   },
   {
    "id": "T0261",
@@ -5608,7 +6457,12 @@
    "msg_ids": [
     "0x8e410ce5"
    ],
-   "confidence": "unverified"
+   "confidence": "unverified",
+   "gpt_review": {
+    "verdict": "보류",
+    "ko": "카이로 육교(오버헤븐 공간)",
+    "reason": "카이로라는 지명은 정발에서 확인되지만 게임 오리지널 장소명의 괄호 구성과 오버헤븐 표기는 공식 한국어판에서 미확인."
+   }
   },
   {
    "id": "T0262",

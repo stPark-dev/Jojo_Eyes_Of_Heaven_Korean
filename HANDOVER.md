@@ -19,7 +19,7 @@
 사용자 확인 대기 표현(초안대로 진행 가능): 「デュアルコンボ受付中!!」→ **듀얼 콤보 입력 가능!!**(후보: 듀얼 콤보 찬스!!), 「「可」能よ!」→ **「가」능해!**(후보: 포커 장면처럼 「가」능!). 바꾸면 `images.json`의 `ko`와 폴더 이름·프롬프트를 함께 고칠 것.
 「シングル挑発ッ!!(仮)」는 임시 그림이라 원본 유지.
 
-다음: 전투 연출·팁 화면 인게임 확인 → 세이브 아이콘(덧씌우기 방식) → 세이브 아이콘 → 번역 검수(needs_human_review 2,207문장, 미승인 용어 161개) → 인게임 넘침 확인 → 배포 빌드.
+다음: 전투 연출·팁 화면·세이브 아이콘 인게임 확인 → GPT 검수 후속(아래 4-6: 남은 10문장, 보류 용어 150개, 배포 기준 결정) → v1.0.0-beta.1 배포본 인게임 최종 확인·Windows 설치기 확인 → 공개.
 
 **집 PC RPCS3 설정**(회사 PC에만 있음, 필요하면 다시 만들 것): 게임별 설정 `~/.config/rpcs3/custom_configs/config_BLJS10318.yml`(해상도 720x480), 키보드 1인 배치 `~/.config/rpcs3/input_configs/BLJS10318/Default.yml` — WASD 왼쪽 스틱, Q/E/R/F 오른쪽 스틱, 방향키 십자키, J □ · K × · L ○ · I △, U L1 · O R1 · Y L2 · P R2, Shift L3 · ; R3, Enter START, Backspace SELECT, Home PS, 2P 없음.
 
@@ -33,8 +33,8 @@
 | 한글 폰트 | 게임 폰트 아틀라스에 한글 추가 → "불러오는 중…", "결정", "돌아가기" 인게임 확인 ✅ |
 | 번역 파일 | `translation/` 88개 파일, 26,610문장 (원문 미포함). 의성어 415개는 원문 유지 처리 완료 |
 | 용어집 | `translation/glossary.json` 후보 277개 생성, **표기 조사 진행 중** (아래 4-1) |
-| 이미지 | 443장(부팅 화면 9장 추가 포함) 중 한글화 270장(검수 대기), 원본 유지 168장, 남음 5장(세이브 아이콘 2·타이틀 로고 2·스토리 연출 1) (아래 4-3) |
-| 테스트 | pytest 183개 통과 |
+| 이미지 | 443장(부팅 화면 9장 추가 포함) 중 한글화 272장(검수 대기), 원본 유지 171장, 남음 0장 (아래 4-3) |
+| 테스트 | pytest 209개 통과 |
 | 60fps | **제외** (투사체 속도 2배·전투 전 대사 끊김 → 밸런스 훼손) |
 
 ## 2. 사용자 결정 사항 (변경 시 사용자 확인 필요)
@@ -139,6 +139,7 @@ python3 scripts/textdb.py status
 - UI 메뉴(2026-10-30, 인게임 확인): 원본 유지 49 / 자동 40(커맨드 목록 태그 14·준비 OK 등은 OVERLAYS) / ChatGPT 4. 용어: 飛び道具=투사체, タメ可=차지 가능, 受け継がれる意志=이어지는 의지, 台紙=카드 배경.
 - 전투 연출(2026-10-30): 위 0절 참고. `maker: "reuse"` = 원본이 같은 다른 항목의 결과를 복사(관중 함성 2, 부 제목 로고 1).
 - 팁 화면(2026-11-02, 설치·인게임 확인 대기): 256px 게임 캡처라 **덧씌우기** 41장 / 원본 유지 56장(「仮画像」 17, 글자 없음 34, 깨알 글자만 5). 좌표·문구는 `scripts/tip_texts.py`(TIPS: 파일 이름 → (글자 줄 영역, 한글, 옵션)), 처리는 `src/eoh/retext.py`(영역 안 글자를 Otsu로 골라 테두리·그림자까지 인페인팅으로 지우고, 원래 높이·색으로 한글을 씀; `art=(png, 줄 번호)`로 이미 만든 한글 그림 조각을 붙임, `within`은 말풍선 안만 지움). 결과는 게임 그림이 섞여 git 제외 `work/images_ko/` → 새 PC는 `extract_images.py` → `auto_images.py`. 무늬 배경에서 지운 자리가 약간 흐려지는 한계 있음.
+- 마지막 5장(2026-11-02 사용자 결정): 세이브 아이콘 ICON0·PIC1은 원본 로고 자리에 한글 타이틀 로고를 덧씌움(`auto_images.py` `LOGO_SWAPS` = 원본 로고의 배율·위치(템플릿 매칭으로 구함), `src/eoh/logoswap.py` = 원본 로고 아래를 인페인팅/투명 처리 후 한글 로고). 게임 그림이 섞여 git 제외 `work/images_ko/`. PIC1 저작권 표기는 원본. 「TO BE CONTINUED...」·「PRESS ANY BUTTON」·타이틀 저작권 표기는 keep_original — 「아무 버튼이나 누르세요」 한글 PNG는 `translation/images_ko/`에 남아 있지만 keep_original이라 빌드에 안 들어감(되돌리려면 state만 바꾸면 됨).
 - 일부 번역 파일의 「カード台紙」가 아직 '카드 대지' (공통 파일 9개만 '카드 배경'으로 바꿈) — 통일 여부 사용자 확인 필요.
 - ChatGPT 결과에서 줄이 세로로 겹쳐 빈 행으로 못 자르면 `artfit.split_components`(연결 요소 묶음)로 자동 전환.
 - `gpt_group`: 같은 스타일 줄을 시트로 묶음(`STYLES[group]`), `단독`은 이미지별 폴더(`원본_2배.png`, `프롬프트.txt` → `결과.png`). `ko` 줄 = 조각(위→아래); 조각이 여럿이면 원본 조각 상자(`artfit.row_boxes`)에 하나씩 맞춤.
@@ -151,13 +152,31 @@ python3 scripts/textdb.py status
   - 팁 화면(게임 캡처 + 작은 일본어 UI, 약 84개): 번역 후 한글판 화면을 다시 캡처해 교체하는 방안
   - 나머지 약 220개(상점, 커맨드 목록, 전투 연출 등): 미분류
 
+### 4-6. GPT 검수 (2026-11-02, 사용자 결정: 검수는 ChatGPT에 맡김)
+- `python3 scripts/textdb.py export` → `python3 scripts/gpt_review.py pack 용어|문장` → `work/gpt/검수/<용어|문장>/NN/프롬프트.txt`(지침·승인 용어·원문·초안을 모두 담은 자기완결 프롬프트, 용어 60개·문장 120개씩 — 용어 3묶음, 문장 19묶음).
+- ChatGPT 웹에 붙여 넣고, 답(JSON Lines)을 같은 폴더 `결과.jsonl`로 저장 → `python3 scripts/gpt_review.py apply 용어|문장`. 빠진 줄·엉뚱한 id·판정값·태그·줄바꿈 수가 하나라도 틀리면 아무것도 쓰지 않음.
+- 반영 방식(`src/eoh/gpt_review.py`): 용어는 `glossary.json`의 `gpt_review`(승인/수정/보류, 표기, 근거)로만 기록하고 **state는 unresolved 유지**(승인은 사용자가 결과를 보고 결정). 문장은 needs_review + note에 `GPT 검수: 유지|수정(이유)`. distribution_eligible 승격 여부(GPT 검수를 배포 기준으로 인정할지)는 미정.
+- 문장 검수 프롬프트는 고유명사 표기를 바꾸지 않게 함 → 용어 확정 후 `check-glossary`로 문장 쪽을 맞춤. 두 작업은 동시에 진행 가능.
+- **결과 반영 (2026-11-02)**: 용어 161개 → 승인 9·수정 2·보류 150 (gpt_review만 기록, 승인은 사용자 결정 대기). 문장 2,207개 → 2,197 반영(수정 280, 유지 1,917), needs_human_review 10개 남음:
+  - 문장 14묶음 9줄은 GPT가 **지어낸 id**에 일반적인 '유지' 이유만 붙임 → 검수 안 된 것으로 보고 제외(원본 응답 `work/gpt/검수/문장/14/결과_GPT원본.jsonl`).
+  - 0x6713a1b6(와무우 도감): GPT 수정안이 뒷부분 내용을 잘라먹음 → 기각, 조사 오류(모드을→모드를)만 직접 고침.
+  - 0x24ac1660(4부 줄거리): GPT 수정안이 줄 길이 때문에 승인 용어(히가시카타 죠스케·니지무라 오쿠야스)의 성을 뺌 → 전체 이름 복원.
+  - 길이가 크게 바뀐 수정 14개는 직접 훑어봄. 0x25dc7dc1(スタンド使い→「イかんぞ歯科医」 말장난)은 GPT가 직역해 말장난이 사라짐 — 사용자 확인 대상.
+  - 기본 상태는 needs_review(GPT 검수 기록은 note). distribution_eligible 승격은 아직 안 함.
+  - 사용자 결정(2026-11-02): GPT가 근거를 단 11개 용어 승인(데스13·시어하트 어택은 표기 수정, 관련 26문장 통일) → 승인 130 / 미승인 150. 말장난(0x25dc7dc1)은 초안 「스탠드 유자차」 유지.
+
 ### 4-4. 폰트 용량
 - 아틀라스 빈 영역은 y=1380 아래 약 670px → **약 1,700자**만 추가 가능 (한글 2,350자보다 적음).
 - 방안: 번역에 실제로 쓰인 한글만 넣기(보통 1,000~1,500자). 부족하면 쓰이지 않는 한자 칸 재사용 검토.
 
-### 4-5. 배포 빌드
-- 개발용 빌드·설치는 구현됨: `python3 scripts/build_patch.py check | install | uninstall [--release]` (번역 적용 → 쓰인 한글만 폰트에 추가 → `patch/5` 병합). 2026-10-28 기준 한국어 번역문은 0문장이라 설치해도 화면 변화 없음.
-- 배포물에 공식 파일(`6ddw01prm.bin.xfbin` 등)을 넣지 않으려면, 사용자 PC의 공식 patch/5에서 병합하는 설치기 형태가 필요.
+### 4-5. 배포 빌드 (v1.0.0-beta.1, 2026-11-02, 제작자 표기 '돈골')
+- 개발용: `python3 scripts/build_patch.py check | install | uninstall [--release]` (번역 적용 → 쓰인 한글만 폰트에 추가 → `patch/5` 병합).
+- 사용자 결정: GPT 검수를 배포 기준으로 인정. 참고 배포본(타 한글 패치 v0.9.0-beta.2: 공식 patch/5 기준 xdelta + 설치기 EXE) 방식을 따름 — 차이 패치에 바뀐 게임 파일(대사·글꼴·덧씌운 이미지) 내용이 사실상 들어가는 점은 사용자가 감수하기로 함.
+- 순서: `python3 scripts/release.py promote`(번역 needs_review → distribution_eligible, 미번역 개발용 문구 460개 → keep_source, 이미지 needs_review → done; 검수 대기 문장이 남으면 거부) → `python3 scripts/build_patch.py install --release` → `python3 scripts/release.py package`.
+- `package`(`src/eoh/release.py`): 공식 patch/5(88,598바이트) → 한글 data.cpk xdelta3 차이 패치(`-S none`, 3.0.x·3.2.x 디코더 모두 호환, 만든 뒤 풀어서 SHA 확인), `release/` 템플릿(`{{KEY}}`에 실제 SHA-256·크기 채움)으로 설치 스크립트·문서 생성 → `dist/JoJo-EoH-Korean-Patch-v<버전>/`, `.zip`, `.zip.sha256` (dist/는 git 제외). 버전·제작자는 `scripts/release.py` 상단.
+- 설치기: Windows `install.bat` → `install.ps1`(UTF-8 BOM 필수, 메뉴·폴더 선택 창, 공식 xdelta3decode.exe 3.2.2 동봉 — 새 PC에서는 github.com/jmacd/xdelta v3.2.2 windows-x86_64 zip과 LICENSE를 `work/tools/`에 받아 둘 것), Linux `install.sh`(시스템 xdelta3). 공통: patch/1~4 SHA로 1.05 확인 → patch/5 공식 원본(현재 파일 또는 `data.cpk.*` 사본) 찾기 → `data.cpk.before-eoh-ko` 백업 + `eoh-ko-state.txt` → 디코드·SHA 확인 → 교체. verify/restore 지원.
+- 검증: `tests/test_release.py`(가짜 RPCS3 폴더로 install.sh 설치·재설치·복원·다른 모드 위 설치·거부), 실제 배포 ZIP으로 게임 patch 폴더 사본에 설치 → 빌드 결과와 바이트 동일 → 복원 시 공식 SHA 확인. **Windows(install.ps1·xdelta3decode.exe)는 실행 시험 못 함** — Windows PC에서 확인 필요.
+- v1.0.0-beta.1 결과: ZIP 9,199,500바이트, 한글 data.cpk 39,194,659바이트, 차이 패치 10,317,288바이트.
 
 ## 5. 기술 메모
 

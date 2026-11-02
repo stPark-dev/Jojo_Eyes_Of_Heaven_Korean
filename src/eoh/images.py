@@ -68,3 +68,11 @@ def build(fs, entries: list[dict], ko_dirs, policy: str):
         out[entry["file"]] = _apply(buf, entry, png)
         applied += 1
     return list(out.items()), {"applied": applied, "missing": missing}
+
+
+def promote(entries: list[dict]) -> list[dict]:
+    """Release decision: reviewed images become done; anything unfinished stops it."""
+    left = [e["png"] for e in entries if e["state"] not in ("needs_review", "done", "keep_original")]
+    if left:
+        raise ImageError("완성되지 않은 이미지: " + ", ".join(left))
+    return [dict(e, state="done") if e["state"] == "needs_review" else dict(e) for e in entries]

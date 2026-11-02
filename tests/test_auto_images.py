@@ -62,3 +62,11 @@ def test_tip_items_resolve_art_references_to_pixels():
     import numpy as np
     items = [i for lines in auto_images.TIPS for i in auto_images.tip_items(lines + ".png") if "art" in i]
     assert items and all(isinstance(i["art"], np.ndarray) for i in items)
+
+
+def test_logo_swaps_name_save_pictures_in_the_manifest():
+    import json
+    pngs = {e["png"] for e in json.loads(auto_images.MANIFEST.read_text("utf-8"))["images"]}
+    assert set(auto_images.LOGO_SWAPS) == {"save/PS3/JP/ICON0/00_ICON0.png",
+                                           "save/PS3/JP/PIC1/00_PIC1.png"}
+    assert set(auto_images.LOGO_SWAPS) <= pngs

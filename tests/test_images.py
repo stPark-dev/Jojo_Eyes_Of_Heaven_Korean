@@ -109,3 +109,13 @@ def test_png_is_looked_up_in_several_dirs_first_wins(tmp_path):
     _setup(tmp_path / "b")  # PNG only in the second dir
     files, report = images.build(fs, [entry], [tmp_path / "a", tmp_path / "b"], "dev")
     assert report["applied"] == 1
+
+
+def test_promote_marks_reviewed_images_done_and_refuses_unfinished_ones():
+    from eoh import images
+    entries = [{"png": "a.png", "state": "needs_review"}, {"png": "b.png", "state": "keep_original"}]
+    out = images.promote(entries)
+    assert [e["state"] for e in out] == ["done", "keep_original"]
+    assert entries[0]["state"] == "needs_review"
+    with pytest.raises(images.ImageError, match="c.png"):
+        images.promote([{"png": "c.png", "state": "todo"}])

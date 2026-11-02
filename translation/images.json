@@ -18,8 +18,10 @@
    "src_sha1": "e75f56bdda79b529120b534bfda5da7635a2ee1e",
    "category": "세이브 아이콘",
    "png": "save/PS3/JP/ICON0/00_ICON0.png",
-   "state": "todo",
-   "note": ""
+   "state": "done",
+   "note": "원본 로고 자리에 한글 타이틀 로고를 덧씌움(logoswap). 저작권 표기는 원본 유지.",
+   "maker": "auto",
+   "ko": "죠죠의 기묘한 모험 아이즈 오브 헤븐"
   },
   {
    "file": "data/save/PS3/JP/PIC1.PNG",
@@ -31,8 +33,10 @@
    "src_sha1": "6e41be0c31c0fc5f9e7c39620c6a59791dbb875a",
    "category": "세이브 아이콘",
    "png": "save/PS3/JP/PIC1/00_PIC1.png",
-   "state": "todo",
-   "note": ""
+   "state": "done",
+   "note": "원본 로고 자리에 한글 타이틀 로고를 덧씌움(logoswap). 저작권 표기는 원본 유지.",
+   "maker": "auto",
+   "ko": "죠죠의 기묘한 모험 아이즈 오브 헤븐"
   },
   {
    "file": "data/ui/adv/jpn/adv_btlmemory_txt.xfbin",
@@ -44,7 +48,7 @@
    "src_sha1": "e1ac63388f80b4f612be0983b10158eae5d4f1ef",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_btlmemory_txt/00_adv_mission_title_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "시련을 기다리는 빛",
    "maker": "gpt",
@@ -73,7 +77,7 @@
    "src_sha1": "2b6fcab853fca20d60eccadb34283507458f9679",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_cmn_txt/01_adv_cmn_lvup_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "LEVEL UP!\n신뢰도 UP!",
    "maker": "gpt",
@@ -115,7 +119,7 @@
    "src_sha1": "4d9c3e2f71406580f3347eba6a056716b5ee4eb8",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_crowd_txt/00_adv_crowd_crushing.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "격파",
    "maker": "gpt",
@@ -131,7 +135,7 @@
    "src_sha1": "f5e1d2be6a30a9ce2c53b39bd2b73139da0cddcd",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_crowd_txt/01_btl_combo_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "굿!\n그레이트!\n벨리시모\n디 몰토\n맘마미아!",
    "maker": "gpt",
@@ -147,7 +151,7 @@
    "src_sha1": "866c2c4059e587d197471c3d6d0804d654d518f3",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_csel_txt/00_adv_csel_title_change_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "캐릭터 체인지",
    "maker": "gpt",
@@ -176,7 +180,7 @@
    "src_sha1": "ab98b66d9eb72fd2d21143fbded9e14b431f89f2",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_encounter_txt/00_adv_encount_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "강적 출현!!",
    "maker": "gpt",
@@ -192,7 +196,7 @@
    "src_sha1": "f5e1d2be6a30a9ce2c53b39bd2b73139da0cddcd",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_free_txt/00_btl_combo_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "굿!\n그레이트!\n벨리시모\n디 몰토\n맘마미아!",
    "maker": "gpt",
@@ -221,7 +225,7 @@
    "src_sha1": "e9696924e253eba98a1c07347c24df17f893a300",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/00_tex00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "선공\n후공\n선공\n후공",
    "maker": "auto"
@@ -236,7 +240,7 @@
    "src_sha1": "faab8a460048c934f134c3a076338a33c1ab67b1",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/01_tex01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "죠타로 블러프 발동!",
    "maker": "gpt",
@@ -252,7 +256,7 @@
    "src_sha1": "c7c3d460042f15fe32f89994d22177fb307e884c",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/02_tex02.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "다비 블러프 발동!",
    "maker": "gpt",
@@ -268,7 +272,7 @@
    "src_sha1": "401085b05d7dbcbc4ed3effd8f999328b2d47332",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/03_tex03.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "저지해라!",
    "maker": "auto"
@@ -283,7 +287,7 @@
    "src_sha1": "b90908511b90390501912da752f04d4336417d6a",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/04_tex04.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "블러프 효과 발동 중!\n속임수 효과 발동 중!",
    "maker": "gpt",
@@ -299,7 +303,7 @@
    "src_sha1": "4ff07556b9658f79a307a8b044fe2931ffb48f34",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/05_tex05.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "굿!",
    "maker": "gpt",
@@ -328,7 +332,7 @@
    "src_sha1": "ae7cc46034a42e000f19d46b5a71b01ac5851b2b",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/07_tex07.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "블러프",
    "maker": "gpt",
@@ -344,7 +348,7 @@
    "src_sha1": "534115ddc562426115a9f2962808523ea8ea6271",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/08_tex08.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "실패……",
    "maker": "gpt",
@@ -360,7 +364,7 @@
    "src_sha1": "bfb6229626d23ec5b622344c36ed4accf952f6f4",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/09_tex09.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "저지 실패……",
    "maker": "gpt",
@@ -376,7 +380,7 @@
    "src_sha1": "2681f5dd70d9e249f6d797266e6d83b312717da0",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/10_tex10.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "속임수",
    "maker": "gpt",
@@ -392,7 +396,7 @@
    "src_sha1": "c6caf5f31e425b3d69904a78233ac37f1031fd66",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/11_tex11.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "성공!",
    "maker": "gpt",
@@ -408,7 +412,7 @@
    "src_sha1": "1ffeb0a248831ede8432fed387cb05d2a51a8502",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/12_tex12.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "저지 성공!",
    "maker": "gpt",
@@ -424,7 +428,7 @@
    "src_sha1": "9bb762d06c06a34cf599d462a6f1cef0eb96a0b5",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/13_tex13.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "레이즈\n콜\n드롭",
    "maker": "gpt",
@@ -492,7 +496,7 @@
    "src_sha1": "ef199b4621c89d96e09e0845c00f4ddccfa30f68",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/18_tex18.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "노 페어\n원 페어\n투 페어\n스리 카드\n스트레이트\n플러시\n풀하우스\n포카드\n파이브 카드\n스트레이트 플러시\n로열 스트레이트 플러시",
    "maker": "auto"
@@ -507,7 +511,7 @@
    "src_sha1": "89a605931134993954465c44141c75f675884515",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/19_tex19.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "죠타로 속임수 발동!",
    "maker": "gpt",
@@ -523,7 +527,7 @@
    "src_sha1": "fc01ce3c2bd17b4bf00d4c05bd241c4e2977820d",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/20_tex20.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "다비 속임수 발동!",
    "maker": "gpt",
@@ -539,7 +543,7 @@
    "src_sha1": "1a426ca8532f1e6a1ae1309518f20d1172327e64",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/21_tex21.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "블러프 「가」능!\n속임수 「가」능!",
    "maker": "gpt",
@@ -568,7 +572,7 @@
    "src_sha1": "4a7896e08acf5f8b8a5581dc30d87e968d1f1c43",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/23_tex23.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "PLAYER\n소지 칩\n베팅 칩\n속임수 난이도\nDARBY\n소지 칩\n베팅 칩",
    "maker": "auto"
@@ -583,7 +587,7 @@
    "src_sha1": "2892fa43242c799059cff894be3dc8c3800563d5",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_poker_txt/24_tex24.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "MENTAL GAUGE\n플레이 내용 평가\nTOTAL SCORE",
    "maker": "auto"
@@ -624,7 +628,7 @@
    "src_sha1": "e12c858bcbedf7f756f2bc8233215a33f1af5c31",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_skill_txt/00_adv_skill_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "어빌리티 트리",
    "maker": "gpt",
@@ -640,7 +644,7 @@
    "src_sha1": "86c28dc29e061e79fd0a12c6691240980a6325cd",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_stagechange_txt/00_adv_stagechange_title_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "스테이지 이동",
    "maker": "gpt",
@@ -656,7 +660,7 @@
    "src_sha1": "5e985e27c33100f30b2616bea26ee3b06424b1e9",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_stand_cmn_txt/00_adv_stand_cmntxt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "OH!MY!GOD!\n굿!",
    "maker": "gpt",
@@ -685,7 +689,7 @@
    "src_sha1": "ad633bd609c49e9ee4673f368a81767595a85887",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_stand_cmn_txt/02_adv_stand_winlose00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "포획 완료! (오른쪽 위 작은 장식 글자 「굿!」)\n포획 실패…… (오른쪽 위 작은 장식 글자 OH!MY!GOD! 는 영어 그대로)",
    "maker": "gpt",
@@ -701,7 +705,7 @@
    "src_sha1": "b2a34bee3944d286135501d6e7bd830de208ea5b",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_stand_harvest_txt/00_adv_harvestget_txt00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "남은 4마리\n남은 3마리\n남은 2마리\n남은 1마리",
    "maker": "gpt",
@@ -717,7 +721,7 @@
    "src_sha1": "c754e35f57dbd6aa2a26fc892f78e3de0770d72f",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_stand_harvest_txt/01_adv_stand_harvest_txt00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "하베스트를 잡았다!",
    "maker": "gpt",
@@ -733,7 +737,7 @@
    "src_sha1": "80c90b398bcfe3a00d7906bdb24b8cd350cf95d5",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_storymenu_txt/00_adv_storymenu_itemlist_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "아이템 리스트",
    "maker": "gpt",
@@ -749,7 +753,7 @@
    "src_sha1": "4c84eedf62e80d4bd69de33c2d6c6779e173c166",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_storymenu_txt/01_adv_storymenu_synopsis_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "줄거리",
    "maker": "gpt",
@@ -778,7 +782,7 @@
    "src_sha1": "bb195316ccc06b11c1b065e192bbacd1e48a2228",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_storymenu_txt/03_adv_storymenu_trust_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "신뢰도",
    "maker": "gpt",
@@ -794,7 +798,7 @@
    "src_sha1": "c1b3f9ef546e2786fb0ff7a85be377b95f679567",
    "category": "스토리 UI",
    "png": "ui/adv/jpn/adv_storymenu_txt/04_adv_storymenu_tutorial_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "튜토리얼",
    "maker": "gpt",
@@ -823,7 +827,7 @@
    "src_sha1": "37917a53e87837725c4b994dec1d82af4d554286",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_chapter_end/00_adv_chapter_end.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "완",
    "maker": "auto"
@@ -838,8 +842,8 @@
    "src_sha1": "984551bd48113256c620ccc19f460773a6c125af",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_chapter_end/01_adv_chapter_next.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「TO BE CONTINUED...」 원작 상징 영어 연출, 원본 유지 (2026-11-02 사용자 결정)"
   },
   {
    "file": "data/ui/adv_demo/jpn/adv_demo_title01.xfbin",
@@ -851,7 +855,7 @@
    "src_sha1": "6a4cb0b038e61fd4fb6b7d6d74efcd8673d2df64",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title01/00_adv_chapter_title01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "제1장\n스타더스트 크루세이더즈",
    "maker": "auto"
@@ -866,7 +870,7 @@
    "src_sha1": "d701512f8d6f591e5c70b2b2d36038f2a3b5be94",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title02/00_adv_chapter_title02.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "제2장\n황금의 바람",
    "maker": "auto"
@@ -881,7 +885,7 @@
    "src_sha1": "9c547691d125e2457a58dcc3f001fcc538543dee",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title03/00_adv_chapter_title03.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "제3장\n다이아몬드는 부서지지 않는다",
    "maker": "auto"
@@ -896,7 +900,7 @@
    "src_sha1": "46696b8a6b18d81ba90db82ae1b28be4dba16078",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title04/00_adv_chapter_title04.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "제4장\n팬텀 블러드",
    "maker": "auto"
@@ -911,7 +915,7 @@
    "src_sha1": "f5de2c19dfd0ac2be6c66b2ff22b57e1444df17a",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title05/00_adv_chapter_title05.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "제5장\n전투조류",
    "maker": "auto"
@@ -926,7 +930,7 @@
    "src_sha1": "03dce5fbcf72d418a9f1495225d935a918e480e1",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title06/00_adv_chapter_title06.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "제6장\n스톤 오션",
    "maker": "auto"
@@ -941,7 +945,7 @@
    "src_sha1": "289bb44d61378504439e503423dfc662c6521f9f",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title07/00_adv_chapter_title07.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "제7장\n스틸 볼 런",
    "maker": "auto"
@@ -956,7 +960,7 @@
    "src_sha1": "015ccc03b1952dbab16103890512faddce724554",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title08/00_adv_chapter_title08.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "제8장\n죠죠리온",
    "maker": "auto"
@@ -971,7 +975,7 @@
    "src_sha1": "189b88b30178d58844a4ec225cd729467d8cc6fe",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title09/00_adv_chapter_title09.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "제9장\n흉성",
    "maker": "auto"
@@ -986,7 +990,7 @@
    "src_sha1": "ba9ff1023cdea2093c64d8ce0c1bf14547574a6c",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title10/00_adv_chapter_title10.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "제10장\n유해를 건 게임",
    "maker": "auto"
@@ -1001,7 +1005,7 @@
    "src_sha1": "ed43df8749c526b31d2a72926759c3052a4f9be6",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title11/00_adv_chapter_title11.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "제11장\n천국을 바란 남자",
    "maker": "auto"
@@ -1016,7 +1020,7 @@
    "src_sha1": "232bd0941b9a93fc5e407435926a7d0e79f89b59",
    "category": "스토리 연출",
    "png": "ui/adv_demo/jpn/adv_demo_title12/00_adv_chapter_title12.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "최종장\n더 월드 오버 헤븐",
    "maker": "auto"
@@ -1057,7 +1061,7 @@
    "src_sha1": "260c2d92f4d00a434855a3bcffea82f24341cb6d",
    "category": "부팅 화면",
    "png": "ui/boot/boot_logo/02_cautions.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "나…나왔습니다\n게…『게임을 플레이할 때는 방을 밝게 하고,\n되도록 TV 화면에서 멀리 떨어지자!!』\n『게다가!  플레이할 때는 건강을 위해\n1시간마다 15분 정도 휴식이다아아아앗!』\n그…그렇답니다 네",
    "maker": "auto"
@@ -1085,7 +1089,7 @@
    "src_sha1": "cb1831c6b310845f0ec2ce6ed40a345f721e867b",
    "category": "부팅 화면",
    "png": "ui/boot/boot_logo/04_cesa.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "주의\n게임 소프트웨어를 권리자의 허락 없이\n인터넷을 통해 전송·배포하는 행위, 또한\n불법 인터넷 전송임을 알면서 다운로드하는\n행위는 법률로 엄격히 금지되어 있습니다.\n여러분의 이해와 협조를\n부탁드립니다.",
    "maker": "auto"
@@ -1282,7 +1286,7 @@
    "src_sha1": "a3a2c4a53e867a5c4cdf01c32a988fdc79312cd1",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/00_tex00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "두 줄은 색만 다른 같은 글자",
    "ko": "백어택!\n백어택!",
    "maker": "gpt",
@@ -1298,7 +1302,7 @@
    "src_sha1": "d2f336486f952e94ab79135272aaaa55f77f163a",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/01_tex01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "콤보 브레이크!!",
    "maker": "gpt",
@@ -1314,7 +1318,7 @@
    "src_sha1": "be1c7417fe57719e69cc17a626a8fbda3e4d2602",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/02_tex02.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "콤보 브레이크!!",
    "maker": "gpt",
@@ -1330,7 +1334,7 @@
    "src_sha1": "f5e1d2be6a30a9ce2c53b39bd2b73139da0cddcd",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/03_tex03.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "원본 동일(ui/adv/jpn/adv_crowd_txt/01_btl_combo_txt.png) 결과 복사",
    "ko": "굿!\n그레이트!\n벨리시모\n디 몰토\n맘마미아!",
    "maker": "reuse"
@@ -1345,7 +1349,7 @@
    "src_sha1": "caef6cf77c5786c1e2f68933b8408a9ce5c8b5c1",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/04_tex04.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "듀얼 콤보 모드",
    "maker": "gpt",
@@ -1361,7 +1365,7 @@
    "src_sha1": "079dd0cdbf1318b838b8ed0fba40b32f2eb781f0",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/05_tex05.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "듀얼 콤보 입력 가능!!",
    "maker": "gpt",
@@ -1377,7 +1381,7 @@
    "src_sha1": "11e6c3c94d73d39e28be5d2af2958e64b1d9d600",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/06_tex06.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "듀얼 도발!!",
    "maker": "gpt",
@@ -1393,7 +1397,7 @@
    "src_sha1": "f239bc0e5bc7ab8f02d6af853ccfc9a93b256600",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/07_tex07.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "OH!MY!GOD! 는 영어 그대로, 아래 두 조각만 한글",
    "ko": "OH!MY!GOD!\n굿!\n그레이트!",
    "maker": "gpt",
@@ -1409,7 +1413,7 @@
    "src_sha1": "e00e35ac6ff3f6190c9aa5c82c90c9f29cdd8dd7",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/08_tex08.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "퍼스트 어택!",
    "maker": "gpt",
@@ -1425,7 +1429,7 @@
    "src_sha1": "4051bdbea4f1e7e95cd0e06be1b04e47f02fc06e",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/09_tex09.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "UI 메뉴 gauge_text/00 결과의 「이어지는 의지」 조각 재사용",
    "ko": "이어지는 의지",
    "maker": "gpt",
@@ -1441,7 +1445,7 @@
    "src_sha1": "2651a261245e801618e4b4d8d5654c028731fb00",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/10_tex10.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "럭키",
    "maker": "gpt",
@@ -1457,7 +1461,7 @@
    "src_sha1": "b5bcb857e10bd74faf773a77f1bbd84a62ae02a4",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/11_tex11.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "죠죠리티 달성!",
    "maker": "auto"
@@ -1498,7 +1502,7 @@
    "src_sha1": "d49d085d92bb025ad894d652d929b7c237eb6cfa",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/14_tex14.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "콤보 피니시",
    "maker": "gpt",
@@ -1579,7 +1583,7 @@
    "src_sha1": "87c61d6655fbe7169eb28a143595794bc06ac217",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/20_tex20.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "SITUATION FINISH!! 영어는 그대로, 초록 띠의 「可」能よ! 만 「가」능해!",
    "ko": "SITUATION FINISH!! 「가」능해!",
    "maker": "gpt",
@@ -1621,7 +1625,7 @@
    "src_sha1": "866b01c20c8b87d08d321071a60decbefb1aa319",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_cmn_txt/23_tex23.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "위의 작은 루비 リタイア → 리타이어",
    "ko": "재기 불능!",
    "maker": "gpt",
@@ -1650,7 +1654,7 @@
    "src_sha1": "f5e1d2be6a30a9ce2c53b39bd2b73139da0cddcd",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_stand_txt/00_btl_combo_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "원본 동일(ui/adv/jpn/adv_crowd_txt/01_btl_combo_txt.png) 결과 복사",
    "ko": "굿!\n그레이트!\n벨리시모\n디 몰토\n맘마미아!",
    "maker": "reuse"
@@ -2005,7 +2009,7 @@
    "src_sha1": "1f1e21f47f07569777b473b8f18749af90676011",
    "category": "UI 메뉴",
    "png": "ui/btlsel/vscmn/jpn/vscmn_txt/03_vscmn_txt_dha_title.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "2번째 줄은 빨간 「특수」+흰 「듀얼 히트 어택」 두 조각",
    "ko": "듀얼 히트 어택\n특수\n듀얼 히트 어택\n그레이트 히트 어택",
    "maker": "auto"
@@ -2059,7 +2063,7 @@
    "src_sha1": "3c488e0ec475fd372d299b62b6a5722710819627",
    "category": "UI 메뉴",
    "png": "ui/btlsel/vsload/jpn/vsload_txt/01_vsload_boss_txt_boss.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "스토리 UI adv_encounter_txt 결과 재사용 검토",
    "ko": "강적 출현!!",
    "maker": "gpt",
@@ -2153,7 +2157,7 @@
    "src_sha1": "9a4e97814df1537061b4c490133054ba3599b030",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/04_tex04.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "로드 완료다, 베이비",
    "maker": "auto"
@@ -2168,7 +2172,7 @@
    "src_sha1": "2e9a8dd6f658cd6d61fb460b7e23a4d7d23f8788",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/05_tex05.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "로드 완료다, 베이비",
    "maker": "auto"
@@ -2183,7 +2187,7 @@
    "src_sha1": "97bcb30b59961988c80c5b257f07b3047223a016",
    "category": "UI 메뉴",
    "png": "ui/cmn/jpn/cmn_txt/06_tex06.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "준비 OK!\n준비 중",
    "maker": "auto"
@@ -2315,7 +2319,7 @@
    "src_sha1": "e0cafbde9175da7ce48d54a44c02310436ff9410",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/00_commandlist_txt_icon00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "스탠드",
    "maker": "auto"
@@ -2330,7 +2334,7 @@
    "src_sha1": "a3fa3c2bc15b2e8feebef7e14e4313e790d51051",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/01_commandlist_txt_icon01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "본체",
    "maker": "auto"
@@ -2345,7 +2349,7 @@
    "src_sha1": "f0c8dfcd63e8752227f992bae40e294a5f3d9fe4",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/02_commandlist_txt_icon02.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "기마",
    "maker": "auto"
@@ -2360,7 +2364,7 @@
    "src_sha1": "1fc9afbb89b159cca2edc4f1e04a08381e1fa513",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/03_commandlist_txt_icon03.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "지상",
    "maker": "auto"
@@ -2375,7 +2379,7 @@
    "src_sha1": "b0cad4121c7273345585ff41248fcc350fd1b074",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/04_commandlist_txt_icon04.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "공중 가능",
    "maker": "auto"
@@ -2390,7 +2394,7 @@
    "src_sha1": "3b79afe423560a18e379ec147fd9e7b0d6f49915",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/05_commandlist_txt_icon05.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "연타 가능",
    "maker": "auto"
@@ -2405,7 +2409,7 @@
    "src_sha1": "d567f88ab74ee19cf7b51dc18a42cdef3e5e22df",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/06_commandlist_txt_icon06.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "タメ可: 「모으기 가능」은 칸이 좁아 글자가 너무 작아져 「차지 가능」으로 (2026-10-30 사용자 결정)",
    "ko": "차지 가능",
    "maker": "auto"
@@ -2420,7 +2424,7 @@
    "src_sha1": "6d9ab9d938860ce1f390fecf01301f812e6b56df",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/07_commandlist_txt_icon07.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "다운 추가타 가능",
    "maker": "auto"
@@ -2435,7 +2439,7 @@
    "src_sha1": "8dcbcb5b026cc03ef8e8d0e70376d48a010cafbd",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/08_commandlist_txt_icon08.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "투사체",
    "maker": "auto"
@@ -2450,7 +2454,7 @@
    "src_sha1": "d372277a85e6ee4b82108e3af424cf91f8ab7704",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/09_commandlist_txt_icon09.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "트랩",
    "maker": "auto"
@@ -2465,7 +2469,7 @@
    "src_sha1": "c8554f11e95ced3211f5bed1a9b344786f445a06",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/10_commandlist_txt_icon10.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "직접 공격",
    "maker": "auto"
@@ -2480,7 +2484,7 @@
    "src_sha1": "f7853136c4bb6c7e4dd5d6fa794911320ba8627a",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/11_commandlist_txt_icon11.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "모드 전환",
    "maker": "auto"
@@ -2495,7 +2499,7 @@
    "src_sha1": "0849d849282428a2854f12beb82b0f492ee2d1fb",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/12_commandlist_txt_icon12.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "기타",
    "maker": "auto"
@@ -2510,7 +2514,7 @@
    "src_sha1": "4a329968d420bb78ed71b51eb1eab03a754900e8",
    "category": "UI 메뉴",
    "png": "ui/commandlist/jpn/commandlist_text/13_commandlist_txt_icon13.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "EX 스킬",
    "maker": "auto"
@@ -2525,7 +2529,7 @@
    "src_sha1": "69d1111dc16708b2ef68fdc545dc0e1d60df4fd3",
    "category": "UI 메뉴",
    "png": "ui/customize/jpn/customize_txt/00_customize_edit_subtitle_char.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "프리셋 편집",
    "maker": "auto"
@@ -2540,7 +2544,7 @@
    "src_sha1": "7a5edaa8af79a32c97a8d007c01b282f18273b16",
    "category": "UI 메뉴",
    "png": "ui/customize/jpn/customize_txt/01_customize_edit_subtitle_dual.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "듀얼 콤보·승리 세트 편집",
    "maker": "auto"
@@ -2555,7 +2559,7 @@
    "src_sha1": "41149b62c200917e3840841accc8a44ca42955af",
    "category": "UI 메뉴",
    "png": "ui/customize/jpn/customize_txt/02_customize_edit_subtitle_player.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "플레이어 카드 편집",
    "maker": "auto"
@@ -2570,7 +2574,7 @@
    "src_sha1": "d0b7a0aea49fa8f1aedb22d626aab2e3dc0b5d6c",
    "category": "UI 메뉴",
    "png": "ui/customize/jpn/customize_txt/03_customize_edit_subtitle_trade.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "트레이드 카드 리스트",
    "maker": "auto"
@@ -2598,7 +2602,7 @@
    "src_sha1": "05c04c31104f8784b4363074a9e7e406d59741a1",
    "category": "UI 메뉴",
    "png": "ui/freebtl/jpn/freebtl_txt/00_freebtl_dlmission_title.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "다운로드 미션",
    "maker": "auto"
@@ -2626,7 +2630,7 @@
    "src_sha1": "e8b726465d30bc5c4d56869cd889b416013bfcb6",
    "category": "UI 메뉴",
    "png": "ui/gallery/jpn/gallery_txt/00_gallery_subtitle_art.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "아트 뷰어",
    "maker": "auto"
@@ -2641,7 +2645,7 @@
    "src_sha1": "21ac388b7090a988f50bc0c6dafde0b14ff83e2c",
    "category": "UI 메뉴",
    "png": "ui/gallery/jpn/gallery_txt/01_gallery_subtitle_demo.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "데모 뷰어",
    "maker": "auto"
@@ -2656,7 +2660,7 @@
    "src_sha1": "1957a70f88dcb89f14d2aab13e38d5acb0065b8a",
    "category": "UI 메뉴",
    "png": "ui/gallery/jpn/gallery_txt/02_gallery_subtitle_mdl.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "모델 뷰어",
    "maker": "auto"
@@ -2671,7 +2675,7 @@
    "src_sha1": "2cab08ef43c467c5a40d994b2500dc103f4b5dd6",
    "category": "UI 메뉴",
    "png": "ui/gallery/jpn/gallery_txt/03_gallery_subtitle_sound.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "사운드 테스트",
    "maker": "auto"
@@ -2699,7 +2703,7 @@
    "src_sha1": "958e01b707dff9b2105b6952b56eb32ac656d974",
    "category": "UI 메뉴",
    "png": "ui/gauge/jpn/gauge_text/00_asb_gauge_dh_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "듀얼 히트 어택\n듀얼 콤보\n이어지는 의지",
    "maker": "gpt",
@@ -2728,7 +2732,7 @@
    "src_sha1": "1bb880a072debde854085f09eec2cde798e17ee8",
    "category": "UI 메뉴",
    "png": "ui/gauge/jpn/gauge_text/02_gauge_support_retire.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "재기 불능!",
    "maker": "auto"
@@ -2886,7 +2890,7 @@
    "src_sha1": "7df1da573002692cfd56fd180e9009d693d06786",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_1dio01/00_btl_name_1dio01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "디오",
    "maker": "gpt"
@@ -2901,7 +2905,7 @@
    "src_sha1": "623541749a1296ca25afdd9f6bbb07a5c63b29ae",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_1jnt01/00_btl_name_1jnt01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "죠나단",
    "maker": "gpt"
@@ -2916,7 +2920,7 @@
    "src_sha1": "3bf14718ce5b76ed4c0f7f68ff77fa63c2f6f154",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_1sdw01/00_btl_name_1sdw01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "스피드왜건",
    "maker": "gpt"
@@ -2931,7 +2935,7 @@
    "src_sha1": "9fd0332a1c9f5efaf3788e8ff28b8b0394e0fdd0",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_1zpl01/00_btl_name_1zpl01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "체펠리",
    "maker": "gpt"
@@ -2946,7 +2950,7 @@
    "src_sha1": "72f77f9fd484b2c79c068a2c5e8dc9ef7670e093",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2csr01/00_btl_name_2csr01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "시저",
    "maker": "gpt"
@@ -2961,7 +2965,7 @@
    "src_sha1": "d0c8fc29a6a84a22b534a09d400115422beb0c79",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2esd01/00_btl_name_2esd01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "에시디시",
    "maker": "gpt"
@@ -2976,7 +2980,7 @@
    "src_sha1": "3fbd3c054590959bf7a4c439de3df4251c1342c2",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2jsp01/00_btl_name_2jsp01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "죠셉",
    "maker": "gpt"
@@ -2991,7 +2995,7 @@
    "src_sha1": "a4ff7626e9a7761e0c68b5d905e2b11ccf4cca5e",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2krs01/00_btl_name_2krs01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "카즈",
    "maker": "gpt"
@@ -3006,7 +3010,7 @@
    "src_sha1": "c163a6871e2e4f244c8625a2d0ab44adeafd5c2f",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2krs01/01_btl_name_2krs02.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "카즈(궁극생물)",
    "maker": "gpt"
@@ -3021,7 +3025,7 @@
    "src_sha1": "c168116c0cfa84d4c1977c032b9c7afba91b9607",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2lsa01/00_btl_name_2lsa01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "리사리사",
    "maker": "gpt"
@@ -3036,7 +3040,7 @@
    "src_sha1": "3ec28a2fcdc247e74d2e2a7239c6e623fe6ed70d",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2shm01/00_btl_name_2shm01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "슈트로하임",
    "maker": "gpt"
@@ -3051,7 +3055,7 @@
    "src_sha1": "ca75bf252f49a85d57b2a637a1cf663a84f4be0e",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_2wmu01/00_btl_name_2wmu01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "와무우",
    "maker": "gpt"
@@ -3066,7 +3070,7 @@
    "src_sha1": "163401ccb19b6df8a8b1d2c4bdda98496c6af580",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3abd01/00_btl_name_3abd01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "압둘",
    "maker": "gpt"
@@ -3081,7 +3085,7 @@
    "src_sha1": "487caea803cd41bbcaeba9cd87446ffff10ffe32",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3dio01/00_btl_name_3dio01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "DIO",
    "maker": "gpt"
@@ -3096,7 +3100,7 @@
    "src_sha1": "1a03586bbf94a7f8ac4405ec90113ea533cf915a",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3hhs01/00_btl_name_3hhs01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "홀 호스",
    "maker": "gpt"
@@ -3111,7 +3115,7 @@
    "src_sha1": "6672a15d7ebc3e5bb2ef07c01dbd5e6f7902df15",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3igy01/00_btl_name_3igy01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "이기",
    "maker": "gpt"
@@ -3126,7 +3130,7 @@
    "src_sha1": "6e3baf863151dbf5e70c41348904a0f997302915",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3jsp01/00_btl_name_3jsp01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "노년 죠셉",
    "maker": "gpt"
@@ -3141,7 +3145,7 @@
    "src_sha1": "7c3c463a9e0e31ecc87eb34b92dbd3133933fd96",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3jtr01/00_btl_name_3jtr01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "쿠죠 죠타로",
    "maker": "gpt"
@@ -3156,7 +3160,7 @@
    "src_sha1": "fcc30e36ed97df6cdc8b49b27ab93522fe5ee75a",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3kki01/00_btl_name_3kki01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "카쿄인 노리아키",
    "maker": "gpt"
@@ -3171,7 +3175,7 @@
    "src_sha1": "d8a30573767b51536add9cefe90819e26ae01249",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3mra01/00_btl_name_3mra01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "머라이어",
    "maker": "gpt"
@@ -3186,7 +3190,7 @@
    "src_sha1": "31ef8acdfbd35bb630c03f9a98bc42219de017e9",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3pln01/00_btl_name_3pln01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "폴나레프",
    "maker": "gpt"
@@ -3201,7 +3205,7 @@
    "src_sha1": "d2da4aa1d8e5283bdaf1191ad0154ea09df43654",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3psp01/00_btl_name_3psp01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "펫숍",
    "maker": "gpt"
@@ -3216,7 +3220,7 @@
    "src_sha1": "f453b75d4f6b24154ce4e3b9e4526c94d37a3a0d",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3udr01/00_btl_name_3udr01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "은두르",
    "maker": "gpt"
@@ -3231,7 +3235,7 @@
    "src_sha1": "536aaa44e8a97272070345cf663a20b9fb59c749",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_3vni01/00_btl_name_3vni01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "바닐라 아이스",
    "maker": "gpt"
@@ -3246,7 +3250,7 @@
    "src_sha1": "f489815260cc0ee18c8cc205bf50160dd400c778",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4jsk01/00_btl_name_4jsk01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "히가시카타 죠스케",
    "maker": "gpt"
@@ -3261,7 +3265,7 @@
    "src_sha1": "f1e48bf92aa7e67bd405f30e82ea4c40bda7ce4d",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4jtr01/00_btl_name_4jtr01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "4부 쿠죠 죠타로",
    "maker": "gpt"
@@ -3276,7 +3280,7 @@
    "src_sha1": "2e434d8bafe74987be18fd90e9b8d285869e3c9e",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4kir01/00_btl_name_4kir01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "키라 요시카게",
    "maker": "gpt"
@@ -3291,7 +3295,7 @@
    "src_sha1": "2cadccf1b7568f46d1348c47ff9d5d9e084a8d26",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4koi01/00_btl_name_4koi01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "히로세 코이치",
    "maker": "gpt"
@@ -3306,7 +3310,7 @@
    "src_sha1": "90a77866b22bae56367c16aff664769a6487e526",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4kwk01/00_btl_name_4kwk01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "카와지리 코사쿠",
    "maker": "gpt"
@@ -3321,7 +3325,7 @@
    "src_sha1": "beae94af7e493aaa1dc3778b112da986c6863a22",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4kwk01/01_btl_name_4kwk31.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "데드맨즈 Q 키라",
    "maker": "gpt"
@@ -3336,7 +3340,7 @@
    "src_sha1": "360f38b55e2caddca5b99c3e69216db49eafa403",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4oky01/00_btl_name_4oky01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "니지무라 오쿠야스",
    "maker": "gpt"
@@ -3351,7 +3355,7 @@
    "src_sha1": "8837caf1b364722cdb779ffeb85297c93e313e9f",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4oti01/00_btl_name_4oti01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "오토이시 아키라",
    "maker": "gpt"
@@ -3366,7 +3370,7 @@
    "src_sha1": "82e9dee4cf73f7c97e66df454d61efcc55e74115",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4rhn01/00_btl_name_4rhn01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "키시베 로한",
    "maker": "gpt"
@@ -3381,7 +3385,7 @@
    "src_sha1": "063ab73d1642dd0e564782bde3795bdc25992c35",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4sgc01/00_btl_name_4sgc01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "얀구 시게키요",
    "maker": "gpt"
@@ -3396,7 +3400,7 @@
    "src_sha1": "1e909aebd69ce576c92a47e37f9bf810a01f17af",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_4ykk01/00_btl_name_4ykk01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "야마기시 유카코",
    "maker": "gpt"
@@ -3411,7 +3415,7 @@
    "src_sha1": "e7faef6463c93e7f30be9922d64d093f1f729343",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5bct01/00_btl_name_5bct01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "부차라티",
    "maker": "gpt"
@@ -3426,7 +3430,7 @@
    "src_sha1": "92e362c28c495911c49e1c4868d08d36bb6e74bd",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5dvl01/00_btl_name_5dvl01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "디아볼로",
    "maker": "gpt"
@@ -3441,7 +3445,7 @@
    "src_sha1": "513122e71076acdacb5fe446a08ccade4cd422ce",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5fgo01/00_btl_name_5fgo01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "푸고",
    "maker": "gpt"
@@ -3456,7 +3460,7 @@
    "src_sha1": "1b4cf15859e737568cc471703ad207135e579ec9",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5grn01/00_btl_name_5grn01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "죠르노",
    "maker": "gpt"
@@ -3471,7 +3475,7 @@
    "src_sha1": "2a80c6db4c574df990f05c6f4c8bbd7f61e2c89e",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5mst01/00_btl_name_5mst01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "미스타",
    "maker": "gpt"
@@ -3486,7 +3490,7 @@
    "src_sha1": "2cfff1875b81c616e9baae2b72b5a10e9ccf8751",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5nrc01/00_btl_name_5nrc01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "나란차",
    "maker": "gpt"
@@ -3501,7 +3505,7 @@
    "src_sha1": "a01806ee6cf3766fee013a4363a36b46edbaa1a4",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_5trs01/00_btl_name_5trs01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "트리시",
    "maker": "gpt"
@@ -3516,7 +3520,7 @@
    "src_sha1": "9e2d20a59a6cda10c0e78ab144905ac50e00e068",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_6ans01/00_btl_name_6ans01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "안나수이",
    "maker": "gpt"
@@ -3531,7 +3535,7 @@
    "src_sha1": "9108697022fd08905cdea23a3c1193a11188dd3c",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_6elm01/00_btl_name_6elm01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "에르메스",
    "maker": "gpt"
@@ -3546,7 +3550,7 @@
    "src_sha1": "7d95fc5bdc6c92cdb1cd6ca83cacca4785214c3e",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_6jln01/00_btl_name_6jln01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "쿠죠 죠린",
    "maker": "gpt"
@@ -3561,7 +3565,7 @@
    "src_sha1": "ffd954c0cfae4d18e1676e93c28283e436b93221",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_6pci01/00_btl_name_6pci01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "푸치",
    "maker": "gpt"
@@ -3576,7 +3580,7 @@
    "src_sha1": "e96450e72f1e3ffe4d76fd9c50ef3b5464bf98d1",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_6pci02/00_btl_name_6pci02.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "신월 푸치",
    "maker": "gpt"
@@ -3591,7 +3595,7 @@
    "src_sha1": "c3c72a4697149cde998163bf938d74a72415e7f5",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_6wet01/00_btl_name_6wet01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "웨더 리포트",
    "maker": "gpt"
@@ -3606,7 +3610,7 @@
    "src_sha1": "d09df4bd040e7cfc4bbf6cb2707436527bf371af",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_7dio01/00_btl_name_7dio01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "디에고",
    "maker": "gpt"
@@ -3621,7 +3625,7 @@
    "src_sha1": "fd35a1e4c1cf8c0a4612ab14571b42fa71601690",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_7dio02/00_btl_name_7dio02.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "더 월드 디에고",
    "maker": "gpt"
@@ -3636,7 +3640,7 @@
    "src_sha1": "10d495bb3a7750c3a576dafd33bfe84720841850",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_7jir01/00_btl_name_7jir01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "자이로",
    "maker": "gpt"
@@ -3651,7 +3655,7 @@
    "src_sha1": "5e19bcbe8269cbcd306e22c80a8f28554782c12b",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_7jny01/00_btl_name_7jny01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "죠니",
    "maker": "gpt"
@@ -3666,7 +3670,7 @@
    "src_sha1": "ae1b9778fc290cfebf099a6bc2a56f116bb5b9ae",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_7vtn01/00_btl_name_7vtn01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "밸런타인",
    "maker": "gpt"
@@ -3681,7 +3685,7 @@
    "src_sha1": "61a06d547eb2b2fc7e6a3191b087c8f8416628a1",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_8jsh01/00_btl_name_8jsh01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "히가시카타 죠슈",
    "maker": "gpt"
@@ -3696,7 +3700,7 @@
    "src_sha1": "d67eb8951333f48de2ad61f104f80cc2f7b42d85",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_8jsk01/00_btl_name_8jsk01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "히가시카타 죠스케(8부)",
    "maker": "gpt"
@@ -3711,7 +3715,7 @@
    "src_sha1": "d0804b6452e153cf44226594e5ac2bde24d33244",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_99ran01/00_btl_name_99ran01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "???",
    "maker": "gpt"
@@ -3726,7 +3730,7 @@
    "src_sha1": "236da581dac3f948ee9987ea8d3ba7080eadddd0",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_bdio01/00_btl_name_bdio01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "천국 DIO",
    "maker": "gpt"
@@ -3741,7 +3745,7 @@
    "src_sha1": "236da581dac3f948ee9987ea8d3ba7080eadddd0",
    "category": "캐릭터 이름",
    "png": "ui/name/btl_name/jpn/btl_name_bdio02/00_btl_name_bdio02.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "천국 DIO",
    "maker": "gpt"
@@ -3756,7 +3760,7 @@
    "src_sha1": "fb70ca6404acee2617143a8cf94dca8083a6e94c",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_1dio01/00_full_name_1dio01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "디오 브란도",
    "maker": "gpt"
@@ -3771,7 +3775,7 @@
    "src_sha1": "d02068e5ae1728e8d8cc62275a01cd91a56de146",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_1jnt01/00_full_name_1jnt01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "죠나단 죠스타",
    "maker": "gpt"
@@ -3786,7 +3790,7 @@
    "src_sha1": "f4632cccdde6672041946f635260c3ff54cf8a3f",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_1sdw01/00_full_name_1sdw01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "로버트 E.O. 스피드왜건",
    "maker": "gpt"
@@ -3801,7 +3805,7 @@
    "src_sha1": "64ef5bb3a8632fcc13256d189d5c1ab59f439a57",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_1zpl01/00_full_name_1zpl01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "윌 A. 체펠리",
    "maker": "gpt"
@@ -3816,7 +3820,7 @@
    "src_sha1": "137afd87a6bfdd2ec1b2a52647663c6c0509df69",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2csr01/00_full_name_2csr01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "시저 안토니오 체펠리",
    "maker": "gpt"
@@ -3831,7 +3835,7 @@
    "src_sha1": "d73eb5ad382e726102bd62880fe0919b2bbdf076",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2esd01/00_full_name_2esd01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "에시디시",
    "maker": "gpt"
@@ -3846,7 +3850,7 @@
    "src_sha1": "3cd0615a71e7600dc3afd5496192dbccc91f5c22",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2jsp01/00_full_name_2jsp01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "죠셉 죠스타",
    "maker": "gpt"
@@ -3861,7 +3865,7 @@
    "src_sha1": "fa2ab28739b8f57b8899903b301f8fdd8d1fdf03",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2krs01/00_full_name_2krs01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "카즈",
    "maker": "gpt"
@@ -3876,7 +3880,7 @@
    "src_sha1": "10815fa5ef1fd5716ac7459b52b30ebffb74efdc",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2lsa01/00_full_name_2lsa01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "리사리사",
    "maker": "gpt"
@@ -3891,7 +3895,7 @@
    "src_sha1": "a21f90446c0c827838b4a1d1dea28ddd39560074",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2shm01/00_full_name_2shm01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "슈트로하임",
    "maker": "gpt"
@@ -3906,7 +3910,7 @@
    "src_sha1": "01b5a584571f4e2a37f09d8a9758a2b2e1d3ad7c",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_2wmu01/00_full_name_2wmu01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "와무우",
    "maker": "gpt"
@@ -3921,7 +3925,7 @@
    "src_sha1": "25bad607463740873034d7128fe0bc05f1b08b2f",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3abd01/00_full_name_3abd01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "무함마드 압둘",
    "maker": "gpt"
@@ -3936,7 +3940,7 @@
    "src_sha1": "4127eb98d7559bc42a631fd90401c6f2aedb758c",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3dio01/00_full_name_3dio01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "DIO",
    "maker": "gpt"
@@ -3951,7 +3955,7 @@
    "src_sha1": "c61a3e8fd90c6b0bb1c44fd19d3bdd1946f05ed3",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3hhs01/00_full_name_3hhs01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "홀 호스",
    "maker": "gpt"
@@ -3966,7 +3970,7 @@
    "src_sha1": "b6408d14acfbd3490e7cd67eb22cd5fa82d5153b",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3igy01/00_full_name_3igy01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "이기",
    "maker": "gpt"
@@ -3981,7 +3985,7 @@
    "src_sha1": "fe4b0411b26ecd43561260c622d496cf68f11a91",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3jsp01/00_full_name_3jsp01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "노년 죠셉 죠스타",
    "maker": "gpt"
@@ -3996,7 +4000,7 @@
    "src_sha1": "02bb4d63130ac2cda973597656117217bbe931d4",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3jtr01/00_full_name_3jtr01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "쿠죠 죠타로",
    "maker": "gpt"
@@ -4011,7 +4015,7 @@
    "src_sha1": "3e0c9a0e932472607525199c8b7e5dc884d70d1f",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3kki01/00_full_name_3kki01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "카쿄인 노리아키",
    "maker": "gpt"
@@ -4026,7 +4030,7 @@
    "src_sha1": "007d0d99bf5122cd26812d5fcf79f14632a39cac",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3mra01/00_full_name_3mra01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "머라이어",
    "maker": "gpt"
@@ -4041,7 +4045,7 @@
    "src_sha1": "20fad6fbdcfc4e38bfae316189305573f7fd6f57",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3pln01/00_full_name_3pln01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "장 피에르 폴나레프",
    "maker": "gpt"
@@ -4056,7 +4060,7 @@
    "src_sha1": "a5f207a9fe99b5de40ce689588881ac9cea87b7a",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3psp01/00_full_name_3psp01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "펫숍",
    "maker": "gpt"
@@ -4071,7 +4075,7 @@
    "src_sha1": "5659367e65bcd1453357ca46393f0dddc8327e78",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3udr01/00_full_name_3udr01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "은두르",
    "maker": "gpt"
@@ -4086,7 +4090,7 @@
    "src_sha1": "76f17a85a0e7574b15f99a236475ee638b79cabb",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_3vni01/00_full_name_3vni01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "바닐라 아이스",
    "maker": "gpt"
@@ -4101,7 +4105,7 @@
    "src_sha1": "1f7ef7bae0fe17201e45d2494fcba29b933d5796",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4jsk01/00_full_name_4jsk01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "히가시카타 죠스케",
    "maker": "gpt"
@@ -4116,7 +4120,7 @@
    "src_sha1": "d0f16e9bcdfc1dd5458f544eed8c585c99723ba6",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4jtr01/00_full_name_4jtr01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "4부 쿠죠 죠타로",
    "maker": "gpt"
@@ -4131,7 +4135,7 @@
    "src_sha1": "9b97691231693641d5b9466b4130e9ac8f33ea0c",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4kir01/00_full_name_4kir01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "키라 요시카게",
    "maker": "gpt"
@@ -4146,7 +4150,7 @@
    "src_sha1": "f9b055b8bc3612de4f4cebb94ec8e0d6d51c42f6",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4koi01/00_full_name_4koi01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "히로세 코이치",
    "maker": "gpt"
@@ -4161,7 +4165,7 @@
    "src_sha1": "5970f36ecf133ab21f6453b0d298bf3d0bc9004c",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4kwk01/00_full_name_4kwk01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "카와지리 코사쿠",
    "maker": "gpt"
@@ -4176,7 +4180,7 @@
    "src_sha1": "f02452a2c760113d259eb59c30c48a562a69130b",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4kwk01/01_full_name_4kwk31.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "데드맨즈 Q 키라 요시카게",
    "maker": "gpt"
@@ -4191,7 +4195,7 @@
    "src_sha1": "6a83527ca81338aa6408ec6584c5116d431d5c38",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4oky01/00_full_name_4oky01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "니지무라 오쿠야스",
    "maker": "gpt"
@@ -4206,7 +4210,7 @@
    "src_sha1": "1ce1984a19264fa7aee9bf1b949f6b0782bd9bc6",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4oti01/00_full_name_4oti01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "오토이시 아키라",
    "maker": "gpt"
@@ -4221,7 +4225,7 @@
    "src_sha1": "a60aba9438f92a63790c29a25de1e0c3829d8b80",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4rhn01/00_full_name_4rhn01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "키시베 로한",
    "maker": "gpt"
@@ -4236,7 +4240,7 @@
    "src_sha1": "2b0ee0e49e4fbea6673d676317bd01c01d839913",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4sgc01/00_full_name_4sgc01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "얀구 시게키요",
    "maker": "gpt"
@@ -4251,7 +4255,7 @@
    "src_sha1": "771d24265fa45123a34d9d323f0c3e0ecfa350c1",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_4ykk01/00_full_name_4ykk01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "야마기시 유카코",
    "maker": "gpt"
@@ -4266,7 +4270,7 @@
    "src_sha1": "66801acbb3c743aa50224db577cd08e386bdb16b",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5bct01/00_full_name_5bct01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "브루노 부차라티",
    "maker": "gpt"
@@ -4281,7 +4285,7 @@
    "src_sha1": "1a71ec21c0332bfeb3aa49cf54ecdb08cc567dae",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5dvl01/00_full_name_5dvl01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "디아볼로",
    "maker": "gpt"
@@ -4296,7 +4300,7 @@
    "src_sha1": "bbbf97602a079b27c4ac65b65b2b172abb8f3df3",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5fgo01/00_full_name_5fgo01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "판나코타 푸고",
    "maker": "gpt"
@@ -4311,7 +4315,7 @@
    "src_sha1": "139cec82ce06e311f0af3fdf53a84159bb6bc4e3",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5grn01/00_full_name_5grn01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "죠르노 죠바나",
    "maker": "gpt"
@@ -4326,7 +4330,7 @@
    "src_sha1": "c5fd06968fd4965c12ef80626a2b97f3f3d3dadb",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5mst01/00_full_name_5mst01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "귀도 미스타",
    "maker": "gpt"
@@ -4341,7 +4345,7 @@
    "src_sha1": "a2f24de94996f45cf0a17d774190feb894fda061",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5nrc01/00_full_name_5nrc01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "나란차 길가",
    "maker": "gpt"
@@ -4356,7 +4360,7 @@
    "src_sha1": "01dd2983e606845fbc1475bb9e2ddd9a70b01a63",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_5trs01/00_full_name_5trs01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "트리시 우나",
    "maker": "gpt"
@@ -4371,7 +4375,7 @@
    "src_sha1": "94fed6320ed8eb3bbe9f527c2c534550f099445a",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_6ans01/00_full_name_6ans01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "나르시소 안나수이",
    "maker": "gpt"
@@ -4386,7 +4390,7 @@
    "src_sha1": "5a03c5ebb864845bab54006712f3dcfd7261a084",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_6elm01/00_full_name_6elm01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "에르메스 코스텔로",
    "maker": "gpt"
@@ -4401,7 +4405,7 @@
    "src_sha1": "e6b14f84e88b6f4268380faf2767c110d7344684",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_6jln01/00_full_name_6jln01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "쿠죠 죠린",
    "maker": "gpt"
@@ -4416,7 +4420,7 @@
    "src_sha1": "28a50adae5f804fd3a75312b76d8ccc8e5b0a616",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_6pci01/00_full_name_6pci01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "엔리코 푸치",
    "maker": "gpt"
@@ -4431,7 +4435,7 @@
    "src_sha1": "14ec30cd079253d31cb4b8dd8ba77f0f9da189ee",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_6pci02/00_full_name_6pci02.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "신월의 때를 기다리는 푸치",
    "maker": "gpt"
@@ -4446,7 +4450,7 @@
    "src_sha1": "655d7e47ab9b0e9caee0c418918509d3167492d9",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_6wet01/00_full_name_6wet01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "웨더 리포트",
    "maker": "gpt"
@@ -4461,7 +4465,7 @@
    "src_sha1": "ba0595fa978a7913a5941d98cd3f04a3494c7d82",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_7dio01/00_full_name_7dio01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "디에고 브란도",
    "maker": "gpt"
@@ -4476,7 +4480,7 @@
    "src_sha1": "0b6079ebcb403c9527314a94470e9d180891ee5d",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_7dio02/00_full_name_7dio02.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "평행 세계에서 온 디에고",
    "maker": "gpt"
@@ -4491,7 +4495,7 @@
    "src_sha1": "8bdf880ec0ad7f707c0986b4d64d26db8f8ad016",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_7jir01/00_full_name_7jir01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "자이로 체펠리",
    "maker": "gpt"
@@ -4506,7 +4510,7 @@
    "src_sha1": "7664960e1e35ee6c29fd3f76973f9018189709cb",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_7jny01/00_full_name_7jny01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "죠니 죠스타",
    "maker": "gpt"
@@ -4521,7 +4525,7 @@
    "src_sha1": "862473fe4f783cad6550e639778f09d8d163b9c2",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_7vtn01/00_full_name_7vtn01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "퍼니 밸런타인",
    "maker": "gpt"
@@ -4536,7 +4540,7 @@
    "src_sha1": "c24208909346f1bc7d3c68c814283a33cb5c932d",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_8jsh01/00_full_name_8jsh01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "히가시카타 죠슈",
    "maker": "gpt"
@@ -4551,7 +4555,7 @@
    "src_sha1": "2bf400f9e08ef816b3569095639d6e6f97dd1207",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_8jsk01/00_full_name_8jsk01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "히가시카타 죠스케(8부)",
    "maker": "gpt"
@@ -4566,7 +4570,7 @@
    "src_sha1": "b58ed676e080f76de2d32c1de8f12d03c0fa6585",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_99ran01/00_full_name_99ran01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "???",
    "maker": "gpt"
@@ -4581,7 +4585,7 @@
    "src_sha1": "40bc0c13bb3b71185cd9f620b77aa8964a431700",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_bdio01/00_full_name_bdio01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "천국에 도달한 DIO",
    "maker": "gpt"
@@ -4596,7 +4600,7 @@
    "src_sha1": "40bc0c13bb3b71185cd9f620b77aa8964a431700",
    "category": "캐릭터 이름",
    "png": "ui/name/full_name/jpn/full_name_bdio02/00_full_name_bdio02.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "천국에 도달한 DIO",
    "maker": "gpt"
@@ -4611,7 +4615,7 @@
    "src_sha1": "251c384d6703c82cba22d3395643de5d1f274af4",
    "category": "UI 메뉴",
    "png": "ui/online/jpn/online_txt/00_tex00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "준비 중\n준비 OK!",
    "maker": "auto"
@@ -4717,7 +4721,7 @@
    "src_sha1": "e776c2c91f86a718bb47ef4ab4b45c91a9c13e2a",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/01_shop_item_sub_art.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "아트 소재",
    "maker": "auto"
@@ -4745,7 +4749,7 @@
    "src_sha1": "ed40bcfc39512cd48d96f3d20b51299e3a479596",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/03_shop_item_sub_card_appeal.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "플레이어 카드　명언",
    "maker": "auto"
@@ -4760,7 +4764,7 @@
    "src_sha1": "0dcbeac15280f7c53d42f968be7ed4fbf7346ead",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/04_shop_item_sub_card_base.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "플레이어 카드　카드 배경",
    "maker": "auto"
@@ -4775,7 +4779,7 @@
    "src_sha1": "160f4a2d6cabe1ef6035f1cfeb53ce4853a20afc",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/05_shop_item_sub_charamodel.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "캐릭터 모델",
    "maker": "auto"
@@ -4790,7 +4794,7 @@
    "src_sha1": "d08014ff7150c0179922eaa4e32b955c8c6f1891",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/06_shop_item_sub_color.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "추가 컬러",
    "maker": "auto"
@@ -4805,7 +4809,7 @@
    "src_sha1": "36e4271d2d5707291686846e22e1e643da1af628",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/07_shop_item_sub_dualcombo.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "듀얼 콤보 포즈",
    "maker": "auto"
@@ -4820,7 +4824,7 @@
    "src_sha1": "544f037a8ad0709eb65b2a7cb06f89d0ee286a75",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/08_shop_item_sub_gion.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "추가 의성어",
    "maker": "auto"
@@ -4835,7 +4839,7 @@
    "src_sha1": "153e051b3f057fbfb46118e6c6e6a9189bb4970f",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/09_shop_item_sub_serif.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "추가 대사",
    "maker": "auto"
@@ -4850,7 +4854,7 @@
    "src_sha1": "9cceb722813e8f8544e76e5c21d78fad3f67120b",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/10_shop_item_sub_singlecombo.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "싱글 콤보 포즈",
    "maker": "auto"
@@ -4865,7 +4869,7 @@
    "src_sha1": "851491e719b40e75ea4c4850934cd6c7ee713115",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/11_shop_item_sub_special.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "스페셜 코스튬",
    "maker": "auto"
@@ -4880,7 +4884,7 @@
    "src_sha1": "147bdd79571f524fe309752b334dd46fd476e05a",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/12_shop_item_sub_supportitem.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "배틀 서포트 아이템",
    "maker": "auto"
@@ -4908,7 +4912,7 @@
    "src_sha1": "a8b48e429dee55b17b0f835cbd4a1e92ee46736c",
    "category": "UI 메뉴",
    "png": "ui/shop/jpn/shop_txt/14_shop_item_sub_win.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "승리 포즈",
    "maker": "auto"
@@ -4936,7 +4940,7 @@
    "src_sha1": "7e9e6881f99a8cd36b83dc91f62cca3b91bad40e",
    "category": "UI 메뉴",
    "png": "ui/supportitem_menu/jpn/supportitem_menu_txt/00_supportitem_menu_status_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "사용 중\n사용 불가",
    "maker": "auto"
@@ -4951,7 +4955,7 @@
    "src_sha1": "dc5ac52100055842f462c92cad501044671c12d1",
    "category": "UI 메뉴",
    "png": "ui/supportitem_menu/jpn/supportitem_menu_txt/01_supportitem_menu_target_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "아군 전체\n적 전체",
    "maker": "auto"
@@ -4966,7 +4970,7 @@
    "src_sha1": "30fce3b89ab7b41c1cc8801be81408def19dfbba",
    "category": "UI 메뉴",
    "png": "ui/supportitem_menu/jpn/supportitem_menu_txt/02_supportitem_menu_title_txt.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "ko": "서포트 아이템 사용",
    "maker": "gpt",
@@ -4982,7 +4986,7 @@
    "src_sha1": "4d38869b161b2397c9bfe6a52a484099fa919fa1",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_00/00_tips_customize_00_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "캐릭터 편집\n듀얼 콤보·승리 세트 편집\n프리셋 편집\n듀얼 콤보·승리 연출 시 캐릭터의 포즈와 대사·의성어를 설정합니다."
@@ -4997,7 +5001,7 @@
    "src_sha1": "50803ce1d7851da6d0c13106334636d0c7a72697",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_00/01_tips_customize_00_01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "캐릭터 편집\n듀얼 콤보·승리 세트 편집\n프리셋 편집\n캐릭터의 코스튬·컬러·듀얼 콤보·승리 세트 프리셋 리스트를 작성·관리합니다."
@@ -5012,7 +5016,7 @@
    "src_sha1": "5d7f1aad38ba31861ced6a52091cb3e1e7117cc6",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_01/00_tips_customize_01_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "듀얼 콤보·승리 세트 편집\n쿠죠 죠타로"
@@ -5040,7 +5044,7 @@
    "src_sha1": "1920d56f836598f662a5ea6da1cc292c51c0291e",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_02/00_tips_customize_02_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "프리셋 편집"
@@ -5068,7 +5072,7 @@
    "src_sha1": "9b5bc86434b3d1120a9aa2cb39968e05c13c8650",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_03/00_tips_customize_03_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "플레이어 카드 편집\n쿠죠 죠타로\n이거 참 골치 아프군\n승리 수\n패배 수\n대전 수\n총 플레이 시간\n끊김 횟수\n죠죠리티\n…을 선택해 주십시오."
@@ -5083,7 +5087,7 @@
    "src_sha1": "8fbd0600c499ca49739747a22058f13772ba3147",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_03/01_tips_customize_03_01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "플레이어 카드 편집"
@@ -5098,7 +5102,7 @@
    "src_sha1": "8e84525de4ea43a7f009f0ab5f1da19f0af4b841",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_04/00_tips_customize_04_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "플레이어 카드 편집\n스타더스트 크루세이더즈"
@@ -5113,7 +5117,7 @@
    "src_sha1": "0521c4b83b339cc0af480678a4fe1a4e5fad441d",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_05/00_tips_customize_05_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "플레이어 카드 편집\n팬텀 블러드\n전투조류\n스타더스트 크루세이더즈\n다이아몬드는 부서지지 않는다\n황금의 바람\n스톤 오션\n스틸 볼 런\n죠죠리온\n캐릭터의 카드 배경을 선택해 주십시오."
@@ -5128,7 +5132,7 @@
    "src_sha1": "ffac6a0c16ece5e6cf4e03b7aa1c31197e2f180c",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_07/00_tips_customize_07_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "전체\n승률\n승률\n승률\n승률\n죠죠리티\n죠죠리티\n죠죠리티\n죠죠리티\n잠금 수\n열람할 트레이드 카드를 선택해 주십시오."
@@ -5143,7 +5147,7 @@
    "src_sha1": "c5c9bd285045d77dccb8ed267e1cd43864f48319",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_07/01_tips_customize_07_01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "전체\n승률\n승률\n승률\n승률\n죠죠리티\n죠죠리티\n죠죠리티\n죠죠리티\n잠금 수\n열람할 트레이드 카드를 선택해 주십시오."
@@ -5431,7 +5435,7 @@
    "src_sha1": "32697b488f610a17398dad38c3ecb8b3a80040e2",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_00/00_tips_network_00_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "온라인 배틀\n플레이어 매치\n랭크 매치"
@@ -5446,7 +5450,7 @@
    "src_sha1": "a999fb9a8c256aa88431a14bac33209c9b5177c3",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_01/00_tips_network_01_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "온라인 배틀\n플레이어 매치\n싱글 플레이(VS 1USER)\n더블 플레이(VS 2USER)"
@@ -5474,7 +5478,7 @@
    "src_sha1": "79a62b682cf5cdaf6e78778895dd7689d14cc6f7",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_02/00_tips_network_02_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "퀵 매치\n커스텀 매치\n크리에이트 매치"
@@ -5489,7 +5493,7 @@
    "src_sha1": "f1197ca39ba1411babe0c05135ac9f84dff4e45d",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_02/01_tips_network_02_01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "플레이어 매치\n참가자 1/2\n대전 수\n승패 수\n끊김 횟수\n죠죠리티"
@@ -5504,7 +5508,7 @@
    "src_sha1": "e0e141fc575a3d162bdaea056097b400f36f43c3",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_02/02_tips_network_03_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "플레이어 매치"
@@ -5519,7 +5523,7 @@
    "src_sha1": "ebe3eeb5efca4936e5384a0fd77f66a0562176de",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_02/03_tips_network_03_01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "플레이어 매치\n참가자 1/4\n죠죠리티"
@@ -5534,7 +5538,7 @@
    "src_sha1": "c53fb343783663db4af161275a51d2ac8a194884",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_04/00_tips_network_04_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "커스텀 매치\n지역\n같은 지역\n배틀 타임\n지정 안 함\n상대의 강함\n상관없음"
@@ -5549,7 +5553,7 @@
    "src_sha1": "bf0068814fba166bc1542b7f6f4d1fc250d75a21",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_05/00_tips_network_05_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "세션 목록"
@@ -5564,7 +5568,7 @@
    "src_sha1": "105ddc0cc84ced5f51045f906d6c8c960b1a0df8",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_06/00_tips_network_06_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "크리에이트 매치\n지역\n같은 지역\n팀 배정\n셔플\n세션 타입\n퍼블릭\n배틀 타임"
@@ -5579,7 +5583,7 @@
    "src_sha1": "4c0737f727ee1c0d6b6b59c10374f01fdc7ae9de",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_07/00_tips_network_07_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "BP 랭킹"
@@ -5594,7 +5598,7 @@
    "src_sha1": "4c0737f727ee1c0d6b6b59c10374f01fdc7ae9de",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_07/01_tips_network_07_01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "BP 랭킹"
@@ -5765,7 +5769,7 @@
    "src_sha1": "532a1724529edf1c2f11cf042e4aef8263ed7137",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_02/00_tips_story_02_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "공격: 파괴한다"
@@ -5832,7 +5836,7 @@
    "src_sha1": "5a71c2c2b98a95007f7e6ed637180eda9a38f20a",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_04/00_tips_story_04_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "어빌리티 트리"
@@ -5847,7 +5851,7 @@
    "src_sha1": "63bf1cf73703a17d7714e807fb83c1d90ceadf51",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_04/01_tips_story_04_01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "어빌리티 트리"
@@ -5862,7 +5866,7 @@
    "src_sha1": "b07b363c1fdeec3ebd1e770e6ce7c33128c90200",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_05/00_tips_story_05_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "신뢰도"
@@ -5890,7 +5894,7 @@
    "src_sha1": "b15f2cf560e6e288093e75f9ca57881673949f72",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_06/00_tips_story_06_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "스테이지 이동\n카이로 시가지 옥상\n콜로세움\n카이로 시가지 옥상\n콜로세움"
@@ -5931,7 +5935,7 @@
    "src_sha1": "94af428b07ddfed8001988e3864500c57b325688",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_07/02_tips_story_07_02.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "서포트 아이템 사용"
@@ -5946,7 +5950,7 @@
    "src_sha1": "3c18fddc032f5d645ad218d9b3676ba1fd133fa2",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_09/00_tips_story_09_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "재도전\n캐릭터 선택으로\n모드 선택으로"
@@ -5961,7 +5965,7 @@
    "src_sha1": "3c18fddc032f5d645ad218d9b3676ba1fd133fa2",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_09/01_tips_story_09_01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "재도전\n캐릭터 선택으로\n모드 선택으로"
@@ -5976,7 +5980,7 @@
    "src_sha1": "806c69378b088bebab4df29608a35e13155cbb8d",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_10/00_tips_story_10_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "불길한 예감이 든다…\n이대로 머무르시겠습니까?\n예\n아니요"
@@ -5991,7 +5995,7 @@
    "src_sha1": "67d7edb948416e8601a542caf4b6e0200908cce6",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_10/01_tips_story_10_01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "강적 출현!!"
@@ -6045,7 +6049,7 @@
    "src_sha1": "513f7d74772f0c7e736efb723be45ad15d7da02b",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_12/00_tips_story_12_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "시련을 기다리는 빛"
@@ -6099,7 +6103,7 @@
    "src_sha1": "443ee07ac2163995640021dc5c82e4741c04935c",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_14/00_tips_story_14_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "맘마미아!"
@@ -6114,7 +6118,7 @@
    "src_sha1": "ef7ddf0078a404953c5b3d3a3feca042e352abf1",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_14/01_tips_story_14_01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "캐릭터 체인지"
@@ -6129,7 +6133,7 @@
    "src_sha1": "55ffdee19670e53e6ae283ebdd2b4ab41e7407d3",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_15/00_tips_story_15_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "붙잡는다"
@@ -6183,7 +6187,7 @@
    "src_sha1": "aaa7e14c4054d88d676c8f5a0d5be5a456f97310",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_16/01_tips_story_16_01.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "소지 칩\n베팅 칩\n속임수 난이도\n속임수 「가」능!"
@@ -6198,7 +6202,7 @@
    "src_sha1": "399583dc5d24cfdaf7869b6192cdc41b33f0ba72",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_16/02_tips_story_16_02.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "레이즈"
@@ -6213,7 +6217,7 @@
    "src_sha1": "9965e4dfb6abac13a06562cbf4799c517cdd0176",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_16/03_tips_story_16_03.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "콜"
@@ -6228,7 +6232,7 @@
    "src_sha1": "ecfbd62ebe639d2e0abcbf951fff76eab45bdc0f",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_16/04_tips_story_16_04.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "죠타로 속임수 발동!\n제한 시간 내에 순서대로 버튼을 누르자!"
@@ -6243,7 +6247,7 @@
    "src_sha1": "63d76da6c01e9661aa681b4dfe3bb3e21dcafccf",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_16/05_tips_story_16_05.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "죠타로 블러프 발동!"
@@ -6284,7 +6288,7 @@
    "src_sha1": "a1853501877c176dc07a79a8aaf07b9c57319775",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_20/00_tips_story_20_00.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "auto",
    "ko": "줄거리"
@@ -6325,7 +6329,7 @@
    "src_sha1": "a134b47236d8fbb47fb7c0865e8bd16ce5739b93",
    "category": "타이틀 로고",
    "png": "ui/title/jpn/title_logo/00_title_logo.png",
-   "state": "needs_review",
+   "state": "done",
    "note": "",
    "maker": "gpt"
   },
@@ -6339,8 +6343,8 @@
    "src_sha1": "e3b4b86720074b117f05aa0b17961d2b6e0dcacf",
    "category": "타이틀 로고",
    "png": "ui/title/jpn/title_txt/00_title_pressstart.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「PRESS ANY BUTTON」 영어, 원본 유지 (2026-11-02 사용자 결정)"
   },
   {
    "file": "data/ui/title/jpn/title_txt.xfbin",
@@ -6352,8 +6356,8 @@
    "src_sha1": "06be80d05b3a8f85aa1f45de20d0ffdd68aedd00",
    "category": "타이틀 로고",
    "png": "ui/title/jpn/title_txt/01_title_trademark.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "저작권 표기, 원본 유지 (2026-11-02 사용자 결정)"
   }
  ]
 }

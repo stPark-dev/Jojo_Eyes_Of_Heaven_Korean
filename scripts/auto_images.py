@@ -16,7 +16,7 @@ sys.path.insert(0, str(ROOT / "scripts"))
 import numpy as np  # noqa: E402
 from PIL import Image  # noqa: E402
 
-from eoh import artfit, retext, textart  # noqa: E402
+from eoh import artfit, logoswap, retext, textart  # noqa: E402
 from tip_texts import TIPS  # noqa: E402
 
 MANIFEST = ROOT / "translation/images.json"
@@ -113,6 +113,11 @@ OVERLAYS.update({
                ((228, 54, 500, 91), WHITE, "left", WHITE, _HEAVY),
                ((150, 102, 498, 138), WHITE, "contain", WHITE, _HEAVY)]),
 })
+# Pictures with the title logo baked in: (sx, sy, x, y) of the original logo in them, found by
+# template matching; the Korean title logo replaces it.
+TITLE_LOGO = "ui/title/jpn/title_logo/00_title_logo.png"
+LOGO_SWAPS = {"save/PS3/JP/ICON0/00_ICON0.png": (0.3325, 0.335, 3, 3),
+              "save/PS3/JP/PIC1/00_PIC1.png": (0.605, 0.605, 214, 113)}
 # Layers drawn as the black silhouette of another layer's text, at that layer's placement.
 SILHOUETTES = {"ui/cmn/jpn/cmn_txt/05_tex05.png": "ui/cmn/jpn/cmn_txt/04_tex04.png"}
 
@@ -195,6 +200,9 @@ def main() -> None:
             img, dst = retext.retext(orig, tips, ROUND), OVERLAY_DIR / e["png"]
         elif e["png"] in OVERLAYS:
             img, dst = repaint(orig, e["ko"].split("\n"), OVERLAYS[e["png"]]), OVERLAY_DIR / e["png"]
+        elif e["png"] in LOGO_SWAPS:
+            old, new = (np.asarray(Image.open(d / TITLE_LOGO).convert("RGBA")) for d in (ORIGINALS, KO_DIR))
+            img, dst = logoswap.swap(orig, old, new, *LOGO_SWAPS[e["png"]]), OVERLAY_DIR / e["png"]
         elif e["png"] in SILHOUETTES:
             img = silhouette(e, SILHOUETTES[e["png"]])
         elif e["png"] in LINE_STYLES:
