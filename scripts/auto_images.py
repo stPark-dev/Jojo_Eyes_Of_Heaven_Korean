@@ -11,11 +11,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "src"))
+sys.path.insert(0, str(ROOT / "scripts"))
 
 import numpy as np  # noqa: E402
 from PIL import Image  # noqa: E402
 
-from eoh import artfit, textart  # noqa: E402
+from eoh import artfit, retext, textart  # noqa: E402
+from tip_texts import TIPS  # noqa: E402
 
 MANIFEST = ROOT / "translation/images.json"
 ORIGINALS = ROOT / "work/images"
@@ -145,6 +147,30 @@ def silhouette(entry: dict, ref_png: str) -> np.ndarray:
     return artfit.fit_like(plain, ref, entry["width"], entry["height"], box)
 
 
+def art_piece(png: str, index: int | None) -> np.ndarray:
+    """A finished Korean picture (translation/images_ko), or its index-th line (`ko` lines)."""
+    img = np.asarray(Image.open(KO_DIR / png).convert("RGBA"))
+    if index is None:
+        return artfit._crop(img)
+    entry = next(e for e in json.loads(MANIFEST.read_text("utf-8"))["images"] if e["png"] == png)
+    x0, y0, x1, y1 = artfit.row_boxes(img, count=len(entry["ko"].split("\n")))[index]
+    return img[y0:y1, x0:x1]
+
+
+def tip_items(png: str) -> list[dict] | None:
+    """retext items for a tip screenshot listed in tip_texts.TIPS, else None.
+
+    An `art` option (png, line index or None) becomes that piece of a finished Korean picture."""
+    lines = TIPS.get(Path(png).stem)
+    if lines is None:
+        return None
+    items = [dict(opts, rect=rect, text=text) for rect, text, opts in lines]
+    for item in items:
+        if "art" in item:
+            item["art"] = art_piece(*item["art"])
+    return items
+
+
 def repaint(orig: np.ndarray, lines: list[str], recipe: dict) -> np.ndarray:
     if len(lines) != len(recipe["boxes"]):
         raise SystemExit(f"줄 수 불일치: 한글 {len(lines)}줄, 상자 {len(recipe['boxes'])}개")
@@ -158,11 +184,16 @@ def main() -> None:
     data = json.loads(MANIFEST.read_text("utf-8"))
     pairs = []
     for e in data["images"]:
+        tips = tip_items(e["png"])
+        if tips:  # the lines live in tip_texts.py; images.json keeps a copy for review
+            e["maker"], e["ko"] = "auto", "\n".join(t["text"] for t in tips)
         if e.get("maker") != "auto" or not e.get("ko"):
             continue
         orig = np.asarray(Image.open(ORIGINALS / e["png"]).convert("RGBA"))
         dst = KO_DIR / e["png"]
-        if e["png"] in OVERLAYS:
+        if tips:
+            img, dst = retext.retext(orig, tips, ROUND), OVERLAY_DIR / e["png"]
+        elif e["png"] in OVERLAYS:
             img, dst = repaint(orig, e["ko"].split("\n"), OVERLAYS[e["png"]]), OVERLAY_DIR / e["png"]
         elif e["png"] in SILHOUETTES:
             img = silhouette(e, SILHOUETTES[e["png"]])

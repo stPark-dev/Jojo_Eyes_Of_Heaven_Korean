@@ -4985,8 +4985,10 @@
    "src_sha1": "4d38869b161b2397c9bfe6a52a484099fa919fa1",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_00/00_tips_customize_00_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "캐릭터 편집\n듀얼 콤보·승리 세트 편집\n프리셋 편집\n듀얼 콤보·승리 연출 시 캐릭터의 포즈와 대사·의성어를 설정합니다."
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_customize_00.xfbin",
@@ -4998,8 +5000,10 @@
    "src_sha1": "50803ce1d7851da6d0c13106334636d0c7a72697",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_00/01_tips_customize_00_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "캐릭터 편집\n듀얼 콤보·승리 세트 편집\n프리셋 편집\n캐릭터의 코스튬·컬러·듀얼 콤보·승리 세트 프리셋 리스트를 작성·관리합니다."
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_customize_01.xfbin",
@@ -5011,8 +5015,10 @@
    "src_sha1": "5d7f1aad38ba31861ced6a52091cb3e1e7117cc6",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_01/00_tips_customize_01_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "듀얼 콤보·승리 세트 편집\n쿠죠 죠타로"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_customize_01.xfbin",
@@ -5024,8 +5030,8 @@
    "src_sha1": "0552836c1fae5094553b90bcff4889fe26c5740a",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_01/01_tips_customize_01_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_customize_02.xfbin",
@@ -5037,8 +5043,10 @@
    "src_sha1": "1920d56f836598f662a5ea6da1cc292c51c0291e",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_02/00_tips_customize_02_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "프리셋 편집"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_customize_02.xfbin",
@@ -5050,8 +5058,8 @@
    "src_sha1": "13821016c9a53b8bc1e42964c3122e58108d2e09",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_02/01_tips_customize_02_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_customize_03.xfbin",
@@ -5063,8 +5071,10 @@
    "src_sha1": "9b5bc86434b3d1120a9aa2cb39968e05c13c8650",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_03/00_tips_customize_03_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "플레이어 카드 편집\n쿠죠 죠타로\n이거 참 골치 아프군\n승리 수\n패배 수\n대전 수\n총 플레이 시간\n끊김 횟수\n죠죠리티\n…을 선택해 주십시오."
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_customize_03.xfbin",
@@ -5076,8 +5086,10 @@
    "src_sha1": "8fbd0600c499ca49739747a22058f13772ba3147",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_03/01_tips_customize_03_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "플레이어 카드 편집"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_customize_04.xfbin",
@@ -5089,8 +5101,10 @@
    "src_sha1": "8e84525de4ea43a7f009f0ab5f1da19f0af4b841",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_04/00_tips_customize_04_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "플레이어 카드 편집\n스타더스트 크루세이더즈"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_customize_05.xfbin",
@@ -5102,8 +5116,10 @@
    "src_sha1": "0521c4b83b339cc0af480678a4fe1a4e5fad441d",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_05/00_tips_customize_05_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "플레이어 카드 편집\n팬텀 블러드\n전투조류\n스타더스트 크루세이더즈\n다이아몬드는 부서지지 않는다\n황금의 바람\n스톤 오션\n스틸 볼 런\n죠죠리온\n캐릭터의 카드 배경을 선택해 주십시오."
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_customize_07.xfbin",
@@ -5115,8 +5131,10 @@
    "src_sha1": "ffac6a0c16ece5e6cf4e03b7aa1c31197e2f180c",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_07/00_tips_customize_07_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "전체\n승률\n승률\n승률\n승률\n죠죠리티\n죠죠리티\n죠죠리티\n죠죠리티\n잠금 수\n열람할 트레이드 카드를 선택해 주십시오."
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_customize_07.xfbin",
@@ -5128,8 +5146,10 @@
    "src_sha1": "c5c9bd285045d77dccb8ed267e1cd43864f48319",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_customize_07/01_tips_customize_07_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "전체\n승률\n승률\n승률\n승률\n죠죠리티\n죠죠리티\n죠죠리티\n죠죠리티\n잠금 수\n열람할 트레이드 카드를 선택해 주십시오."
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq01.xfbin",
@@ -5141,8 +5161,8 @@
    "src_sha1": "67702470753ae0e1575bff292f52c41c171da2b9",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq01/00_tips_dlcq01_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq01.xfbin",
@@ -5154,8 +5174,8 @@
    "src_sha1": "05d7b864a632102af4a760795b24926174e4434b",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq01/01_tips_dlcq01_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq02.xfbin",
@@ -5167,8 +5187,8 @@
    "src_sha1": "adaa0377ab496118fba6c32a45389273d7b09627",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq02/00_tips_dlcq02_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq02.xfbin",
@@ -5180,8 +5200,8 @@
    "src_sha1": "4f0bf50b5761c5024e6192c3601f807cf0a3b43d",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq02/01_tips_dlcq02_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq03.xfbin",
@@ -5193,8 +5213,8 @@
    "src_sha1": "b459f9bc1f5df11da65959e445e022c4370c2c1a",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq03/00_tips_dlcq03_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq03.xfbin",
@@ -5206,8 +5226,8 @@
    "src_sha1": "cabbe5512a32a89e1052f143d1a6937dc92475dc",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq03/01_tips_dlcq03_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq04.xfbin",
@@ -5219,8 +5239,8 @@
    "src_sha1": "daa86a721acb1ce6e5cdfdfb189b427733a6e685",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq04/00_tips_dlcq04_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq04.xfbin",
@@ -5232,8 +5252,8 @@
    "src_sha1": "63dd8c3d2bc97ed5d162838801bff388ec671291",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq04/01_tips_dlcq04_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq05.xfbin",
@@ -5245,8 +5265,8 @@
    "src_sha1": "e1e1f9a5b0faddbf2f3f30ab88cc18625daf8070",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq05/00_tips_dlcq05_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq05.xfbin",
@@ -5258,8 +5278,8 @@
    "src_sha1": "14ea7636817768c7094f2367982171fe4121cfb4",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq05/01_tips_dlcq05_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq06.xfbin",
@@ -5271,8 +5291,8 @@
    "src_sha1": "815259f6a768fe563f07b6e150b96304edf06f29",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq06/00_tips_dlcq06_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq06.xfbin",
@@ -5284,8 +5304,8 @@
    "src_sha1": "e9a45d070a33cd664286bf0d3f3cc2cf7ecfcb44",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq06/01_tips_dlcq06_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq07.xfbin",
@@ -5297,8 +5317,8 @@
    "src_sha1": "1112e58ef5038660882f90102a3247b515043da1",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq07/00_tips_dlcq07_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq07.xfbin",
@@ -5310,8 +5330,8 @@
    "src_sha1": "51d0c5047bf6b951d5ff189d783026d0aaa3143a",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq07/01_tips_dlcq07_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq08.xfbin",
@@ -5323,8 +5343,8 @@
    "src_sha1": "d67b9688da341de04dbed14a560ac7ae22c43452",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq08/00_tips_dlcq08_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq08.xfbin",
@@ -5336,8 +5356,8 @@
    "src_sha1": "585395f82eda8b61f575c1e7b19f5ed2402250c1",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq08/01_tips_dlcq08_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq09.xfbin",
@@ -5349,8 +5369,8 @@
    "src_sha1": "da833962c5049d13c55f4a78ffcfee4d4577b331",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq09/00_tips_dlcq09_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq09.xfbin",
@@ -5362,8 +5382,8 @@
    "src_sha1": "028d7de7f890eb5759dd358410d6125aa546c576",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq09/01_tips_dlcq09_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq10.xfbin",
@@ -5375,8 +5395,8 @@
    "src_sha1": "2fd1e2f6d4fc504d0ff93880d6c71ae515c65ea3",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq10/00_tips_dlcq10_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_dlcq10.xfbin",
@@ -5388,8 +5408,8 @@
    "src_sha1": "4a6ac90c4e11408f77436ffc0bb2d95baecf2307",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_dlcq10/01_tips_dlcq10_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_freebattle_00.xfbin",
@@ -5401,8 +5421,8 @@
    "src_sha1": "6835dda751c9c6a779de53da577ef77b86ae8ab9",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_freebattle_00/00_tips_freebattle_00_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_network_00.xfbin",
@@ -5414,8 +5434,10 @@
    "src_sha1": "32697b488f610a17398dad38c3ecb8b3a80040e2",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_00/00_tips_network_00_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "온라인 배틀\n플레이어 매치\n랭크 매치"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_network_01.xfbin",
@@ -5427,8 +5449,10 @@
    "src_sha1": "a999fb9a8c256aa88431a14bac33209c9b5177c3",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_01/00_tips_network_01_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "온라인 배틀\n플레이어 매치\n싱글 플레이(VS 1USER)\n더블 플레이(VS 2USER)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_network_01.xfbin",
@@ -5440,8 +5464,8 @@
    "src_sha1": "9a25644b2981867eb1226b8d07a83852426c3096",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_01/01_tips_network_01_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_network_02.xfbin",
@@ -5453,8 +5477,10 @@
    "src_sha1": "79a62b682cf5cdaf6e78778895dd7689d14cc6f7",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_02/00_tips_network_02_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "퀵 매치\n커스텀 매치\n크리에이트 매치"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_network_02.xfbin",
@@ -5466,8 +5492,10 @@
    "src_sha1": "f1197ca39ba1411babe0c05135ac9f84dff4e45d",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_02/01_tips_network_02_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "플레이어 매치\n참가자 1/2\n대전 수\n승패 수\n끊김 횟수\n죠죠리티"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_network_02.xfbin",
@@ -5479,8 +5507,10 @@
    "src_sha1": "e0e141fc575a3d162bdaea056097b400f36f43c3",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_02/02_tips_network_03_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "플레이어 매치"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_network_02.xfbin",
@@ -5492,8 +5522,10 @@
    "src_sha1": "ebe3eeb5efca4936e5384a0fd77f66a0562176de",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_02/03_tips_network_03_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "플레이어 매치\n참가자 1/4\n죠죠리티"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_network_04.xfbin",
@@ -5505,8 +5537,10 @@
    "src_sha1": "c53fb343783663db4af161275a51d2ac8a194884",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_04/00_tips_network_04_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "커스텀 매치\n지역\n같은 지역\n배틀 타임\n지정 안 함\n상대의 강함\n상관없음"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_network_05.xfbin",
@@ -5518,8 +5552,10 @@
    "src_sha1": "bf0068814fba166bc1542b7f6f4d1fc250d75a21",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_05/00_tips_network_05_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "세션 목록"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_network_06.xfbin",
@@ -5531,8 +5567,10 @@
    "src_sha1": "105ddc0cc84ced5f51045f906d6c8c960b1a0df8",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_06/00_tips_network_06_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "크리에이트 매치\n지역\n같은 지역\n팀 배정\n셔플\n세션 타입\n퍼블릭\n배틀 타임"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_network_07.xfbin",
@@ -5544,8 +5582,10 @@
    "src_sha1": "4c0737f727ee1c0d6b6b59c10374f01fdc7ae9de",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_07/00_tips_network_07_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "BP 랭킹"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_network_07.xfbin",
@@ -5557,8 +5597,10 @@
    "src_sha1": "4c0737f727ee1c0d6b6b59c10374f01fdc7ae9de",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_network_07/01_tips_network_07_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "BP 랭킹"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_stg1_00.xfbin",
@@ -5570,8 +5612,8 @@
    "src_sha1": "9540b02150da539932889d66d9e76e8ca10ed796",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_stg1_00/00_tips_stg1_00_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_stg2_00.xfbin",
@@ -5583,8 +5625,8 @@
    "src_sha1": "56f864ea369a8c64211f7b376eada9649914a6c0",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_stg2_00/00_tips_stg2_00_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_stg3_00.xfbin",
@@ -5596,8 +5638,8 @@
    "src_sha1": "9a5f425f54a71ac086da40263163c41208ce20ab",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_stg3_00/00_tips_stg3_00_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_stg3_01.xfbin",
@@ -5609,8 +5651,8 @@
    "src_sha1": "c2d9b67e1f90811be88ab812d0fe8d37d9d0ccf0",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_stg3_01/00_tips_stg3_01_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_stg4_00.xfbin",
@@ -5622,8 +5664,8 @@
    "src_sha1": "79a4449a4b7732c7737789b94f11b18633edaa15",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_stg4_00/00_tips_stg4_00_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_stg4_01.xfbin",
@@ -5635,8 +5677,8 @@
    "src_sha1": "bc3357078bf034693a37a9ab511b59b27c504b67",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_stg4_01/00_tips_stg4_01_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_stg5_00.xfbin",
@@ -5648,8 +5690,8 @@
    "src_sha1": "90e2951216861185e48acc6ced82c96e536da2bb",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_stg5_00/00_tips_stg5_00_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_stg5_01.xfbin",
@@ -5661,8 +5703,8 @@
    "src_sha1": "c4d795be1901c5a23a4317b810def612ff2b9687",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_stg5_01/00_tips_stg5_01_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_stg6_00.xfbin",
@@ -5674,8 +5716,8 @@
    "src_sha1": "5c21e01aadcd46e7d8d5630a4e9191d65675756b",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_stg6_00/00_tips_stg6_00_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_stg6_01.xfbin",
@@ -5687,8 +5729,8 @@
    "src_sha1": "5456faaa04ee42b4643c3241197e20e889bfedaf",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_stg6_01/00_tips_stg6_01_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_stg7_00.xfbin",
@@ -5700,8 +5742,8 @@
    "src_sha1": "87bf080cd59807d758d6d7d649a5cfcb476dbe00",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_stg7_00/00_tips_stg7_00_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_stg8_00.xfbin",
@@ -5713,8 +5755,8 @@
    "src_sha1": "d141ab37fb1a0930d1705797d4eaad565f137c67",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_stg8_00/00_tips_stg8_00_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_02.xfbin",
@@ -5726,8 +5768,10 @@
    "src_sha1": "532a1724529edf1c2f11cf042e4aef8263ed7137",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_02/00_tips_story_02_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "공격: 파괴한다"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_02.xfbin",
@@ -5739,8 +5783,8 @@
    "src_sha1": "ecdcfee7605b0089ff087e4c857e2fd9063df0b9",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_02/01_tips_story_02_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_02.xfbin",
@@ -5752,8 +5796,8 @@
    "src_sha1": "c9ca3e7d213f1fed738cb49485eceb9ba654ca69",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_02/02_tips_story_02_02.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_03.xfbin",
@@ -5765,8 +5809,8 @@
    "src_sha1": "2a0b4e44466294e33bf07904c938d89ebfc1acbf",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_03/00_tips_story_03_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "작은 글자만 있음(256px에서 판독 어려움) — 덧씌우기 생략 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_03.xfbin",
@@ -5778,8 +5822,8 @@
    "src_sha1": "362fe329c990f84fc8dd2f29c356df6c9fc718fa",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_03/01_tips_story_03_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "작은 글자만 있음(256px에서 판독 어려움) — 덧씌우기 생략 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_04.xfbin",
@@ -5791,8 +5835,10 @@
    "src_sha1": "5a71c2c2b98a95007f7e6ed637180eda9a38f20a",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_04/00_tips_story_04_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "어빌리티 트리"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_04.xfbin",
@@ -5804,8 +5850,10 @@
    "src_sha1": "63bf1cf73703a17d7714e807fb83c1d90ceadf51",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_04/01_tips_story_04_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "어빌리티 트리"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_05.xfbin",
@@ -5817,8 +5865,10 @@
    "src_sha1": "b07b363c1fdeec3ebd1e770e6ce7c33128c90200",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_05/00_tips_story_05_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "신뢰도"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_05.xfbin",
@@ -5830,8 +5880,8 @@
    "src_sha1": "a59f3322e4e808b158f9daf067ad34ffb7fa8c1a",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_05/01_tips_story_05_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "「仮画像」 임시 그림 — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_06.xfbin",
@@ -5843,8 +5893,10 @@
    "src_sha1": "b15f2cf560e6e288093e75f9ca57881673949f72",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_06/00_tips_story_06_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "스테이지 이동\n카이로 시가지 옥상\n콜로세움\n카이로 시가지 옥상\n콜로세움"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_07.xfbin",
@@ -5856,8 +5908,8 @@
    "src_sha1": "9b75241885441bde59b3143b7f3c3be0a15ce0e8",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_07/00_tips_story_07_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "작은 글자만 있음(256px에서 판독 어려움) — 덧씌우기 생략 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_07.xfbin",
@@ -5869,8 +5921,8 @@
    "src_sha1": "a54c9dbc2f366c9d92d3f6718b62c77240e45a16",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_07/01_tips_story_07_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "작은 글자만 있음(256px에서 판독 어려움) — 덧씌우기 생략 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_07.xfbin",
@@ -5882,8 +5934,10 @@
    "src_sha1": "94af428b07ddfed8001988e3864500c57b325688",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_07/02_tips_story_07_02.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "서포트 아이템 사용"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_09.xfbin",
@@ -5895,8 +5949,10 @@
    "src_sha1": "3c18fddc032f5d645ad218d9b3676ba1fd133fa2",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_09/00_tips_story_09_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "재도전\n캐릭터 선택으로\n모드 선택으로"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_09.xfbin",
@@ -5908,8 +5964,10 @@
    "src_sha1": "3c18fddc032f5d645ad218d9b3676ba1fd133fa2",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_09/01_tips_story_09_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "재도전\n캐릭터 선택으로\n모드 선택으로"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_10.xfbin",
@@ -5921,8 +5979,10 @@
    "src_sha1": "806c69378b088bebab4df29608a35e13155cbb8d",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_10/00_tips_story_10_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "불길한 예감이 든다…\n이대로 머무르시겠습니까?\n예\n아니요"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_10.xfbin",
@@ -5934,8 +5994,10 @@
    "src_sha1": "67d7edb948416e8601a542caf4b6e0200908cce6",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_10/01_tips_story_10_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "강적 출현!!"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_11.xfbin",
@@ -5947,8 +6009,8 @@
    "src_sha1": "ef382fa6b43231ec686b7520e2b918aa3674dc71",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_11/00_tips_story_11_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_11.xfbin",
@@ -5960,8 +6022,8 @@
    "src_sha1": "5915dae0f0f2563d5b572b28fbc148678a6d0845",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_11/01_tips_story_11_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_11.xfbin",
@@ -5973,8 +6035,8 @@
    "src_sha1": "393467bf005b2fb64afe69a18295f290454ce467",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_11/02_tips_story_11_02.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_12.xfbin",
@@ -5986,8 +6048,10 @@
    "src_sha1": "513f7d74772f0c7e736efb723be45ad15d7da02b",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_12/00_tips_story_12_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "시련을 기다리는 빛"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_13.xfbin",
@@ -5999,8 +6063,8 @@
    "src_sha1": "cc51663f8867eec97b748b41d76755c4fb9b4b1a",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_13/00_tips_story_13_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_13.xfbin",
@@ -6012,8 +6076,8 @@
    "src_sha1": "aade75a51d9b81991e7ae4a48dc3c013eb338a9c",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_13/01_tips_story_13_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_13.xfbin",
@@ -6025,8 +6089,8 @@
    "src_sha1": "b3e0e2f54d9f1e1f40bb09fb12c1b51a540a775d",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_13/02_tips_story_13_02.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_14.xfbin",
@@ -6038,8 +6102,10 @@
    "src_sha1": "443ee07ac2163995640021dc5c82e4741c04935c",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_14/00_tips_story_14_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "맘마미아!"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_14.xfbin",
@@ -6051,8 +6117,10 @@
    "src_sha1": "ef7ddf0078a404953c5b3d3a3feca042e352abf1",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_14/01_tips_story_14_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "캐릭터 체인지"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_15.xfbin",
@@ -6064,8 +6132,10 @@
    "src_sha1": "55ffdee19670e53e6ae283ebdd2b4ab41e7407d3",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_15/00_tips_story_15_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "붙잡는다"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_15.xfbin",
@@ -6077,8 +6147,8 @@
    "src_sha1": "a2945e1d78c844c6c3cf462b57181fefc52ee428",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_15/01_tips_story_15_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_15.xfbin",
@@ -6090,8 +6160,8 @@
    "src_sha1": "6b0a3a9f2b1b062205a3d4a9a20761cde5a1161e",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_15/02_tips_story_15_02.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_16.xfbin",
@@ -6103,8 +6173,8 @@
    "src_sha1": "ee67f1b0b13bdbf205b24590322cbc3c6ef1b8f7",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_16/00_tips_story_16_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "작은 글자만 있음(256px에서 판독 어려움) — 덧씌우기 생략 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_16.xfbin",
@@ -6116,8 +6186,10 @@
    "src_sha1": "aaa7e14c4054d88d676c8f5a0d5be5a456f97310",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_16/01_tips_story_16_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "소지 칩\n베팅 칩\n속임수 난이도\n속임수 「가」능!"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_16.xfbin",
@@ -6129,8 +6201,10 @@
    "src_sha1": "399583dc5d24cfdaf7869b6192cdc41b33f0ba72",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_16/02_tips_story_16_02.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "레이즈"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_16.xfbin",
@@ -6142,8 +6216,10 @@
    "src_sha1": "9965e4dfb6abac13a06562cbf4799c517cdd0176",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_16/03_tips_story_16_03.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "콜"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_16.xfbin",
@@ -6155,8 +6231,10 @@
    "src_sha1": "ecfbd62ebe639d2e0abcbf951fff76eab45bdc0f",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_16/04_tips_story_16_04.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "죠타로 속임수 발동!\n제한 시간 내에 순서대로 버튼을 누르자!"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_16.xfbin",
@@ -6168,8 +6246,10 @@
    "src_sha1": "63d76da6c01e9661aa681b4dfe3bb3e21dcafccf",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_16/05_tips_story_16_05.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "죠타로 블러프 발동!"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_19.xfbin",
@@ -6181,8 +6261,8 @@
    "src_sha1": "d0441e5b0e7742d7877df30c7f5f0458c3bb4ea1",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_19/00_tips_story_19_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_19.xfbin",
@@ -6194,8 +6274,8 @@
    "src_sha1": "5e76b527c4dc7abbb929b8768f322a012cefbc68",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_19/01_tips_story_19_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_20.xfbin",
@@ -6207,8 +6287,10 @@
    "src_sha1": "a1853501877c176dc07a79a8aaf07b9c57319775",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_20/00_tips_story_20_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "needs_review",
+   "note": "",
+   "maker": "auto",
+   "ko": "줄거리"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_21.xfbin",
@@ -6220,8 +6302,8 @@
    "src_sha1": "08c9e3b6ab3234cc7ce6bc9609977b0473ef0001",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_21/00_tips_story_21_00.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/tips_cmn/jpn/tips_story_21.xfbin",
@@ -6233,8 +6315,8 @@
    "src_sha1": "5b4e5dba9e54ca0823cf71dbb7c12d6908054151",
    "category": "팁 화면",
    "png": "ui/tips_cmn/jpn/tips_story_21/01_tips_story_21_01.png",
-   "state": "todo",
-   "note": ""
+   "state": "keep_original",
+   "note": "일본어 글자 없음(또는 의성어) — 원본 유지 (2026-11-02)"
   },
   {
    "file": "data/ui/title/jpn/title_logo.xfbin",
