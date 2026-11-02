@@ -1730,10 +1730,9 @@
    "src_sha1": "6e9f7c85c1b99d85a1a9a690f403a11e7c836a71",
    "category": "전투 연출",
    "png": "ui/btl/jpn/btl_startdemo_text/04_btl_startdemo_txt_chapter00.png",
-   "state": "needs_review",
-   "note": "원본 동일(ui/btlsel/vscmn/jpn/vscmn_txt/00_btlcmn_txt_chapter00.png) 결과 복사",
-   "ko": "팬텀 블러드\n전투조류\n스타더스트 크루세이더즈\n다이아몬드는 부서지지 않는다\n황금의 바람\n스톤 오션\n스틸 볼 런\n죠죠리온",
-   "maker": "reuse"
+   "state": "keep_original",
+   "note": "부 로고 — 한글판이 게임에서 깨져 보이고 원작 로고가 낫다는 사용자 결정으로 원본 유지 (2026-11-02)",
+   "ko": "팬텀 블러드\n전투조류\n스타더스트 크루세이더즈\n다이아몬드는 부서지지 않는다\n황금의 바람\n스톤 오션\n스틸 볼 런\n죠죠리온"
   },
   {
    "file": "data/ui/btl/jpn/btl_startdemo_text.xfbin",
@@ -1966,11 +1965,9 @@
    "src_sha1": "6e9f7c85c1b99d85a1a9a690f403a11e7c836a71",
    "category": "UI 메뉴",
    "png": "ui/btlsel/vscmn/jpn/vscmn_txt/00_btlcmn_txt_chapter00.png",
-   "state": "needs_review",
-   "note": "각 줄 왼쪽의 작은 Part 번호와 스틸 볼 런의 영어 로고(STEEL BALL RUN)는 그대로",
-   "ko": "팬텀 블러드\n전투조류\n스타더스트 크루세이더즈\n다이아몬드는 부서지지 않는다\n황금의 바람\n스톤 오션\n스틸 볼 런\n죠죠리온",
-   "maker": "gpt",
-   "gpt_group": "단독"
+   "state": "keep_original",
+   "note": "부 로고 — 한글판이 게임에서 깨져 보이고 원작 로고가 낫다는 사용자 결정으로 원본 유지 (2026-11-02)",
+   "ko": "팬텀 블러드\n전투조류\n스타더스트 크루세이더즈\n다이아몬드는 부서지지 않는다\n황금의 바람\n스톤 오션\n스틸 볼 런\n죠죠리온"
   },
   {
    "file": "data/ui/btlsel/vscmn/jpn/vscmn_txt.xfbin",
